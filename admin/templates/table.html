@@ -1,0 +1,160 @@
+{% extends "base.html" %}
+{% block title %}{{ table_name }} – Football Vault{% endblock %}
+{% block content %}
+<div class="d-flex justify-content-between align-items-center mb-3">
+  <h2>{{ table_name }} <small class="text-muted fs-6">({{ total }} records)</small></h2>
+  <a href="{{ url_for('add_record', table_name=table_name) }}" class="btn btn-success">+ Add Record</a>
+</div>
+
+<form method="get" class="mb-3">
+  <div class="input-group" style="max-width:400px">
+    <input type="text" class="form-control" name="q" value="{{ search }}" placeholder="Search…">
+    <button class="btn btn-outline-secondary" type="submit">Search</button>
+    {% if search %}
+      <a href="{{ url_for('table_list', table_name=table_name) }}" class="btn btn-outline-danger">Clear</a>
+    {% endif %}
+  </div>
+</form>
+
+<div class="table-responsive">
+  <table class="table table-hover table-sm">
+    <thead>
+      <tr>
+        {% for c in columns %}
+        <th>{{ c.name }}{% if c.name in fks %} <span class="badge text-bg-info fk-badge">FK</span>{% endif %}</th>
+        {% endfor %}
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for row in rows %}
+      <tr data-id="{{ row['id'] }}">
+        {% for c in columns %}
+        <td class="{{ 'wrap' if c.name in ('address','coordinates','url','bbc_url') else '' }}"
+            {% if c.name != 'id' %}data-col="{{ c.name }}"{% endif %}
+            data-raw="{{ row[c.name] if row[c.name] is not none else '' }}">
+          <span class="cell-display"
+            {%- if c.name != 'id' %} ondblclick="inlineEdit(this)"{% endif %}>
+          {%- if c.name in fks and row[c.name] is not none -%}
+            {{ fk_display.get(c.name, {}).get(row[c.name], row[c.name]) }}
+            <span class="text-muted fk-badge">({{ row[c.name] }})</span>
+          {%- elif c.name in ('colour1','colour2','colour3') and row[c.name] -%}
+            <span class="colour-swatch" style="background:{{ row[c.name] }}"></span> {{ row[c.name] }}
+          {%- else -%}
+            {{ row[c.name] if row[c.name] is not none else '' }}
+          {%- endif -%}
+          </span>
+        </td>
+        {% endfor %}
+        <td class="text-nowrap">
+          <a href="{{ url_for('edit_record', table_name=table_name, record_id=row['id']) }}" class="btn btn-sm btn-outline-warning">Edit</a>
+          <a href="{{ url_for('delete_record', table_name=table_name, record_id=row['id']) }}" class="btn btn-sm btn-outline-danger">Del</a>
+        </td>
+      </tr>
+      {% else %}
+      <tr><td colspan="{{ columns|length + 1 }}" class="text-center text-muted">No records found.</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% if total_pages > 1 %}
+<nav>
+  <ul class="pagination justify-content-center">
+    <li class="page-item {% if page <= 1 %}disabled{% endif %}">
+      <a class="page-link" href="{{ url_for('table_list', table_name=table_name, page=page-1, q=search) }}">Prev</a>
+    </li>
+    {% for p in range(1, total_pages + 1) %}
+      {% if p == page %}
+        <li class="page-item active"><span class="page-link">{{ p }}</span></li>
+      {% elif p <= 3 or p >= total_pages - 2 or (p >= page - 2 and p <= page + 2) %}
+        <li class="page-item"><a class="page-link" href="{{ url_for('table_list', table_name=table_name, page=p, q=search) }}">{{ p }}</a></li>
+      {% elif p == 4 or p == total_pages - 3 %}
+        <li class="page-item disabled"><span class="page-link">…</span></li>
+      {% endif %}
+    {% endfor %}
+    <li class="page-item {% if page >= total_pages %}disabled{% endif %}">
+      <a class="page-link" href="{{ url_for('table_list', table_name=table_name, page=page+1, q=search) }}">Next</a>
+    </li>
+  </ul>
+</nav>
+{% endif %}
+
+<a href="{{ url_for('index') }}" class="btn btn-outline-secondary mt-2">← Back to Dashboard</a>
+
+<script>
+const TABLE = '{{ table_name }}';
+const FK_OPTIONS = {{ fk_options_json | safe }};
+
+function inlineEdit(span) {
+  const td = span.parentElement;
+  const col = td.dataset.col;
+  const raw = td.dataset.raw;
+  const rowId = td.parentElement.dataset.id;
+  if (!col) return;
+
+  // Already editing
+  if (td.querySelector('input, select')) return;
+
+  span.style.display = 'none';
+
+  let input;
+  if (FK_OPTIONS[col]) {
+    input = document.createElement('select');
+    input.className = 'form-select form-select-sm';
+    const none = document.createElement('option');
+    none.value = ''; none.textContent = '— None —';
+    input.appendChild(none);
+    FK_OPTIONS[col].forEach(([id, label]) => {
+      const opt = document.createElement('option');
+      opt.value = id; opt.textContent = label + ' (' + id + ')';
+      if (String(id) === String(raw)) opt.selected = true;
+      input.appendChild(opt);
+    });
+  } else {
+    input = document.createElement('input');
+    input.type = 'text';
+    input.className = 'form-control form-control-sm';
+    input.value = raw;
+  }
+
+  function commit() {
+    const val = input.value;
+    fetch('/api/table/' + TABLE + '/update', {
+      method: 'POST',
+      headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({id: rowId, column: col, value: val})
+    })
+    .then(r => r.json())
+    .then(data => {
+      if (data.error) { alert(data.error); cancel(); return; }
+      td.dataset.raw = val;
+      if (data.display && val) {
+        span.innerHTML = data.display + ' <span class="text-muted fk-badge">(' + val + ')</span>';
+      } else if (['colour1','colour2','colour3'].includes(col) && val) {
+        span.innerHTML = '<span class="colour-swatch" style="background:' + val + '"></span> ' + val;
+      } else {
+        span.textContent = val;
+      }
+      span.style.display = '';
+      input.remove();
+    })
+    .catch(() => cancel());
+  }
+
+  function cancel() {
+    span.style.display = '';
+    input.remove();
+  }
+
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Enter') { e.preventDefault(); commit(); }
+    if (e.key === 'Escape') cancel();
+  });
+  input.addEventListener('blur', () => setTimeout(commit, 150));
+
+  td.appendChild(input);
+  input.focus();
+}
+</script>
+{% endblock %}
