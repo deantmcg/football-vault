@@ -20,6 +20,7 @@
   <table class="table table-hover table-sm">
     <thead>
       <tr>
+        <th><input type="checkbox" id="select-all" title="Select all"></th>
         {% for c in columns %}
         <th>{{ c.name }}{% if c.name in fks %} <span class="badge text-bg-info fk-badge">FK</span>{% endif %}</th>
         {% endfor %}
@@ -29,6 +30,7 @@
     <tbody>
       {% for row in rows %}
       <tr data-id="{{ row['id'] }}">
+        <td><input type="checkbox" class="row-check" value="{{ row['id'] }}"></td>
         {% for c in columns %}
         <td class="{{ 'wrap' if c.name in ('address','coordinates','url','bbc_url') else '' }}"
             {% if c.name != 'id' %}data-col="{{ c.name }}"{% endif %}
@@ -52,7 +54,7 @@
         </td>
       </tr>
       {% else %}
-      <tr><td colspan="{{ columns|length + 1 }}" class="text-center text-muted">No records found.</td></tr>
+      <tr><td colspan="{{ columns|length + 2 }}" class="text-center text-muted">No records found.</td></tr>
       {% endfor %}
     </tbody>
   </table>
@@ -81,6 +83,24 @@
 {% endif %}
 
 <a href="{{ url_for('index') }}" class="btn btn-outline-secondary mt-2">← Back to Dashboard</a>
+
+<!-- Bulk edit bar -->
+<div id="bulk-bar" class="position-fixed bottom-0 start-50 translate-middle-x mb-3 p-3 rounded-3 shadow-lg d-none"
+     style="background:#16213e; border:1px solid #0f3460; z-index:1050; min-width:500px">
+  <div class="d-flex align-items-center gap-2">
+    <span id="bulk-count" class="badge bg-primary fs-6">0</span>
+    <span class="text-light">selected</span>
+    <select id="bulk-col" class="form-select form-select-sm" style="width:auto">
+      <option value="">Column…</option>
+      {% for c in columns if c.name != 'id' %}
+      <option value="{{ c.name }}">{{ c.name }}</option>
+      {% endfor %}
+    </select>
+    <div id="bulk-value-wrap"></div>
+    <button id="bulk-apply" class="btn btn-sm btn-warning" disabled>Apply</button>
+    <button id="bulk-clear" class="btn btn-sm btn-outline-secondary">Clear</button>
+  </div>
+</div>
 
 <script>
 const TABLE = '{{ table_name }}';
@@ -156,5 +176,103 @@ function inlineEdit(span) {
   td.appendChild(input);
   input.focus();
 }
+
+// ── Bulk selection & edit ─────────────────────────────────────────────────────
+const selAll = document.getElementById('select-all');
+const bulkBar = document.getElementById('bulk-bar');
+const bulkCount = document.getElementById('bulk-count');
+const bulkCol = document.getElementById('bulk-col');
+const bulkValueWrap = document.getElementById('bulk-value-wrap');
+const bulkApply = document.getElementById('bulk-apply');
+const bulkClear = document.getElementById('bulk-clear');
+
+function getChecked() {
+  return [...document.querySelectorAll('.row-check:checked')].map(cb => cb.value);
+}
+
+function updateBulkBar() {
+  const ids = getChecked();
+  if (ids.length > 0) {
+    bulkBar.classList.remove('d-none');
+    bulkCount.textContent = ids.length;
+  } else {
+    bulkBar.classList.add('d-none');
+  }
+}
+
+document.querySelectorAll('.row-check').forEach(cb =>
+  cb.addEventListener('change', () => {
+    updateBulkBar();
+    // Update select-all state
+    const all = document.querySelectorAll('.row-check');
+    const checked = document.querySelectorAll('.row-check:checked');
+    selAll.checked = all.length > 0 && checked.length === all.length;
+    selAll.indeterminate = checked.length > 0 && checked.length < all.length;
+  })
+);
+
+selAll.addEventListener('change', () => {
+  document.querySelectorAll('.row-check').forEach(cb => cb.checked = selAll.checked);
+  updateBulkBar();
+});
+
+bulkClear.addEventListener('click', () => {
+  document.querySelectorAll('.row-check').forEach(cb => cb.checked = false);
+  selAll.checked = false;
+  selAll.indeterminate = false;
+  updateBulkBar();
+});
+
+bulkCol.addEventListener('change', () => {
+  const col = bulkCol.value;
+  bulkValueWrap.innerHTML = '';
+  bulkApply.disabled = !col;
+  if (!col) return;
+
+  let input;
+  if (FK_OPTIONS[col]) {
+    input = document.createElement('select');
+    input.className = 'form-select form-select-sm';
+    input.id = 'bulk-value';
+    const none = document.createElement('option');
+    none.value = ''; none.textContent = '— None —';
+    input.appendChild(none);
+    FK_OPTIONS[col].forEach(([id, label]) => {
+      const opt = document.createElement('option');
+      opt.value = id; opt.textContent = label + ' (' + id + ')';
+      input.appendChild(opt);
+    });
+  } else {
+    input = document.createElement('input');
+    input.type = 'text';
+    input.className = 'form-control form-control-sm';
+    input.id = 'bulk-value';
+    input.placeholder = 'New value…';
+  }
+  bulkValueWrap.appendChild(input);
+  input.focus();
+});
+
+bulkApply.addEventListener('click', () => {
+  const ids = getChecked();
+  const col = bulkCol.value;
+  const valEl = document.getElementById('bulk-value');
+  if (!ids.length || !col || !valEl) return;
+
+  const val = valEl.value;
+  if (!confirm('Set ' + col + ' on ' + ids.length + ' row(s)?')) return;
+
+  fetch('/api/table/' + TABLE + '/bulk-update', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({ids: ids, column: col, value: val})
+  })
+  .then(r => r.json())
+  .then(data => {
+    if (data.error) { alert(data.error); return; }
+    location.reload();
+  })
+  .catch(err => alert('Error: ' + err));
+});
 </script>
 {% endblock %}
