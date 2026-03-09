@@ -200,14 +200,25 @@ function updateBulkBar() {
   }
 }
 
-document.querySelectorAll('.row-check').forEach(cb =>
-  cb.addEventListener('change', () => {
+let lastCheckedIndex = null;
+const allChecks = [...document.querySelectorAll('.row-check')];
+
+allChecks.forEach((cb, idx) =>
+  cb.addEventListener('click', (e) => {
+    if (e.shiftKey && lastCheckedIndex !== null) {
+      const from = Math.min(lastCheckedIndex, idx);
+      const to = Math.max(lastCheckedIndex, idx);
+      const state = cb.checked;
+      for (let i = from; i <= to; i++) {
+        allChecks[i].checked = state;
+      }
+    }
+    lastCheckedIndex = idx;
     updateBulkBar();
     // Update select-all state
-    const all = document.querySelectorAll('.row-check');
     const checked = document.querySelectorAll('.row-check:checked');
-    selAll.checked = all.length > 0 && checked.length === all.length;
-    selAll.indeterminate = checked.length > 0 && checked.length < all.length;
+    selAll.checked = allChecks.length > 0 && checked.length === allChecks.length;
+    selAll.indeterminate = checked.length > 0 && checked.length < allChecks.length;
   })
 );
 
