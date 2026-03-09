@@ -387,5 +387,46 @@ def api_inline_update(table_name):
         return {"error": str(e)}, 400
 
 
+@app.route("/api/table/<table_name>/bulk-update", methods=["POST"])
+def api_bulk_update(table_name):
+    if table_name not in TABLE_DISPLAY:
+        return {"error": "Unknown table"}, 400
+
+    data = request.get_json()
+    ids = data.get("ids", [])
+    column = data.get("column")
+    value = data.get("value")
+
+    if not ids or not column:
+        return {"error": "Missing ids or column"}, 400
+
+    columns = get_table_info(table_name)
+    col_names = {c["name"] for c in columns}
+    if column not in col_names or column == "id":
+        return {"error": "Invalid column"}, 400
+
+    if isinstance(value, str) and value.strip() == "":
+        value = None
+
+    # Validate all ids are integers
+    try:
+        ids = [int(i) for i in ids]
+    except (ValueError, TypeError):
+        return {"error": "Invalid ids"}, 400
+
+    db = get_db()
+    try:
+        placeholders = ",".join("?" for _ in ids)
+        db.execute(
+            f"UPDATE [{table_name}] SET [{column}] = ? WHERE id IN ({placeholders})",
+            [value] + ids,
+        )
+        db.commit()
+        return {"ok": True, "count": len(ids)}
+    except Exception as e:
+        db.rollback()
+        return {"error": str(e)}, 400
+
+
 if __name__ == "__main__":
     app.run(debug=True, port=5555)
