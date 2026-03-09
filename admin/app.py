@@ -17,7 +17,7 @@ TABLE_DISPLAY = {
     "Competitions":   "name",
     "Teams":          "name",
     "Matches":        "id",
-    "Lineups":        "id",
+    "LineupPlayers":  "id",
     "PendingScrapes": "id",
 }
 
