@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% block title %}{{ 'Edit' if record else 'Add' }} {{ table_name }} – Football Vault{% endblock %}
+{% block content %}
+<h2>{{ 'Edit' if record else 'Add' }} {{ table_name }}</h2>
+
+<form method="post" class="mt-3" style="max-width:700px">
+  {% for c in columns %}
+    {% if c.name == 'id' %}
+      {% if record %}
+        <div class="mb-3">
+          <label class="form-label text-muted">ID</label>
+          <input type="text" class="form-control" value="{{ record['id'] }}" disabled>
+        </div>
+      {% endif %}
+    {% elif c.name in fks %}
+      <div class="mb-3">
+        <label class="form-label">{{ c.name }}</label>
+        <select name="{{ c.name }}" class="form-select">
+          <option value="">— None —</option>
+          {% for opt_id, opt_label in fk_options.get(c.name, []) %}
+            <option value="{{ opt_id }}" {% if record and record[c.name] == opt_id %}selected{% endif %}>
+              {{ opt_label }} ({{ opt_id }})
+            </option>
+          {% endfor %}
+        </select>
+      </div>
+    {% elif c.name in colour_columns %}
+      <div class="mb-3">
+        <label class="form-label">{{ c.name }}</label>
+        <div class="input-group">
+          <input type="color" class="form-control form-control-color"
+                 id="picker_{{ c.name }}"
+                 value="{{ record[c.name] if record and record[c.name] else '#000000' }}"
+                 oninput="document.getElementById('text_{{ c.name }}').value = this.value">
+          <input type="text" class="form-control" name="{{ c.name }}"
+                 id="text_{{ c.name }}"
+                 value="{{ record[c.name] if record and record[c.name] else '' }}"
+                 placeholder="#rrggbb"
+                 oninput="if(this.value.match(/^#[0-9a-fA-F]{6}$/)) document.getElementById('picker_{{ c.name }}').value = this.value">
+        </div>
+      </div>
+    {% elif 'TEXT' in (c.type|upper) and c.name in ('address', 'coordinates', 'url', 'bbc_url') %}
+      <div class="mb-3">
+        <label class="form-label">{{ c.name }}</label>
+        <textarea name="{{ c.name }}" class="form-control" rows="2">{{ record[c.name] if record and record[c.name] else '' }}</textarea>
+      </div>
+    {% elif 'INT' in (c.type|upper) %}
+      <div class="mb-3">
+        <label class="form-label">{{ c.name }}</label>
+        <input type="number" name="{{ c.name }}" class="form-control"
+               value="{{ record[c.name] if record and record[c.name] is not none else '' }}">
+      </div>
+    {% elif 'DATETIME' in (c.type|upper) %}
+      <div class="mb-3">
+        <label class="form-label">{{ c.name }}</label>
+        <input type="datetime-local" name="{{ c.name }}" class="form-control"
+               value="{{ record[c.name] if record and record[c.name] else '' }}">
+      </div>
+    {% else %}
+      <div class="mb-3">
+        <label class="form-label">{{ c.name }}</label>
+        <input type="text" name="{{ c.name }}" class="form-control"
+               value="{{ record[c.name] if record and record[c.name] else '' }}">
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  <div class="mt-4">
+    <button type="submit" class="btn btn-primary">{{ 'Save Changes' if record else 'Add Record' }}</button>
+    <a href="{{ url_for('table_list', table_name=table_name) }}" class="btn btn-outline-secondary ms-2">Cancel</a>
+  </div>
+</form>
+{% endblock %}

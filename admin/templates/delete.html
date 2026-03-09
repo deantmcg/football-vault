@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Delete {{ table_name }} #{{ record['id'] }} – Football Vault{% endblock %}
+{% block content %}
+<h2 class="text-danger">Delete {{ table_name }} #{{ record['id'] }}?</h2>
+<p>This action cannot be undone.</p>
+
+<div class="card mb-3" style="max-width:700px">
+  <div class="card-body">
+    <dl class="row mb-0">
+      {% for c in columns %}
+      <dt class="col-sm-4">{{ c.name }}</dt>
+      <dd class="col-sm-8">{{ record[c.name] if record[c.name] is not none else '—' }}</dd>
+      {% endfor %}
+    </dl>
+  </div>
+</div>
+
+<form method="post">
+  <button type="submit" class="btn btn-danger">Confirm Delete</button>
+  <a href="{{ url_for('table_list', table_name=table_name) }}" class="btn btn-outline-secondary ms-2">Cancel</a>
+</form>
+{% endblock %}
