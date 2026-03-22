@@ -21,6 +21,11 @@
     .table td.wrap { white-space: normal; max-width: 250px; }
     .fk-badge { font-size: 0.8em; }
     .cell-display { display: block; min-height: 1.4em; cursor: default; }
+    .table-responsive { max-height: 80vh; overflow: auto; }
+    .table thead th { position: sticky; top: 0; z-index: 3; background: #16213e; }
+    .table .col-actions { position: sticky; right: 0; z-index: 1; background: #16213e; }
+    .table thead .col-actions { z-index: 4; }
+    .table-hover > tbody > tr:hover .col-actions { background: #0f3460; }
   </style>
 </head>
 <body>
