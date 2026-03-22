@@ -428,5 +428,70 @@ def api_bulk_update(table_name):
         return {"error": str(e)}, 400
 
 
+@app.route("/api/table/<table_name>/create", methods=["POST"])
+def api_quick_create(table_name):
+    if table_name not in TABLE_DISPLAY:
+        return {"error": "Unknown table"}, 400
+
+    data = request.get_json()
+    fields = data.get("fields", {})
+    if not fields:
+        return {"error": "No fields provided"}, 400
+
+    columns = get_table_info(table_name)
+    col_names_set = {c["name"] for c in columns if c["name"] != "id"}
+
+    col_names = []
+    values = []
+    for k, v in fields.items():
+        if k not in col_names_set:
+            continue
+        col_names.append(k)
+        values.append(v if v != "" else None)
+
+    if not col_names:
+        return {"error": "No valid fields"}, 400
+
+    db = get_db()
+    try:
+        placeholders = ", ".join("?" for _ in col_names)
+        col_sql = ", ".join(f"[{c}]" for c in col_names)
+        cursor = db.execute(
+            f"INSERT INTO [{table_name}] ({col_sql}) VALUES ({placeholders})",
+            values,
+        )
+        db.commit()
+        new_id = cursor.lastrowid
+        display_col = FK_DISPLAY_COL.get(table_name, "id")
+        row = db.execute(
+            f"SELECT [{display_col}] as label FROM [{table_name}] WHERE id=?",
+            (new_id,),
+        ).fetchone()
+        label = row["label"] if row else str(new_id)
+        return {"ok": True, "id": new_id, "label": label}
+    except Exception as e:
+        db.rollback()
+        return {"error": str(e)}, 400
+
+
+@app.route("/api/table/<table_name>/columns")
+def api_table_columns(table_name):
+    if table_name not in TABLE_DISPLAY:
+        return {"error": "Unknown table"}, 400
+    columns = get_table_info(table_name)
+    fks = get_foreign_keys(table_name)
+    result = []
+    for c in columns:
+        if c["name"] == "id":
+            continue
+        col_info = {"name": c["name"], "type": c["type"]}
+        if c["name"] in fks:
+            target_table = fks[c["name"]][0]
+            col_info["fk_table"] = target_table
+            col_info["fk_options"] = [list(pair) for pair in get_fk_options(target_table)]
+        result.append(col_info)
+    return {"columns": result}
+
+
 if __name__ == "__main__":
     app.run(debug=True, port=5555)
