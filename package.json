@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "export-clubs": "node scripts/export-clubs.mjs",
+    "export-matches": "node scripts/export-matches.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
