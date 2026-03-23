@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-02-11",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cly1ydlvjrnt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Stadium of Light",
+  "score": "0 - 1",
+  "homeTeam": {
+    "name": "Sunderland",
+    "code": "sunderland",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 22,
+        "name": "Roefs",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Mukiele",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Ballard",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Alderete",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 17,
+        "name": "Reinildo Mandava",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 27,
+        "name": "Sadiki",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 28,
+        "name": "Le Fée",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 32,
+        "name": "Hume",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 19,
+        "name": "Diarra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Angulo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Brobbey",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Liverpool",
+    "code": "liverpool",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Alisson Becker",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Endo",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Konaté",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "van Dijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 26,
+        "name": "Robertson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 38,
+        "name": "Gravenberch",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Mac Allister",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Mohamed Salah",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 7,
+        "name": "Wirtz",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 18,
+        "name": "Gakpo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 22,
+        "name": "Ekitiké",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

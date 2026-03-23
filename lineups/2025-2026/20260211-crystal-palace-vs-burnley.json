@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-02-11",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c24g4r3d0m6t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Selhurst Park",
+  "score": "2 - 3",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Henderson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 8,
+        "name": "Lerma",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Lacroix",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 26,
+        "name": "Richards",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Muñoz",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 20,
+        "name": "Wharton",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 18,
+        "name": "Kamada",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Mitchell",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Sarr",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 29,
+        "name": "Guessand",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 22,
+        "name": "Strand Larsen",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Dúbravka",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Laurent",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Worrall",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "Ugochukwu",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 28,
+        "name": "Mejbri",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 12,
+        "name": "Humphreys",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 10,
+        "name": "Edwards",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 11,
+        "name": "Anthony",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Flemming",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

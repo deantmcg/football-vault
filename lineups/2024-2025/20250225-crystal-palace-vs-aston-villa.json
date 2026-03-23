@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-02-25",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c2kgd9q4jnxt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Selhurst Park",
+  "score": "4 - 1",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Henderson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 26,
+        "name": "Richards",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Lacroix",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 6,
+        "name": "Guéhi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Muñoz",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 20,
+        "name": "Wharton",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 19,
+        "name": "Hughes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Mitchell",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Sarr",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Eze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 14,
+        "name": "Mateta",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "3-4-3",
+    "players": [
+      {
+        "number": 23,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Disasi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 26,
+        "name": "Bogarde",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 16,
+        "name": "García",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Tielemans",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 12,
+        "name": "Digne",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 27,
+        "name": "Rogers",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 41,
+        "name": "Ramsey",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

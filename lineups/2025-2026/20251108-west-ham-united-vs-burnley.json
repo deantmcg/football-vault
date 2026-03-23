@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-11-08",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cpv1dvwp7w4t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "London Stadium",
+  "score": "3 - 2",
+  "homeTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 25,
+        "name": "Todibo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Diouf",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 18,
+        "name": "Mateus Fernandes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 32,
+        "name": "Potts",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 10,
+        "name": "Lucas Paquetá",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Wilson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 7,
+        "name": "Summerville",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Dúbravka",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tuanzebe",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hartman",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 24,
+        "name": "Cullen",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 16,
+        "name": "Florentino",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 17,
+        "name": "Tchaouna",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Ugochukwu",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Anthony",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Flemming",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

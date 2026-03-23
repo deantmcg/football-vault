@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-01",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c9w79vejpxxt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Kelleher",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 33,
+        "name": "Kayode",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 20,
+        "name": "Ajer",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Henry",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 6,
+        "name": "Henderson",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 18,
+        "name": "Yarmoliuk",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Lewis-Potter",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Igor Thiago",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 7,
+        "name": "Schade",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Spence",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 14,
+        "name": "Gray",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "João Palhinha",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 20,
+        "name": "Kudus",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Richarlison",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 28,
+        "name": "Odobert",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

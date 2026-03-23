@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-11-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cvgv2n4n2xvt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "St. James' Park",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united",
+    "formation": "4-5-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pope",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Livramento",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 12,
+        "name": "Thiaw",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Schär",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hall",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 23,
+        "name": "Jacob Murphy",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "Tonali",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 39,
+        "name": "Bruno Guimarães",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 7,
+        "name": "Joelinton",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Barnes",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 27,
+        "name": "Woltemade",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-3-2-1",
+    "players": [
+      {
+        "number": 25,
+        "name": "Donnarumma",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Matheus Nunes",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "O'Reilly",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 14,
+        "name": "González",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 10,
+        "name": "Cherki",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 11,
+        "name": "Doku",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

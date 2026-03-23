@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-12-14",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c741jl9vzzzt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "London Stadium",
+  "score": "2 - 3",
+  "homeTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-3-1-2",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 15,
+        "name": "Mavropanos",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 25,
+        "name": "Todibo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Diouf",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 27,
+        "name": "Magassa",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 32,
+        "name": "Potts",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 18,
+        "name": "Mateus Fernandes",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 10,
+        "name": "Lucas Paquetá",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 7,
+        "name": "Summerville",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 40,
+        "name": "Bizot",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Cash",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Lindelöf",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Maatsen",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 44,
+        "name": "Kamara",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Tielemans",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 27,
+        "name": "Rogers",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-10-18",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cr7mrpgr15vt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "5-3-2",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Williams",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Milenkovic",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Morato",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 35,
+        "name": "Zinchenko",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 12,
+        "name": "Douglas Luiz",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Sangaré",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 8,
+        "name": "Anderson",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 9,
+        "name": "Awoniyi",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Chelsea",
+    "code": "chelsea",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Sánchez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 24,
+        "name": "James",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 34,
+        "name": "Acheampong",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 23,
+        "name": "Chalobah",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Cucurella",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 27,
+        "name": "Gusto",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 45,
+        "name": "Lavia",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Pedro Neto",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 17,
+        "name": "Andrey Santos",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 49,
+        "name": "Garnacho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 20,
+        "name": "João Pedro",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

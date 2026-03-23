@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-05-16",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c629lzkk2net#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Villa Park",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Cash",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 14,
+        "name": "Torres",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Maatsen",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 44,
+        "name": "Kamara",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 27,
+        "name": "Rogers",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 21,
+        "name": "Asensio",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Kinsky",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 24,
+        "name": "Spence",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Danso",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 33,
+        "name": "Davies",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Reguilón",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 14,
+        "name": "Gray",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 47,
+        "name": "Moore",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Odobert",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Tel",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

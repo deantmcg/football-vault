@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-07",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cpv7zy412v3t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Turf Moor",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Dúbravka",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Laurent",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 12,
+        "name": "Humphreys",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "Ugochukwu",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 16,
+        "name": "Florentino",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Lucas Pires",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 10,
+        "name": "Edwards",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Mejbri",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 27,
+        "name": "Broja",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Lammens",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 26,
+        "name": "Heaven",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Martínez",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Shaw",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 25,
+        "name": "Ugarte",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 18,
+        "name": "Casemiro",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 10,
+        "name": "Matheus Cunha",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 13,
+        "name": "Dorgu",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 30,
+        "name": "Sesko",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

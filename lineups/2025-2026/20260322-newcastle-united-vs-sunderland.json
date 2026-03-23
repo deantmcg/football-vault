@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-03-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c1e9ezvyxppt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "St. James' Park",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 32,
+        "name": "Ramsdale",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Trippier",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Botman",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 33,
+        "name": "Burn",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hall",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "Joelinton",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 41,
+        "name": "Ramsey",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 20,
+        "name": "Elanga",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 27,
+        "name": "Woltemade",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Barnes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 10,
+        "name": "Gordon",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Sunderland",
+    "code": "sunderland",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ellborg",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Geertruida",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 13,
+        "name": "O'Nien",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Alderete",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 32,
+        "name": "Hume",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 34,
+        "name": "Xhaka",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 11,
+        "name": "Rigg",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 19,
+        "name": "Diarra",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Sadiki",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "Talbi",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Brobbey",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

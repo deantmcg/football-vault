@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-03-04",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c5yj4xy8kl8t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Craven Cottage",
+  "score": "0 - 1",
+  "homeTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Tete",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Diop",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Berge",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Cairney",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 19,
+        "name": "Chukwueze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 24,
+        "name": "King",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 17,
+        "name": "Iwobi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Jiménez",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Hermansen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 25,
+        "name": "Todibo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Disasi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Diouf",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 28,
+        "name": "Soucek",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 18,
+        "name": "Mateus Fernandes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "Summerville",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 11,
+        "name": "Castellanos",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 9,
+        "name": "Wilson",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

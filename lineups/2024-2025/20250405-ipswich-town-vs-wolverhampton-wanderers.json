@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-04-05",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c230kmx9828t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Portman Road",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Ipswich Town",
+    "code": "ipswich-town",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Palmer",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 40,
+        "name": "Tuanzebe",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 26,
+        "name": "O'Shea",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Burgess",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Townsend",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 5,
+        "name": "Sam Morsy",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 12,
+        "name": "Cajuste",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 18,
+        "name": "Johnson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 33,
+        "name": "Broadhead",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 9,
+        "name": "Enciso",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Delap",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Doherty",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 12,
+        "name": "Agbadou",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Toti Gomes",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 7,
+        "name": "André",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Aït-Nouri",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 5,
+        "name": "Munetsi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 27,
+        "name": "Bellegarde",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Strand Larsen",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

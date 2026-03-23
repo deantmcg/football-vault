@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-24",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c5y341g7e4gt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Etihad Stadium",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 25,
+        "name": "Donnarumma",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Matheus Nunes",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 45,
+        "name": "Khusanov",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Guéhi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "O'Reilly",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Rodri",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 42,
+        "name": "Semenyo",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 4,
+        "name": "Reijnders",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 10,
+        "name": "Cherki",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Omar Marmoush",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Mosquera",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Santiago Bueno",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 37,
+        "name": "Krejcí",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Tchatchoua",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 7,
+        "name": "André",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 10,
+        "name": "Arias",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Hugo Bueno",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 36,
+        "name": "Mané",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Hwang Hee-Chan",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

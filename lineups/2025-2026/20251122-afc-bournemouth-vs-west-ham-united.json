@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-11-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cwyp9808edlt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Vitality Stadium",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Petrovic",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "Cook",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 18,
+        "name": "Diakité",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Truffert",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Scott",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 12,
+        "name": "Adams",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Brooks",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 22,
+        "name": "Kroupi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Evanilson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "3-4-3",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Igor Julio",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 25,
+        "name": "Todibo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 32,
+        "name": "Potts",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 18,
+        "name": "Mateus Fernandes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 12,
+        "name": "Diouf",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Wilson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 17,
+        "name": "Luis Guilherme",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

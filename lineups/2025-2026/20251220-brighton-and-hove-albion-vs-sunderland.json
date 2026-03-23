@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-12-20",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c898k1klzwzt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "American Express Stadium",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Wieffer",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 42,
+        "name": "Coppola",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 21,
+        "name": "Boscagli",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Kadioglu",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 26,
+        "name": "Ayari",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 13,
+        "name": "Hinshelwood",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Minteh",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Gruda",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 29,
+        "name": "De Cuyper",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 10,
+        "name": "Rutter",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Sunderland",
+    "code": "sunderland",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 22,
+        "name": "Roefs",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Mukiele",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Ballard",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Alderete",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 32,
+        "name": "Hume",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 34,
+        "name": "Xhaka",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 6,
+        "name": "Geertruida",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Rigg",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Le Fée",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 24,
+        "name": "Adingra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Brobbey",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

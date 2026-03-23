@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-12-03",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ceq19zy71xdt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Elland Road",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Lucas Perri",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Rodon",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Bijol",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Struijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Bogle",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 22,
+        "name": "Tanaka",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 4,
+        "name": "Ampadu",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 18,
+        "name": "Stach",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Gudmundsson",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 14,
+        "name": "Nmecha",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Chelsea",
+    "code": "chelsea",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Sánchez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Chalobah",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Adarabioyo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Badiashile",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Cucurella",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Fernández",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 17,
+        "name": "Andrey Santos",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 41,
+        "name": "Estêvão",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "João Pedro",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Gittens",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Delap",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

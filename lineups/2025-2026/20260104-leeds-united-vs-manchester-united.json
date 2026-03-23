@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-04",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cvgxd1g1y33t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Elland Road",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Lucas Perri",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Bornauw",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Bijol",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Struijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Justin",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 11,
+        "name": "Aaronson",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 18,
+        "name": "Stach",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 44,
+        "name": "Gruev",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Gudmundsson",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 19,
+        "name": "Okafor",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Lammens",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Yoro",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 26,
+        "name": "Heaven",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 6,
+        "name": "Martínez",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Diogo Dalot",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 18,
+        "name": "Casemiro",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 25,
+        "name": "Ugarte",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Shaw",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 13,
+        "name": "Dorgu",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Matheus Cunha",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 30,
+        "name": "Sesko",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

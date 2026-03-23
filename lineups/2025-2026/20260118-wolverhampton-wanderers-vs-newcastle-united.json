@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-18",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cx2wl93178zt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Molineux Stadium",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Mosquera",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Santiago Bueno",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 37,
+        "name": "Krejcí",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Tchatchoua",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 7,
+        "name": "André",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 36,
+        "name": "Mané",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Hugo Bueno",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 14,
+        "name": "Arokodare",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Hwang Hee-Chan",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pope",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Trippier",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 12,
+        "name": "Thiaw",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Botman",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hall",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 39,
+        "name": "Bruno Guimarães",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Tonali",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 7,
+        "name": "Joelinton",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Barnes",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 27,
+        "name": "Woltemade",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 10,
+        "name": "Gordon",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

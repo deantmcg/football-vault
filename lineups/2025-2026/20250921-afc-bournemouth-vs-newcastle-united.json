@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-09-21",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ce86186erj5t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Vitality Stadium",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Petrovic",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Jiménez",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 18,
+        "name": "Diakité",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Truffert",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 12,
+        "name": "Adams",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Scott",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 24,
+        "name": "Semenyo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Brooks",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Evanilson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pope",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 12,
+        "name": "Thiaw",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Botman",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 33,
+        "name": "Burn",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 21,
+        "name": "Livramento",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "Tonali",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 67,
+        "name": "Miley",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Hall",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 23,
+        "name": "Jacob Murphy",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Willock",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 27,
+        "name": "Woltemade",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

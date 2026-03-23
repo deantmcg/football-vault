@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-12-13",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cnv2r76lp7vt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Turf Moor",
+  "score": "2 - 3",
+  "homeTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Dúbravka",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Tuanzebe",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 18,
+        "name": "Ekdal",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hartman",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Ugochukwu",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 24,
+        "name": "Cullen",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 16,
+        "name": "Florentino",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 9,
+        "name": "Foster",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 27,
+        "name": "Broja",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 7,
+        "name": "Bruun Larsen",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Tete",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Berge",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 17,
+        "name": "Iwobi",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 8,
+        "name": "Wilson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 32,
+        "name": "Smith Rowe",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Chukwueze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Jiménez",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

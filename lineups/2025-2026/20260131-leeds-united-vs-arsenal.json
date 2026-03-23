@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-31",
+  "matchUrl": "https://www.bbc.com/sport/football/live/czdq2p00d1et#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Elland Road",
+  "score": "0 - 4",
+  "homeTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Darlow",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 24,
+        "name": "Justin",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Rodon",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Struijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Bogle",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 4,
+        "name": "Ampadu",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 44,
+        "name": "Gruev",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Gudmundsson",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 18,
+        "name": "Stach",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 11,
+        "name": "Aaronson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Arsenal",
+    "code": "arsenal",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Raya",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 12,
+        "name": "Timber",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Saliba",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Gabriel Magalhães",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 5,
+        "name": "Hincapié",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 36,
+        "name": "Zubimendi",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 41,
+        "name": "Rice",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 20,
+        "name": "Madueke",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 29,
+        "name": "Havertz",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Trossard",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 14,
+        "name": "Gyökeres",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

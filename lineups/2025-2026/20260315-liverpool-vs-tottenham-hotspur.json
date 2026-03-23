@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-03-15",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c05vqzv88jnt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Anfield",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Liverpool",
+    "code": "liverpool",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Alisson Becker",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 8,
+        "name": "Szoboszlai",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Gomez",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "van Dijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 26,
+        "name": "Robertson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 38,
+        "name": "Gravenberch",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Mac Allister",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 30,
+        "name": "Frimpong",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 7,
+        "name": "Wirtz",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 73,
+        "name": "Ngumoha",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Gakpo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Danso",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Dragusin",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Spence",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 38,
+        "name": "Souza",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 14,
+        "name": "Gray",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Tel",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Richarlison",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 19,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

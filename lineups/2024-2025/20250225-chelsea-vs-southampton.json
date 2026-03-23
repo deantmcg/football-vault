@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-02-25",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c1kj7lvp37pt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Stamford Bridge",
+  "score": "4 - 0",
+  "homeTeam": {
+    "name": "Chelsea",
+    "code": "chelsea",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 12,
+        "name": "Jörgensen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Gusto",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Adarabioyo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Colwill",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Cucurella",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Fernández",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 25,
+        "name": "Caicedo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 19,
+        "name": "Sancho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "Palmer",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 18,
+        "name": "Nkunku",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Pedro Neto",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Southampton",
+    "code": "southampton",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 30,
+        "name": "Ramsdale",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 16,
+        "name": "Sugawara",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 14,
+        "name": "Bree",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 37,
+        "name": "Bella-Kotchap",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 7,
+        "name": "Aribo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Walker-Peters",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 18,
+        "name": "Mateus Fernandes",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 4,
+        "name": "Downes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Smallbone",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 20,
+        "name": "Sulemana",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 32,
+        "name": "Onuachu",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

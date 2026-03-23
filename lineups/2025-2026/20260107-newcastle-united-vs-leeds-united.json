@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-07",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c2lg91jp9p8t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "St. James' Park",
+  "score": "4 - 3",
+  "homeTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pope",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 67,
+        "name": "Miley",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 12,
+        "name": "Thiaw",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Schär",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hall",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 39,
+        "name": "Bruno Guimarães",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Tonali",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 7,
+        "name": "Joelinton",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Barnes",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 27,
+        "name": "Woltemade",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 10,
+        "name": "Gordon",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united",
+    "formation": "3-1-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Lucas Perri",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Rodon",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Bijol",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Struijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 4,
+        "name": "Ampadu",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 24,
+        "name": "Justin",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 18,
+        "name": "Stach",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RCAM"
+      },
+      {
+        "number": 44,
+        "name": "Gruev",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LCAM"
+      },
+      {
+        "number": 3,
+        "name": "Gudmundsson",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Aaronson",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

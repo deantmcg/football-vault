@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-01-07",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cz7yw3vpqw4t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Hill Dickinson Stadium",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pickford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "O'Brien",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tarkowski",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Keane",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 16,
+        "name": "Mykolenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 45,
+        "name": "Armstrong",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 37,
+        "name": "Garner",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 42,
+        "name": "Iroegbunam",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "McNeil",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 11,
+        "name": "Barry",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 18,
+        "name": "Grealish",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Mosquera",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Santiago Bueno",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 37,
+        "name": "Krejcí",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Tchatchoua",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 10,
+        "name": "Arias",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 36,
+        "name": "Mané",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Hugo Bueno",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 14,
+        "name": "Arokodare",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Hwang Hee-Chan",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

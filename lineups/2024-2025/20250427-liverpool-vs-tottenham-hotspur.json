@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-04-27",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cj3x2ee1261t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Anfield",
+  "score": "5 - 1",
+  "homeTeam": {
+    "name": "Liverpool",
+    "code": "liverpool",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Alisson Becker",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 66,
+        "name": "Alexander-Arnold",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Konaté",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "van Dijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 26,
+        "name": "Robertson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 38,
+        "name": "Gravenberch",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Mac Allister",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Mohamed Salah",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Szoboszlai",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 18,
+        "name": "Gakpo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Díaz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 24,
+        "name": "Spence",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Danso",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 33,
+        "name": "Davies",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 13,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 15,
+        "name": "Bergvall",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 14,
+        "name": "Gray",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 10,
+        "name": "Maddison",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 19,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 11,
+        "name": "Tel",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

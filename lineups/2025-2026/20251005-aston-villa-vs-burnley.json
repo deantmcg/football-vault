@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-10-05",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cr4qprezqv0t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Villa Park",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-2-2-2",
+    "players": [
+      {
+        "number": 23,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Cash",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 14,
+        "name": "Torres",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Digne",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 26,
+        "name": "Bogarde",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 44,
+        "name": "Kamara",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 27,
+        "name": "Rogers",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 17,
+        "name": "Malen",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Dúbravka",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "Laurent",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Tuanzebe",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hartman",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 17,
+        "name": "Tchaouna",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 24,
+        "name": "Cullen",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 16,
+        "name": "Florentino",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Anthony",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Foster",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

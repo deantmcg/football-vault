@@ -1,0 +1,153 @@
+{
+  "matchDate": "2025-11-23",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c70j2y8pk44t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Emirates Stadium",
+  "score": "4 - 1",
+  "homeTeam": {
+    "name": "Arsenal",
+    "code": "arsenal",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Raya",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 12,
+        "name": "Timber",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Saliba",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Hincapié",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Calafiori",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 36,
+        "name": "Zubimendi",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 41,
+        "name": "Rice",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Saka",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Eze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Trossard",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 23,
+        "name": "Merino",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "Danso",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Spence",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 6,
+        "name": "João Palhinha",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 13,
+        "name": "Udogie",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 20,
+        "name": "Kudus",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Odobert",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Richarlison",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}
