@@ -2,7 +2,7 @@
  * export-clubs.mjs
  *
  * Reads Teams and Stadiums from football-vault.db and writes
- * src/data/clubs.json in the shape expected by the Keepsake app.
+ * src/data/clubs.json and src/data/stadiums.json.
  *
  * Usage:
  *   node scripts/export-clubs.mjs
@@ -21,7 +21,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 // ── Config ────────────────────────────────────────────────────────────────────
 const DB_PATH    = 'C:\\repos\\football-vault\\football-vault.db';
 const OUTPUT_DIR = resolve(__dirname, '..', 'src', 'data');
-const OUTPUT_PATH = resolve(OUTPUT_DIR, 'clubs.json');
+const CLUBS_PATH    = resolve(OUTPUT_DIR, 'clubs.json');
+const STADIUMS_PATH = resolve(OUTPUT_DIR, 'stadiums.json');
 // ─────────────────────────────────────────────────────────────────────────────
 
 /**
@@ -68,21 +69,7 @@ db.close();
 const clubs = rows.map((row) => {
     const colors = [row.colour1, row.colour2, row.colour3].filter(Boolean);
     const stadiumCoords = buildCoordinates(row.stadium_latitude, row.stadium_longitude);
-
-    // Fall back to null coords rather than silently emit {0,0}
     const clubCoordinates = stadiumCoords ?? null;
-
-    const stadium = row.stadium_id
-        ? {
-            id:          String(row.stadium_id),
-            name:        row.stadium_name,
-            city:        row.stadium_city  ?? '',
-            country:     row.stadium_country ?? row.team_country ?? '',
-            ...(stadiumCoords   && { coordinates: stadiumCoords }),
-            ...(row.stadium_capacity != null && { capacity: row.stadium_capacity }),
-            clubs: [String(row.team_id)],
-          }
-        : undefined;
 
     return {
         id:             String(row.team_id),
@@ -90,26 +77,33 @@ const clubs = rows.map((row) => {
         normalizedName: row.team_normalized_name ?? row.team_name.toUpperCase(),
         country:        row.team_country ?? '',
         city:           row.stadium_city ?? '',
-        ...(stadium       && { stadium }),
+        ...(row.stadium_id != null && { stadiumId: String(row.stadium_id) }),
         ...(clubCoordinates && { coordinates: clubCoordinates }),
         ...(row.year_founded != null && { founded: row.year_founded }),
         colors,
     };
 });
 
-// Populate shared-stadium clubs arrays (e.g. AC Milan & Inter at San Siro)
-const stadiumClubs = new Map();
-for (const club of clubs) {
-    if (!club.stadium) continue;
-    const sid = club.stadium.id;
-    if (!stadiumClubs.has(sid)) stadiumClubs.set(sid, []);
-    stadiumClubs.get(sid).push(club.id);
-}
-for (const club of clubs) {
-    if (club.stadium && stadiumClubs.has(club.stadium.id)) {
-        club.stadium.clubs = stadiumClubs.get(club.stadium.id);
+// ── Build stadiums, collecting clubs per stadium ──────────────────────────────
+const stadiumMap = new Map();
+for (const row of rows) {
+    if (row.stadium_id == null) continue;
+    const sid = String(row.stadium_id);
+    if (!stadiumMap.has(sid)) {
+        const coords = buildCoordinates(row.stadium_latitude, row.stadium_longitude);
+        stadiumMap.set(sid, {
+            id:      sid,
+            name:    row.stadium_name,
+            city:    row.stadium_city  ?? '',
+            country: row.stadium_country ?? row.team_country ?? '',
+            ...(coords && { coordinates: coords }),
+            ...(row.stadium_capacity != null && { capacity: row.stadium_capacity }),
+            clubs: [],
+        });
     }
+    stadiumMap.get(sid).clubs.push(String(row.team_id));
 }
+const stadiums = [...stadiumMap.values()];
 
 // Warn about any clubs with no coordinates (they'll be missing from the map)
 const missing = clubs.filter(c => !c.coordinates);
@@ -119,5 +113,7 @@ if (missing.length) {
 }
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
-writeFileSync(OUTPUT_PATH, JSON.stringify(clubs, null, 2), 'utf-8');
-console.log(`✅  Exported ${clubs.length} clubs → ${OUTPUT_PATH}`);
+writeFileSync(CLUBS_PATH, JSON.stringify(clubs, null, 2), 'utf-8');
+writeFileSync(STADIUMS_PATH, JSON.stringify(stadiums, null, 2), 'utf-8');
+console.log(`✅  Exported ${clubs.length} clubs → ${CLUBS_PATH}`);
+console.log(`✅  Exported ${stadiums.length} stadiums → ${STADIUMS_PATH}`);

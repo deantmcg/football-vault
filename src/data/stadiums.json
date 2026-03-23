@@ -1,0 +1,9606 @@
+[
+  {
+    "id": "164",
+    "name": "Selhurst Park",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.3983,
+      "longitude": -0.0855
+    },
+    "capacity": 25486,
+    "clubs": [
+      "1"
+    ]
+  },
+  {
+    "id": "165",
+    "name": "Goodison Park",
+    "city": "Liverpool",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.4387,
+      "longitude": -2.9662
+    },
+    "capacity": 39414,
+    "clubs": [
+      "2"
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Bramall Lane",
+    "city": "Sheffield",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.3703,
+      "longitude": -1.4708
+    },
+    "capacity": 32702,
+    "clubs": [
+      "3"
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Old Trafford",
+    "city": "Manchester",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.4631,
+      "longitude": -2.2914
+    },
+    "capacity": 74197,
+    "clubs": [
+      "4"
+    ]
+  },
+  {
+    "id": "168",
+    "name": "Villa Park",
+    "city": "Birmingham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.5092,
+      "longitude": -1.8851
+    },
+    "capacity": 42657,
+    "clubs": [
+      "5"
+    ]
+  },
+  {
+    "id": "169",
+    "name": "Tottenham Hotspur Stadium",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.6044,
+      "longitude": -0.0664
+    },
+    "capacity": 62850,
+    "clubs": [
+      "6"
+    ]
+  },
+  {
+    "id": "170",
+    "name": "Molineux Stadium",
+    "city": "Wolverhampton",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.5904,
+      "longitude": -2.1306
+    },
+    "capacity": 31750,
+    "clubs": [
+      "7"
+    ]
+  },
+  {
+    "id": "171",
+    "name": "Carrow Road",
+    "city": "Norwich",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.6221,
+      "longitude": 1.3091
+    },
+    "capacity": 27244,
+    "clubs": [
+      "8"
+    ]
+  },
+  {
+    "id": "172",
+    "name": "London Stadium",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5383,
+      "longitude": -0.0166
+    },
+    "capacity": 62500,
+    "clubs": [
+      "9"
+    ]
+  },
+  {
+    "id": "173",
+    "name": "Etihad Stadium",
+    "city": "Manchester",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.483,
+      "longitude": -2.2002
+    },
+    "capacity": 53400,
+    "clubs": [
+      "10"
+    ]
+  },
+  {
+    "id": "174",
+    "name": "Emirates Stadium",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5549,
+      "longitude": -0.1084
+    },
+    "capacity": 60704,
+    "clubs": [
+      "11"
+    ]
+  },
+  {
+    "id": "175",
+    "name": "King Power Stadium",
+    "city": "Leicester",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.6203,
+      "longitude": -1.1422
+    },
+    "capacity": 32259,
+    "clubs": [
+      "12"
+    ]
+  },
+  {
+    "id": "176",
+    "name": "Stamford Bridge",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4816,
+      "longitude": -0.191
+    },
+    "capacity": 40173,
+    "clubs": [
+      "13"
+    ]
+  },
+  {
+    "id": "177",
+    "name": "Anfield",
+    "city": "Liverpool",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.4308,
+      "longitude": -2.961
+    },
+    "capacity": 61276,
+    "clubs": [
+      "16"
+    ]
+  },
+  {
+    "id": "178",
+    "name": "Turf Moor",
+    "city": "Burnley",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.7888,
+      "longitude": -2.2302
+    },
+    "capacity": 21944,
+    "clubs": [
+      "17"
+    ]
+  },
+  {
+    "id": "179",
+    "name": "Vitality Stadium",
+    "city": "Bournemouth",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.7352,
+      "longitude": -1.8384
+    },
+    "capacity": 11307,
+    "clubs": [
+      "18",
+      "1066"
+    ]
+  },
+  {
+    "id": "180",
+    "name": "St James' Park",
+    "city": "Newcastle upon Tyne",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.9756,
+      "longitude": -1.6218
+    },
+    "capacity": 52305,
+    "clubs": [
+      "19"
+    ]
+  },
+  {
+    "id": "181",
+    "name": "Amex Stadium",
+    "city": "Brighton",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.8609,
+      "longitude": -0.0801
+    },
+    "capacity": 31876,
+    "clubs": [
+      "20"
+    ]
+  },
+  {
+    "id": "182",
+    "name": "Vicarage Road",
+    "city": "Watford",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.6498,
+      "longitude": -0.4016
+    },
+    "capacity": 22200,
+    "clubs": [
+      "21"
+    ]
+  },
+  {
+    "id": "183",
+    "name": "St Mary's Stadium",
+    "city": "Southampton",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.9058,
+      "longitude": -1.3911
+    },
+    "capacity": 32384,
+    "clubs": [
+      "30"
+    ]
+  },
+  {
+    "id": "184",
+    "name": "Mestalla",
+    "city": "Valencia",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 39.4747,
+      "longitude": -0.3583
+    },
+    "capacity": 49430,
+    "clubs": [
+      "32"
+    ]
+  },
+  {
+    "id": "185",
+    "name": "Stade Pierre-Mauroy",
+    "city": "Lille",
+    "country": "France",
+    "coordinates": {
+      "latitude": 50.6119,
+      "longitude": 3.1304
+    },
+    "capacity": 50186,
+    "clubs": [
+      "33"
+    ]
+  },
+  {
+    "id": "190",
+    "name": "Allianz Arena",
+    "city": "Munich",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 48.2188,
+      "longitude": 11.625
+    },
+    "capacity": 75024,
+    "clubs": [
+      "38"
+    ]
+  },
+  {
+    "id": "191",
+    "name": "Stadio Diego Armando Maradona",
+    "city": "Naples",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 40.8279,
+      "longitude": 14.193
+    },
+    "capacity": 54726,
+    "clubs": [
+      "42"
+    ]
+  },
+  {
+    "id": "192",
+    "name": "Metropolitano Stadium",
+    "city": "Madrid",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 40.4362,
+      "longitude": -3.5994
+    },
+    "capacity": 70460,
+    "clubs": [
+      "45"
+    ]
+  },
+  {
+    "id": "193",
+    "name": "Gewiss Stadium",
+    "city": "Bergamo",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.7092,
+      "longitude": 9.6808
+    },
+    "capacity": 24950,
+    "clubs": [
+      "50"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Red Bull Arena",
+    "city": "Salzburg",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 47.8153,
+      "longitude": 12.9983
+    },
+    "capacity": 30188,
+    "clubs": [
+      "79",
+      "656",
+      "858",
+      "924"
+    ]
+  },
+  {
+    "id": "197",
+    "name": "Estadio Municipal de Butarque",
+    "city": "Leganés",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 40.3403,
+      "longitude": -3.7683
+    },
+    "capacity": 12454,
+    "clubs": [
+      "98"
+    ]
+  },
+  {
+    "id": "198",
+    "name": "Estadio de la Cerámica",
+    "city": "Villarreal",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 39.9442,
+      "longitude": -0.1035
+    },
+    "capacity": 23500,
+    "clubs": [
+      "99"
+    ]
+  },
+  {
+    "id": "199",
+    "name": "Estadio José Zorrilla",
+    "city": "Valladolid",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 41.6441,
+      "longitude": -4.7614
+    },
+    "capacity": 27618,
+    "clubs": [
+      "100"
+    ]
+  },
+  {
+    "id": "200",
+    "name": "Spotify Camp Nou",
+    "city": "Barcelona",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 41.3809,
+      "longitude": 2.1228
+    },
+    "capacity": 62652,
+    "clubs": [
+      "101"
+    ]
+  },
+  {
+    "id": "201",
+    "name": "Estadi Mallorca Son Moix",
+    "city": "Palma",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 39.5903,
+      "longitude": 2.63
+    },
+    "capacity": 26020,
+    "clubs": [
+      "102"
+    ]
+  },
+  {
+    "id": "202",
+    "name": "Ramón Sánchez Pizjuán",
+    "city": "Seville",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 37.3837,
+      "longitude": -5.9706
+    },
+    "capacity": 43883,
+    "clubs": [
+      "103"
+    ]
+  },
+  {
+    "id": "203",
+    "name": "RCDE Stadium",
+    "city": "Barcelona",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 41.3479,
+      "longitude": 2.075
+    },
+    "capacity": 40500,
+    "clubs": [
+      "104"
+    ]
+  },
+  {
+    "id": "204",
+    "name": "Ipurua",
+    "city": "Eibar",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 43.1864,
+      "longitude": -2.4714
+    },
+    "capacity": 8164,
+    "clubs": [
+      "105"
+    ]
+  },
+  {
+    "id": "205",
+    "name": "San Mamés",
+    "city": "Bilbao",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 43.2641,
+      "longitude": -2.9493
+    },
+    "capacity": 53289,
+    "clubs": [
+      "106"
+    ]
+  },
+  {
+    "id": "206",
+    "name": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 40.453,
+      "longitude": -3.6883
+    },
+    "capacity": 83186,
+    "clubs": [
+      "107"
+    ]
+  },
+  {
+    "id": "207",
+    "name": "Parc des Princes",
+    "city": "Paris",
+    "country": "France",
+    "coordinates": {
+      "latitude": 48.8414,
+      "longitude": 2.253
+    },
+    "capacity": 48583,
+    "clubs": [
+      "114"
+    ]
+  },
+  {
+    "id": "208",
+    "name": "Deutsche Bank Park",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 50.0686,
+      "longitude": 8.6452
+    },
+    "capacity": 59500,
+    "clubs": [
+      "125"
+    ]
+  },
+  {
+    "id": "209",
+    "name": "Weserstadion",
+    "city": "Bremen",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 53.0664,
+      "longitude": 8.8376
+    },
+    "capacity": 41800,
+    "clubs": [
+      "126"
+    ]
+  },
+  {
+    "id": "210",
+    "name": "Veltins-Arena",
+    "city": "Gelsenkirchen",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.5545,
+      "longitude": 7.0676
+    },
+    "capacity": 62271,
+    "clubs": [
+      "127"
+    ]
+  },
+  {
+    "id": "211",
+    "name": "BayArena",
+    "city": "Leverkusen",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.0378,
+      "longitude": 6.9868
+    },
+    "capacity": 30210,
+    "clubs": [
+      "128"
+    ]
+  },
+  {
+    "id": "212",
+    "name": "Volkswagen Arena",
+    "city": "Wolfsburg",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 52.4319,
+      "longitude": 10.8037
+    },
+    "capacity": 28917,
+    "clubs": [
+      "129"
+    ]
+  },
+  {
+    "id": "213",
+    "name": "Europa-Park Stadion",
+    "city": "Freiburg",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 47.9889,
+      "longitude": 7.8933
+    },
+    "capacity": 34700,
+    "clubs": [
+      "130"
+    ]
+  },
+  {
+    "id": "214",
+    "name": "Olympiastadion",
+    "city": "Berlin",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 52.5147,
+      "longitude": 13.2395
+    },
+    "capacity": 74667,
+    "clubs": [
+      "131"
+    ]
+  },
+  {
+    "id": "215",
+    "name": "RheinEnergieStadion",
+    "city": "Cologne",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 50.9336,
+      "longitude": 6.8753
+    },
+    "capacity": 50000,
+    "clubs": [
+      "132"
+    ]
+  },
+  {
+    "id": "216",
+    "name": "Benteler-Arena",
+    "city": "Paderborn",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.7315,
+      "longitude": 8.711
+    },
+    "capacity": 15000,
+    "clubs": [
+      "133"
+    ]
+  },
+  {
+    "id": "217",
+    "name": "PreZero Arena",
+    "city": "Sinsheim",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 49.2394,
+      "longitude": 8.8867
+    },
+    "capacity": 30150,
+    "clubs": [
+      "134"
+    ]
+  },
+  {
+    "id": "218",
+    "name": "Merkur Spiel-Arena",
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.2611,
+      "longitude": 6.7326
+    },
+    "capacity": 54600,
+    "clubs": [
+      "135"
+    ]
+  },
+  {
+    "id": "219",
+    "name": "Signal Iduna Park",
+    "city": "Dortmund",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.4926,
+      "longitude": 7.4519
+    },
+    "capacity": 81365,
+    "clubs": [
+      "136"
+    ]
+  },
+  {
+    "id": "220",
+    "name": "WWK Arena",
+    "city": "Augsburg",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 48.3233,
+      "longitude": 10.8828
+    },
+    "capacity": 30660,
+    "clubs": [
+      "137"
+    ]
+  },
+  {
+    "id": "221",
+    "name": "Stadio Olimpico Grande Torino",
+    "city": "Turin",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.0619,
+      "longitude": 7.6414
+    },
+    "capacity": 28177,
+    "clubs": [
+      "231"
+    ]
+  },
+  {
+    "id": "222",
+    "name": "Mendizorrotza",
+    "city": "Vitoria-Gasteiz",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 42.8397,
+      "longitude": -2.6867
+    },
+    "capacity": 19840,
+    "clubs": [
+      "248"
+    ]
+  },
+  {
+    "id": "223",
+    "name": "Estadi Ciutat de València",
+    "city": "Valencia",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 39.4764,
+      "longitude": -0.3592
+    },
+    "capacity": 26354,
+    "clubs": [
+      "249"
+    ]
+  },
+  {
+    "id": "224",
+    "name": "Anoeta",
+    "city": "San Sebastián",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 43.3014,
+      "longitude": -1.9731
+    },
+    "capacity": 39313,
+    "clubs": [
+      "250"
+    ]
+  },
+  {
+    "id": "225",
+    "name": "El Sadar",
+    "city": "Pamplona",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 42.7967,
+      "longitude": -1.6372
+    },
+    "capacity": 23576,
+    "clubs": [
+      "251"
+    ]
+  },
+  {
+    "id": "226",
+    "name": "Nuevo Los Cármenes",
+    "city": "Granada",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 37.1542,
+      "longitude": -3.605
+    },
+    "capacity": 19336,
+    "clubs": [
+      "252"
+    ]
+  },
+  {
+    "id": "227",
+    "name": "Coliseum",
+    "city": "Getafe",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 40.3255,
+      "longitude": -3.7147
+    },
+    "capacity": 16800,
+    "clubs": [
+      "253"
+    ]
+  },
+  {
+    "id": "228",
+    "name": "Benito Villamarín",
+    "city": "Seville",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 37.3564,
+      "longitude": -5.9817
+    },
+    "capacity": 70000,
+    "clubs": [
+      "254"
+    ]
+  },
+  {
+    "id": "187",
+    "name": "Groupama Stadium",
+    "city": "Lyon",
+    "country": "France",
+    "coordinates": {
+      "latitude": 45.7653,
+      "longitude": 4.9819
+    },
+    "capacity": 59186,
+    "clubs": [
+      "257"
+    ]
+  },
+  {
+    "id": "229",
+    "name": "Stadio Artemio Franchi",
+    "city": "Florence",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 43.7808,
+      "longitude": 11.2825
+    },
+    "capacity": 43147,
+    "clubs": [
+      "266"
+    ]
+  },
+  {
+    "id": "230",
+    "name": "Stadio Paolo Mazza",
+    "city": "Ferrara",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 44.842,
+      "longitude": 11.5986
+    },
+    "capacity": 16134,
+    "clubs": [
+      "267"
+    ]
+  },
+  {
+    "id": "231",
+    "name": "Stadio Luigi Ferraris",
+    "city": "Genoa",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 44.4167,
+      "longitude": 8.9524
+    },
+    "capacity": 36348,
+    "clubs": [
+      "268",
+      "303"
+    ]
+  },
+  {
+    "id": "232",
+    "name": "San Siro",
+    "city": "Milan",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.4781,
+      "longitude": 9.124
+    },
+    "capacity": 75817,
+    "clubs": [
+      "269",
+      "271"
+    ]
+  },
+  {
+    "id": "233",
+    "name": "Allianz Stadium",
+    "city": "Turin",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.1096,
+      "longitude": 7.6413
+    },
+    "capacity": 41507,
+    "clubs": [
+      "270",
+      "890"
+    ]
+  },
+  {
+    "id": "234",
+    "name": "Bluenergy Stadium",
+    "city": "Udine",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 46.0822,
+      "longitude": 13.2028
+    },
+    "capacity": 25144,
+    "clubs": [
+      "272"
+    ]
+  },
+  {
+    "id": "235",
+    "name": "Stadio Mario Rigamonti",
+    "city": "Brescia",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.535,
+      "longitude": 10.2178
+    },
+    "capacity": 19550,
+    "clubs": [
+      "273"
+    ]
+  },
+  {
+    "id": "236",
+    "name": "Stadio Olimpico",
+    "city": "Rome",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 41.9342,
+      "longitude": 12.4547
+    },
+    "capacity": 70634,
+    "clubs": [
+      "274",
+      "280"
+    ]
+  },
+  {
+    "id": "237",
+    "name": "Mapei Stadium",
+    "city": "Reggio Emilia",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 44.7244,
+      "longitude": 10.7361
+    },
+    "capacity": 21584,
+    "clubs": [
+      "275"
+    ]
+  },
+  {
+    "id": "238",
+    "name": "Stadio Ennio Tardini",
+    "city": "Parma",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 44.7939,
+      "longitude": 10.3386
+    },
+    "capacity": 22352,
+    "clubs": [
+      "276"
+    ]
+  },
+  {
+    "id": "239",
+    "name": "Unipol Domus",
+    "city": "Cagliari",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 39.1994,
+      "longitude": 9.1378
+    },
+    "capacity": 16416,
+    "clubs": [
+      "277"
+    ]
+  },
+  {
+    "id": "240",
+    "name": "Stadio Marcantonio Bentegodi",
+    "city": "Verona",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.435,
+      "longitude": 10.9686
+    },
+    "capacity": 39211,
+    "clubs": [
+      "278"
+    ]
+  },
+  {
+    "id": "241",
+    "name": "Stadio Via del Mare",
+    "city": "Lecce",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 40.3517,
+      "longitude": 18.1422
+    },
+    "capacity": 31559,
+    "clubs": [
+      "279"
+    ]
+  },
+  {
+    "id": "242",
+    "name": "Stadio Renato Dall'Ara",
+    "city": "Bologna",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 44.4925,
+      "longitude": 11.31
+    },
+    "capacity": 36462,
+    "clubs": [
+      "281"
+    ]
+  },
+  {
+    "id": "194",
+    "name": "MEWA Arena",
+    "city": "Mainz",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 49.9841,
+      "longitude": 8.2241
+    },
+    "capacity": 33305,
+    "clubs": [
+      "295"
+    ]
+  },
+  {
+    "id": "243",
+    "name": "Abanca-Balaídos",
+    "city": "Vigo",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 42.2117,
+      "longitude": -8.7397
+    },
+    "capacity": 24870,
+    "clubs": [
+      "333"
+    ]
+  },
+  {
+    "id": "244",
+    "name": "Borussia-Park",
+    "city": "Mönchengladbach",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.1744,
+      "longitude": 6.3856
+    },
+    "capacity": 54042,
+    "clubs": [
+      "366",
+      "1165"
+    ]
+  },
+  {
+    "id": "196",
+    "name": "Stadion An der Alten Försterei",
+    "city": "Berlin",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 52.4572,
+      "longitude": 13.5681
+    },
+    "capacity": 22012,
+    "clubs": [
+      "474"
+    ]
+  },
+  {
+    "id": "186",
+    "name": "Stade Louis II",
+    "city": "Monaco",
+    "country": "France",
+    "coordinates": {
+      "latitude": 43.7276,
+      "longitude": 7.4156
+    },
+    "capacity": 18525,
+    "clubs": [
+      "488"
+    ]
+  },
+  {
+    "id": "188",
+    "name": "Orange Vélodrome",
+    "city": "Marseille",
+    "country": "France",
+    "coordinates": {
+      "latitude": 43.2698,
+      "longitude": 5.3959
+    },
+    "capacity": 67394,
+    "clubs": [
+      "489"
+    ]
+  },
+  {
+    "id": "245",
+    "name": "Stade Auguste-Delaune",
+    "city": "Reims",
+    "country": "France",
+    "coordinates": {
+      "latitude": 49.2469,
+      "longitude": 4.0247
+    },
+    "capacity": 20519,
+    "clubs": [
+      "490"
+    ]
+  },
+  {
+    "id": "189",
+    "name": "Allianz Riviera",
+    "city": "Nice",
+    "country": "France",
+    "coordinates": {
+      "latitude": 43.7052,
+      "longitude": 7.1928
+    },
+    "capacity": 36178,
+    "clubs": [
+      "491"
+    ]
+  },
+  {
+    "id": "246",
+    "name": "Stade Geoffroy-Guichard",
+    "city": "Saint-Étienne",
+    "country": "France",
+    "coordinates": {
+      "latitude": 45.4608,
+      "longitude": 4.3903
+    },
+    "capacity": 41965,
+    "clubs": [
+      "492"
+    ]
+  },
+  {
+    "id": "247",
+    "name": "Stade Gaston Gérard",
+    "city": "Dijon",
+    "country": "France",
+    "coordinates": {
+      "latitude": 47.3289,
+      "longitude": 5.0689
+    },
+    "capacity": 16098,
+    "clubs": [
+      "493"
+    ]
+  },
+  {
+    "id": "248",
+    "name": "Matmut Atlantique",
+    "city": "Bordeaux",
+    "country": "France",
+    "coordinates": {
+      "latitude": 44.8978,
+      "longitude": -0.5611
+    },
+    "capacity": 42115,
+    "clubs": [
+      "494"
+    ]
+  },
+  {
+    "id": "249",
+    "name": "Stadium de Toulouse",
+    "city": "Toulouse",
+    "country": "France",
+    "coordinates": {
+      "latitude": 43.5833,
+      "longitude": 1.4342
+    },
+    "capacity": 33150,
+    "clubs": [
+      "495"
+    ]
+  },
+  {
+    "id": "250",
+    "name": "Stade de la Licorne",
+    "city": "Amiens",
+    "country": "France",
+    "coordinates": {
+      "latitude": 49.8942,
+      "longitude": 2.2636
+    },
+    "capacity": 12999,
+    "clubs": [
+      "496"
+    ]
+  },
+  {
+    "id": "251",
+    "name": "Stade de la Meinau",
+    "city": "Strasbourg",
+    "country": "France",
+    "coordinates": {
+      "latitude": 48.56,
+      "longitude": 7.755
+    },
+    "capacity": 26109,
+    "clubs": [
+      "511"
+    ]
+  },
+  {
+    "id": "252",
+    "name": "Stade Saint-Symphorien",
+    "city": "Metz",
+    "country": "France",
+    "coordinates": {
+      "latitude": 49.11,
+      "longitude": 6.1597
+    },
+    "capacity": 28786,
+    "clubs": [
+      "514"
+    ]
+  },
+  {
+    "id": "253",
+    "name": "Roazhon Park",
+    "city": "Rennes",
+    "country": "France",
+    "coordinates": {
+      "latitude": 48.1078,
+      "longitude": -1.7128
+    },
+    "capacity": 29778,
+    "clubs": [
+      "515"
+    ]
+  },
+  {
+    "id": "254",
+    "name": "Stade de la Beaujoire",
+    "city": "Nantes",
+    "country": "France",
+    "coordinates": {
+      "latitude": 47.2561,
+      "longitude": -1.5247
+    },
+    "capacity": 35322,
+    "clubs": [
+      "516"
+    ]
+  },
+  {
+    "id": "255",
+    "name": "Stade de la Mosson",
+    "city": "Montpellier",
+    "country": "France",
+    "coordinates": {
+      "latitude": 43.6225,
+      "longitude": 3.8122
+    },
+    "capacity": 22000,
+    "clubs": [
+      "517"
+    ]
+  },
+  {
+    "id": "256",
+    "name": "Stade Francis-Le Blé",
+    "city": "Brest",
+    "country": "France",
+    "coordinates": {
+      "latitude": 48.3892,
+      "longitude": -4.4619
+    },
+    "capacity": 15220,
+    "clubs": [
+      "518"
+    ]
+  },
+  {
+    "id": "257",
+    "name": "Stade Raymond Kopa",
+    "city": "Angers",
+    "country": "France",
+    "coordinates": {
+      "latitude": 47.4603,
+      "longitude": -0.5311
+    },
+    "capacity": 19800,
+    "clubs": [
+      "620"
+    ]
+  },
+  {
+    "id": "258",
+    "name": "Stade des Costières",
+    "city": "Nîmes",
+    "country": "France",
+    "coordinates": {
+      "latitude": 43.8136,
+      "longitude": 4.3544
+    },
+    "capacity": 8033,
+    "clubs": [
+      "621"
+    ]
+  },
+  {
+    "id": "1",
+    "name": "Windsor Park",
+    "city": "Belfast",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.5826,
+      "longitude": -5.9553
+    },
+    "capacity": 18500,
+    "clubs": [
+      "622"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "The Oval",
+    "city": "Belfast",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.6029,
+      "longitude": -5.8912
+    },
+    "capacity": 6050,
+    "clubs": [
+      "623"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Inver Park",
+    "city": "Larne",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.8499,
+      "longitude": -5.8269
+    },
+    "capacity": 6000,
+    "clubs": [
+      "624"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Solitude",
+    "city": "Belfast",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.6195,
+      "longitude": -5.9472
+    },
+    "capacity": 6000,
+    "clubs": [
+      "625"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Seaview",
+    "city": "Belfast",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.6243,
+      "longitude": -5.9219
+    },
+    "capacity": 3383,
+    "clubs": [
+      "626"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "The Showgrounds",
+    "city": "Coleraine",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 55.1328,
+      "longitude": -6.66
+    },
+    "capacity": 6500,
+    "clubs": [
+      "627",
+      "1043"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Ballymena Showgrounds",
+    "city": "Ballymena",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.8701,
+      "longitude": -6.2651
+    },
+    "capacity": 4100,
+    "clubs": [
+      "628"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Shamrock Park",
+    "city": "Portadown",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.413,
+      "longitude": -6.4578
+    },
+    "capacity": 2770,
+    "clubs": [
+      "629"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Wilgar Park",
+    "city": "Belfast",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.5995,
+      "longitude": -5.8782
+    },
+    "capacity": 2500,
+    "clubs": [
+      "630"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Clandeboye Park",
+    "city": "Bangor",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.6433,
+      "longitude": -5.6783
+    },
+    "capacity": 3000,
+    "clubs": [
+      "631"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Aspmyra Stadion",
+    "city": "Bodø",
+    "country": "Norway",
+    "coordinates": {
+      "latitude": 67.2775,
+      "longitude": 14.3919
+    },
+    "capacity": 8270,
+    "clubs": [
+      "632"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Aker Stadion",
+    "city": "Molde",
+    "country": "Norway",
+    "coordinates": {
+      "latitude": 62.7333,
+      "longitude": 7.1478
+    },
+    "capacity": 11249,
+    "clubs": [
+      "633"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Lerkendal Stadion",
+    "city": "Trondheim",
+    "country": "Norway",
+    "coordinates": {
+      "latitude": 63.4128,
+      "longitude": 10.4047
+    },
+    "capacity": 21423,
+    "clubs": [
+      "634"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "SR-Bank Arena",
+    "city": "Stavanger",
+    "country": "Norway",
+    "coordinates": {
+      "latitude": 58.9147,
+      "longitude": 5.7297
+    },
+    "capacity": 16300,
+    "clubs": [
+      "635"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Brann Stadion",
+    "city": "Bergen",
+    "country": "Norway",
+    "coordinates": {
+      "latitude": 60.3669,
+      "longitude": 5.3575
+    },
+    "capacity": 17500,
+    "clubs": [
+      "636"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Bolt Arena",
+    "city": "Helsinki",
+    "country": "Finland",
+    "coordinates": {
+      "latitude": 60.1872,
+      "longitude": 24.9258
+    },
+    "capacity": 10770,
+    "clubs": [
+      "637"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Kuopio Football Stadium",
+    "city": "Kuopio",
+    "country": "Finland",
+    "coordinates": {
+      "latitude": 62.8925,
+      "longitude": 27.6908
+    },
+    "capacity": 5000,
+    "clubs": [
+      "638"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Víkingsvöllur",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "coordinates": {
+      "latitude": 64.1208,
+      "longitude": -21.8592
+    },
+    "capacity": 1449,
+    "clubs": [
+      "639"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Hlíðarendi",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "coordinates": {
+      "latitude": 64.1311,
+      "longitude": -21.9283
+    },
+    "capacity": 3000,
+    "clubs": [
+      "640"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "KR-völlur",
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "coordinates": {
+      "latitude": 64.1489,
+      "longitude": -21.9619
+    },
+    "capacity": 2781,
+    "clubs": [
+      "641"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Krestovsky Stadium",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "coordinates": {
+      "latitude": 59.9728,
+      "longitude": 30.2214
+    },
+    "capacity": 63145,
+    "clubs": [
+      "642"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Otkritie Arena",
+    "city": "Moscow",
+    "country": "Russia",
+    "coordinates": {
+      "latitude": 55.8181,
+      "longitude": 37.4403
+    },
+    "capacity": 45360,
+    "clubs": [
+      "643"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Donbass Arena",
+    "city": "Donetsk",
+    "country": "Ukraine",
+    "coordinates": {
+      "latitude": 48.0211,
+      "longitude": 37.8103
+    },
+    "capacity": 52187,
+    "clubs": [
+      "644"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "NSC Olimpiyskiy",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "coordinates": {
+      "latitude": 50.4333,
+      "longitude": 30.5167
+    },
+    "capacity": 70050,
+    "clubs": [
+      "645"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Arena Națională",
+    "city": "Bucharest",
+    "country": "Romania",
+    "coordinates": {
+      "latitude": 44.4372,
+      "longitude": 26.1525
+    },
+    "capacity": 55634,
+    "clubs": [
+      "646"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Stadionul Dr. Constantin Rădulescu",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "coordinates": {
+      "latitude": 46.7794,
+      "longitude": 23.5778
+    },
+    "capacity": 22113,
+    "clubs": [
+      "647"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Huvepharma Arena",
+    "city": "Razgrad",
+    "country": "Bulgaria",
+    "coordinates": {
+      "latitude": 43.5189,
+      "longitude": 26.5247
+    },
+    "capacity": 10422,
+    "clubs": [
+      "648"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Balgarska Armiya Stadium",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "coordinates": {
+      "latitude": 42.6844,
+      "longitude": 23.3403
+    },
+    "capacity": 22995,
+    "clubs": [
+      "649"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Groupama Arena",
+    "city": "Budapest",
+    "country": "Hungary",
+    "coordinates": {
+      "latitude": 47.4747,
+      "longitude": 19.0986
+    },
+    "capacity": 22000,
+    "clubs": [
+      "650"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "MOL Aréna Sóstó",
+    "city": "Székesfehérvár",
+    "country": "Hungary",
+    "coordinates": {
+      "latitude": 47.1692,
+      "longitude": 18.4239
+    },
+    "capacity": 14201,
+    "clubs": [
+      "651"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Karaiskakis Stadium",
+    "city": "Piraeus",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 37.9464,
+      "longitude": 23.6644
+    },
+    "capacity": 32115,
+    "clubs": [
+      "652"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Apostolos Nikolaidis Stadium",
+    "city": "Athens",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 37.9869,
+      "longitude": 23.7547
+    },
+    "capacity": 16003,
+    "clubs": [
+      "653"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Agia Sophia Stadium",
+    "city": "Athens",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 38.04,
+      "longitude": 23.7431
+    },
+    "capacity": 32500,
+    "clubs": [
+      "654"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Toumba Stadium",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 40.6136,
+      "longitude": 22.9722
+    },
+    "capacity": 28703,
+    "clubs": [
+      "655"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Merkur-Arena",
+    "city": "Graz",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 47.0461,
+      "longitude": 15.4542
+    },
+    "capacity": 15323,
+    "clubs": [
+      "657"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Allianz Stadion",
+    "city": "Vienna",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 48.1978,
+      "longitude": 16.2992
+    },
+    "capacity": 28345,
+    "clubs": [
+      "658"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Stadion Wankdorf",
+    "city": "Bern",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 46.9639,
+      "longitude": 7.4647
+    },
+    "capacity": 31783,
+    "clubs": [
+      "659"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "St. Jakob-Park",
+    "city": "Basel",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 47.5414,
+      "longitude": 7.6203
+    },
+    "capacity": 38512,
+    "clubs": [
+      "660",
+      "859"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Letzigrund",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 47.3761,
+      "longitude": 8.5039
+    },
+    "capacity": 26105,
+    "clubs": [
+      "661",
+      "1028"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Stadion Maksimir",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.8189,
+      "longitude": 16.0181
+    },
+    "capacity": 24851,
+    "clubs": [
+      "662"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Stadion Poljud",
+    "city": "Split",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 43.5203,
+      "longitude": 16.4319
+    },
+    "capacity": 33987,
+    "clubs": [
+      "663"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Stadion Letná",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "coordinates": {
+      "latitude": 50.0997,
+      "longitude": 14.4153
+    },
+    "capacity": 18944,
+    "clubs": [
+      "664"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Eden Arena",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "coordinates": {
+      "latitude": 50.0675,
+      "longitude": 14.4717
+    },
+    "capacity": 19370,
+    "clubs": [
+      "665"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Doosan Arena",
+    "city": "Plzeň",
+    "country": "Czech Republic",
+    "coordinates": {
+      "latitude": 49.7503,
+      "longitude": 13.3853
+    },
+    "capacity": 11700,
+    "clubs": [
+      "666"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Rajko Mitić Stadium",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "coordinates": {
+      "latitude": 44.7831,
+      "longitude": 20.4647
+    },
+    "capacity": 51755,
+    "clubs": [
+      "667"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "Partizan Stadium",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "coordinates": {
+      "latitude": 44.7886,
+      "longitude": 20.4611
+    },
+    "capacity": 29775,
+    "clubs": [
+      "668"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Kleanthis Vikelidis Stadium",
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 40.5997,
+      "longitude": 22.9692
+    },
+    "capacity": 22800,
+    "clubs": [
+      "670",
+      "1210"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Cairo International Stadium",
+    "city": "Cairo",
+    "country": "Egypt",
+    "coordinates": {
+      "latitude": 30.0692,
+      "longitude": 31.2622
+    },
+    "capacity": 75000,
+    "clubs": [
+      "671",
+      "672"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Stade Mohammed V",
+    "city": "Casablanca",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 33.5828,
+      "longitude": -7.6475
+    },
+    "capacity": 45000,
+    "clubs": [
+      "673",
+      "674"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Stade Hammadi Agrebi",
+    "city": "Radès",
+    "country": "Tunisia",
+    "coordinates": {
+      "latitude": 36.7456,
+      "longitude": 10.2708
+    },
+    "capacity": 65000,
+    "clubs": [
+      "675",
+      "711"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Stade TP Mazembe",
+    "city": "Lubumbashi",
+    "country": "Ivory Coast",
+    "coordinates": {
+      "latitude": -11.6661,
+      "longitude": 27.4697
+    },
+    "capacity": 18000,
+    "clubs": [
+      "676"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Loftus Versfeld Stadium",
+    "city": "Pretoria",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -25.7533,
+      "longitude": 28.2228
+    },
+    "capacity": 51762,
+    "clubs": [
+      "677"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "November 1, 1954 Stadium",
+    "city": "Tizi Ouzou",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 36.7039,
+      "longitude": 4.0533
+    },
+    "capacity": 18000,
+    "clubs": [
+      "678"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Accra Sports Stadium",
+    "city": "Accra",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 5.5522,
+      "longitude": -0.1919
+    },
+    "capacity": 40000,
+    "clubs": [
+      "679"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "Enyimba International Stadium",
+    "city": "Aba",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 5.1017,
+      "longitude": 7.3592
+    },
+    "capacity": 16000,
+    "clubs": [
+      "680"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Stade Omar Hamadi",
+    "city": "Algiers",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 36.7936,
+      "longitude": 3.05
+    },
+    "capacity": 12000,
+    "clubs": [
+      "681"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Stade du 5 Juillet",
+    "city": "Algiers",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 36.7525,
+      "longitude": 2.9967
+    },
+    "capacity": 64200,
+    "clubs": [
+      "682",
+      "701"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Stade Mohamed Boumezrag",
+    "city": "Chlef",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 36.15,
+      "longitude": 1.3333
+    },
+    "capacity": 17000,
+    "clubs": [
+      "683"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Estádio 11 de Novembro",
+    "city": "Luanda",
+    "country": "Angola",
+    "coordinates": {
+      "latitude": -8.9767,
+      "longitude": 13.2842
+    },
+    "capacity": 50000,
+    "clubs": [
+      "684",
+      "685"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Stade Félix Houphouët-Boigny",
+    "city": "Abidjan",
+    "country": "Ivory Coast",
+    "coordinates": {
+      "latitude": 5.3283,
+      "longitude": -4.0189
+    },
+    "clubs": [
+      "686"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "30 June Stadium",
+    "city": "Cairo",
+    "country": "Egypt",
+    "coordinates": {
+      "latitude": 29.9922,
+      "longitude": 31.4278
+    },
+    "capacity": 80000,
+    "clubs": [
+      "687"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "Al-Hilal Stadium",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "coordinates": {
+      "latitude": 15.6447,
+      "longitude": 32.4803
+    },
+    "capacity": 65000,
+    "clubs": [
+      "688"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Al-Merreikh Stadium",
+    "city": "Omdurman",
+    "country": "Sudan",
+    "coordinates": {
+      "latitude": 15.6456,
+      "longitude": 32.4792
+    },
+    "clubs": [
+      "689"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Benjamin Mkapa Stadium",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -6.8528,
+      "longitude": 39.2939
+    },
+    "capacity": 60000,
+    "clubs": [
+      "690",
+      "691"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Baba Yara Stadium",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.6806,
+      "longitude": -1.6056
+    },
+    "clubs": [
+      "692"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Nyayo National Stadium",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -1.2173,
+      "longitude": 36.8927
+    },
+    "capacity": 60000,
+    "clubs": [
+      "693"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Stade Municipal de Nouadhibou",
+    "city": "Nouadhibou",
+    "country": "Mauritania",
+    "coordinates": {
+      "latitude": 20.9419,
+      "longitude": -17.0425
+    },
+    "clubs": [
+      "694"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Levy Mwanawasa Stadium",
+    "city": "Ndola",
+    "country": "Zambia",
+    "coordinates": {
+      "latitude": -12.9739,
+      "longitude": 28.6047
+    },
+    "capacity": 49800,
+    "clubs": [
+      "695"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Stade du 20 Août 1955",
+    "city": "Algiers",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 36.7461,
+      "longitude": 3.065
+    },
+    "capacity": 12000,
+    "clubs": [
+      "696"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Rufaro Stadium",
+    "city": "Harare",
+    "country": "Zimbabwe",
+    "coordinates": {
+      "latitude": -17.8544,
+      "longitude": 31.0422
+    },
+    "clubs": [
+      "697"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Stade Amar Hamam",
+    "city": "Khenchela",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 35.4333,
+      "longitude": 7.15
+    },
+    "capacity": 5000,
+    "clubs": [
+      "698"
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Stade 20 Août 1955",
+    "city": "Béchar",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 31.6167,
+      "longitude": -2.2167
+    },
+    "capacity": 20000,
+    "clubs": [
+      "699"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Stade 8 Mai 1945",
+    "city": "Sétif",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 36.1833,
+      "longitude": 5.4
+    },
+    "capacity": 25000,
+    "clubs": [
+      "700"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Stade Mohamed Hamlaoui",
+    "city": "Constantine",
+    "country": "Algeria",
+    "coordinates": {
+      "latitude": 36.35,
+      "longitude": 6.6167
+    },
+    "capacity": 22986,
+    "clubs": [
+      "702"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Stade d'Honneur d'Oujda",
+    "city": "Oujda",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 34.6833,
+      "longitude": -1.9167
+    },
+    "capacity": 35000,
+    "clubs": [
+      "703"
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Stade Municipal de Berkane",
+    "city": "Berkane",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 34.9333,
+      "longitude": -2.3167
+    },
+    "capacity": 10000,
+    "clubs": [
+      "704"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Stade Moulay Hassan",
+    "city": "Rabat",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 33.95,
+      "longitude": -6.8333
+    },
+    "capacity": 22000,
+    "clubs": [
+      "705"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Stade Prince Moulay Abdellah",
+    "city": "Rabat",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 33.95,
+      "longitude": -6.8333
+    },
+    "capacity": 68700,
+    "clubs": [
+      "706"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "Stade Saniat Rmel",
+    "city": "Tétouan",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 35.5667,
+      "longitude": -5.3667
+    },
+    "capacity": 10000,
+    "clubs": [
+      "707"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Stade El Abdi",
+    "city": "El Jadida",
+    "country": "Morocco",
+    "coordinates": {
+      "latitude": 33.2333,
+      "longitude": -8.5
+    },
+    "capacity": 10000,
+    "clubs": [
+      "708"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Stade Mustapha Ben Jannet",
+    "city": "Monastir",
+    "country": "Tunisia",
+    "coordinates": {
+      "latitude": 35.7833,
+      "longitude": 10.8333
+    },
+    "capacity": 20000,
+    "clubs": [
+      "709"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Stade Taïeb Mhiri",
+    "city": "Sfax",
+    "country": "Tunisia",
+    "coordinates": {
+      "latitude": 34.7333,
+      "longitude": 10.7667
+    },
+    "capacity": 11000,
+    "clubs": [
+      "710"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Port Said Stadium",
+    "city": "Port Said",
+    "country": "Egypt",
+    "coordinates": {
+      "latitude": 31.2667,
+      "longitude": 32.3
+    },
+    "clubs": [
+      "712"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Alexandria Stadium",
+    "city": "Alexandria",
+    "country": "Egypt",
+    "coordinates": {
+      "latitude": 31.2,
+      "longitude": 29.9167
+    },
+    "clubs": [
+      "713"
+    ]
+  },
+  {
+    "id": "87",
+    "name": "Ismailia Stadium",
+    "city": "Ismailia",
+    "country": "Egypt",
+    "coordinates": {
+      "latitude": 30.6,
+      "longitude": 32.2667
+    },
+    "clubs": [
+      "714"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Umuahia Stadium",
+    "city": "Umuahia",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 5.5244,
+      "longitude": 7.4951
+    },
+    "capacity": 5000,
+    "clubs": [
+      "715"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Uyo Stadium",
+    "city": "Uyo",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 5.0333,
+      "longitude": 7.9167
+    },
+    "capacity": 30000,
+    "clubs": [
+      "716"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "Yenegoa Stadium",
+    "city": "Yenegoa",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 5.2667,
+      "longitude": 6.2667
+    },
+    "capacity": 5000,
+    "clubs": [
+      "717"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Benin City Stadium",
+    "city": "Benin City",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 6.3333,
+      "longitude": 5.6333
+    },
+    "capacity": 12000,
+    "clubs": [
+      "718"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Maiduguri Stadium",
+    "city": "Maiduguri",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 11.85,
+      "longitude": 13.1667
+    },
+    "capacity": 10000,
+    "clubs": [
+      "719"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Enugu Stadium",
+    "city": "Enugu",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 9.0394,
+      "longitude": 7.4578
+    },
+    "capacity": 60491,
+    "clubs": [
+      "720"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Aba Stadium",
+    "city": "Aba",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 5.1067,
+      "longitude": 7.3667
+    },
+    "capacity": 16000,
+    "clubs": [
+      "721"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Owerri Stadium",
+    "city": "Owerri",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 5.4833,
+      "longitude": 7.0167
+    },
+    "capacity": 10000,
+    "clubs": [
+      "722"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Ikorodu Stadium",
+    "city": "Ikorodu",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 6.6,
+      "longitude": 3.5
+    },
+    "capacity": 10000,
+    "clubs": [
+      "723"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Kano Stadium",
+    "city": "Kano",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 11.9833,
+      "longitude": 8.5167
+    },
+    "capacity": 16000,
+    "clubs": [
+      "724"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Katsina Stadium",
+    "city": "Katsina",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 13.1333,
+      "longitude": 7.6333
+    },
+    "capacity": 35000,
+    "clubs": [
+      "725"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Ilorin Stadium",
+    "city": "Ilorin",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 8.4833,
+      "longitude": 4.5667
+    },
+    "capacity": 18000,
+    "clubs": [
+      "726"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Makurdi Stadium",
+    "city": "Makurdi",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 7.7397,
+      "longitude": 8.7405
+    },
+    "capacity": 8000,
+    "clubs": [
+      "727"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Lafia Stadium",
+    "city": "Lafia",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 8.5,
+      "longitude": 8.5167
+    },
+    "capacity": 10000,
+    "clubs": [
+      "728"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Minna Stadium",
+    "city": "Minna",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 9.6,
+      "longitude": 6.5333
+    },
+    "capacity": 5000,
+    "clubs": [
+      "729"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Jos Stadium",
+    "city": "Jos",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 9.9167,
+      "longitude": 8.8833
+    },
+    "capacity": 44000,
+    "clubs": [
+      "730"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Ikenne Stadium",
+    "city": "Ikenne",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 6.8333,
+      "longitude": 3.7
+    },
+    "capacity": 5000,
+    "clubs": [
+      "731"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Port Harcourt Stadium",
+    "city": "Port Harcourt",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 4.7667,
+      "longitude": 7.0167
+    },
+    "capacity": 40000,
+    "clubs": [
+      "732"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Ibadan Stadium",
+    "city": "Ibadan",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 7.3775,
+      "longitude": 3.947
+    },
+    "capacity": 15000,
+    "clubs": [
+      "733"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Akure Stadium",
+    "city": "Akure",
+    "country": "Nigeria",
+    "coordinates": {
+      "latitude": 7.2522,
+      "longitude": 5.1945
+    },
+    "capacity": 20000,
+    "clubs": [
+      "734"
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Accra Stadium",
+    "city": "Accra",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 5.5528,
+      "longitude": -0.2075
+    },
+    "capacity": 40000,
+    "clubs": [
+      "735",
+      "742",
+      "744"
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Dormaa Ahenkro Stadium",
+    "city": "Dormaa Ahenkro",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.7311,
+      "longitude": -2.2658
+    },
+    "capacity": 10000,
+    "clubs": [
+      "736"
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Ainyinase Stadium",
+    "city": "Ainyinase",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 5.5,
+      "longitude": -0.5
+    },
+    "capacity": 5000,
+    "clubs": [
+      "737"
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Bechem Stadium",
+    "city": "Bechem",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.4167,
+      "longitude": -2.6667
+    },
+    "capacity": 5000,
+    "clubs": [
+      "738"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Berekum Stadium",
+    "city": "Berekum",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.4333,
+      "longitude": -2.6
+    },
+    "capacity": 5000,
+    "clubs": [
+      "739"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Dawu Stadium",
+    "city": "Dawu",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.5,
+      "longitude": -0.2
+    },
+    "capacity": 5000,
+    "clubs": [
+      "740"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Kpandu Stadium",
+    "city": "Kpandu",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.95,
+      "longitude": 0.1833
+    },
+    "capacity": 5000,
+    "clubs": [
+      "741"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Nalerigu Stadium",
+    "city": "Nalerigu",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "capacity": 5000,
+    "clubs": [
+      "743"
+    ]
+  },
+  {
+    "id": "116",
+    "name": "Tarkwa Stadium",
+    "city": "Tarkwa",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 5.2833,
+      "longitude": -1.9833
+    },
+    "capacity": 10000,
+    "clubs": [
+      "745"
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Kumasi Stadium",
+    "city": "Kumasi",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.6667,
+      "longitude": -1.6167
+    },
+    "capacity": 40528,
+    "clubs": [
+      "746"
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Nsuatre Stadium",
+    "city": "Nsuatre",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 6.65,
+      "longitude": -0.8667
+    },
+    "capacity": 5000,
+    "clubs": [
+      "747"
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Samreboi Stadium",
+    "city": "Samreboi",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 5.9333,
+      "longitude": -2.15
+    },
+    "capacity": 5000,
+    "clubs": [
+      "748"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Tema Stadium",
+    "city": "Tema",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 5.6667,
+      "longitude": -0.0167
+    },
+    "capacity": 5000,
+    "clubs": [
+      "749"
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Wenchi Stadium",
+    "city": "Wenchi",
+    "country": "Ghana",
+    "coordinates": {
+      "latitude": 7.1167,
+      "longitude": -1.9167
+    },
+    "capacity": 5000,
+    "clubs": [
+      "750"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Durban Stadium",
+    "city": "Durban",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -29.8581,
+      "longitude": 31.0292
+    },
+    "capacity": 55500,
+    "clubs": [
+      "751",
+      "753"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "East London Stadium",
+    "city": "East London",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -33.0156,
+      "longitude": 27.9116
+    },
+    "capacity": 16000,
+    "clubs": [
+      "752"
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Umlazi Stadium",
+    "city": "Umlazi",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -30,
+      "longitude": 30.85
+    },
+    "capacity": 22000,
+    "clubs": [
+      "754"
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Moletjie Stadium",
+    "city": "Moletjie",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -24.37,
+      "longitude": 28.63
+    },
+    "capacity": 15000,
+    "clubs": [
+      "755"
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Bloemfontein Stadium",
+    "city": "Bloemfontein",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -29.1167,
+      "longitude": 25.5167
+    },
+    "capacity": 40911,
+    "clubs": [
+      "756",
+      "761"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Polokwane Stadium",
+    "city": "Polokwane",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -23.9,
+      "longitude": 29.4167
+    },
+    "capacity": 41733,
+    "clubs": [
+      "757",
+      "760"
+    ]
+  },
+  {
+    "id": "128",
+    "name": "Richards Bay Stadium",
+    "city": "Richards Bay",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -28.7833,
+      "longitude": 32.0833
+    },
+    "capacity": 10000,
+    "clubs": [
+      "758"
+    ]
+  },
+  {
+    "id": "129",
+    "name": "Rustenburg Stadium",
+    "city": "Rustenburg",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -25.6667,
+      "longitude": 27.2
+    },
+    "capacity": 42000,
+    "clubs": [
+      "759"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Stellenbosch Stadium",
+    "city": "Stellenbosch",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -33.9358,
+      "longitude": 18.8606
+    },
+    "capacity": 16000,
+    "clubs": [
+      "762"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Mbombela Stadium",
+    "city": "Mbombela",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -25.4833,
+      "longitude": 30.9667
+    },
+    "capacity": 43500,
+    "clubs": [
+      "763"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Dar es Salaam Stadium",
+    "city": "Dar es Salaam",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -6.8,
+      "longitude": 39.2833
+    },
+    "capacity": 60000,
+    "clubs": [
+      "764",
+      "767"
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Tanga Stadium",
+    "city": "Tanga",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -5.0667,
+      "longitude": 39.2
+    },
+    "capacity": 10000,
+    "clubs": [
+      "765"
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Dodoma City Stadium",
+    "city": "Dodoma City",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -6.1719,
+      "longitude": 35.7395
+    },
+    "capacity": 30000,
+    "clubs": [
+      "766"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Bukoba Stadium",
+    "city": "Bukoba",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -1.85,
+      "longitude": 31.8333
+    },
+    "capacity": 10000,
+    "clubs": [
+      "768"
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Chunya Stadium",
+    "city": "Chunya",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -8.5167,
+      "longitude": 32.0167
+    },
+    "capacity": 5000,
+    "clubs": [
+      "769"
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Kinondoni Stadium",
+    "city": "Kinondoni",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -6.8333,
+      "longitude": 39.2167
+    },
+    "capacity": 5000,
+    "clubs": [
+      "770"
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Kigoma Stadium",
+    "city": "Kigoma",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -4.8717,
+      "longitude": 29.6267
+    },
+    "capacity": 10000,
+    "clubs": [
+      "771"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Lindi Stadium",
+    "city": "Lindi",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -9.3,
+      "longitude": 39.7333
+    },
+    "capacity": 5000,
+    "clubs": [
+      "772"
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Mwanza Stadium",
+    "city": "Mwanza",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -2.5167,
+      "longitude": 32.9167
+    },
+    "capacity": 40000,
+    "clubs": [
+      "773"
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Mbeya Stadium",
+    "city": "Mbeya",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -8.9,
+      "longitude": 33.45
+    },
+    "capacity": 10000,
+    "clubs": [
+      "774"
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Singida Stadium",
+    "city": "Singida",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -6.8167,
+      "longitude": 34.7167
+    },
+    "capacity": 10000,
+    "clubs": [
+      "775",
+      "776"
+    ]
+  },
+  {
+    "id": "143",
+    "name": "Tabora Stadium",
+    "city": "Tabora",
+    "country": "Tanzania",
+    "coordinates": {
+      "latitude": -5.0167,
+      "longitude": 32.7833
+    },
+    "capacity": 10000,
+    "clubs": [
+      "777"
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Nairobi Stadium",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -1.2833,
+      "longitude": 36.8167
+    },
+    "capacity": 55000,
+    "clubs": [
+      "778",
+      "784",
+      "785",
+      "787",
+      "789",
+      "792",
+      "793"
+    ]
+  },
+  {
+    "id": "145",
+    "name": "Bomet Stadium",
+    "city": "Bomet",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -0.7833,
+      "longitude": 35.3667
+    },
+    "capacity": 5000,
+    "clubs": [
+      "779"
+    ]
+  },
+  {
+    "id": "146",
+    "name": "Mombasa Stadium",
+    "city": "Mombasa",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -4.0383,
+      "longitude": 39.6682
+    },
+    "capacity": 10000,
+    "clubs": [
+      "780"
+    ]
+  },
+  {
+    "id": "147",
+    "name": "Thika Stadium",
+    "city": "Thika",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -1.0333,
+      "longitude": 37.0833
+    },
+    "capacity": 5000,
+    "clubs": [
+      "781"
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Kakamega Stadium",
+    "city": "Kakamega",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": 0.2833,
+      "longitude": 34.75
+    },
+    "capacity": 5000,
+    "clubs": [
+      "782"
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Machakos Stadium",
+    "city": "Machakos",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -2.7167,
+      "longitude": 37.2667
+    },
+    "capacity": 5000,
+    "clubs": [
+      "783"
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Awendo Stadium",
+    "city": "Awendo",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -0.6833,
+      "longitude": 34.4333
+    },
+    "capacity": 5000,
+    "clubs": [
+      "786"
+    ]
+  },
+  {
+    "id": "151",
+    "name": "Murang'a Stadium",
+    "city": "Murang'a",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -0.6833,
+      "longitude": 37.15
+    },
+    "capacity": 5000,
+    "clubs": [
+      "788"
+    ]
+  },
+  {
+    "id": "152",
+    "name": "Eldoret Stadium",
+    "city": "Eldoret",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": 0.5,
+      "longitude": 35.2667
+    },
+    "capacity": 10000,
+    "clubs": [
+      "790"
+    ]
+  },
+  {
+    "id": "153",
+    "name": "Kisii Stadium",
+    "city": "Kisii",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -0.6833,
+      "longitude": 34.7833
+    },
+    "capacity": 5000,
+    "clubs": [
+      "791"
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Nakuru Stadium",
+    "city": "Nakuru",
+    "country": "Kenya",
+    "coordinates": {
+      "latitude": -0.3,
+      "longitude": 36.0667
+    },
+    "capacity": 10000,
+    "clubs": [
+      "794"
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Dschang Stadium",
+    "city": "Dschang",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 5.4333,
+      "longitude": 10.4
+    },
+    "capacity": 5000,
+    "clubs": [
+      "795"
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Mbouda Stadium",
+    "city": "Mbouda",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 5.6,
+      "longitude": 10.2667
+    },
+    "capacity": 5000,
+    "clubs": [
+      "796"
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Yaounde Stadium",
+    "city": "Yaounde",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 3.8667,
+      "longitude": 11.5167
+    },
+    "capacity": 60000,
+    "clubs": [
+      "797",
+      "798",
+      "801",
+      "802"
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Garoua Stadium",
+    "city": "Garoua",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 9.3,
+      "longitude": 13.4
+    },
+    "capacity": 30000,
+    "clubs": [
+      "799",
+      "803"
+    ]
+  },
+  {
+    "id": "159",
+    "name": "Douala Stadium",
+    "city": "Douala",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 4.0511,
+      "longitude": 9.7679
+    },
+    "capacity": 50000,
+    "clubs": [
+      "800",
+      "804",
+      "808"
+    ]
+  },
+  {
+    "id": "160",
+    "name": "Bangante Stadium",
+    "city": "Bangante",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 5.6667,
+      "longitude": 10.1667
+    },
+    "capacity": 5000,
+    "clubs": [
+      "805"
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Bamenda Stadium",
+    "city": "Bamenda",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 5.9633,
+      "longitude": 10.1597
+    },
+    "capacity": 5000,
+    "clubs": [
+      "806",
+      "810"
+    ]
+  },
+  {
+    "id": "162",
+    "name": "Melong Stadium",
+    "city": "Melong",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 5.8,
+      "longitude": 10.0167
+    },
+    "capacity": 5000,
+    "clubs": [
+      "807"
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Limbe Stadium",
+    "city": "Limbe",
+    "country": "Cameroon",
+    "coordinates": {
+      "latitude": 4.0167,
+      "longitude": 9.25
+    },
+    "capacity": 20000,
+    "clubs": [
+      "809"
+    ]
+  },
+  {
+    "id": "195",
+    "name": "MHPArena",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 48.7922,
+      "longitude": 9.232
+    },
+    "capacity": 60449,
+    "clubs": [
+      "811"
+    ]
+  },
+  {
+    "id": "259",
+    "name": "Estádio da Luz",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.7526,
+      "longitude": -9.1847
+    },
+    "capacity": 68100,
+    "clubs": [
+      "812"
+    ]
+  },
+  {
+    "id": "260",
+    "name": "Estádio do Dragão",
+    "city": "Porto",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.1619,
+      "longitude": -8.5833
+    },
+    "capacity": 50033,
+    "clubs": [
+      "813"
+    ]
+  },
+  {
+    "id": "261",
+    "name": "Estádio José Alvalade",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.7614,
+      "longitude": -9.1608
+    },
+    "capacity": 52095,
+    "clubs": [
+      "814"
+    ]
+  },
+  {
+    "id": "262",
+    "name": "Estádio Municipal de Braga",
+    "city": "Braga",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.5622,
+      "longitude": -8.4308
+    },
+    "capacity": 30286,
+    "clubs": [
+      "815",
+      "1191"
+    ]
+  },
+  {
+    "id": "263",
+    "name": "Estádio D. Afonso Henriques",
+    "city": "Guimarães",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.4489,
+      "longitude": -8.3014
+    },
+    "capacity": 30029,
+    "clubs": [
+      "816",
+      "894"
+    ]
+  },
+  {
+    "id": "264",
+    "name": "Johan Cruyff Arena",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.3142,
+      "longitude": 4.9419
+    },
+    "capacity": 55885,
+    "clubs": [
+      "817"
+    ]
+  },
+  {
+    "id": "265",
+    "name": "Philips Stadion",
+    "city": "Eindhoven",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 51.4417,
+      "longitude": 5.4675
+    },
+    "capacity": 35000,
+    "clubs": [
+      "818",
+      "1178"
+    ]
+  },
+  {
+    "id": "266",
+    "name": "De Kuip",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 51.8939,
+      "longitude": 4.5236
+    },
+    "capacity": 47500,
+    "clubs": [
+      "819"
+    ]
+  },
+  {
+    "id": "267",
+    "name": "AFAS Stadion",
+    "city": "Alkmaar",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.6097,
+      "longitude": 4.7394
+    },
+    "capacity": 19500,
+    "clubs": [
+      "820"
+    ]
+  },
+  {
+    "id": "268",
+    "name": "Stadion Galgenwaard",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.0783,
+      "longitude": 5.1458
+    },
+    "capacity": 23750,
+    "clubs": [
+      "821"
+    ]
+  },
+  {
+    "id": "269",
+    "name": "Jan Breydel Stadium",
+    "city": "Bruges",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 51.1948,
+      "longitude": 3.1789
+    },
+    "capacity": 50093,
+    "clubs": [
+      "822",
+      "915"
+    ]
+  },
+  {
+    "id": "270",
+    "name": "Lotto Park",
+    "city": "Brussels",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 50.8333,
+      "longitude": 4.2975
+    },
+    "capacity": 21900,
+    "clubs": [
+      "823"
+    ]
+  },
+  {
+    "id": "271",
+    "name": "Maurice Dufrasne Stadium",
+    "city": "Liège",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 50.6114,
+      "longitude": 5.5392
+    },
+    "capacity": 27670,
+    "clubs": [
+      "824"
+    ]
+  },
+  {
+    "id": "272",
+    "name": "Cegeka Arena",
+    "city": "Genk",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 51.0053,
+      "longitude": 5.5147
+    },
+    "capacity": 23718,
+    "clubs": [
+      "825"
+    ]
+  },
+  {
+    "id": "273",
+    "name": "Ghelamco Arena",
+    "city": "Ghent",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 51.0163,
+      "longitude": 3.7349
+    },
+    "capacity": 20175,
+    "clubs": [
+      "826"
+    ]
+  },
+  {
+    "id": "274",
+    "name": "Bosuilstadion",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 51.2319,
+      "longitude": 4.4719
+    },
+    "capacity": 21000,
+    "clubs": [
+      "827"
+    ]
+  },
+  {
+    "id": "275",
+    "name": "Dignity Health Sports Park",
+    "city": "Los Angeles",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 33.8644,
+      "longitude": -118.2611
+    },
+    "capacity": 27000,
+    "clubs": [
+      "828"
+    ]
+  },
+  {
+    "id": "276",
+    "name": "Lumen Field",
+    "city": "Seattle",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 47.5952,
+      "longitude": -122.3316
+    },
+    "capacity": 68740,
+    "clubs": [
+      "829"
+    ]
+  },
+  {
+    "id": "277",
+    "name": "Chase Stadium",
+    "city": "Fort Lauderdale",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 26.1931,
+      "longitude": -80.1628
+    },
+    "capacity": 21000,
+    "clubs": [
+      "830"
+    ]
+  },
+  {
+    "id": "278",
+    "name": "Türk Telekom Stadium",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.1039,
+      "longitude": 28.9903
+    },
+    "capacity": 53978,
+    "clubs": [
+      "831"
+    ]
+  },
+  {
+    "id": "279",
+    "name": "Şükrü Saracoğlu Stadium",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 40.9894,
+      "longitude": 29.0361
+    },
+    "capacity": 47430,
+    "clubs": [
+      "832"
+    ]
+  },
+  {
+    "id": "280",
+    "name": "Vodafone Park",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.0392,
+      "longitude": 29.0031
+    },
+    "capacity": 42684,
+    "clubs": [
+      "833"
+    ]
+  },
+  {
+    "id": "281",
+    "name": "Akyazı Stadium",
+    "city": "Trabzon",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.0006,
+      "longitude": 39.6389
+    },
+    "capacity": 41000,
+    "clubs": [
+      "834"
+    ]
+  },
+  {
+    "id": "282",
+    "name": "La Bombonera",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.6356,
+      "longitude": -58.3647
+    },
+    "clubs": [
+      "835"
+    ]
+  },
+  {
+    "id": "283",
+    "name": "Estadio Monumental",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.5453,
+      "longitude": -58.4497
+    },
+    "clubs": [
+      "836",
+      "862",
+      "874",
+      "892"
+    ]
+  },
+  {
+    "id": "284",
+    "name": "Estadio Presidente Perón",
+    "city": "Avellaneda",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.6672,
+      "longitude": -58.3697
+    },
+    "clubs": [
+      "837"
+    ]
+  },
+  {
+    "id": "285",
+    "name": "Maracanã",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -22.9122,
+      "longitude": -43.2302
+    },
+    "clubs": [
+      "838",
+      "839"
+    ]
+  },
+  {
+    "id": "286",
+    "name": "Allianz Parque",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -23.5272,
+      "longitude": -46.6794
+    },
+    "clubs": [
+      "840"
+    ]
+  },
+  {
+    "id": "287",
+    "name": "Morumbi",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -23.6,
+      "longitude": -46.7208
+    },
+    "clubs": [
+      "841"
+    ]
+  },
+  {
+    "id": "288",
+    "name": "Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 19.3028,
+      "longitude": -99.1506
+    },
+    "capacity": 81070,
+    "clubs": [
+      "842"
+    ]
+  },
+  {
+    "id": "289",
+    "name": "Estadio Akron",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 20.6869,
+      "longitude": -103.4644
+    },
+    "capacity": 46232,
+    "clubs": [
+      "843"
+    ]
+  },
+  {
+    "id": "290",
+    "name": "Estadio Ciudad de los Deportes",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 19.4061,
+      "longitude": -99.1808
+    },
+    "clubs": [
+      "844"
+    ]
+  },
+  {
+    "id": "291",
+    "name": "Saitama Stadium 2002",
+    "city": "Saitama",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 35.9072,
+      "longitude": 139.6953
+    },
+    "clubs": [
+      "845"
+    ]
+  },
+  {
+    "id": "292",
+    "name": "Nissan Stadium",
+    "city": "Yokohama",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 35.5092,
+      "longitude": 139.605
+    },
+    "clubs": [
+      "846"
+    ]
+  },
+  {
+    "id": "293",
+    "name": "Todoroki Athletics Stadium",
+    "city": "Kawasaki",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 35.5667,
+      "longitude": 139.6544
+    },
+    "clubs": [
+      "847"
+    ]
+  },
+  {
+    "id": "294",
+    "name": "Celtic Park",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.8497,
+      "longitude": -4.2056
+    },
+    "capacity": 60411,
+    "clubs": [
+      "848"
+    ]
+  },
+  {
+    "id": "295",
+    "name": "Ibrox Stadium",
+    "city": "Glasgow",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.8529,
+      "longitude": -4.3096
+    },
+    "capacity": 50987,
+    "clubs": [
+      "849"
+    ]
+  },
+  {
+    "id": "296",
+    "name": "Pittodrie Stadium",
+    "city": "Aberdeen",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.1593,
+      "longitude": -2.0887
+    },
+    "capacity": 20866,
+    "clubs": [
+      "850"
+    ]
+  },
+  {
+    "id": "297",
+    "name": "King Fahd International Stadium",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 24.6881,
+      "longitude": 46.6833
+    },
+    "clubs": [
+      "851"
+    ]
+  },
+  {
+    "id": "298",
+    "name": "Mrsool Park",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 24.6947,
+      "longitude": 46.7089
+    },
+    "clubs": [
+      "852"
+    ]
+  },
+  {
+    "id": "299",
+    "name": "King Abdullah Sports City",
+    "city": "Jeddah",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 21.6708,
+      "longitude": 39.1147
+    },
+    "clubs": [
+      "853",
+      "983"
+    ]
+  },
+  {
+    "id": "300",
+    "name": "Parken Stadium",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 55.7025,
+      "longitude": 12.5722
+    },
+    "clubs": [
+      "854"
+    ]
+  },
+  {
+    "id": "301",
+    "name": "Brøndby Stadium",
+    "city": "Brøndby",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 55.6475,
+      "longitude": 12.4253
+    },
+    "capacity": 28000,
+    "clubs": [
+      "855"
+    ]
+  },
+  {
+    "id": "302",
+    "name": "Eleda Stadion",
+    "city": "Malmö",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 55.5636,
+      "longitude": 12.9958
+    },
+    "clubs": [
+      "856"
+    ]
+  },
+  {
+    "id": "303",
+    "name": "Friends Arena",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 59.3717,
+      "longitude": 17.9297
+    },
+    "clubs": [
+      "857"
+    ]
+  },
+  {
+    "id": "305",
+    "name": "Stadion Wojska Polskiego",
+    "city": "Warsaw",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 52.2308,
+      "longitude": 20.9944
+    },
+    "clubs": [
+      "860"
+    ]
+  },
+  {
+    "id": "306",
+    "name": "ENEA Stadium",
+    "city": "Poznań",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 52.3975,
+      "longitude": 16.8847
+    },
+    "clubs": [
+      "861"
+    ]
+  },
+  {
+    "id": "309",
+    "name": "Estadio Rodrigo Paz Delgado",
+    "city": "Quito",
+    "country": "Ecuador",
+    "coordinates": {
+      "latitude": -0.1352,
+      "longitude": -78.4633
+    },
+    "clubs": [
+      "863"
+    ]
+  },
+  {
+    "id": "310",
+    "name": "GSP Stadium",
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "coordinates": {
+      "latitude": 35.1575,
+      "longitude": 33.3444
+    },
+    "clubs": [
+      "864",
+      "865"
+    ]
+  },
+  {
+    "id": "311",
+    "name": "Estadio El Campín",
+    "city": "Bogotá",
+    "country": "Colombia",
+    "coordinates": {
+      "latitude": 4.6481,
+      "longitude": -74.0772
+    },
+    "clubs": [
+      "866"
+    ]
+  },
+  {
+    "id": "312",
+    "name": "Estadio Atanasio Girardot",
+    "city": "Medellín",
+    "country": "Colombia",
+    "coordinates": {
+      "latitude": 6.2567,
+      "longitude": -75.5903
+    },
+    "clubs": [
+      "867"
+    ]
+  },
+  {
+    "id": "313",
+    "name": "Stadio Giovanni Zini",
+    "city": "Cremona",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.1478,
+      "longitude": 10.0511
+    },
+    "capacity": 16003,
+    "clubs": [
+      "868"
+    ]
+  },
+  {
+    "id": "314",
+    "name": "Stadio Renzo Barbera",
+    "city": "Palermo",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 38.1511,
+      "longitude": 13.3386
+    },
+    "capacity": 36365,
+    "clubs": [
+      "869"
+    ]
+  },
+  {
+    "id": "315",
+    "name": "Estadio Campeón del Siglo",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "coordinates": {
+      "latitude": -34.8919,
+      "longitude": -56.1564
+    },
+    "clubs": [
+      "870"
+    ]
+  },
+  {
+    "id": "316",
+    "name": "Estadio Gran Parque Central",
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "coordinates": {
+      "latitude": -34.8944,
+      "longitude": -56.1689
+    },
+    "capacity": 5200,
+    "clubs": [
+      "871"
+    ]
+  },
+  {
+    "id": "317",
+    "name": "Bloomfield Stadium",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "coordinates": {
+      "latitude": 32.0656,
+      "longitude": 34.7731
+    },
+    "clubs": [
+      "872"
+    ]
+  },
+  {
+    "id": "318",
+    "name": "Sammy Ofer Stadium",
+    "city": "Haifa",
+    "country": "Israel",
+    "coordinates": {
+      "latitude": 32.7964,
+      "longitude": 34.9889
+    },
+    "clubs": [
+      "873"
+    ]
+  },
+  {
+    "id": "319",
+    "name": "Estadio Nacional",
+    "city": "Santiago",
+    "country": "Chile",
+    "coordinates": {
+      "latitude": -33.4644,
+      "longitude": -70.6111
+    },
+    "clubs": [
+      "875"
+    ]
+  },
+  {
+    "id": "320",
+    "name": "Estadio Ricardo Saprissa",
+    "city": "San José",
+    "country": "Costa Rica",
+    "coordinates": {
+      "latitude": 9.95,
+      "longitude": -84.0903
+    },
+    "clubs": [
+      "876"
+    ]
+  },
+  {
+    "id": "321",
+    "name": "Estadio Alejandro Morera Soto",
+    "city": "Alajuela",
+    "country": "Costa Rica",
+    "coordinates": {
+      "latitude": 10.0167,
+      "longitude": -84.2167
+    },
+    "clubs": [
+      "877"
+    ]
+  },
+  {
+    "id": "322",
+    "name": "Tehelné pole",
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "coordinates": {
+      "latitude": 48.1569,
+      "longitude": 17.1244
+    },
+    "clubs": [
+      "878"
+    ]
+  },
+  {
+    "id": "323",
+    "name": "Štadión Antona Malatinského",
+    "city": "Trnava",
+    "country": "Slovakia",
+    "coordinates": {
+      "latitude": 48.3697,
+      "longitude": 17.5886
+    },
+    "clubs": [
+      "879"
+    ]
+  },
+  {
+    "id": "324",
+    "name": "Stadion Ljudski vrt",
+    "city": "Maribor",
+    "country": "Slovenia",
+    "coordinates": {
+      "latitude": 46.5544,
+      "longitude": 15.6472
+    },
+    "clubs": [
+      "880"
+    ]
+  },
+  {
+    "id": "325",
+    "name": "Stožice Stadium",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "coordinates": {
+      "latitude": 46.0786,
+      "longitude": 14.5106
+    },
+    "clubs": [
+      "881"
+    ]
+  },
+  {
+    "id": "326",
+    "name": "Azadi Stadium",
+    "city": "Tehran",
+    "country": "Iran",
+    "coordinates": {
+      "latitude": 35.7219,
+      "longitude": 51.2797
+    },
+    "clubs": [
+      "882",
+      "883"
+    ]
+  },
+  {
+    "id": "327",
+    "name": "Estadio Hernando Siles",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "coordinates": {
+      "latitude": -16.5306,
+      "longitude": -68.0869
+    },
+    "clubs": [
+      "884"
+    ]
+  },
+  {
+    "id": "328",
+    "name": "Estadio Rafael Mendoza",
+    "city": "La Paz",
+    "country": "Bolivia",
+    "coordinates": {
+      "latitude": -16.5333,
+      "longitude": -68.0611
+    },
+    "clubs": [
+      "885"
+    ]
+  },
+  {
+    "id": "329",
+    "name": "Hazza bin Zayed Stadium",
+    "city": "Al Ain",
+    "country": "United Arab Emirates",
+    "coordinates": {
+      "latitude": 24.1917,
+      "longitude": 55.7339
+    },
+    "clubs": [
+      "886"
+    ]
+  },
+  {
+    "id": "330",
+    "name": "Al Nahyan Stadium",
+    "city": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "coordinates": {
+      "latitude": 24.4461,
+      "longitude": 54.3697
+    },
+    "clubs": [
+      "887"
+    ]
+  },
+  {
+    "id": "331",
+    "name": "FNB Stadium",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "coordinates": {
+      "latitude": -26.2347,
+      "longitude": 27.9822
+    },
+    "capacity": 94736,
+    "clubs": [
+      "888",
+      "889"
+    ]
+  },
+  {
+    "id": "332",
+    "name": "AAMI Park",
+    "city": "Melbourne",
+    "country": "Australia",
+    "coordinates": {
+      "latitude": -37.825,
+      "longitude": 144.9839
+    },
+    "clubs": [
+      "891"
+    ]
+  },
+  {
+    "id": "333",
+    "name": "Estadio Alejandro Villanueva",
+    "city": "Lima",
+    "country": "Peru",
+    "coordinates": {
+      "latitude": -12.0681,
+      "longitude": -77.0333
+    },
+    "clubs": [
+      "893"
+    ]
+  },
+  {
+    "id": "334",
+    "name": "Estádio dos Arcos",
+    "city": "Vila do Conde",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.3508,
+      "longitude": -8.7414
+    },
+    "capacity": 5300,
+    "clubs": [
+      "895"
+    ]
+  },
+  {
+    "id": "335",
+    "name": "Stadion Partizana",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "coordinates": {
+      "latitude": 44.7886,
+      "longitude": 20.4608
+    },
+    "clubs": [
+      "896"
+    ]
+  },
+  {
+    "id": "336",
+    "name": "Asim Ferhatović Hase Stadium",
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "coordinates": {
+      "latitude": 43.8628,
+      "longitude": 18.3928
+    },
+    "clubs": [
+      "897"
+    ]
+  },
+  {
+    "id": "337",
+    "name": "Stadion pod Bijelim Brijegom",
+    "city": "Mostar",
+    "country": "Bosnia and Herzegovina",
+    "coordinates": {
+      "latitude": 43.3442,
+      "longitude": 17.8106
+    },
+    "clubs": [
+      "898"
+    ]
+  },
+  {
+    "id": "338",
+    "name": "Estádio do Bonfim",
+    "city": "Setúbal",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.5244,
+      "longitude": -8.8975
+    },
+    "capacity": 18642,
+    "clubs": [
+      "899"
+    ]
+  },
+  {
+    "id": "339",
+    "name": "Estádio do Bessa",
+    "city": "Porto",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.1622,
+      "longitude": -8.6433
+    },
+    "capacity": 28263,
+    "clubs": [
+      "900"
+    ]
+  },
+  {
+    "id": "340",
+    "name": "Parque de Jogos Comendador Joaquim de Almeida Freitas",
+    "city": "Moreira de Cónegos",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.4164,
+      "longitude": -8.3383
+    },
+    "capacity": 6150,
+    "clubs": [
+      "901"
+    ]
+  },
+  {
+    "id": "341",
+    "name": "Estádio da Mata Real",
+    "city": "Paços de Ferreira",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.2811,
+      "longitude": -8.3731
+    },
+    "capacity": 9076,
+    "clubs": [
+      "902"
+    ]
+  },
+  {
+    "id": "342",
+    "name": "Estádio do Restelo",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.7033,
+      "longitude": -9.2047
+    },
+    "capacity": 19980,
+    "clubs": [
+      "903"
+    ]
+  },
+  {
+    "id": "343",
+    "name": "Estádio dos Barreiros",
+    "city": "Funchal",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 32.6497,
+      "longitude": -16.9197
+    },
+    "capacity": 10600,
+    "clubs": [
+      "904"
+    ]
+  },
+  {
+    "id": "344",
+    "name": "Estádio de São Miguel",
+    "city": "Ponta Delgada",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 37.7517,
+      "longitude": -25.6664
+    },
+    "capacity": 12500,
+    "clubs": [
+      "905"
+    ]
+  },
+  {
+    "id": "345",
+    "name": "Estádio Municipal de Arouca",
+    "city": "Arouca",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 40.9333,
+      "longitude": -8.2456
+    },
+    "capacity": 5600,
+    "clubs": [
+      "906"
+    ]
+  },
+  {
+    "id": "346",
+    "name": "De Grolsch Veste",
+    "city": "Enschede",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.2394,
+      "longitude": 6.8314
+    },
+    "capacity": 30205,
+    "clubs": [
+      "907",
+      "1180"
+    ]
+  },
+  {
+    "id": "347",
+    "name": "GelreDome",
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 51.9631,
+      "longitude": 5.8939
+    },
+    "capacity": 21248,
+    "clubs": [
+      "908"
+    ]
+  },
+  {
+    "id": "348",
+    "name": "Abe Lenstra Stadion",
+    "city": "Heerenveen",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.9597,
+      "longitude": 5.9414
+    },
+    "capacity": 27224,
+    "clubs": [
+      "909",
+      "1182"
+    ]
+  },
+  {
+    "id": "349",
+    "name": "Euroborg",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 53.2081,
+      "longitude": 6.5919
+    },
+    "capacity": 22550,
+    "clubs": [
+      "910",
+      "1184"
+    ]
+  },
+  {
+    "id": "350",
+    "name": "Het Kasteel",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 51.9172,
+      "longitude": 4.4369
+    },
+    "capacity": 10599,
+    "clubs": [
+      "911"
+    ]
+  },
+  {
+    "id": "351",
+    "name": "De Adelaarshorst",
+    "city": "Deventer",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.2519,
+      "longitude": 6.1669
+    },
+    "capacity": 10400,
+    "clubs": [
+      "912"
+    ]
+  },
+  {
+    "id": "352",
+    "name": "MAC³PARK stadion",
+    "city": "Zwolle",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.5089,
+      "longitude": 6.1194
+    },
+    "capacity": 14000,
+    "clubs": [
+      "913"
+    ]
+  },
+  {
+    "id": "353",
+    "name": "Luminus Arena",
+    "city": "Genk",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 50.9636,
+      "longitude": 5.5281
+    },
+    "capacity": 23718,
+    "clubs": [
+      "914"
+    ]
+  },
+  {
+    "id": "354",
+    "name": "Joseph Marien Stadium",
+    "city": "Brussels",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 50.8142,
+      "longitude": 4.3369
+    },
+    "capacity": 9512,
+    "clubs": [
+      "916"
+    ]
+  },
+  {
+    "id": "355",
+    "name": "AFAS Stadion Achter de Kazerne",
+    "city": "Mechelen",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 51.0242,
+      "longitude": 4.4875
+    },
+    "capacity": 16672,
+    "clubs": [
+      "917"
+    ]
+  },
+  {
+    "id": "356",
+    "name": "Guldensporenstadion",
+    "city": "Kortrijk",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 50.8247,
+      "longitude": 3.2739
+    },
+    "capacity": 8974,
+    "clubs": [
+      "918"
+    ]
+  },
+  {
+    "id": "357",
+    "name": "King Power at Den Dreef Stadium",
+    "city": "Leuven",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 50.8789,
+      "longitude": 4.7206
+    },
+    "capacity": 10020,
+    "clubs": [
+      "919"
+    ]
+  },
+  {
+    "id": "358",
+    "name": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 33.7554,
+      "longitude": -84.4008
+    },
+    "capacity": 71000,
+    "clubs": [
+      "920"
+    ]
+  },
+  {
+    "id": "359",
+    "name": "BMO Stadium",
+    "city": "Los Angeles",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 34.0121,
+      "longitude": -118.2857
+    },
+    "capacity": 22000,
+    "clubs": [
+      "921"
+    ]
+  },
+  {
+    "id": "360",
+    "name": "Providence Park",
+    "city": "Portland",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 45.5214,
+      "longitude": -122.6917
+    },
+    "capacity": 25218,
+    "clubs": [
+      "922"
+    ]
+  },
+  {
+    "id": "361",
+    "name": "Children's Mercy Park",
+    "city": "Kansas City",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 39.1217,
+      "longitude": -94.8231
+    },
+    "capacity": 18467,
+    "clubs": [
+      "923"
+    ]
+  },
+  {
+    "id": "362",
+    "name": "BMO Field",
+    "city": "Toronto",
+    "country": "Canada",
+    "coordinates": {
+      "latitude": 43.633,
+      "longitude": -79.4186
+    },
+    "capacity": 30000,
+    "clubs": [
+      "925"
+    ]
+  },
+  {
+    "id": "363",
+    "name": "Stade Saputo",
+    "city": "Montréal",
+    "country": "Canada",
+    "coordinates": {
+      "latitude": 45.5619,
+      "longitude": -73.5528
+    },
+    "capacity": 19619,
+    "clubs": [
+      "926"
+    ]
+  },
+  {
+    "id": "364",
+    "name": "BC Place",
+    "city": "Vancouver",
+    "country": "Canada",
+    "coordinates": {
+      "latitude": 49.2769,
+      "longitude": -123.1119
+    },
+    "capacity": 54000,
+    "clubs": [
+      "927"
+    ]
+  },
+  {
+    "id": "365",
+    "name": "Q2 Stadium",
+    "city": "Austin",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 30.3883,
+      "longitude": -97.7197
+    },
+    "capacity": 20738,
+    "clubs": [
+      "928"
+    ]
+  },
+  {
+    "id": "366",
+    "name": "TQL Stadium",
+    "city": "Cincinnati",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 39.1106,
+      "longitude": -84.5203
+    },
+    "capacity": 26000,
+    "clubs": [
+      "929"
+    ]
+  },
+  {
+    "id": "367",
+    "name": "Lower.com Field",
+    "city": "Columbus",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 39.9682,
+      "longitude": -82.9921
+    },
+    "capacity": 20371,
+    "clubs": [
+      "930"
+    ]
+  },
+  {
+    "id": "368",
+    "name": "GEODIS Park",
+    "city": "Nashville",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 36.1314,
+      "longitude": -86.7675
+    },
+    "capacity": 30000,
+    "clubs": [
+      "931"
+    ]
+  },
+  {
+    "id": "369",
+    "name": "Bank of America Stadium",
+    "city": "Charlotte",
+    "country": "United States",
+    "coordinates": {
+      "latitude": 35.2258,
+      "longitude": -80.8531
+    },
+    "capacity": 75412,
+    "clubs": [
+      "932"
+    ]
+  },
+  {
+    "id": "371",
+    "name": "Başakşehir Fatih Terim Stadium",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.0786,
+      "longitude": 28.8094
+    },
+    "capacity": 17067,
+    "clubs": [
+      "933"
+    ]
+  },
+  {
+    "id": "372",
+    "name": "Sivas 4 Eylül Stadium",
+    "city": "Sivas",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 39.7411,
+      "longitude": 37.0261
+    },
+    "capacity": 27817,
+    "clubs": [
+      "934"
+    ]
+  },
+  {
+    "id": "373",
+    "name": "Antalya Stadium",
+    "city": "Antalya",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 36.8903,
+      "longitude": 30.6664
+    },
+    "capacity": 29307,
+    "clubs": [
+      "935"
+    ]
+  },
+  {
+    "id": "374",
+    "name": "Konya Büyükşehir Stadium",
+    "city": "Konya",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 37.945,
+      "longitude": 32.5047
+    },
+    "capacity": 41600,
+    "clubs": [
+      "936"
+    ]
+  },
+  {
+    "id": "375",
+    "name": "Bahçeşehir Okulları Stadium",
+    "city": "Alanya",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 36.5453,
+      "longitude": 31.9931
+    },
+    "capacity": 9727,
+    "clubs": [
+      "937"
+    ]
+  },
+  {
+    "id": "376",
+    "name": "Recep Tayyip Erdoğan Stadium",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.0617,
+      "longitude": 28.9761
+    },
+    "capacity": 13797,
+    "clubs": [
+      "938"
+    ]
+  },
+  {
+    "id": "377",
+    "name": "Kalyon Stadium",
+    "city": "Gaziantep",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 37.0333,
+      "longitude": 37.3167
+    },
+    "clubs": [
+      "939"
+    ]
+  },
+  {
+    "id": "378",
+    "name": "Estadio Libertadores de América",
+    "city": "Avellaneda",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.6703,
+      "longitude": -58.3714
+    },
+    "clubs": [
+      "940"
+    ]
+  },
+  {
+    "id": "379",
+    "name": "Estadio Pedro Bidegain",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.6592,
+      "longitude": -58.4386
+    },
+    "clubs": [
+      "941"
+    ]
+  },
+  {
+    "id": "380",
+    "name": "Estadio José Amalfitani",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.6361,
+      "longitude": -58.5197
+    },
+    "clubs": [
+      "942"
+    ]
+  },
+  {
+    "id": "381",
+    "name": "Estadio Marcelo Bielsa",
+    "city": "Rosario",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -32.9408,
+      "longitude": -60.6642
+    },
+    "clubs": [
+      "943"
+    ]
+  },
+  {
+    "id": "382",
+    "name": "Estadio Gigante de Arroyito",
+    "city": "Rosario",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -32.9242,
+      "longitude": -60.6628
+    },
+    "clubs": [
+      "944"
+    ]
+  },
+  {
+    "id": "383",
+    "name": "Estadio Jorge Luis Hirschi",
+    "city": "La Plata",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.9067,
+      "longitude": -57.9322
+    },
+    "clubs": [
+      "945"
+    ]
+  },
+  {
+    "id": "384",
+    "name": "Estadio Juan Carmelo Zerillo",
+    "city": "La Plata",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.9064,
+      "longitude": -57.9417
+    },
+    "clubs": [
+      "946"
+    ]
+  },
+  {
+    "id": "385",
+    "name": "Estadio Ciudad de Lanús - Néstor Díaz Pérez",
+    "city": "Lanús",
+    "country": "Argentina",
+    "coordinates": {
+      "latitude": -34.6906,
+      "longitude": -58.3964
+    },
+    "clubs": [
+      "947"
+    ]
+  },
+  {
+    "id": "386",
+    "name": "Neo Química Arena",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -23.5456,
+      "longitude": -46.4733
+    },
+    "clubs": [
+      "948"
+    ]
+  },
+  {
+    "id": "387",
+    "name": "Vila Belmiro",
+    "city": "Santos",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -23.9522,
+      "longitude": -46.3356
+    },
+    "clubs": [
+      "949"
+    ]
+  },
+  {
+    "id": "388",
+    "name": "Arena do Grêmio",
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -29.9775,
+      "longitude": -51.1958
+    },
+    "clubs": [
+      "950"
+    ]
+  },
+  {
+    "id": "389",
+    "name": "Estádio Beira-Rio",
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -30.0664,
+      "longitude": -51.2353
+    },
+    "clubs": [
+      "951"
+    ]
+  },
+  {
+    "id": "390",
+    "name": "Arena MRV",
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -19.8658,
+      "longitude": -43.9708
+    },
+    "clubs": [
+      "952"
+    ]
+  },
+  {
+    "id": "391",
+    "name": "Mineirão",
+    "city": "Belo Horizonte",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -19.8664,
+      "longitude": -43.9708
+    },
+    "clubs": [
+      "953"
+    ]
+  },
+  {
+    "id": "392",
+    "name": "Estádio Nilton Santos",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -22.8919,
+      "longitude": -43.2933
+    },
+    "clubs": [
+      "954"
+    ]
+  },
+  {
+    "id": "393",
+    "name": "São Januário",
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -22.8889,
+      "longitude": -43.23
+    },
+    "clubs": [
+      "955"
+    ]
+  },
+  {
+    "id": "394",
+    "name": "Ligga Arena",
+    "city": "Curitiba",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -25.4486,
+      "longitude": -49.2764
+    },
+    "clubs": [
+      "956"
+    ]
+  },
+  {
+    "id": "395",
+    "name": "Arena Fonte Nova",
+    "city": "Salvador",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -12.9789,
+      "longitude": -38.5042
+    },
+    "clubs": [
+      "957"
+    ]
+  },
+  {
+    "id": "396",
+    "name": "Arena Castelão",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "coordinates": {
+      "latitude": -3.8075,
+      "longitude": -38.5217
+    },
+    "clubs": [
+      "958"
+    ]
+  },
+  {
+    "id": "397",
+    "name": "Estadio Universitario",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 25.7225,
+      "longitude": -100.3111
+    },
+    "clubs": [
+      "959"
+    ]
+  },
+  {
+    "id": "398",
+    "name": "Estadio BBVA",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 25.7208,
+      "longitude": -100.2431
+    },
+    "clubs": [
+      "960"
+    ]
+  },
+  {
+    "id": "399",
+    "name": "Estadio León",
+    "city": "León",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 21.1225,
+      "longitude": -101.6628
+    },
+    "clubs": [
+      "961"
+    ]
+  },
+  {
+    "id": "400",
+    "name": "Estadio Olímpico Universitario",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 19.3322,
+      "longitude": -99.1919
+    },
+    "clubs": [
+      "962"
+    ]
+  },
+  {
+    "id": "401",
+    "name": "Estadio Corona",
+    "city": "Torreón",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 25.5681,
+      "longitude": -103.4161
+    },
+    "clubs": [
+      "963"
+    ]
+  },
+  {
+    "id": "402",
+    "name": "Estadio Hidalgo",
+    "city": "Pachuca",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 20.0842,
+      "longitude": -98.7586
+    },
+    "clubs": [
+      "964"
+    ]
+  },
+  {
+    "id": "403",
+    "name": "Estadio Nemesio Díez",
+    "city": "Toluca",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 19.2881,
+      "longitude": -99.6683
+    },
+    "clubs": [
+      "965"
+    ]
+  },
+  {
+    "id": "404",
+    "name": "Estadio Jalisco",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "coordinates": {
+      "latitude": 20.6739,
+      "longitude": -103.3325
+    },
+    "clubs": [
+      "966"
+    ]
+  },
+  {
+    "id": "405",
+    "name": "Yanmar Stadium Nagai",
+    "city": "Osaka",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 34.6067,
+      "longitude": 135.5161
+    },
+    "capacity": 47816,
+    "clubs": [
+      "967"
+    ]
+  },
+  {
+    "id": "406",
+    "name": "Panasonic Stadium Suita",
+    "city": "Suita",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 34.7864,
+      "longitude": 135.5219
+    },
+    "capacity": 39694,
+    "clubs": [
+      "968"
+    ]
+  },
+  {
+    "id": "407",
+    "name": "Kashima Stadium",
+    "city": "Kashima",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 35.9914,
+      "longitude": 140.6311
+    },
+    "capacity": 40728,
+    "clubs": [
+      "969"
+    ]
+  },
+  {
+    "id": "408",
+    "name": "Ajinomoto Stadium",
+    "city": "Tokyo",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 35.6647,
+      "longitude": 139.5272
+    },
+    "capacity": 49970,
+    "clubs": [
+      "970"
+    ]
+  },
+  {
+    "id": "409",
+    "name": "Toyota Stadium",
+    "city": "Nagoya",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 35.0989,
+      "longitude": 137.0194
+    },
+    "clubs": [
+      "971"
+    ]
+  },
+  {
+    "id": "410",
+    "name": "Noevir Stadium Kobe",
+    "city": "Kobe",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 34.6611,
+      "longitude": 135.1703
+    },
+    "clubs": [
+      "972"
+    ]
+  },
+  {
+    "id": "411",
+    "name": "Edion Peace Wing Hiroshima",
+    "city": "Hiroshima",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 34.4,
+      "longitude": 132.4631
+    },
+    "capacity": 28520,
+    "clubs": [
+      "973"
+    ]
+  },
+  {
+    "id": "412",
+    "name": "Sapporo Dome",
+    "city": "Sapporo",
+    "country": "Japan",
+    "coordinates": {
+      "latitude": 43.0153,
+      "longitude": 141.4097
+    },
+    "capacity": 41484,
+    "clubs": [
+      "974"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Tynecastle Park",
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.9392,
+      "longitude": -3.2325
+    },
+    "capacity": 19852,
+    "clubs": [
+      "975"
+    ]
+  },
+  {
+    "id": "413",
+    "name": "Easter Road",
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.9616,
+      "longitude": -3.1652
+    },
+    "capacity": 20250,
+    "clubs": [
+      "976"
+    ]
+  },
+  {
+    "id": "414",
+    "name": "Fir Park",
+    "city": "Motherwell",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.7804,
+      "longitude": -3.9803
+    },
+    "capacity": 13677,
+    "clubs": [
+      "977"
+    ]
+  },
+  {
+    "id": "415",
+    "name": "Tannadice Park",
+    "city": "Dundee",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 56.4748,
+      "longitude": -2.969
+    },
+    "capacity": 14223,
+    "clubs": [
+      "978"
+    ]
+  },
+  {
+    "id": "416",
+    "name": "Rugby Park",
+    "city": "Kilmarnock",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.6046,
+      "longitude": -4.5085
+    },
+    "capacity": 18128,
+    "clubs": [
+      "979"
+    ]
+  },
+  {
+    "id": "417",
+    "name": "SMISA Stadium",
+    "city": "Paisley",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.8506,
+      "longitude": -4.4443
+    },
+    "capacity": 7937,
+    "clubs": [
+      "980"
+    ]
+  },
+  {
+    "id": "418",
+    "name": "McDiarmid Park",
+    "city": "Perth",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 56.4099,
+      "longitude": -3.4768
+    },
+    "capacity": 10673,
+    "clubs": [
+      "981"
+    ]
+  },
+  {
+    "id": "419",
+    "name": "Global Energy Stadium",
+    "city": "Dingwall",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5959,
+      "longitude": -4.419
+    },
+    "capacity": 6541,
+    "clubs": [
+      "982"
+    ]
+  },
+  {
+    "id": "420",
+    "name": "Prince Mohamed bin Fahd Stadium",
+    "city": "Dammam",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 26.3947,
+      "longitude": 50.1383
+    },
+    "clubs": [
+      "984"
+    ]
+  },
+  {
+    "id": "421",
+    "name": "Al Majma'ah Sports City Stadium",
+    "city": "Al Majma'ah",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 25.9,
+      "longitude": 45.3667
+    },
+    "clubs": [
+      "985"
+    ]
+  },
+  {
+    "id": "422",
+    "name": "Al Shabab Club Stadium",
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 24.6833,
+      "longitude": 46.7333
+    },
+    "clubs": [
+      "986"
+    ]
+  },
+  {
+    "id": "423",
+    "name": "Prince Abdullah bin Jalawi Stadium",
+    "city": "Al-Hasa",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 25.3667,
+      "longitude": 49.5833
+    },
+    "clubs": [
+      "987"
+    ]
+  },
+  {
+    "id": "424",
+    "name": "King Abdullah Sport City Stadium",
+    "city": "Buraidah",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 26.3333,
+      "longitude": 43.9667
+    },
+    "clubs": [
+      "988"
+    ]
+  },
+  {
+    "id": "425",
+    "name": "Prince Sultan bin Abdul Aziz Stadium",
+    "city": "Abha",
+    "country": "Saudi Arabia",
+    "coordinates": {
+      "latitude": 18.2167,
+      "longitude": 42.5053
+    },
+    "clubs": [
+      "989",
+      "990"
+    ]
+  },
+  {
+    "id": "426",
+    "name": "Stadion Rujevica",
+    "city": "Rijeka",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.3403,
+      "longitude": 14.3994
+    },
+    "clubs": [
+      "991"
+    ]
+  },
+  {
+    "id": "427",
+    "name": "Stadion Gradski vrt",
+    "city": "Osijek",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.55,
+      "longitude": 18.6925
+    },
+    "clubs": [
+      "992"
+    ]
+  },
+  {
+    "id": "428",
+    "name": "Stadion Kranjčevićeva",
+    "city": "Zagreb",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.8053,
+      "longitude": 15.9497
+    },
+    "clubs": [
+      "993"
+    ]
+  },
+  {
+    "id": "429",
+    "name": "Aldo Drosina Stadium",
+    "city": "Pula",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 44.8731,
+      "longitude": 13.8478
+    },
+    "clubs": [
+      "994"
+    ]
+  },
+  {
+    "id": "430",
+    "name": "Stadion Radnika",
+    "city": "Velika Gorica",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.7167,
+      "longitude": 16.0667
+    },
+    "clubs": [
+      "995"
+    ]
+  },
+  {
+    "id": "431",
+    "name": "Stadion Anđelko Herjavec",
+    "city": "Varaždin",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 46.3069,
+      "longitude": 16.3472
+    },
+    "clubs": [
+      "996"
+    ]
+  },
+  {
+    "id": "432",
+    "name": "Stadion Miejski im. Henryka Reymana",
+    "city": "Kraków",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 50.0603,
+      "longitude": 19.9278
+    },
+    "clubs": [
+      "997"
+    ]
+  },
+  {
+    "id": "433",
+    "name": "Stadion Raków",
+    "city": "Częstochowa",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 50.8167,
+      "longitude": 19.1167
+    },
+    "clubs": [
+      "998"
+    ]
+  },
+  {
+    "id": "434",
+    "name": "Stadion Cracovii",
+    "city": "Kraków",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 50.0367,
+      "longitude": 19.9447
+    },
+    "clubs": [
+      "999"
+    ]
+  },
+  {
+    "id": "435",
+    "name": "Stadion Florian Krygier",
+    "city": "Szczecin",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 53.4292,
+      "longitude": 14.5561
+    },
+    "clubs": [
+      "1000"
+    ]
+  },
+  {
+    "id": "436",
+    "name": "Stadion Miejski",
+    "city": "Białystok",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 53.1264,
+      "longitude": 23.1608
+    },
+    "clubs": [
+      "1001"
+    ]
+  },
+  {
+    "id": "437",
+    "name": "Stadion im. Ernesta Pohla",
+    "city": "Zabrze",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 50.2986,
+      "longitude": 18.7539
+    },
+    "clubs": [
+      "1002"
+    ]
+  },
+  {
+    "id": "438",
+    "name": "Tarczyński Arena",
+    "city": "Wrocław",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 51.1408,
+      "longitude": 16.9431
+    },
+    "clubs": [
+      "1003"
+    ]
+  },
+  {
+    "id": "439",
+    "name": "Stadion Zagłębia Lubin",
+    "city": "Lubin",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 51.4014,
+      "longitude": 16.2003
+    },
+    "clubs": [
+      "1004"
+    ]
+  },
+  {
+    "id": "440",
+    "name": "MCH Arena",
+    "city": "Herning",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 56.1281,
+      "longitude": 9.0061
+    },
+    "capacity": 11809,
+    "clubs": [
+      "1005"
+    ]
+  },
+  {
+    "id": "441",
+    "name": "Ceres Park",
+    "city": "Aarhus",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 56.1325,
+      "longitude": 10.2008
+    },
+    "clubs": [
+      "1006"
+    ]
+  },
+  {
+    "id": "442",
+    "name": "Right to Dream Park",
+    "city": "Farum",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 55.8083,
+      "longitude": 12.3611
+    },
+    "capacity": 10300,
+    "clubs": [
+      "1007"
+    ]
+  },
+  {
+    "id": "443",
+    "name": "JYSK park",
+    "city": "Silkeborg",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 56.1825,
+      "longitude": 9.5364
+    },
+    "capacity": 10000,
+    "clubs": [
+      "1008"
+    ]
+  },
+  {
+    "id": "444",
+    "name": "Cepheus Park Randers",
+    "city": "Randers",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 56.4639,
+      "longitude": 10.0361
+    },
+    "capacity": 10300,
+    "clubs": [
+      "1009"
+    ]
+  },
+  {
+    "id": "445",
+    "name": "Energi Viborg Arena",
+    "city": "Viborg",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 56.45,
+      "longitude": 9.3833
+    },
+    "capacity": 9566,
+    "clubs": [
+      "1010"
+    ]
+  },
+  {
+    "id": "446",
+    "name": "Aalborg Portland Park",
+    "city": "Aalborg",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 57.0467,
+      "longitude": 9.92
+    },
+    "capacity": 13310,
+    "clubs": [
+      "1011"
+    ]
+  },
+  {
+    "id": "447",
+    "name": "Nature Energy Park",
+    "city": "Odense",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 55.3978,
+      "longitude": 10.3656
+    },
+    "clubs": [
+      "1012"
+    ]
+  },
+  {
+    "id": "448",
+    "name": "Gamla Ullevi",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 57.7072,
+      "longitude": 11.9881
+    },
+    "clubs": [
+      "1013"
+    ]
+  },
+  {
+    "id": "449",
+    "name": "Tele2 Arena",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 59.2939,
+      "longitude": 18.0808
+    },
+    "clubs": [
+      "1014",
+      "1016"
+    ]
+  },
+  {
+    "id": "450",
+    "name": "Borås Arena",
+    "city": "Borås",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 57.7225,
+      "longitude": 12.9394
+    },
+    "clubs": [
+      "1015"
+    ]
+  },
+  {
+    "id": "451",
+    "name": "Bravida Arena",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 57.6986,
+      "longitude": 12.0594
+    },
+    "clubs": [
+      "1017"
+    ]
+  },
+  {
+    "id": "452",
+    "name": "Platinumcars Arena",
+    "city": "Norrköping",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 58.5894,
+      "longitude": 16.1906
+    },
+    "clubs": [
+      "1018"
+    ]
+  },
+  {
+    "id": "453",
+    "name": "Studenternas IP",
+    "city": "Uppsala",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 59.8586,
+      "longitude": 17.6389
+    },
+    "clubs": [
+      "1019"
+    ]
+  },
+  {
+    "id": "454",
+    "name": "Guldfågeln Arena",
+    "city": "Kalmar",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 56.6656,
+      "longitude": 16.3383
+    },
+    "clubs": [
+      "1020"
+    ]
+  },
+  {
+    "id": "456",
+    "name": "Generali Arena",
+    "city": "Vienna",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 48.1653,
+      "longitude": 16.3814
+    },
+    "clubs": [
+      "1021"
+    ]
+  },
+  {
+    "id": "457",
+    "name": "Raiffeisen Arena",
+    "city": "Linz",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 48.3119,
+      "longitude": 14.2931
+    },
+    "clubs": [
+      "1022"
+    ]
+  },
+  {
+    "id": "458",
+    "name": "Lavanttal-Arena",
+    "city": "Wolfsberg",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 46.8367,
+      "longitude": 14.8428
+    },
+    "clubs": [
+      "1023"
+    ]
+  },
+  {
+    "id": "459",
+    "name": "Profertil Arena",
+    "city": "Hartberg",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 47.2833,
+      "longitude": 15.9833
+    },
+    "clubs": [
+      "1024"
+    ]
+  },
+  {
+    "id": "460",
+    "name": "Gernot Langes Stadion",
+    "city": "Wattens",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 47.2883,
+      "longitude": 11.5922
+    },
+    "clubs": [
+      "1025"
+    ]
+  },
+  {
+    "id": "461",
+    "name": "Cashpoint Arena",
+    "city": "Altach",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 47.3619,
+      "longitude": 9.6494
+    },
+    "clubs": [
+      "1026"
+    ]
+  },
+  {
+    "id": "462",
+    "name": "Wörthersee Stadion",
+    "city": "Klagenfurt",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 46.6083,
+      "longitude": 14.26
+    },
+    "clubs": [
+      "1027"
+    ]
+  },
+  {
+    "id": "463",
+    "name": "Stade de Genève",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 46.1767,
+      "longitude": 6.1258
+    },
+    "clubs": [
+      "1029"
+    ]
+  },
+  {
+    "id": "464",
+    "name": "Stadio di Cornaredo",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 46.0306,
+      "longitude": 8.9439
+    },
+    "clubs": [
+      "1030"
+    ]
+  },
+  {
+    "id": "465",
+    "name": "Kybunpark",
+    "city": "St. Gallen",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 47.4178,
+      "longitude": 9.3117
+    },
+    "clubs": [
+      "1031"
+    ]
+  },
+  {
+    "id": "466",
+    "name": "Stade de Tourbillon",
+    "city": "Sion",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 46.2333,
+      "longitude": 7.3633
+    },
+    "clubs": [
+      "1032"
+    ]
+  },
+  {
+    "id": "467",
+    "name": "Schützenwiese",
+    "city": "Winterthur",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 47.5,
+      "longitude": 8.7333
+    },
+    "clubs": [
+      "1033"
+    ]
+  },
+  {
+    "id": "468",
+    "name": "Stade Municipal",
+    "city": "Yverdon-les-Bains",
+    "country": "Switzerland",
+    "coordinates": {
+      "latitude": 46.7783,
+      "longitude": 6.6411
+    },
+    "clubs": [
+      "1034"
+    ]
+  },
+  {
+    "id": "469",
+    "name": "Dalymount Park",
+    "city": "Dublin",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.3581,
+      "longitude": -6.2667
+    },
+    "clubs": [
+      "1035"
+    ]
+  },
+  {
+    "id": "470",
+    "name": "Brandywell",
+    "city": "Derry",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.9833,
+      "longitude": -7.25
+    },
+    "clubs": [
+      "1036"
+    ]
+  },
+  {
+    "id": "471",
+    "name": "United Park",
+    "city": "Drogheda",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.7167,
+      "longitude": -6.35
+    },
+    "clubs": [
+      "1037"
+    ]
+  },
+  {
+    "id": "472",
+    "name": "Oriel Park",
+    "city": "Dundalk",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 54.0046,
+      "longitude": -6.4075
+    },
+    "clubs": [
+      "1038"
+    ]
+  },
+  {
+    "id": "473",
+    "name": "Eamonn Deacy Park",
+    "city": "Galway",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.2667,
+      "longitude": -9.05
+    },
+    "clubs": [
+      "1039"
+    ]
+  },
+  {
+    "id": "474",
+    "name": "Richmond Park",
+    "city": "Dublin",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.3333,
+      "longitude": -6.3333
+    },
+    "clubs": [
+      "1040"
+    ]
+  },
+  {
+    "id": "475",
+    "name": "Tallaght Stadium",
+    "city": "Dublin",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.2862,
+      "longitude": -6.3788
+    },
+    "clubs": [
+      "1041"
+    ]
+  },
+  {
+    "id": "476",
+    "name": "Tolka Park",
+    "city": "Dublin",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.3667,
+      "longitude": -6.25
+    },
+    "clubs": [
+      "1042"
+    ]
+  },
+  {
+    "id": "477",
+    "name": "RSC",
+    "city": "Waterford",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 52.2583,
+      "longitude": -7.5667
+    },
+    "clubs": [
+      "1044"
+    ]
+  },
+  {
+    "id": "478",
+    "name": "Athlone Town Stadium",
+    "city": "Athlone",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.4258,
+      "longitude": -7.9419
+    },
+    "clubs": [
+      "1045"
+    ]
+  },
+  {
+    "id": "479",
+    "name": "Carlisle Grounds",
+    "city": "Bray",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.2019,
+      "longitude": -6.1089
+    },
+    "clubs": [
+      "1046"
+    ]
+  },
+  {
+    "id": "480",
+    "name": "St. Colman's Park",
+    "city": "Cobh",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 51.8031,
+      "longitude": -8.2964
+    },
+    "clubs": [
+      "1047"
+    ]
+  },
+  {
+    "id": "481",
+    "name": "Turners Cross",
+    "city": "Cork",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 51.9003,
+      "longitude": -8.4789
+    },
+    "clubs": [
+      "1048"
+    ]
+  },
+  {
+    "id": "482",
+    "name": "Finn Park",
+    "city": "Ballybofey",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 54.825,
+      "longitude": -8.2667
+    },
+    "clubs": [
+      "1049"
+    ]
+  },
+  {
+    "id": "483",
+    "name": "Mounthawk Park",
+    "city": "Tralee",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 52.2667,
+      "longitude": -9.7
+    },
+    "clubs": [
+      "1050"
+    ]
+  },
+  {
+    "id": "484",
+    "name": "Bishopsgate",
+    "city": "Longford",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.7333,
+      "longitude": -7.7944
+    },
+    "clubs": [
+      "1051"
+    ]
+  },
+  {
+    "id": "485",
+    "name": "Markets Field",
+    "city": "Limerick",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 52.6613,
+      "longitude": -8.6263
+    },
+    "clubs": [
+      "1052"
+    ]
+  },
+  {
+    "id": "486",
+    "name": "UCD Bowl",
+    "city": "Dublin",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 53.3081,
+      "longitude": -6.2247
+    },
+    "clubs": [
+      "1053"
+    ]
+  },
+  {
+    "id": "487",
+    "name": "Ferrycarrig Park",
+    "city": "Crossabeg",
+    "country": "Republic of Ireland",
+    "coordinates": {
+      "latitude": 52.4,
+      "longitude": -6.55
+    },
+    "clubs": [
+      "1054"
+    ]
+  },
+  {
+    "id": "488",
+    "name": "Stadium of Light",
+    "city": "Sunderland",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.9146,
+      "longitude": -1.3884
+    },
+    "capacity": 48707,
+    "clubs": [
+      "1055"
+    ]
+  },
+  {
+    "id": "489",
+    "name": "Craven Cottage",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4749,
+      "longitude": -0.2216
+    },
+    "capacity": 29589,
+    "clubs": [
+      "1056"
+    ]
+  },
+  {
+    "id": "490",
+    "name": "Portman Road",
+    "city": "Ipswich",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.0544,
+      "longitude": 1.1455
+    },
+    "capacity": 30056,
+    "clubs": [
+      "1057"
+    ]
+  },
+  {
+    "id": "491",
+    "name": "Gtech Community Stadium",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4933,
+      "longitude": -0.291
+    },
+    "capacity": 17250,
+    "clubs": [
+      "1058"
+    ]
+  },
+  {
+    "id": "492",
+    "name": "Madejski Stadium",
+    "city": "Reading",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4222,
+      "longitude": -0.9828
+    },
+    "capacity": 24161,
+    "clubs": [
+      "1059"
+    ]
+  },
+  {
+    "id": "493",
+    "name": "City Ground",
+    "city": "Nottingham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.94,
+      "longitude": -1.1328
+    },
+    "capacity": 30404,
+    "clubs": [
+      "1060"
+    ]
+  },
+  {
+    "id": "494",
+    "name": "Vonovia Ruhrstadion",
+    "city": "Bochum",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.4894,
+      "longitude": 7.2361
+    },
+    "capacity": 26000,
+    "clubs": [
+      "1061"
+    ]
+  },
+  {
+    "id": "495",
+    "name": "Millerntor-Stadion",
+    "city": "Hamburg",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 53.5544,
+      "longitude": 9.9678
+    },
+    "capacity": 29546,
+    "clubs": [
+      "1062"
+    ]
+  },
+  {
+    "id": "496",
+    "name": "Holstein-Stadion",
+    "city": "Kiel",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 54.3486,
+      "longitude": 10.1239
+    },
+    "capacity": 15034,
+    "clubs": [
+      "1063"
+    ]
+  },
+  {
+    "id": "497",
+    "name": "Stadio Carlo Castellani",
+    "city": "Empoli",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 43.7258,
+      "longitude": 10.9419
+    },
+    "capacity": 19847,
+    "clubs": [
+      "1064"
+    ]
+  },
+  {
+    "id": "498",
+    "name": "Stadio Pier Luigi Penzo",
+    "city": "Venice",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.4283,
+      "longitude": 12.3558
+    },
+    "capacity": 12048,
+    "clubs": [
+      "1065"
+    ]
+  },
+  {
+    "id": "532",
+    "name": "Elland Road",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.7775,
+      "longitude": -1.5721
+    },
+    "capacity": 37645,
+    "clubs": [
+      "1067"
+    ]
+  },
+  {
+    "id": "573",
+    "name": "Coventry Building Society Arena",
+    "city": "Coventry",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.448056,
+      "longitude": -1.495556
+    },
+    "capacity": 32609,
+    "clubs": [
+      "1068"
+    ]
+  },
+  {
+    "id": "529",
+    "name": "Riverside Stadium",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.5781,
+      "longitude": -1.2178
+    },
+    "capacity": 34742,
+    "clubs": [
+      "1069"
+    ]
+  },
+  {
+    "id": "574",
+    "name": "The Den",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.485833,
+      "longitude": -0.050833
+    },
+    "capacity": 20146,
+    "clubs": [
+      "1070"
+    ]
+  },
+  {
+    "id": "525",
+    "name": "MKM Stadium",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.7465,
+      "longitude": -0.368
+    },
+    "capacity": 25586,
+    "clubs": [
+      "1071"
+    ]
+  },
+  {
+    "id": "578",
+    "name": "Racecourse Ground",
+    "city": "Wrexham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.0519,
+      "longitude": -3.0039
+    },
+    "capacity": 12600,
+    "clubs": [
+      "1072"
+    ]
+  },
+  {
+    "id": "576",
+    "name": "Pride Park",
+    "city": "Derby",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.915,
+      "longitude": -1.447222
+    },
+    "capacity": 33597,
+    "clubs": [
+      "1073"
+    ]
+  },
+  {
+    "id": "577",
+    "name": "Ashton Gate",
+    "city": "Bristol",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.44,
+      "longitude": -2.620278
+    },
+    "capacity": 27000,
+    "clubs": [
+      "1074"
+    ]
+  },
+  {
+    "id": "579",
+    "name": "St Andrew's Stadium",
+    "city": "Birmingham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.4756,
+      "longitude": -1.8682
+    },
+    "capacity": 29409,
+    "clubs": [
+      "1075"
+    ]
+  },
+  {
+    "id": "580",
+    "name": "Deepdale",
+    "city": "Preston",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.772,
+      "longitude": -2.6883
+    },
+    "capacity": 23404,
+    "clubs": [
+      "1076"
+    ]
+  },
+  {
+    "id": "524",
+    "name": "Swansea.com Stadium",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.44,
+      "longitude": -2.6203
+    },
+    "capacity": 27000,
+    "clubs": [
+      "1077"
+    ]
+  },
+  {
+    "id": "527",
+    "name": "bet365 Stadium",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.9884,
+      "longitude": -2.1754
+    },
+    "capacity": 30089,
+    "clubs": [
+      "1078"
+    ]
+  },
+  {
+    "id": "517",
+    "name": "Loftus Road Stadium",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5093,
+      "longitude": -0.2322
+    },
+    "capacity": 18439,
+    "clubs": [
+      "1079"
+    ]
+  },
+  {
+    "id": "581",
+    "name": "The Valley",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4865,
+      "longitude": 0.0368
+    },
+    "capacity": 27111,
+    "clubs": [
+      "1080"
+    ]
+  },
+  {
+    "id": "582",
+    "name": "Fratton Park",
+    "city": "Portsmouth",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.7964,
+      "longitude": -1.0639
+    },
+    "capacity": 20688,
+    "clubs": [
+      "1081"
+    ]
+  },
+  {
+    "id": "583",
+    "name": "Ewood Park",
+    "city": "Blackburn",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.7286,
+      "longitude": -2.4894
+    },
+    "capacity": 31367,
+    "clubs": [
+      "1082"
+    ]
+  },
+  {
+    "id": "530",
+    "name": "The Hawthorns",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.509,
+      "longitude": -1.9642
+    },
+    "capacity": 26850,
+    "clubs": [
+      "1083"
+    ]
+  },
+  {
+    "id": "584",
+    "name": "Kassam Stadium",
+    "city": "Oxford",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.7164,
+      "longitude": -1.2078
+    },
+    "capacity": 12500,
+    "clubs": [
+      "1084"
+    ]
+  },
+  {
+    "id": "585",
+    "name": "Hillsborough Stadium",
+    "city": "Sheffield",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.4115,
+      "longitude": -1.5008
+    },
+    "capacity": 34835,
+    "clubs": [
+      "1085"
+    ]
+  },
+  {
+    "id": "586",
+    "name": "LNER Stadium",
+    "city": "Lincoln",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.21,
+      "longitude": -0.54
+    },
+    "capacity": 10669,
+    "clubs": [
+      "1086"
+    ]
+  },
+  {
+    "id": "528",
+    "name": "Cardiff City Stadium",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4729,
+      "longitude": -3.2041
+    },
+    "capacity": 33280,
+    "clubs": [
+      "1087"
+    ]
+  },
+  {
+    "id": "587",
+    "name": "Toughsheet Community Stadium",
+    "city": "Bolton",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5805,
+      "longitude": -2.5357
+    },
+    "capacity": 28723,
+    "clubs": [
+      "1088"
+    ]
+  },
+  {
+    "id": "588",
+    "name": "Valley Parade",
+    "city": "Bradford",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.8042,
+      "longitude": -1.759
+    },
+    "capacity": 25136,
+    "clubs": [
+      "1089"
+    ]
+  },
+  {
+    "id": "589",
+    "name": "Edgeley Park",
+    "city": "Stockport",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.3998,
+      "longitude": -2.1664
+    },
+    "capacity": 10852,
+    "clubs": [
+      "1090"
+    ]
+  },
+  {
+    "id": "520",
+    "name": "John Smith's Stadium",
+    "city": "Huddersfield",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.6542,
+      "longitude": -1.7683
+    },
+    "capacity": 24500,
+    "clubs": [
+      "1091"
+    ]
+  },
+  {
+    "id": "590",
+    "name": "Lamex Stadium",
+    "city": "Stevenage",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.8898,
+      "longitude": -0.1937
+    },
+    "capacity": 7200,
+    "clubs": [
+      "1092"
+    ]
+  },
+  {
+    "id": "591",
+    "name": "Adams Park",
+    "city": "High Wycombe",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.6306,
+      "longitude": -0.8003
+    },
+    "capacity": 10137,
+    "clubs": [
+      "1093"
+    ]
+  },
+  {
+    "id": "592",
+    "name": "Home Park",
+    "city": "Plymouth",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.3882,
+      "longitude": -4.1508
+    },
+    "capacity": 17900,
+    "clubs": [
+      "1094"
+    ]
+  },
+  {
+    "id": "516",
+    "name": "Kenilworth Road",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.8842,
+      "longitude": -0.4316
+    },
+    "capacity": 12300,
+    "clubs": [
+      "1095"
+    ]
+  },
+  {
+    "id": "593",
+    "name": "Oakwell",
+    "city": "Barnsley",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5524,
+      "longitude": -1.4676
+    },
+    "capacity": 23287,
+    "clubs": [
+      "1096"
+    ]
+  },
+  {
+    "id": "594",
+    "name": "London Road Stadium",
+    "city": "Peterborough",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.5648,
+      "longitude": -0.2404
+    },
+    "capacity": 15314,
+    "clubs": [
+      "1097"
+    ]
+  },
+  {
+    "id": "595",
+    "name": "Cherry Red Records Stadium",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4314,
+      "longitude": -0.1867
+    },
+    "capacity": 9215,
+    "clubs": [
+      "1098"
+    ]
+  },
+  {
+    "id": "596",
+    "name": "St James Park",
+    "city": "Exeter",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.7307,
+      "longitude": -3.5211
+    },
+    "capacity": 8720,
+    "clubs": [
+      "1099"
+    ]
+  },
+  {
+    "id": "597",
+    "name": "One Call Stadium",
+    "city": "Mansfield",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.1378,
+      "longitude": -1.2013
+    },
+    "capacity": 9186,
+    "clubs": [
+      "1100"
+    ]
+  },
+  {
+    "id": "598",
+    "name": "Pirelli Stadium",
+    "city": "Burton upon Trent",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.8219,
+      "longitude": -1.6271
+    },
+    "capacity": 6912,
+    "clubs": [
+      "1101"
+    ]
+  },
+  {
+    "id": "599",
+    "name": "Eco-Power Stadium",
+    "city": "Doncaster",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5099,
+      "longitude": -1.1138
+    },
+    "capacity": 15231,
+    "clubs": [
+      "1102"
+    ]
+  },
+  {
+    "id": "519",
+    "name": "DW Stadium",
+    "city": "Wigan",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5478,
+      "longitude": -2.6539
+    },
+    "capacity": 25133,
+    "clubs": [
+      "1103"
+    ]
+  },
+  {
+    "id": "600",
+    "name": "Bloomfield Road",
+    "city": "Blackpool",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.8046,
+      "longitude": -3.0483
+    },
+    "capacity": 16616,
+    "clubs": [
+      "1104"
+    ]
+  },
+  {
+    "id": "601",
+    "name": "Brisbane Road",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5601,
+      "longitude": -0.0126
+    },
+    "capacity": 9271,
+    "clubs": [
+      "1105"
+    ]
+  },
+  {
+    "id": "602",
+    "name": "New York Stadium",
+    "city": "Rotherham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.4281,
+      "longitude": -1.3617
+    },
+    "capacity": 12021,
+    "clubs": [
+      "1106"
+    ]
+  },
+  {
+    "id": "603",
+    "name": "Sixfields Stadium",
+    "city": "Northampton",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.2352,
+      "longitude": -0.9335
+    },
+    "capacity": 8203,
+    "clubs": [
+      "1107"
+    ]
+  },
+  {
+    "id": "604",
+    "name": "Vale Park",
+    "city": "Stoke-on-Trent",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.05,
+      "longitude": -2.1926
+    },
+    "capacity": 19052,
+    "clubs": [
+      "1108"
+    ]
+  },
+  {
+    "id": "605",
+    "name": "Hayes Lane",
+    "city": "Bromley",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.3886,
+      "longitude": 0.0211
+    },
+    "capacity": 6100,
+    "clubs": [
+      "1109"
+    ]
+  },
+  {
+    "id": "606",
+    "name": "Stadium MK",
+    "city": "Milton Keynes",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.0096,
+      "longitude": -0.7335
+    },
+    "capacity": 30500,
+    "clubs": [
+      "1110"
+    ]
+  },
+  {
+    "id": "607",
+    "name": "Abbey Stadium",
+    "city": "Cambridge",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.2128,
+      "longitude": 0.1543
+    },
+    "capacity": 8127,
+    "clubs": [
+      "1111"
+    ]
+  },
+  {
+    "id": "608",
+    "name": "Meadow Lane",
+    "city": "Nottingham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.9425,
+      "longitude": -1.137
+    },
+    "capacity": 19841,
+    "clubs": [
+      "1112"
+    ]
+  },
+  {
+    "id": "609",
+    "name": "County Ground",
+    "city": "Swindon",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5645,
+      "longitude": -1.7711
+    },
+    "capacity": 15728,
+    "clubs": [
+      "1113"
+    ]
+  },
+  {
+    "id": "610",
+    "name": "Peninsula Stadium",
+    "city": "Salford",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5175,
+      "longitude": -2.2769
+    },
+    "capacity": 5108,
+    "clubs": [
+      "1114"
+    ]
+  },
+  {
+    "id": "611",
+    "name": "Blundell Park",
+    "city": "Cleethorpes",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5703,
+      "longitude": -0.0219
+    },
+    "capacity": 9052,
+    "clubs": [
+      "1115"
+    ]
+  },
+  {
+    "id": "612",
+    "name": "SMH Group Stadium",
+    "city": "Chesterfield",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.2536,
+      "longitude": -1.4272
+    },
+    "capacity": 10504,
+    "clubs": [
+      "1116"
+    ]
+  },
+  {
+    "id": "613",
+    "name": "Mornflake Stadium",
+    "city": "Crewe",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.0875,
+      "longitude": -2.4357
+    },
+    "capacity": 10153,
+    "clubs": [
+      "1117"
+    ]
+  },
+  {
+    "id": "614",
+    "name": "The Hive Stadium",
+    "city": "London",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.6028,
+      "longitude": -0.2917
+    },
+    "capacity": 6500,
+    "clubs": [
+      "1118"
+    ]
+  },
+  {
+    "id": "615",
+    "name": "Bescot Stadium",
+    "city": "Walsall",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.5655,
+      "longitude": -1.9905
+    },
+    "capacity": 11300,
+    "clubs": [
+      "1119"
+    ]
+  },
+  {
+    "id": "616",
+    "name": "JobServe Community Stadium",
+    "city": "Colchester",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.9234,
+      "longitude": 0.8979
+    },
+    "capacity": 10105,
+    "clubs": [
+      "1120"
+    ]
+  },
+  {
+    "id": "617",
+    "name": "Boundary Park",
+    "city": "Oldham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5551,
+      "longitude": -2.1285
+    },
+    "capacity": 13513,
+    "clubs": [
+      "1121"
+    ]
+  },
+  {
+    "id": "618",
+    "name": "Highbury Stadium",
+    "city": "Fleetwood",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.9165,
+      "longitude": -3.0248
+    },
+    "capacity": 5327,
+    "clubs": [
+      "1122"
+    ]
+  },
+  {
+    "id": "619",
+    "name": "Wham Stadium",
+    "city": "Accrington",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.7654,
+      "longitude": -2.3711
+    },
+    "capacity": 5450,
+    "clubs": [
+      "1123"
+    ]
+  },
+  {
+    "id": "620",
+    "name": "Priestfield Stadium",
+    "city": "Gillingham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.3844,
+      "longitude": 0.5604
+    },
+    "capacity": 11582,
+    "clubs": [
+      "1124"
+    ]
+  },
+  {
+    "id": "621",
+    "name": "New Meadow",
+    "city": "Shrewsbury",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.6886,
+      "longitude": -2.7493
+    },
+    "capacity": 9875,
+    "clubs": [
+      "1125"
+    ]
+  },
+  {
+    "id": "622",
+    "name": "Whaddon Road",
+    "city": "Cheltenham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.9062,
+      "longitude": -2.0602
+    },
+    "capacity": 7066,
+    "clubs": [
+      "1126"
+    ]
+  },
+  {
+    "id": "623",
+    "name": "Prenton Park",
+    "city": "Birkenhead",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.3738,
+      "longitude": -3.0327
+    },
+    "capacity": 16789,
+    "clubs": [
+      "1127"
+    ]
+  },
+  {
+    "id": "624",
+    "name": "Memorial Stadium",
+    "city": "Bristol",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.4862,
+      "longitude": -2.5832
+    },
+    "capacity": 9832,
+    "clubs": [
+      "1128"
+    ]
+  },
+  {
+    "id": "625",
+    "name": "Broadfield Stadium",
+    "city": "Crawley",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.1,
+      "longitude": -0.1946
+    },
+    "capacity": 5996,
+    "clubs": [
+      "1129"
+    ]
+  },
+  {
+    "id": "626",
+    "name": "Holker Street",
+    "city": "Barrow-in-Furness",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.1211,
+      "longitude": -3.2372
+    },
+    "capacity": 6500,
+    "clubs": [
+      "1130"
+    ]
+  },
+  {
+    "id": "627",
+    "name": "Rodney Parade",
+    "city": "Newport",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5889,
+      "longitude": -2.989
+    },
+    "capacity": 7850,
+    "clubs": [
+      "1131"
+    ]
+  },
+  {
+    "id": "628",
+    "name": "Wetherby Road",
+    "city": "Harrogate",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.9919,
+      "longitude": -1.5153
+    },
+    "capacity": 5000,
+    "clubs": [
+      "1132"
+    ]
+  },
+  {
+    "id": "629",
+    "name": "Spotland Stadium",
+    "city": "Rochdale",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.6209,
+      "longitude": -2.18
+    },
+    "capacity": 10249,
+    "clubs": [
+      "1133"
+    ]
+  },
+  {
+    "id": "630",
+    "name": "Brunton Park",
+    "city": "Carlisle",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.8955,
+      "longitude": -2.9137
+    },
+    "capacity": 17949,
+    "clubs": [
+      "1134"
+    ]
+  },
+  {
+    "id": "631",
+    "name": "Meadow Park",
+    "city": "Borehamwood",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.6622,
+      "longitude": -0.2719
+    },
+    "capacity": 4502,
+    "clubs": [
+      "1135"
+    ]
+  },
+  {
+    "id": "632",
+    "name": "The New Lawn",
+    "city": "Nailsworth",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.6967,
+      "longitude": -2.23
+    },
+    "capacity": 5147,
+    "clubs": [
+      "1136"
+    ]
+  },
+  {
+    "id": "633",
+    "name": "Glanford Park",
+    "city": "Scunthorpe",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.5867,
+      "longitude": -0.6952
+    },
+    "capacity": 9088,
+    "clubs": [
+      "1137"
+    ]
+  },
+  {
+    "id": "634",
+    "name": "The Shay",
+    "city": "Halifax",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.7125,
+      "longitude": -1.8589
+    },
+    "capacity": 10400,
+    "clubs": [
+      "1138"
+    ]
+  },
+  {
+    "id": "635",
+    "name": "Roots Hall",
+    "city": "Southend-on-Sea",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5491,
+      "longitude": 0.7016
+    },
+    "capacity": 12392,
+    "clubs": [
+      "1139"
+    ]
+  },
+  {
+    "id": "636",
+    "name": "Victoria Park",
+    "city": "Hartlepool",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.6891,
+      "longitude": -1.2127
+    },
+    "capacity": 7856,
+    "clubs": [
+      "1140"
+    ]
+  },
+  {
+    "id": "637",
+    "name": "The Lamb Ground",
+    "city": "Tamworth",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.6272,
+      "longitude": -1.6878
+    },
+    "capacity": 4565,
+    "clubs": [
+      "1141"
+    ]
+  },
+  {
+    "id": "638",
+    "name": "Jakemans Community Stadium",
+    "city": "Boston",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.9564,
+      "longitude": -0.0106
+    },
+    "capacity": 5061,
+    "clubs": [
+      "1142"
+    ]
+  },
+  {
+    "id": "639",
+    "name": "Damson Park",
+    "city": "Solihull",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.4394,
+      "longitude": -1.7647
+    },
+    "capacity": 5500,
+    "clubs": [
+      "1143"
+    ]
+  },
+  {
+    "id": "640",
+    "name": "Moss Lane",
+    "city": "Altrincham",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.3894,
+      "longitude": -2.3486
+    },
+    "capacity": 7700,
+    "clubs": [
+      "1144"
+    ]
+  },
+  {
+    "id": "641",
+    "name": "Kingfield Stadium",
+    "city": "Woking",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.3092,
+      "longitude": -0.5594
+    },
+    "capacity": 6036,
+    "clubs": [
+      "1145"
+    ]
+  },
+  {
+    "id": "642",
+    "name": "Recreation Ground",
+    "city": "Aldershot",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.2484,
+      "longitude": -0.7549
+    },
+    "capacity": 7100,
+    "clubs": [
+      "1146"
+    ]
+  },
+  {
+    "id": "643",
+    "name": "Grosvenor Vale",
+    "city": "Ruislip",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.5744,
+      "longitude": -0.4311
+    },
+    "capacity": 4085,
+    "clubs": [
+      "1147"
+    ]
+  },
+  {
+    "id": "644",
+    "name": "Huish Park",
+    "city": "Yeovil",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.9503,
+      "longitude": -2.6738
+    },
+    "capacity": 9566,
+    "clubs": [
+      "1148"
+    ]
+  },
+  {
+    "id": "645",
+    "name": "Gander Green Lane",
+    "city": "Sutton",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.3725,
+      "longitude": -0.1986
+    },
+    "capacity": 5013,
+    "clubs": [
+      "1149"
+    ]
+  },
+  {
+    "id": "646",
+    "name": "Silverlake Stadium",
+    "city": "Eastleigh",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.9542,
+      "longitude": -1.3694
+    },
+    "capacity": 5250,
+    "clubs": [
+      "1150"
+    ]
+  },
+  {
+    "id": "647",
+    "name": "St James Park (Brackley)",
+    "city": "Brackley",
+    "country": "England",
+    "coordinates": {
+      "latitude": 52.0253,
+      "longitude": -1.1481
+    },
+    "capacity": 3500,
+    "clubs": [
+      "1151"
+    ]
+  },
+  {
+    "id": "648",
+    "name": "Mazuma Mobile Stadium",
+    "city": "Morecambe",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.0675,
+      "longitude": -2.8471
+    },
+    "capacity": 6476,
+    "clubs": [
+      "1152"
+    ]
+  },
+  {
+    "id": "649",
+    "name": "Cressing Road",
+    "city": "Braintree",
+    "country": "England",
+    "coordinates": {
+      "latitude": 51.8789,
+      "longitude": 0.5672
+    },
+    "capacity": 4222,
+    "clubs": [
+      "1153"
+    ]
+  },
+  {
+    "id": "650",
+    "name": "Gateshead International Stadium",
+    "city": "Gateshead",
+    "country": "England",
+    "coordinates": {
+      "latitude": 54.955,
+      "longitude": -1.5989
+    },
+    "capacity": 11800,
+    "clubs": [
+      "1154"
+    ]
+  },
+  {
+    "id": "651",
+    "name": "Truro City Stadium",
+    "city": "Truro",
+    "country": "England",
+    "coordinates": {
+      "latitude": 50.2586,
+      "longitude": -5.0594
+    },
+    "capacity": 3600,
+    "clubs": [
+      "1155"
+    ]
+  },
+  {
+    "id": "533",
+    "name": "Falkirk Stadium",
+    "city": "Falkirk",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 56.005,
+      "longitude": -3.7542
+    },
+    "capacity": 7937,
+    "clubs": [
+      "1156"
+    ]
+  },
+  {
+    "id": "526",
+    "name": "Dens Park",
+    "city": "Dundee",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 56.4753,
+      "longitude": -2.9731
+    },
+    "capacity": 11850,
+    "clubs": [
+      "1157"
+    ]
+  },
+  {
+    "id": "521",
+    "name": "Home of the Set Fare Arena",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 55.8864,
+      "longitude": -3.5221
+    },
+    "capacity": 9512,
+    "clubs": [
+      "1158"
+    ]
+  },
+  {
+    "id": "534",
+    "name": "Estadio de Vallecas",
+    "city": "",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 40.3919,
+      "longitude": -3.6592
+    },
+    "capacity": 14708,
+    "clubs": [
+      "1159"
+    ]
+  },
+  {
+    "id": "535",
+    "name": "Montilivi",
+    "city": "",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 41.9614,
+      "longitude": 2.8286
+    },
+    "capacity": 14624,
+    "clubs": [
+      "1160"
+    ]
+  },
+  {
+    "id": "536",
+    "name": "Manuel Martínez Valero",
+    "city": "",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 38.267,
+      "longitude": -0.6628
+    },
+    "capacity": 31388,
+    "clubs": [
+      "1161"
+    ]
+  },
+  {
+    "id": "537",
+    "name": "Carlos Tartiere",
+    "city": "",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 43.3606,
+      "longitude": -5.8711
+    },
+    "capacity": 30500,
+    "clubs": [
+      "1162"
+    ]
+  },
+  {
+    "id": "523",
+    "name": "SIGNAL IDUNA PARK",
+    "city": "",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 51.4926,
+      "longitude": 7.4519
+    },
+    "capacity": 81365,
+    "clubs": [
+      "1163"
+    ]
+  },
+  {
+    "id": "652",
+    "name": "Volksparkstadion",
+    "city": "Hamburg",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 53.5872,
+      "longitude": 9.8986
+    },
+    "capacity": 57000,
+    "clubs": [
+      "1164"
+    ]
+  },
+  {
+    "id": "538",
+    "name": "Voith-Arena",
+    "city": "",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 48.6783,
+      "longitude": 10.1386
+    },
+    "capacity": 15000,
+    "clubs": [
+      "1166"
+    ]
+  },
+  {
+    "id": "539",
+    "name": "Stade Bollaert-Delelis",
+    "city": "",
+    "country": "France",
+    "coordinates": {
+      "latitude": 50.4328,
+      "longitude": 2.8147
+    },
+    "capacity": 38223,
+    "clubs": [
+      "1167"
+    ]
+  },
+  {
+    "id": "518",
+    "name": "Groupama Stadium",
+    "city": "Décines-Charpieu",
+    "country": "France",
+    "coordinates": {
+      "latitude": 45.7653,
+      "longitude": 4.9819
+    },
+    "capacity": 59186,
+    "clubs": [
+      "1168"
+    ]
+  },
+  {
+    "id": "540",
+    "name": "Stade du Moustoir",
+    "city": "",
+    "country": "France",
+    "coordinates": {
+      "latitude": 47.7489,
+      "longitude": -3.3694
+    },
+    "capacity": 16787,
+    "clubs": [
+      "1169"
+    ]
+  },
+  {
+    "id": "654",
+    "name": "Stade Raymond-Kopa",
+    "city": "Angers",
+    "country": "France",
+    "coordinates": {
+      "latitude": 47.4603,
+      "longitude": -0.5306
+    },
+    "capacity": 18000,
+    "clubs": [
+      "1170"
+    ]
+  },
+  {
+    "id": "515",
+    "name": "Stade Jean Bouin",
+    "city": "Paris",
+    "country": "France",
+    "coordinates": {
+      "latitude": 48.8431,
+      "longitude": 2.2528
+    },
+    "capacity": 20000,
+    "clubs": [
+      "1171"
+    ]
+  },
+  {
+    "id": "541",
+    "name": "Stade Océane",
+    "city": "",
+    "country": "France",
+    "coordinates": {
+      "latitude": 49.4989,
+      "longitude": 0.1711
+    },
+    "capacity": 25178,
+    "clubs": [
+      "1172"
+    ]
+  },
+  {
+    "id": "655",
+    "name": "Stade de l'Abbé-Deschamps",
+    "city": "Auxerre",
+    "country": "France",
+    "coordinates": {
+      "latitude": 47.7869,
+      "longitude": 3.5881
+    },
+    "capacity": 18541,
+    "clubs": [
+      "1173"
+    ]
+  },
+  {
+    "id": "656",
+    "name": "Stadio Giuseppe Meazza",
+    "city": "Milan",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 44.1008,
+      "longitude": 9.8092
+    },
+    "capacity": 10336,
+    "clubs": [
+      "1174",
+      "1175"
+    ]
+  },
+  {
+    "id": "542",
+    "name": "Giuseppe Sinigaglia",
+    "city": "",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 45.8119,
+      "longitude": 9.0744
+    },
+    "capacity": 12039,
+    "clubs": [
+      "1176"
+    ]
+  },
+  {
+    "id": "543",
+    "name": "Cetilar® Arena",
+    "city": "",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 43.7253,
+      "longitude": 10.3961
+    },
+    "capacity": 12508,
+    "clubs": [
+      "1177"
+    ]
+  },
+  {
+    "id": "657",
+    "name": "Goffertstadion",
+    "city": "Nijmegen",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 51.8225,
+      "longitude": 5.8369
+    },
+    "capacity": 12501,
+    "clubs": [
+      "1179"
+    ]
+  },
+  {
+    "id": "547",
+    "name": "Stadion \"Galgenwaard\"",
+    "city": "",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.0783,
+      "longitude": 5.1458
+    },
+    "capacity": 23750,
+    "clubs": [
+      "1183"
+    ]
+  },
+  {
+    "id": "549",
+    "name": "Fortuna Sittard Stadion",
+    "city": "",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 50.9919,
+      "longitude": 5.8589
+    },
+    "capacity": 12800,
+    "clubs": [
+      "1185"
+    ]
+  },
+  {
+    "id": "550",
+    "name": "Kras Stadion",
+    "city": "",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.4928,
+      "longitude": 5.0672
+    },
+    "capacity": 6800,
+    "clubs": [
+      "1186"
+    ]
+  },
+  {
+    "id": "551",
+    "name": "Stadion \"Woudestein\"",
+    "city": "",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 51.9178,
+      "longitude": 4.5153
+    },
+    "capacity": 4400,
+    "clubs": [
+      "1187"
+    ]
+  },
+  {
+    "id": "552",
+    "name": "BUKO Stadion",
+    "city": "",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.4561,
+      "longitude": 4.6431
+    },
+    "capacity": 5338,
+    "clubs": [
+      "1188"
+    ]
+  },
+  {
+    "id": "658",
+    "name": "Rat Verlegh Stadion",
+    "city": "Breda",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 51.595,
+      "longitude": 4.7503
+    },
+    "capacity": 20500,
+    "clubs": [
+      "1189"
+    ]
+  },
+  {
+    "id": "553",
+    "name": "Asito Stadion",
+    "city": "",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.3494,
+      "longitude": 6.6411
+    },
+    "capacity": 12242,
+    "clubs": [
+      "1190"
+    ]
+  },
+  {
+    "id": "554",
+    "name": "Estádio Cidade de Barcelos",
+    "city": "",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.5503,
+      "longitude": -8.6322
+    },
+    "capacity": 12046,
+    "clubs": [
+      "1192"
+    ]
+  },
+  {
+    "id": "555",
+    "name": "Estádio Municipal de Famalicão",
+    "city": "",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.4086,
+      "longitude": -8.5233
+    },
+    "capacity": 5186,
+    "clubs": [
+      "1193"
+    ]
+  },
+  {
+    "id": "556",
+    "name": "Estádio António Coimbra da Mota",
+    "city": "",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.7061,
+      "longitude": -9.3939
+    },
+    "capacity": 5094,
+    "clubs": [
+      "1194"
+    ]
+  },
+  {
+    "id": "557",
+    "name": "Complexo Desportivo FC Alverca",
+    "city": "",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.905,
+      "longitude": -9.0314
+    },
+    "capacity": 6900,
+    "clubs": [
+      "1195"
+    ]
+  },
+  {
+    "id": "558",
+    "name": "Estádio José Gomes",
+    "city": "",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.752,
+      "longitude": -9.228
+    },
+    "capacity": 9288,
+    "clubs": [
+      "1196"
+    ]
+  },
+  {
+    "id": "559",
+    "name": "Estádio Municipal de Rio Maior",
+    "city": "",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 39.3336,
+      "longitude": -8.9367
+    },
+    "capacity": 7000,
+    "clubs": [
+      "1197"
+    ]
+  },
+  {
+    "id": "560",
+    "name": "Estádio João Cardoso",
+    "city": "",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 40.5153,
+      "longitude": -8.08
+    },
+    "capacity": 5000,
+    "clubs": [
+      "1198"
+    ]
+  },
+  {
+    "id": "660",
+    "name": "Estádio do Clube Desportivo das Aves",
+    "city": "Vila das Aves",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 41.3656,
+      "longitude": -8.4086
+    },
+    "capacity": 6230,
+    "clubs": [
+      "1199"
+    ]
+  },
+  {
+    "id": "561",
+    "name": "Başakşehir Fatih Terim",
+    "city": "",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.1292,
+      "longitude": 28.8089
+    },
+    "capacity": 17067,
+    "clubs": [
+      "1200"
+    ]
+  },
+  {
+    "id": "562",
+    "name": "Gürsel Aksel Stadyumu",
+    "city": "",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 38.3942,
+      "longitude": 27.0869
+    },
+    "capacity": 23376,
+    "clubs": [
+      "1201"
+    ]
+  },
+  {
+    "id": "563",
+    "name": "Turka Araç Muayene Kocaeli Stadyumu",
+    "city": "",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 40.7647,
+      "longitude": 29.9517
+    },
+    "capacity": 34829,
+    "clubs": [
+      "1202"
+    ]
+  },
+  {
+    "id": "522",
+    "name": "Samsun Yeni 19 Mayıs",
+    "city": "Samsun",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.2464,
+      "longitude": 36.4633
+    },
+    "capacity": 34303,
+    "clubs": [
+      "1203"
+    ]
+  },
+  {
+    "id": "564",
+    "name": "Çaykur Didi",
+    "city": "",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.0217,
+      "longitude": 40.5378
+    },
+    "capacity": 14879,
+    "clubs": [
+      "1204"
+    ]
+  },
+  {
+    "id": "565",
+    "name": "Eryaman Stadyumu",
+    "city": "",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 39.9758,
+      "longitude": 32.6408
+    },
+    "capacity": 20000,
+    "clubs": [
+      "1205"
+    ]
+  },
+  {
+    "id": "661",
+    "name": "Eyüp Stadium",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.0528,
+      "longitude": 28.9314
+    },
+    "capacity": 2500,
+    "clubs": [
+      "1206"
+    ]
+  },
+  {
+    "id": "566",
+    "name": "RHG Enertürk Enerji Stadyumu",
+    "city": "",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 38.7372,
+      "longitude": 35.4231
+    },
+    "capacity": 31856,
+    "clubs": [
+      "1207"
+    ]
+  },
+  {
+    "id": "567",
+    "name": "Atatürk Olimpiyat",
+    "city": "",
+    "country": "Turkey",
+    "coordinates": {
+      "latitude": 41.0744,
+      "longitude": 28.7658
+    },
+    "capacity": 77563,
+    "clubs": [
+      "1208"
+    ]
+  },
+  {
+    "id": "568",
+    "name": "Stadio Livadias \"Lampros Katsonis\"",
+    "city": "",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 38.4397,
+      "longitude": 22.8928
+    },
+    "capacity": 5915,
+    "clubs": [
+      "1209"
+    ]
+  },
+  {
+    "id": "663",
+    "name": "Theodoros Vardinogiannis Stadium",
+    "city": "Heraklion",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 35.3458,
+      "longitude": 25.1064
+    },
+    "capacity": 9000,
+    "clubs": [
+      "1211"
+    ]
+  },
+  {
+    "id": "569",
+    "name": "Stadio Peristeriou",
+    "city": "",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 38.005,
+      "longitude": 23.6953
+    },
+    "capacity": 9050,
+    "clubs": [
+      "1212"
+    ]
+  },
+  {
+    "id": "664",
+    "name": "Panthessaliko Stadium",
+    "city": "Volos",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 39.3917,
+      "longitude": 22.9314
+    },
+    "capacity": 22000,
+    "clubs": [
+      "1213"
+    ]
+  },
+  {
+    "id": "665",
+    "name": "Panetolikos Stadium",
+    "city": "Agrinio",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 38.6361,
+      "longitude": 21.4064
+    },
+    "capacity": 7000,
+    "clubs": [
+      "1214"
+    ]
+  },
+  {
+    "id": "570",
+    "name": "Gipedo Neapolis",
+    "city": "",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 37.98,
+      "longitude": 23.6481
+    },
+    "capacity": 4999,
+    "clubs": [
+      "1215"
+    ]
+  },
+  {
+    "id": "666",
+    "name": "AEL FC Arena",
+    "city": "Larissa",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 39.6175,
+      "longitude": 22.4086
+    },
+    "capacity": 16000,
+    "clubs": [
+      "1216"
+    ]
+  },
+  {
+    "id": "571",
+    "name": "Gipedo Theodoros Kolokotronis",
+    "city": "",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 37.5181,
+      "longitude": 22.3861
+    },
+    "capacity": 7423,
+    "clubs": [
+      "1217"
+    ]
+  },
+  {
+    "id": "572",
+    "name": "Dimotiko Gipedo Serron",
+    "city": "",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 41.0919,
+      "longitude": 23.5511
+    },
+    "capacity": 9500,
+    "clubs": [
+      "1218"
+    ]
+  },
+  {
+    "id": "667",
+    "name": "Stangmore Park",
+    "city": "Dungannon",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.4895,
+      "longitude": -6.7458
+    },
+    "capacity": 3000,
+    "clubs": [
+      "1219"
+    ]
+  },
+  {
+    "id": "668",
+    "name": "Taylors Avenue",
+    "city": "Carrickfergus",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.7197,
+      "longitude": -5.8003
+    },
+    "capacity": 6000,
+    "clubs": [
+      "1220"
+    ]
+  },
+  {
+    "id": "669",
+    "name": "Mourneview Park",
+    "city": "Lurgan",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 54.4542,
+      "longitude": -6.3367
+    },
+    "capacity": 5000,
+    "clubs": [
+      "1221"
+    ]
+  },
+  {
+    "id": "673",
+    "name": "York Community Stadium",
+    "city": "York",
+    "country": "England",
+    "coordinates": {
+      "latitude": 53.984722,
+      "longitude": -1.052778
+    },
+    "capacity": 8500,
+    "clubs": [
+      "1222"
+    ]
+  },
+  {
+    "id": "670",
+    "name": "Gradski stadion Ivan Kušek-Apaš",
+    "city": "Koprivnica",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 46.1675,
+      "longitude": 16.8358
+    },
+    "capacity": 3205,
+    "clubs": [
+      "1223"
+    ]
+  },
+  {
+    "id": "671",
+    "name": "Stadion Radnik",
+    "city": "Velika Gorica",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.7164,
+      "longitude": 16.0667
+    },
+    "capacity": 4536,
+    "clubs": [
+      "1224"
+    ]
+  },
+  {
+    "id": "672",
+    "name": "Stadion HNK Cibalia",
+    "city": "Vinkovci",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.2942,
+      "longitude": 18.8142
+    },
+    "capacity": 8200,
+    "clubs": [
+      "1225"
+    ]
+  },
+  {
+    "id": "676",
+    "name": "Balmoor",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "4,000",
+    "clubs": [
+      "1226"
+    ]
+  },
+  {
+    "id": "677",
+    "name": "Bangor Fuels Arena",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,000",
+    "clubs": [
+      "1227"
+    ]
+  },
+  {
+    "id": "678",
+    "name": "Bayview Stadium",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,000",
+    "clubs": [
+      "1228"
+    ]
+  },
+  {
+    "id": "679",
+    "name": "Borough Briggs",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "4,927",
+    "clubs": [
+      "1229"
+    ]
+  },
+  {
+    "id": "680",
+    "name": "Brandywell Stadium",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "3,700",
+    "clubs": [
+      "1230"
+    ]
+  },
+  {
+    "id": "681",
+    "name": "Breda Park",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "1,000",
+    "clubs": [
+      "1231"
+    ]
+  },
+  {
+    "id": "682",
+    "name": "Broadwood Stadium",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "8,029",
+    "clubs": [
+      "1232"
+    ]
+  },
+  {
+    "id": "683",
+    "name": "Cappielow Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "19,612",
+    "clubs": [
+      "1233"
+    ]
+  },
+  {
+    "id": "684",
+    "name": "Central Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "4,370",
+    "clubs": [
+      "1234"
+    ]
+  },
+  {
+    "id": "685",
+    "name": "Cliftonhill",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,496",
+    "clubs": [
+      "1235"
+    ]
+  },
+  {
+    "id": "686",
+    "name": "Darragh Park",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,000",
+    "clubs": [
+      "1236"
+    ]
+  },
+  {
+    "id": "687",
+    "name": "Dixon Park",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,398",
+    "clubs": [
+      "1237"
+    ]
+  },
+  {
+    "id": "688",
+    "name": "Dumbarton Football Stadium",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,025",
+    "clubs": [
+      "1238"
+    ]
+  },
+  {
+    "id": "689",
+    "name": "East End Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "11,380",
+    "clubs": [
+      "1239"
+    ]
+  },
+  {
+    "id": "690",
+    "name": "Edgar Street",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "5,300",
+    "clubs": [
+      "1240"
+    ]
+  },
+  {
+    "id": "691",
+    "name": "Ferney Park",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,000",
+    "clubs": [
+      "1241"
+    ]
+  },
+  {
+    "id": "692",
+    "name": "Field Mill",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "9,186",
+    "clubs": [
+      "1242"
+    ]
+  },
+  {
+    "id": "693",
+    "name": "Firhill",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "13,079",
+    "clubs": [
+      "1243"
+    ]
+  },
+  {
+    "id": "694",
+    "name": "Forthbank Stadium",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "3,808",
+    "clubs": [
+      "1244"
+    ]
+  },
+  {
+    "id": "695",
+    "name": "Galabank",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,007",
+    "clubs": [
+      "1245"
+    ]
+  },
+  {
+    "id": "696",
+    "name": "Gayfield Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "5,940",
+    "clubs": [
+      "1246"
+    ]
+  },
+  {
+    "id": "697",
+    "name": "Gigg Lane",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "11,840",
+    "clubs": [
+      "1247"
+    ]
+  },
+  {
+    "id": "698",
+    "name": "Glebe Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "3,960",
+    "clubs": [
+      "1248"
+    ]
+  },
+  {
+    "id": "699",
+    "name": "Hampden Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "52,500",
+    "clubs": [
+      "1249"
+    ]
+  },
+  {
+    "id": "700",
+    "name": "Lakeview Park",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "3,000",
+    "clubs": [
+      "1250"
+    ]
+  },
+  {
+    "id": "701",
+    "name": "Links Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "3,292",
+    "clubs": [
+      "1251"
+    ]
+  },
+  {
+    "id": "702",
+    "name": "Milltown",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,000",
+    "clubs": [
+      "1252"
+    ]
+  },
+  {
+    "id": "703",
+    "name": "Molineux",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "27,828",
+    "clubs": [
+      "1253"
+    ]
+  },
+  {
+    "id": "704",
+    "name": "Moss Rose",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "6,355",
+    "clubs": [
+      "1254"
+    ]
+  },
+  {
+    "id": "705",
+    "name": "New Broomfield",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "10,172",
+    "clubs": [
+      "1255"
+    ]
+  },
+  {
+    "id": "706",
+    "name": "New Douglas Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "6,078",
+    "clubs": [
+      "1256"
+    ]
+  },
+  {
+    "id": "707",
+    "name": "Newry Showgrounds",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,809",
+    "clubs": [
+      "1257"
+    ]
+  },
+  {
+    "id": "708",
+    "name": "Ochilview Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "3,776",
+    "clubs": [
+      "1258"
+    ]
+  },
+  {
+    "id": "709",
+    "name": "Palmerston Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "6,412",
+    "clubs": [
+      "1259"
+    ]
+  },
+  {
+    "id": "710",
+    "name": "Plainmoor",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "6,104",
+    "clubs": [
+      "1260"
+    ]
+  },
+  {
+    "id": "711",
+    "name": "Plough Lane",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "9,215",
+    "clubs": [
+      "1261"
+    ]
+  },
+  {
+    "id": "712",
+    "name": "Recreation Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "3,412",
+    "clubs": [
+      "1262"
+    ]
+  },
+  {
+    "id": "713",
+    "name": "Shielfield Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "4,131",
+    "clubs": [
+      "1263"
+    ]
+  },
+  {
+    "id": "714",
+    "name": "Somerset Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "10,243",
+    "clubs": [
+      "1264"
+    ]
+  },
+  {
+    "id": "715",
+    "name": "Stair Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "5,600",
+    "clubs": [
+      "1265"
+    ]
+  },
+  {
+    "id": "716",
+    "name": "Stark's Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "10,104",
+    "clubs": [
+      "1266"
+    ]
+  },
+  {
+    "id": "717",
+    "name": "Station Park",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "5,177",
+    "clubs": [
+      "1267"
+    ]
+  },
+  {
+    "id": "718",
+    "name": "Tandragee Road",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "1,250",
+    "clubs": [
+      "1268"
+    ]
+  },
+  {
+    "id": "719",
+    "name": "The Caledonian Stadium",
+    "city": "",
+    "country": "Scotland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "7,918",
+    "clubs": [
+      "1269"
+    ]
+  },
+  {
+    "id": "720",
+    "name": "The County Ground",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "15,728",
+    "clubs": [
+      "1270"
+    ]
+  },
+  {
+    "id": "721",
+    "name": "The Dub",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "1,500",
+    "clubs": [
+      "1271"
+    ]
+  },
+  {
+    "id": "722",
+    "name": "The Lamex Stadium",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "6,722",
+    "clubs": [
+      "1272"
+    ]
+  },
+  {
+    "id": "723",
+    "name": "Tillysburn Park",
+    "city": "",
+    "country": "Northern Ireland",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "2,000",
+    "clubs": [
+      "1273"
+    ]
+  },
+  {
+    "id": "724",
+    "name": "Victoria Road",
+    "city": "",
+    "country": "England",
+    "coordinates": {
+      "latitude": 57.5112,
+      "longitude": -1.79599
+    },
+    "capacity": "6,078",
+    "clubs": [
+      "1274"
+    ]
+  }
+]
