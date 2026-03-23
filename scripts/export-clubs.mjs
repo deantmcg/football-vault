@@ -20,7 +20,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 // ── Config ────────────────────────────────────────────────────────────────────
 const DB_PATH    = 'C:\\repos\\football-vault\\football-vault.db';
-const OUTPUT_DIR = resolve(__dirname, '..', 'src', 'data');
+const OUTPUT_DIR = resolve(__dirname, '..', 'data');
 const CLUBS_PATH    = resolve(OUTPUT_DIR, 'clubs.json');
 const STADIUMS_PATH = resolve(OUTPUT_DIR, 'stadiums.json');
 // ─────────────────────────────────────────────────────────────────────────────
