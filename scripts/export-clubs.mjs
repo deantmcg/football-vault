@@ -25,20 +25,15 @@ const OUTPUT_PATH = resolve(OUTPUT_DIR, 'clubs.json');
 // ─────────────────────────────────────────────────────────────────────────────
 
 /**
- * Parse a coordinates value from the DB into { latitude, longitude }.
- * The DB stores coordinates as a JSON string: {"latitude": 54.5826, "longitude": -5.9553}
+ * Build a coordinates object from separate latitude/longitude values.
+ * Returns null if either value is missing or not a valid number.
  */
-function parseCoordinates(coordStr) {
-    if (!coordStr) return null;
-    try {
-        const parsed = JSON.parse(coordStr);
-        const latitude  = parseFloat(parsed.latitude);
-        const longitude = parseFloat(parsed.longitude);
-        if (isNaN(latitude) || isNaN(longitude)) return null;
-        return { latitude, longitude };
-    } catch {
-        return null;
-    }
+function buildCoordinates(lat, lng) {
+    if (lat == null || lng == null) return null;
+    const latitude  = parseFloat(lat);
+    const longitude = parseFloat(lng);
+    if (isNaN(latitude) || isNaN(longitude)) return null;
+    return { latitude, longitude };
 }
 
 const db = new Database(DB_PATH, { readonly: true });
@@ -57,7 +52,8 @@ const rows = db.prepare(`
         s.id                  AS stadium_id,
         s.name                AS stadium_name,
         s.city                AS stadium_city,
-        s.coordinates         AS stadium_coordinates,
+        s.latitude            AS stadium_latitude,
+        s.longitude           AS stadium_longitude,
         s.capacity            AS stadium_capacity,
         sc.name               AS stadium_country
     FROM Teams t
@@ -71,7 +67,7 @@ db.close();
 
 const clubs = rows.map((row) => {
     const colors = [row.colour1, row.colour2, row.colour3].filter(Boolean);
-    const stadiumCoords = parseCoordinates(row.stadium_coordinates);
+    const stadiumCoords = buildCoordinates(row.stadium_latitude, row.stadium_longitude);
 
     // Fall back to null coords rather than silently emit {0,0}
     const clubCoordinates = stadiumCoords ?? null;
