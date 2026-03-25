@@ -1,0 +1,1377 @@
+2026-03-25 18:54:00,445  INFO      ============================================================
+2026-03-25 18:54:00,445  INFO      Starting import: 383 file(s)
+2026-03-25 18:54:00,446  INFO      ============================================================
+2026-03-25 18:54:00,449  INFO      Loaded 34 competitions, 231 teams, 699 stadiums into cache
+2026-03-25 18:54:00,449  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240901-chelsea-vs-crystal-palace.json
+2026-03-25 18:54:00,452  INFO      CREATED match: id=1214  2024-09-01  Chelsea vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,456  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240901-manchester-united-vs-liverpool.json
+2026-03-25 18:54:00,457  INFO      CREATED match: id=1215  2024-09-01  Manchester United vs Liverpool  (Premier League)
+2026-03-25 18:54:00,459  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240901-newcastle-united-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,459  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,459  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,459  INFO      CREATED match: id=1216  2024-09-01  Newcastle United vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,462  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-afc-bournemouth-vs-chelsea.json
+2026-03-25 18:54:00,464  INFO      CREATED match: id=1217  2024-09-14  Afc Bournemouth vs Chelsea  (Premier League)
+2026-03-25 18:54:00,467  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-aston-villa-vs-everton.json
+2026-03-25 18:54:00,468  INFO      CREATED match: id=1218  2024-09-14  Aston Villa vs Everton  (Premier League)
+2026-03-25 18:54:00,470  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-brighton-and-hove-albion-vs-ipswich-town.json
+2026-03-25 18:54:00,470  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,471  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,471  INFO      CREATED match: id=1219  2024-09-14  Brighton And Hove Albion vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,473  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-crystal-palace-vs-leicester-city.json
+2026-03-25 18:54:00,473  INFO      CREATED match: id=1220  2024-09-14  Crystal Palace vs Leicester City  (Premier League)
+2026-03-25 18:54:00,475  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-fulham-vs-west-ham-united.json
+2026-03-25 18:54:00,476  INFO      CREATED match: id=1221  2024-09-14  Fulham vs West Ham United  (Premier League)
+2026-03-25 18:54:00,478  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-liverpool-vs-nottingham-forest.json
+2026-03-25 18:54:00,478  INFO      CREATED match: id=1222  2024-09-14  Liverpool vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,480  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-manchester-city-vs-brentford.json
+2026-03-25 18:54:00,481  INFO      CREATED match: id=1223  2024-09-14  Manchester City vs Brentford  (Premier League)
+2026-03-25 18:54:00,483  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240914-southampton-vs-manchester-united.json
+2026-03-25 18:54:00,484  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,484  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,484  INFO      CREATED match: id=1224  2024-09-14  Southampton vs Manchester United  (Premier League)
+2026-03-25 18:54:00,486  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240915-tottenham-hotspur-vs-arsenal.json
+2026-03-25 18:54:00,487  INFO      CREATED match: id=1225  2024-09-15  Tottenham Hotspur vs Arsenal  (Premier League)
+2026-03-25 18:54:00,490  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240915-wolverhampton-wanderers-vs-newcastle-united.json
+2026-03-25 18:54:00,491  INFO      CREATED match: id=1226  2024-09-15  Wolverhampton Wanderers vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,493  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-aston-villa-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,493  INFO      CREATED match: id=1227  2024-09-21  Aston Villa vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,495  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-crystal-palace-vs-manchester-united.json
+2026-03-25 18:54:00,496  INFO      CREATED match: id=1228  2024-09-21  Crystal Palace vs Manchester United  (Premier League)
+2026-03-25 18:54:00,499  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-fulham-vs-newcastle-united.json
+2026-03-25 18:54:00,500  INFO      CREATED match: id=1229  2024-09-21  Fulham vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,502  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-leicester-city-vs-everton.json
+2026-03-25 18:54:00,502  INFO      CREATED match: id=1230  2024-09-21  Leicester City vs Everton  (Premier League)
+2026-03-25 18:54:00,504  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-liverpool-vs-afc-bournemouth.json
+2026-03-25 18:54:00,506  INFO      CREATED match: id=1231  2024-09-21  Liverpool vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,508  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-southampton-vs-ipswich-town.json
+2026-03-25 18:54:00,508  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,509  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,509  INFO      CREATED match: id=1232  2024-09-21  Southampton vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,511  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-tottenham-hotspur-vs-brentford.json
+2026-03-25 18:54:00,511  INFO      CREATED match: id=1233  2024-09-21  Tottenham Hotspur vs Brentford  (Premier League)
+2026-03-25 18:54:00,513  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240921-west-ham-united-vs-chelsea.json
+2026-03-25 18:54:00,514  INFO      CREATED match: id=1234  2024-09-21  West Ham United vs Chelsea  (Premier League)
+2026-03-25 18:54:00,516  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240922-brighton-and-hove-albion-vs-nottingham-forest.json
+2026-03-25 18:54:00,517  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,517  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,517  INFO      CREATED match: id=1235  2024-09-22  Brighton And Hove Albion vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,519  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240922-manchester-city-vs-arsenal.json
+2026-03-25 18:54:00,519  INFO      CREATED match: id=1236  2024-09-22  Manchester City vs Arsenal  (Premier League)
+2026-03-25 18:54:00,522  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240928-arsenal-vs-leicester-city.json
+2026-03-25 18:54:00,523  INFO      CREATED match: id=1237  2024-09-28  Arsenal vs Leicester City  (Premier League)
+2026-03-25 18:54:00,525  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240928-brentford-vs-west-ham-united.json
+2026-03-25 18:54:00,526  INFO      CREATED match: id=1238  2024-09-28  Brentford vs West Ham United  (Premier League)
+2026-03-25 18:54:00,528  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240928-chelsea-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,529  INFO      CREATED match: id=1239  2024-09-28  Chelsea vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,532  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240928-everton-vs-crystal-palace.json
+2026-03-25 18:54:00,533  INFO      CREATED match: id=1240  2024-09-28  Everton vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,535  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240928-newcastle-united-vs-manchester-city.json
+2026-03-25 18:54:00,536  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,536  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,536  INFO      CREATED match: id=1241  2024-09-28  Newcastle United vs Manchester City  (Premier League)
+2026-03-25 18:54:00,538  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240928-nottingham-forest-vs-fulham.json
+2026-03-25 18:54:00,538  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,538  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,539  INFO      CREATED match: id=1242  2024-09-28  Nottingham Forest vs Fulham  (Premier League)
+2026-03-25 18:54:00,541  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240928-wolverhampton-wanderers-vs-liverpool.json
+2026-03-25 18:54:00,541  INFO      CREATED match: id=1243  2024-09-28  Wolverhampton Wanderers vs Liverpool  (Premier League)
+2026-03-25 18:54:00,543  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240929-ipswich-town-vs-aston-villa.json
+2026-03-25 18:54:00,544  INFO      CREATED match: id=1244  2024-09-29  Ipswich Town vs Aston Villa  (Premier League)
+2026-03-25 18:54:00,546  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240929-manchester-united-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,546  INFO      CREATED match: id=1245  2024-09-29  Manchester United vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,548  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20240930-afc-bournemouth-vs-southampton.json
+2026-03-25 18:54:00,549  INFO      CREATED match: id=1246  2024-09-30  Afc Bournemouth vs Southampton  (Premier League)
+2026-03-25 18:54:00,551  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241005-arsenal-vs-southampton.json
+2026-03-25 18:54:00,552  INFO      CREATED match: id=1247  2024-10-05  Arsenal vs Southampton  (Premier League)
+2026-03-25 18:54:00,554  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241005-brentford-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,555  INFO      CREATED match: id=1248  2024-10-05  Brentford vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,557  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241005-crystal-palace-vs-liverpool.json
+2026-03-25 18:54:00,558  INFO      CREATED match: id=1249  2024-10-05  Crystal Palace vs Liverpool  (Premier League)
+2026-03-25 18:54:00,559  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241005-everton-vs-newcastle-united.json
+2026-03-25 18:54:00,560  INFO      CREATED match: id=1250  2024-10-05  Everton vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,562  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241005-leicester-city-vs-afc-bournemouth.json
+2026-03-25 18:54:00,563  INFO      CREATED match: id=1251  2024-10-05  Leicester City vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,565  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241005-manchester-city-vs-fulham.json
+2026-03-25 18:54:00,566  INFO      CREATED match: id=1252  2024-10-05  Manchester City vs Fulham  (Premier League)
+2026-03-25 18:54:00,568  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241005-west-ham-united-vs-ipswich-town.json
+2026-03-25 18:54:00,568  INFO      CREATED match: id=1253  2024-10-05  West Ham United vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,570  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241006-aston-villa-vs-manchester-united.json
+2026-03-25 18:54:00,571  INFO      CREATED match: id=1254  2024-10-06  Aston Villa vs Manchester United  (Premier League)
+2026-03-25 18:54:00,573  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241006-brighton-and-hove-albion-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,574  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,574  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,574  INFO      CREATED match: id=1255  2024-10-06  Brighton And Hove Albion vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,576  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241006-chelsea-vs-nottingham-forest.json
+2026-03-25 18:54:00,577  INFO      CREATED match: id=1256  2024-10-06  Chelsea vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,579  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241019-afc-bournemouth-vs-arsenal.json
+2026-03-25 18:54:00,579  INFO      CREATED match: id=1257  2024-10-19  Afc Bournemouth vs Arsenal  (Premier League)
+2026-03-25 18:54:00,581  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241019-fulham-vs-aston-villa.json
+2026-03-25 18:54:00,582  INFO      CREATED match: id=1258  2024-10-19  Fulham vs Aston Villa  (Premier League)
+2026-03-25 18:54:00,585  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241019-ipswich-town-vs-everton.json
+2026-03-25 18:54:00,585  INFO      CREATED match: id=1259  2024-10-19  Ipswich Town vs Everton  (Premier League)
+2026-03-25 18:54:00,587  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241019-manchester-united-vs-brentford.json
+2026-03-25 18:54:00,588  INFO      CREATED match: id=1260  2024-10-19  Manchester United vs Brentford  (Premier League)
+2026-03-25 18:54:00,590  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241019-newcastle-united-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,590  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,591  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,591  INFO      CREATED match: id=1261  2024-10-19  Newcastle United vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,593  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241019-southampton-vs-leicester-city.json
+2026-03-25 18:54:00,593  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,593  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,593  INFO      CREATED match: id=1262  2024-10-19  Southampton vs Leicester City  (Premier League)
+2026-03-25 18:54:00,596  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241019-tottenham-hotspur-vs-west-ham-united.json
+2026-03-25 18:54:00,597  INFO      CREATED match: id=1263  2024-10-19  Tottenham Hotspur vs West Ham United  (Premier League)
+2026-03-25 18:54:00,599  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241020-liverpool-vs-chelsea.json
+2026-03-25 18:54:00,599  INFO      CREATED match: id=1264  2024-10-20  Liverpool vs Chelsea  (Premier League)
+2026-03-25 18:54:00,601  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241020-wolverhampton-wanderers-vs-manchester-city.json
+2026-03-25 18:54:00,602  INFO      CREATED match: id=1265  2024-10-20  Wolverhampton Wanderers vs Manchester City  (Premier League)
+2026-03-25 18:54:00,604  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241021-nottingham-forest-vs-crystal-palace.json
+2026-03-25 18:54:00,604  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,605  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,605  INFO      CREATED match: id=1266  2024-10-21  Nottingham Forest vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,607  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241025-leicester-city-vs-nottingham-forest.json
+2026-03-25 18:54:00,607  INFO      CREATED match: id=1267  2024-10-25  Leicester City vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,609  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241026-aston-villa-vs-afc-bournemouth.json
+2026-03-25 18:54:00,610  INFO      CREATED match: id=1268  2024-10-26  Aston Villa vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,612  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241026-brentford-vs-ipswich-town.json
+2026-03-25 18:54:00,613  INFO      CREATED match: id=1269  2024-10-26  Brentford vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,615  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241026-brighton-and-hove-albion-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,615  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,616  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,616  INFO      CREATED match: id=1270  2024-10-26  Brighton And Hove Albion vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,618  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241026-everton-vs-fulham.json
+2026-03-25 18:54:00,619  INFO      CREATED match: id=1271  2024-10-26  Everton vs Fulham  (Premier League)
+2026-03-25 18:54:00,621  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241026-manchester-city-vs-southampton.json
+2026-03-25 18:54:00,621  INFO      CREATED match: id=1272  2024-10-26  Manchester City vs Southampton  (Premier League)
+2026-03-25 18:54:00,623  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241027-arsenal-vs-liverpool.json
+2026-03-25 18:54:00,624  INFO      CREATED match: id=1273  2024-10-27  Arsenal vs Liverpool  (Premier League)
+2026-03-25 18:54:00,626  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241027-chelsea-vs-newcastle-united.json
+2026-03-25 18:54:00,626  INFO      CREATED match: id=1274  2024-10-27  Chelsea vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,628  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241027-crystal-palace-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,629  INFO      CREATED match: id=1275  2024-10-27  Crystal Palace vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,632  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241027-west-ham-united-vs-manchester-united.json
+2026-03-25 18:54:00,633  INFO      CREATED match: id=1276  2024-10-27  West Ham United vs Manchester United  (Premier League)
+2026-03-25 18:54:00,636  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241102-afc-bournemouth-vs-manchester-city.json
+2026-03-25 18:54:00,636  INFO      CREATED match: id=1277  2024-11-02  Afc Bournemouth vs Manchester City  (Premier League)
+2026-03-25 18:54:00,638  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241102-ipswich-town-vs-leicester-city.json
+2026-03-25 18:54:00,639  INFO      CREATED match: id=1278  2024-11-02  Ipswich Town vs Leicester City  (Premier League)
+2026-03-25 18:54:00,641  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241102-liverpool-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,641  INFO      CREATED match: id=1279  2024-11-02  Liverpool vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,643  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241102-newcastle-united-vs-arsenal.json
+2026-03-25 18:54:00,644  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,644  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,644  INFO      CREATED match: id=1280  2024-11-02  Newcastle United vs Arsenal  (Premier League)
+2026-03-25 18:54:00,646  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241102-nottingham-forest-vs-west-ham-united.json
+2026-03-25 18:54:00,647  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,647  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,647  INFO      CREATED match: id=1281  2024-11-02  Nottingham Forest vs West Ham United  (Premier League)
+2026-03-25 18:54:00,649  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241102-southampton-vs-everton.json
+2026-03-25 18:54:00,649  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,649  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,650  INFO      CREATED match: id=1282  2024-11-02  Southampton vs Everton  (Premier League)
+2026-03-25 18:54:00,652  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241102-wolverhampton-wanderers-vs-crystal-palace.json
+2026-03-25 18:54:00,652  INFO      CREATED match: id=1283  2024-11-02  Wolverhampton Wanderers vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,654  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241103-manchester-united-vs-chelsea.json
+2026-03-25 18:54:00,655  INFO      CREATED match: id=1284  2024-11-03  Manchester United vs Chelsea  (Premier League)
+2026-03-25 18:54:00,657  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241103-tottenham-hotspur-vs-aston-villa.json
+2026-03-25 18:54:00,658  INFO      CREATED match: id=1285  2024-11-03  Tottenham Hotspur vs Aston Villa  (Premier League)
+2026-03-25 18:54:00,660  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241104-fulham-vs-brentford.json
+2026-03-25 18:54:00,661  INFO      CREATED match: id=1286  2024-11-04  Fulham vs Brentford  (Premier League)
+2026-03-25 18:54:00,663  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241109-brentford-vs-afc-bournemouth.json
+2026-03-25 18:54:00,663  INFO      CREATED match: id=1287  2024-11-09  Brentford vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,665  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241109-brighton-and-hove-albion-vs-manchester-city.json
+2026-03-25 18:54:00,666  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,666  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,666  INFO      CREATED match: id=1288  2024-11-09  Brighton And Hove Albion vs Manchester City  (Premier League)
+2026-03-25 18:54:00,668  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241109-crystal-palace-vs-fulham.json
+2026-03-25 18:54:00,669  INFO      CREATED match: id=1289  2024-11-09  Crystal Palace vs Fulham  (Premier League)
+2026-03-25 18:54:00,671  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241109-liverpool-vs-aston-villa.json
+2026-03-25 18:54:00,671  INFO      CREATED match: id=1290  2024-11-09  Liverpool vs Aston Villa  (Premier League)
+2026-03-25 18:54:00,673  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241109-west-ham-united-vs-everton.json
+2026-03-25 18:54:00,674  INFO      CREATED match: id=1291  2024-11-09  West Ham United vs Everton  (Premier League)
+2026-03-25 18:54:00,676  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241109-wolverhampton-wanderers-vs-southampton.json
+2026-03-25 18:54:00,676  INFO      CREATED match: id=1292  2024-11-09  Wolverhampton Wanderers vs Southampton  (Premier League)
+2026-03-25 18:54:00,678  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241110-chelsea-vs-arsenal.json
+2026-03-25 18:54:00,679  INFO      CREATED match: id=1293  2024-11-10  Chelsea vs Arsenal  (Premier League)
+2026-03-25 18:54:00,682  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241110-manchester-united-vs-leicester-city.json
+2026-03-25 18:54:00,682  INFO      CREATED match: id=1294  2024-11-10  Manchester United vs Leicester City  (Premier League)
+2026-03-25 18:54:00,685  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241110-nottingham-forest-vs-newcastle-united.json
+2026-03-25 18:54:00,685  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,685  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,685  INFO      CREATED match: id=1295  2024-11-10  Nottingham Forest vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,687  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241110-tottenham-hotspur-vs-ipswich-town.json
+2026-03-25 18:54:00,688  INFO      CREATED match: id=1296  2024-11-10  Tottenham Hotspur vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,690  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241123-afc-bournemouth-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,691  INFO      CREATED match: id=1297  2024-11-23  Afc Bournemouth vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,693  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241123-arsenal-vs-nottingham-forest.json
+2026-03-25 18:54:00,693  INFO      CREATED match: id=1298  2024-11-23  Arsenal vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,695  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241123-aston-villa-vs-crystal-palace.json
+2026-03-25 18:54:00,696  INFO      CREATED match: id=1299  2024-11-23  Aston Villa vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,698  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241123-everton-vs-brentford.json
+2026-03-25 18:54:00,699  INFO      CREATED match: id=1300  2024-11-23  Everton vs Brentford  (Premier League)
+2026-03-25 18:54:00,701  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241123-fulham-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,702  INFO      CREATED match: id=1301  2024-11-23  Fulham vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,704  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241123-leicester-city-vs-chelsea.json
+2026-03-25 18:54:00,705  INFO      CREATED match: id=1302  2024-11-23  Leicester City vs Chelsea  (Premier League)
+2026-03-25 18:54:00,707  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241123-manchester-city-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,707  INFO      CREATED match: id=1303  2024-11-23  Manchester City vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,709  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241124-ipswich-town-vs-manchester-united.json
+2026-03-25 18:54:00,710  INFO      CREATED match: id=1304  2024-11-24  Ipswich Town vs Manchester United  (Premier League)
+2026-03-25 18:54:00,712  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241124-southampton-vs-liverpool.json
+2026-03-25 18:54:00,713  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,713  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,713  INFO      CREATED match: id=1305  2024-11-24  Southampton vs Liverpool  (Premier League)
+2026-03-25 18:54:00,715  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241125-newcastle-united-vs-west-ham-united.json
+2026-03-25 18:54:00,716  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,716  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,716  INFO      CREATED match: id=1306  2024-11-25  Newcastle United vs West Ham United  (Premier League)
+2026-03-25 18:54:00,718  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241129-brighton-and-hove-albion-vs-southampton.json
+2026-03-25 18:54:00,719  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,719  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,719  INFO      CREATED match: id=1307  2024-11-29  Brighton And Hove Albion vs Southampton  (Premier League)
+2026-03-25 18:54:00,721  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241130-brentford-vs-leicester-city.json
+2026-03-25 18:54:00,722  INFO      CREATED match: id=1308  2024-11-30  Brentford vs Leicester City  (Premier League)
+2026-03-25 18:54:00,724  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241130-crystal-palace-vs-newcastle-united.json
+2026-03-25 18:54:00,725  INFO      CREATED match: id=1309  2024-11-30  Crystal Palace vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,727  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241130-nottingham-forest-vs-ipswich-town.json
+2026-03-25 18:54:00,727  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,727  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,727  INFO      CREATED match: id=1310  2024-11-30  Nottingham Forest vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,730  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241130-west-ham-united-vs-arsenal.json
+2026-03-25 18:54:00,731  INFO      CREATED match: id=1311  2024-11-30  West Ham United vs Arsenal  (Premier League)
+2026-03-25 18:54:00,734  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241130-wolverhampton-wanderers-vs-afc-bournemouth.json
+2026-03-25 18:54:00,734  INFO      CREATED match: id=1312  2024-11-30  Wolverhampton Wanderers vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,736  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241201-chelsea-vs-aston-villa.json
+2026-03-25 18:54:00,737  INFO      CREATED match: id=1313  2024-12-01  Chelsea vs Aston Villa  (Premier League)
+2026-03-25 18:54:00,739  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241201-liverpool-vs-manchester-city.json
+2026-03-25 18:54:00,740  INFO      CREATED match: id=1314  2024-12-01  Liverpool vs Manchester City  (Premier League)
+2026-03-25 18:54:00,742  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241201-manchester-united-vs-everton.json
+2026-03-25 18:54:00,742  INFO      CREATED match: id=1315  2024-12-01  Manchester United vs Everton  (Premier League)
+2026-03-25 18:54:00,744  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241201-tottenham-hotspur-vs-fulham.json
+2026-03-25 18:54:00,745  INFO      CREATED match: id=1316  2024-12-01  Tottenham Hotspur vs Fulham  (Premier League)
+2026-03-25 18:54:00,747  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241203-ipswich-town-vs-crystal-palace.json
+2026-03-25 18:54:00,748  INFO      CREATED match: id=1317  2024-12-03  Ipswich Town vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,750  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241203-leicester-city-vs-west-ham-united.json
+2026-03-25 18:54:00,751  INFO      CREATED match: id=1318  2024-12-03  Leicester City vs West Ham United  (Premier League)
+2026-03-25 18:54:00,753  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241204-arsenal-vs-manchester-united.json
+2026-03-25 18:54:00,753  INFO      CREATED match: id=1319  2024-12-04  Arsenal vs Manchester United  (Premier League)
+2026-03-25 18:54:00,756  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241204-aston-villa-vs-brentford.json
+2026-03-25 18:54:00,756  INFO      CREATED match: id=1320  2024-12-04  Aston Villa vs Brentford  (Premier League)
+2026-03-25 18:54:00,760  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241204-everton-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,761  INFO      CREATED match: id=1321  2024-12-04  Everton vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,765  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241204-manchester-city-vs-nottingham-forest.json
+2026-03-25 18:54:00,766  INFO      CREATED match: id=1322  2024-12-04  Manchester City vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,768  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241204-newcastle-united-vs-liverpool.json
+2026-03-25 18:54:00,769  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,769  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,769  INFO      CREATED match: id=1323  2024-12-04  Newcastle United vs Liverpool  (Premier League)
+2026-03-25 18:54:00,772  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241204-southampton-vs-chelsea.json
+2026-03-25 18:54:00,774  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,774  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,775  INFO      CREATED match: id=1324  2024-12-04  Southampton vs Chelsea  (Premier League)
+2026-03-25 18:54:00,780  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241205-afc-bournemouth-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,781  INFO      CREATED match: id=1325  2024-12-05  Afc Bournemouth vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,783  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241205-fulham-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,784  INFO      CREATED match: id=1326  2024-12-05  Fulham vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,786  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241207-aston-villa-vs-southampton.json
+2026-03-25 18:54:00,787  INFO      CREATED match: id=1327  2024-12-07  Aston Villa vs Southampton  (Premier League)
+2026-03-25 18:54:00,789  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241207-brentford-vs-newcastle-united.json
+2026-03-25 18:54:00,789  INFO      CREATED match: id=1328  2024-12-07  Brentford vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,791  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241207-crystal-palace-vs-manchester-city.json
+2026-03-25 18:54:00,792  INFO      CREATED match: id=1329  2024-12-07  Crystal Palace vs Manchester City  (Premier League)
+2026-03-25 18:54:00,794  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241207-manchester-united-vs-nottingham-forest.json
+2026-03-25 18:54:00,795  INFO      CREATED match: id=1330  2024-12-07  Manchester United vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,797  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241208-fulham-vs-arsenal.json
+2026-03-25 18:54:00,798  INFO      CREATED match: id=1331  2024-12-08  Fulham vs Arsenal  (Premier League)
+2026-03-25 18:54:00,800  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241208-ipswich-town-vs-afc-bournemouth.json
+2026-03-25 18:54:00,801  INFO      CREATED match: id=1332  2024-12-08  Ipswich Town vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,803  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241208-leicester-city-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,803  INFO      CREATED match: id=1333  2024-12-08  Leicester City vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,805  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241208-tottenham-hotspur-vs-chelsea.json
+2026-03-25 18:54:00,806  INFO      CREATED match: id=1334  2024-12-08  Tottenham Hotspur vs Chelsea  (Premier League)
+2026-03-25 18:54:00,808  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241209-west-ham-united-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,809  INFO      CREATED match: id=1335  2024-12-09  West Ham United vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,811  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241214-arsenal-vs-everton.json
+2026-03-25 18:54:00,811  INFO      CREATED match: id=1336  2024-12-14  Arsenal vs Everton  (Premier League)
+2026-03-25 18:54:00,814  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241214-liverpool-vs-fulham.json
+2026-03-25 18:54:00,815  INFO      CREATED match: id=1337  2024-12-14  Liverpool vs Fulham  (Premier League)
+2026-03-25 18:54:00,817  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241214-newcastle-united-vs-leicester-city.json
+2026-03-25 18:54:00,817  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,818  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,818  INFO      CREATED match: id=1338  2024-12-14  Newcastle United vs Leicester City  (Premier League)
+2026-03-25 18:54:00,820  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241214-nottingham-forest-vs-aston-villa.json
+2026-03-25 18:54:00,820  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,820  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,821  INFO      CREATED match: id=1339  2024-12-14  Nottingham Forest vs Aston Villa  (Premier League)
+2026-03-25 18:54:00,823  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241214-wolverhampton-wanderers-vs-ipswich-town.json
+2026-03-25 18:54:00,823  INFO      CREATED match: id=1340  2024-12-14  Wolverhampton Wanderers vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,825  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241215-brighton-and-hove-albion-vs-crystal-palace.json
+2026-03-25 18:54:00,826  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,826  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,826  INFO      CREATED match: id=1341  2024-12-15  Brighton And Hove Albion vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,828  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241215-chelsea-vs-brentford.json
+2026-03-25 18:54:00,829  INFO      CREATED match: id=1342  2024-12-15  Chelsea vs Brentford  (Premier League)
+2026-03-25 18:54:00,832  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241215-manchester-city-vs-manchester-united.json
+2026-03-25 18:54:00,833  INFO      CREATED match: id=1343  2024-12-15  Manchester City vs Manchester United  (Premier League)
+2026-03-25 18:54:00,835  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241215-southampton-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,835  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,836  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,836  INFO      CREATED match: id=1344  2024-12-15  Southampton vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,838  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241216-afc-bournemouth-vs-west-ham-united.json
+2026-03-25 18:54:00,839  INFO      CREATED match: id=1345  2024-12-16  Afc Bournemouth vs West Ham United  (Premier League)
+2026-03-25 18:54:00,841  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241221-aston-villa-vs-manchester-city.json
+2026-03-25 18:54:00,841  INFO      CREATED match: id=1346  2024-12-21  Aston Villa vs Manchester City  (Premier League)
+2026-03-25 18:54:00,843  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241221-brentford-vs-nottingham-forest.json
+2026-03-25 18:54:00,844  INFO      CREATED match: id=1347  2024-12-21  Brentford vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,846  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241221-crystal-palace-vs-arsenal.json
+2026-03-25 18:54:00,847  INFO      CREATED match: id=1348  2024-12-21  Crystal Palace vs Arsenal  (Premier League)
+2026-03-25 18:54:00,849  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241221-ipswich-town-vs-newcastle-united.json
+2026-03-25 18:54:00,850  INFO      CREATED match: id=1349  2024-12-21  Ipswich Town vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,852  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241221-west-ham-united-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,853  INFO      CREATED match: id=1350  2024-12-21  West Ham United vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,855  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241222-everton-vs-chelsea.json
+2026-03-25 18:54:00,856  INFO      CREATED match: id=1351  2024-12-22  Everton vs Chelsea  (Premier League)
+2026-03-25 18:54:00,858  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241222-fulham-vs-southampton.json
+2026-03-25 18:54:00,858  INFO      CREATED match: id=1352  2024-12-22  Fulham vs Southampton  (Premier League)
+2026-03-25 18:54:00,860  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241222-leicester-city-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,861  INFO      CREATED match: id=1353  2024-12-22  Leicester City vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,863  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241222-manchester-united-vs-afc-bournemouth.json
+2026-03-25 18:54:00,864  INFO      CREATED match: id=1354  2024-12-22  Manchester United vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,866  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241222-tottenham-hotspur-vs-liverpool.json
+2026-03-25 18:54:00,867  INFO      CREATED match: id=1355  2024-12-22  Tottenham Hotspur vs Liverpool  (Premier League)
+2026-03-25 18:54:00,869  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-afc-bournemouth-vs-crystal-palace.json
+2026-03-25 18:54:00,870  INFO      CREATED match: id=1356  2024-12-26  Afc Bournemouth vs Crystal Palace  (Premier League)
+2026-03-25 18:54:00,872  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-chelsea-vs-fulham.json
+2026-03-25 18:54:00,873  INFO      CREATED match: id=1357  2024-12-26  Chelsea vs Fulham  (Premier League)
+2026-03-25 18:54:00,875  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-liverpool-vs-leicester-city.json
+2026-03-25 18:54:00,875  INFO      CREATED match: id=1358  2024-12-26  Liverpool vs Leicester City  (Premier League)
+2026-03-25 18:54:00,878  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-manchester-city-vs-everton.json
+2026-03-25 18:54:00,878  INFO      CREATED match: id=1359  2024-12-26  Manchester City vs Everton  (Premier League)
+2026-03-25 18:54:00,881  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-newcastle-united-vs-aston-villa.json
+2026-03-25 18:54:00,881  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,881  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,882  INFO      CREATED match: id=1360  2024-12-26  Newcastle United vs Aston Villa  (Premier League)
+2026-03-25 18:54:00,884  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-nottingham-forest-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,885  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,885  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,885  INFO      CREATED match: id=1361  2024-12-26  Nottingham Forest vs Tottenham Hotspur  (Premier League)
+2026-03-25 18:54:00,887  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-southampton-vs-west-ham-united.json
+2026-03-25 18:54:00,887  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,888  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,888  INFO      CREATED match: id=1362  2024-12-26  Southampton vs West Ham United  (Premier League)
+2026-03-25 18:54:00,890  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241226-wolverhampton-wanderers-vs-manchester-united.json
+2026-03-25 18:54:00,891  INFO      CREATED match: id=1363  2024-12-26  Wolverhampton Wanderers vs Manchester United  (Premier League)
+2026-03-25 18:54:00,893  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241227-arsenal-vs-ipswich-town.json
+2026-03-25 18:54:00,893  INFO      CREATED match: id=1364  2024-12-27  Arsenal vs Ipswich Town  (Premier League)
+2026-03-25 18:54:00,896  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241227-brighton-and-hove-albion-vs-brentford.json
+2026-03-25 18:54:00,896  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,897  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,897  INFO      CREATED match: id=1365  2024-12-27  Brighton And Hove Albion vs Brentford  (Premier League)
+2026-03-25 18:54:00,900  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241229-crystal-palace-vs-southampton.json
+2026-03-25 18:54:00,900  INFO      CREATED match: id=1366  2024-12-29  Crystal Palace vs Southampton  (Premier League)
+2026-03-25 18:54:00,903  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241229-everton-vs-nottingham-forest.json
+2026-03-25 18:54:00,903  INFO      CREATED match: id=1367  2024-12-29  Everton vs Nottingham Forest  (Premier League)
+2026-03-25 18:54:00,906  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241229-fulham-vs-afc-bournemouth.json
+2026-03-25 18:54:00,906  INFO      CREATED match: id=1368  2024-12-29  Fulham vs Afc Bournemouth  (Premier League)
+2026-03-25 18:54:00,908  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241229-leicester-city-vs-manchester-city.json
+2026-03-25 18:54:00,909  INFO      CREATED match: id=1369  2024-12-29  Leicester City vs Manchester City  (Premier League)
+2026-03-25 18:54:00,911  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241229-tottenham-hotspur-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,912  INFO      CREATED match: id=1370  2024-12-29  Tottenham Hotspur vs Wolverhampton Wanderers  (Premier League)
+2026-03-25 18:54:00,914  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241229-west-ham-united-vs-liverpool.json
+2026-03-25 18:54:00,914  INFO      CREATED match: id=1371  2024-12-29  West Ham United vs Liverpool  (Premier League)
+2026-03-25 18:54:00,917  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241230-aston-villa-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,918  INFO      CREATED match: id=1372  2024-12-30  Aston Villa vs Brighton And Hove Albion  (Premier League)
+2026-03-25 18:54:00,920  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241230-ipswich-town-vs-chelsea.json
+2026-03-25 18:54:00,920  INFO      CREATED match: id=1373  2024-12-30  Ipswich Town vs Chelsea  (Premier League)
+2026-03-25 18:54:00,923  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20241230-manchester-united-vs-newcastle-united.json
+2026-03-25 18:54:00,923  INFO      CREATED match: id=1374  2024-12-30  Manchester United vs Newcastle United  (Premier League)
+2026-03-25 18:54:00,925  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250101-brentford-vs-arsenal.json
+2026-03-25 18:54:00,927  DEBUG     Match already exists: id=502 (2025-01-01)
+2026-03-25 18:54:00,928  DEBUG     Lineup already exists for match=502 team=1058, skipping
+2026-03-25 18:54:00,929  DEBUG     Lineup already exists for match=502 team=11, skipping
+2026-03-25 18:54:00,929  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250104-afc-bournemouth-vs-everton.json
+2026-03-25 18:54:00,930  DEBUG     Match already exists: id=503 (2025-01-04)
+2026-03-25 18:54:00,931  DEBUG     Lineup already exists for match=503 team=1066, skipping
+2026-03-25 18:54:00,932  DEBUG     Lineup already exists for match=503 team=2, skipping
+2026-03-25 18:54:00,932  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250104-aston-villa-vs-leicester-city.json
+2026-03-25 18:54:00,934  DEBUG     Match already exists: id=504 (2025-01-04)
+2026-03-25 18:54:00,935  DEBUG     Lineup already exists for match=504 team=5, skipping
+2026-03-25 18:54:00,936  DEBUG     Lineup already exists for match=504 team=12, skipping
+2026-03-25 18:54:00,936  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250104-brighton-and-hove-albion-vs-arsenal.json
+2026-03-25 18:54:00,936  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:00,936  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:00,937  DEBUG     Match already exists: id=505 (2025-01-04)
+2026-03-25 18:54:00,938  DEBUG     Lineup already exists for match=505 team=20, skipping
+2026-03-25 18:54:00,938  DEBUG     Lineup already exists for match=505 team=11, skipping
+2026-03-25 18:54:00,938  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250104-crystal-palace-vs-chelsea.json
+2026-03-25 18:54:00,939  DEBUG     Match already exists: id=506 (2025-01-04)
+2026-03-25 18:54:00,940  DEBUG     Lineup already exists for match=506 team=1, skipping
+2026-03-25 18:54:00,941  DEBUG     Lineup already exists for match=506 team=13, skipping
+2026-03-25 18:54:00,941  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250104-manchester-city-vs-west-ham-united.json
+2026-03-25 18:54:00,942  DEBUG     Match already exists: id=507 (2025-01-04)
+2026-03-25 18:54:00,943  DEBUG     Lineup already exists for match=507 team=10, skipping
+2026-03-25 18:54:00,944  DEBUG     Lineup already exists for match=507 team=9, skipping
+2026-03-25 18:54:00,944  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250104-southampton-vs-brentford.json
+2026-03-25 18:54:00,945  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:00,945  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:00,945  DEBUG     Match already exists: id=508 (2025-01-04)
+2026-03-25 18:54:00,946  DEBUG     Lineup already exists for match=508 team=30, skipping
+2026-03-25 18:54:00,947  DEBUG     Lineup already exists for match=508 team=1058, skipping
+2026-03-25 18:54:00,947  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250104-tottenham-hotspur-vs-newcastle-united.json
+2026-03-25 18:54:00,948  DEBUG     Match already exists: id=509 (2025-01-04)
+2026-03-25 18:54:00,949  DEBUG     Lineup already exists for match=509 team=6, skipping
+2026-03-25 18:54:00,950  DEBUG     Lineup already exists for match=509 team=19, skipping
+2026-03-25 18:54:00,951  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250105-fulham-vs-ipswich-town.json
+2026-03-25 18:54:00,951  DEBUG     Match already exists: id=510 (2025-01-05)
+2026-03-25 18:54:00,952  DEBUG     Lineup already exists for match=510 team=1056, skipping
+2026-03-25 18:54:00,953  DEBUG     Lineup already exists for match=510 team=1057, skipping
+2026-03-25 18:54:00,953  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250105-liverpool-vs-manchester-united.json
+2026-03-25 18:54:00,954  DEBUG     Match already exists: id=511 (2025-01-05)
+2026-03-25 18:54:00,955  DEBUG     Lineup already exists for match=511 team=16, skipping
+2026-03-25 18:54:00,956  DEBUG     Lineup already exists for match=511 team=4, skipping
+2026-03-25 18:54:00,956  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250106-wolverhampton-wanderers-vs-nottingham-forest.json
+2026-03-25 18:54:00,957  DEBUG     Match already exists: id=512 (2025-01-06)
+2026-03-25 18:54:00,958  DEBUG     Lineup already exists for match=512 team=7, skipping
+2026-03-25 18:54:00,959  DEBUG     Lineup already exists for match=512 team=1060, skipping
+2026-03-25 18:54:00,959  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250114-brentford-vs-manchester-city.json
+2026-03-25 18:54:00,960  DEBUG     Match already exists: id=513 (2025-01-14)
+2026-03-25 18:54:00,961  DEBUG     Lineup already exists for match=513 team=1058, skipping
+2026-03-25 18:54:00,962  DEBUG     Lineup already exists for match=513 team=10, skipping
+2026-03-25 18:54:00,962  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250114-chelsea-vs-afc-bournemouth.json
+2026-03-25 18:54:00,963  DEBUG     Match already exists: id=514 (2025-01-14)
+2026-03-25 18:54:00,964  DEBUG     Lineup already exists for match=514 team=13, skipping
+2026-03-25 18:54:00,965  DEBUG     Lineup already exists for match=514 team=1066, skipping
+2026-03-25 18:54:00,965  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250114-nottingham-forest-vs-liverpool.json
+2026-03-25 18:54:00,966  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:00,966  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:00,966  DEBUG     Match already exists: id=515 (2025-01-14)
+2026-03-25 18:54:00,967  DEBUG     Lineup already exists for match=515 team=1060, skipping
+2026-03-25 18:54:00,968  DEBUG     Lineup already exists for match=515 team=16, skipping
+2026-03-25 18:54:00,968  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250114-west-ham-united-vs-fulham.json
+2026-03-25 18:54:00,968  DEBUG     Match already exists: id=516 (2025-01-14)
+2026-03-25 18:54:00,969  DEBUG     Lineup already exists for match=516 team=9, skipping
+2026-03-25 18:54:00,970  DEBUG     Lineup already exists for match=516 team=1056, skipping
+2026-03-25 18:54:00,970  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250115-arsenal-vs-tottenham-hotspur.json
+2026-03-25 18:54:00,971  DEBUG     Match already exists: id=517 (2025-01-15)
+2026-03-25 18:54:00,972  DEBUG     Lineup already exists for match=517 team=11, skipping
+2026-03-25 18:54:00,973  DEBUG     Lineup already exists for match=517 team=6, skipping
+2026-03-25 18:54:00,973  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250115-everton-vs-aston-villa.json
+2026-03-25 18:54:00,974  DEBUG     Match already exists: id=518 (2025-01-15)
+2026-03-25 18:54:00,975  DEBUG     Lineup already exists for match=518 team=2, skipping
+2026-03-25 18:54:00,975  DEBUG     Lineup already exists for match=518 team=5, skipping
+2026-03-25 18:54:00,976  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250115-leicester-city-vs-crystal-palace.json
+2026-03-25 18:54:00,976  DEBUG     Match already exists: id=519 (2025-01-15)
+2026-03-25 18:54:00,977  DEBUG     Lineup already exists for match=519 team=12, skipping
+2026-03-25 18:54:00,978  DEBUG     Lineup already exists for match=519 team=1, skipping
+2026-03-25 18:54:00,978  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250115-newcastle-united-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:00,978  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,979  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,979  DEBUG     Match already exists: id=520 (2025-01-15)
+2026-03-25 18:54:00,980  DEBUG     Lineup already exists for match=520 team=19, skipping
+2026-03-25 18:54:00,981  DEBUG     Lineup already exists for match=520 team=7, skipping
+2026-03-25 18:54:00,981  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250116-ipswich-town-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:00,982  DEBUG     Match already exists: id=521 (2025-01-16)
+2026-03-25 18:54:00,983  DEBUG     Lineup already exists for match=521 team=1057, skipping
+2026-03-25 18:54:00,984  DEBUG     Lineup already exists for match=521 team=20, skipping
+2026-03-25 18:54:00,984  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250116-manchester-united-vs-southampton.json
+2026-03-25 18:54:00,984  DEBUG     Match already exists: id=522 (2025-01-16)
+2026-03-25 18:54:00,985  DEBUG     Lineup already exists for match=522 team=4, skipping
+2026-03-25 18:54:00,986  DEBUG     Lineup already exists for match=522 team=30, skipping
+2026-03-25 18:54:00,986  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250118-arsenal-vs-aston-villa.json
+2026-03-25 18:54:00,987  DEBUG     Match already exists: id=523 (2025-01-18)
+2026-03-25 18:54:00,988  DEBUG     Lineup already exists for match=523 team=11, skipping
+2026-03-25 18:54:00,989  DEBUG     Lineup already exists for match=523 team=5, skipping
+2026-03-25 18:54:00,989  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250118-brentford-vs-liverpool.json
+2026-03-25 18:54:00,990  DEBUG     Match already exists: id=524 (2025-01-18)
+2026-03-25 18:54:00,991  DEBUG     Lineup already exists for match=524 team=1058, skipping
+2026-03-25 18:54:00,992  DEBUG     Lineup already exists for match=524 team=16, skipping
+2026-03-25 18:54:00,992  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250118-leicester-city-vs-fulham.json
+2026-03-25 18:54:00,993  DEBUG     Match already exists: id=525 (2025-01-18)
+2026-03-25 18:54:00,994  DEBUG     Lineup already exists for match=525 team=12, skipping
+2026-03-25 18:54:00,995  DEBUG     Lineup already exists for match=525 team=1056, skipping
+2026-03-25 18:54:00,995  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250118-newcastle-united-vs-afc-bournemouth.json
+2026-03-25 18:54:00,995  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:00,995  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:00,996  DEBUG     Match already exists: id=526 (2025-01-18)
+2026-03-25 18:54:00,997  DEBUG     Lineup already exists for match=526 team=19, skipping
+2026-03-25 18:54:00,998  DEBUG     Lineup already exists for match=526 team=1066, skipping
+2026-03-25 18:54:00,998  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250118-west-ham-united-vs-crystal-palace.json
+2026-03-25 18:54:00,998  DEBUG     Match already exists: id=527 (2025-01-18)
+2026-03-25 18:54:00,999  DEBUG     Lineup already exists for match=527 team=9, skipping
+2026-03-25 18:54:01,000  DEBUG     Lineup already exists for match=527 team=1, skipping
+2026-03-25 18:54:01,000  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250119-everton-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,001  DEBUG     Match already exists: id=528 (2025-01-19)
+2026-03-25 18:54:01,002  DEBUG     Lineup already exists for match=528 team=2, skipping
+2026-03-25 18:54:01,003  DEBUG     Lineup already exists for match=528 team=6, skipping
+2026-03-25 18:54:01,003  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250119-ipswich-town-vs-manchester-city.json
+2026-03-25 18:54:01,004  DEBUG     Match already exists: id=529 (2025-01-19)
+2026-03-25 18:54:01,005  DEBUG     Lineup already exists for match=529 team=1057, skipping
+2026-03-25 18:54:01,006  DEBUG     Lineup already exists for match=529 team=10, skipping
+2026-03-25 18:54:01,006  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250119-manchester-united-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,006  DEBUG     Match already exists: id=530 (2025-01-19)
+2026-03-25 18:54:01,007  DEBUG     Lineup already exists for match=530 team=4, skipping
+2026-03-25 18:54:01,008  DEBUG     Lineup already exists for match=530 team=20, skipping
+2026-03-25 18:54:01,008  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250119-nottingham-forest-vs-southampton.json
+2026-03-25 18:54:01,009  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,009  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,009  DEBUG     Match already exists: id=531 (2025-01-19)
+2026-03-25 18:54:01,010  DEBUG     Lineup already exists for match=531 team=1060, skipping
+2026-03-25 18:54:01,011  DEBUG     Lineup already exists for match=531 team=30, skipping
+2026-03-25 18:54:01,011  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250120-chelsea-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,012  DEBUG     Match already exists: id=532 (2025-01-20)
+2026-03-25 18:54:01,013  DEBUG     Lineup already exists for match=532 team=13, skipping
+2026-03-25 18:54:01,014  DEBUG     Lineup already exists for match=532 team=7, skipping
+2026-03-25 18:54:01,014  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250125-afc-bournemouth-vs-nottingham-forest.json
+2026-03-25 18:54:01,015  DEBUG     Match already exists: id=533 (2025-01-25)
+2026-03-25 18:54:01,016  DEBUG     Lineup already exists for match=533 team=1066, skipping
+2026-03-25 18:54:01,016  DEBUG     Lineup already exists for match=533 team=1060, skipping
+2026-03-25 18:54:01,017  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250125-brighton-and-hove-albion-vs-everton.json
+2026-03-25 18:54:01,017  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,017  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,018  DEBUG     Match already exists: id=534 (2025-01-25)
+2026-03-25 18:54:01,018  DEBUG     Lineup already exists for match=534 team=20, skipping
+2026-03-25 18:54:01,019  DEBUG     Lineup already exists for match=534 team=2, skipping
+2026-03-25 18:54:01,019  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250125-liverpool-vs-ipswich-town.json
+2026-03-25 18:54:01,020  DEBUG     Match already exists: id=535 (2025-01-25)
+2026-03-25 18:54:01,021  DEBUG     Lineup already exists for match=535 team=16, skipping
+2026-03-25 18:54:01,022  DEBUG     Lineup already exists for match=535 team=1057, skipping
+2026-03-25 18:54:01,022  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250125-manchester-city-vs-chelsea.json
+2026-03-25 18:54:01,023  DEBUG     Match already exists: id=536 (2025-01-25)
+2026-03-25 18:54:01,024  DEBUG     Lineup already exists for match=536 team=10, skipping
+2026-03-25 18:54:01,025  DEBUG     Lineup already exists for match=536 team=13, skipping
+2026-03-25 18:54:01,025  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250125-southampton-vs-newcastle-united.json
+2026-03-25 18:54:01,025  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,026  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,026  DEBUG     Match already exists: id=537 (2025-01-25)
+2026-03-25 18:54:01,027  DEBUG     Lineup already exists for match=537 team=30, skipping
+2026-03-25 18:54:01,027  DEBUG     Lineup already exists for match=537 team=19, skipping
+2026-03-25 18:54:01,028  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250125-wolverhampton-wanderers-vs-arsenal.json
+2026-03-25 18:54:01,028  DEBUG     Match already exists: id=538 (2025-01-25)
+2026-03-25 18:54:01,029  DEBUG     Lineup already exists for match=538 team=7, skipping
+2026-03-25 18:54:01,030  DEBUG     Lineup already exists for match=538 team=11, skipping
+2026-03-25 18:54:01,030  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250126-aston-villa-vs-west-ham-united.json
+2026-03-25 18:54:01,031  DEBUG     Match already exists: id=539 (2025-01-26)
+2026-03-25 18:54:01,032  DEBUG     Lineup already exists for match=539 team=5, skipping
+2026-03-25 18:54:01,033  DEBUG     Lineup already exists for match=539 team=9, skipping
+2026-03-25 18:54:01,033  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250126-crystal-palace-vs-brentford.json
+2026-03-25 18:54:01,034  DEBUG     Match already exists: id=540 (2025-01-26)
+2026-03-25 18:54:01,035  DEBUG     Lineup already exists for match=540 team=1, skipping
+2026-03-25 18:54:01,036  DEBUG     Lineup already exists for match=540 team=1058, skipping
+2026-03-25 18:54:01,036  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250126-fulham-vs-manchester-united.json
+2026-03-25 18:54:01,037  DEBUG     Match already exists: id=541 (2025-01-26)
+2026-03-25 18:54:01,038  DEBUG     Lineup already exists for match=541 team=1056, skipping
+2026-03-25 18:54:01,039  DEBUG     Lineup already exists for match=541 team=4, skipping
+2026-03-25 18:54:01,039  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250126-tottenham-hotspur-vs-leicester-city.json
+2026-03-25 18:54:01,040  DEBUG     Match already exists: id=542 (2025-01-26)
+2026-03-25 18:54:01,041  DEBUG     Lineup already exists for match=542 team=6, skipping
+2026-03-25 18:54:01,042  DEBUG     Lineup already exists for match=542 team=12, skipping
+2026-03-25 18:54:01,042  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250201-afc-bournemouth-vs-liverpool.json
+2026-03-25 18:54:01,043  DEBUG     Match already exists: id=543 (2025-02-01)
+2026-03-25 18:54:01,044  DEBUG     Lineup already exists for match=543 team=1066, skipping
+2026-03-25 18:54:01,045  DEBUG     Lineup already exists for match=543 team=16, skipping
+2026-03-25 18:54:01,045  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250201-everton-vs-leicester-city.json
+2026-03-25 18:54:01,046  DEBUG     Match already exists: id=544 (2025-02-01)
+2026-03-25 18:54:01,047  DEBUG     Lineup already exists for match=544 team=2, skipping
+2026-03-25 18:54:01,048  DEBUG     Lineup already exists for match=544 team=12, skipping
+2026-03-25 18:54:01,048  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250201-ipswich-town-vs-southampton.json
+2026-03-25 18:54:01,049  DEBUG     Match already exists: id=545 (2025-02-01)
+2026-03-25 18:54:01,050  DEBUG     Lineup already exists for match=545 team=1057, skipping
+2026-03-25 18:54:01,051  DEBUG     Lineup already exists for match=545 team=30, skipping
+2026-03-25 18:54:01,051  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250201-newcastle-united-vs-fulham.json
+2026-03-25 18:54:01,052  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,052  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,053  DEBUG     Match already exists: id=546 (2025-02-01)
+2026-03-25 18:54:01,053  DEBUG     Lineup already exists for match=546 team=19, skipping
+2026-03-25 18:54:01,054  DEBUG     Lineup already exists for match=546 team=1056, skipping
+2026-03-25 18:54:01,054  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250201-nottingham-forest-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,055  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,055  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,056  DEBUG     Match already exists: id=547 (2025-02-01)
+2026-03-25 18:54:01,057  DEBUG     Lineup already exists for match=547 team=1060, skipping
+2026-03-25 18:54:01,057  DEBUG     Lineup already exists for match=547 team=20, skipping
+2026-03-25 18:54:01,057  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250201-wolverhampton-wanderers-vs-aston-villa.json
+2026-03-25 18:54:01,058  DEBUG     Match already exists: id=548 (2025-02-01)
+2026-03-25 18:54:01,059  DEBUG     Lineup already exists for match=548 team=7, skipping
+2026-03-25 18:54:01,060  DEBUG     Lineup already exists for match=548 team=5, skipping
+2026-03-25 18:54:01,060  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250202-arsenal-vs-manchester-city.json
+2026-03-25 18:54:01,061  DEBUG     Match already exists: id=549 (2025-02-02)
+2026-03-25 18:54:01,062  DEBUG     Lineup already exists for match=549 team=11, skipping
+2026-03-25 18:54:01,063  DEBUG     Lineup already exists for match=549 team=10, skipping
+2026-03-25 18:54:01,063  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250202-brentford-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,064  DEBUG     Match already exists: id=550 (2025-02-02)
+2026-03-25 18:54:01,065  DEBUG     Lineup already exists for match=550 team=1058, skipping
+2026-03-25 18:54:01,066  DEBUG     Lineup already exists for match=550 team=6, skipping
+2026-03-25 18:54:01,066  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250202-manchester-united-vs-crystal-palace.json
+2026-03-25 18:54:01,067  DEBUG     Match already exists: id=551 (2025-02-02)
+2026-03-25 18:54:01,068  DEBUG     Lineup already exists for match=551 team=4, skipping
+2026-03-25 18:54:01,068  DEBUG     Lineup already exists for match=551 team=1, skipping
+2026-03-25 18:54:01,068  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250203-chelsea-vs-west-ham-united.json
+2026-03-25 18:54:01,069  DEBUG     Match already exists: id=552 (2025-02-03)
+2026-03-25 18:54:01,070  DEBUG     Lineup already exists for match=552 team=13, skipping
+2026-03-25 18:54:01,071  DEBUG     Lineup already exists for match=552 team=9, skipping
+2026-03-25 18:54:01,071  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250212-everton-vs-liverpool.json
+2026-03-25 18:54:01,072  DEBUG     Match already exists: id=553 (2025-02-12)
+2026-03-25 18:54:01,073  DEBUG     Lineup already exists for match=553 team=2, skipping
+2026-03-25 18:54:01,074  DEBUG     Lineup already exists for match=553 team=16, skipping
+2026-03-25 18:54:01,074  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250214-brighton-and-hove-albion-vs-chelsea.json
+2026-03-25 18:54:01,075  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,076  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,076  DEBUG     Match already exists: id=554 (2025-02-14)
+2026-03-25 18:54:01,077  DEBUG     Lineup already exists for match=554 team=20, skipping
+2026-03-25 18:54:01,078  DEBUG     Lineup already exists for match=554 team=13, skipping
+2026-03-25 18:54:01,078  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250215-aston-villa-vs-ipswich-town.json
+2026-03-25 18:54:01,079  DEBUG     Match already exists: id=555 (2025-02-15)
+2026-03-25 18:54:01,080  DEBUG     Lineup already exists for match=555 team=5, skipping
+2026-03-25 18:54:01,081  DEBUG     Lineup already exists for match=555 team=1057, skipping
+2026-03-25 18:54:01,081  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250215-crystal-palace-vs-everton.json
+2026-03-25 18:54:01,082  DEBUG     Match already exists: id=556 (2025-02-15)
+2026-03-25 18:54:01,083  DEBUG     Lineup already exists for match=556 team=1, skipping
+2026-03-25 18:54:01,084  DEBUG     Lineup already exists for match=556 team=2, skipping
+2026-03-25 18:54:01,084  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250215-fulham-vs-nottingham-forest.json
+2026-03-25 18:54:01,085  DEBUG     Match already exists: id=557 (2025-02-15)
+2026-03-25 18:54:01,086  DEBUG     Lineup already exists for match=557 team=1056, skipping
+2026-03-25 18:54:01,087  DEBUG     Lineup already exists for match=557 team=1060, skipping
+2026-03-25 18:54:01,087  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250215-leicester-city-vs-arsenal.json
+2026-03-25 18:54:01,088  DEBUG     Match already exists: id=558 (2025-02-15)
+2026-03-25 18:54:01,089  DEBUG     Lineup already exists for match=558 team=12, skipping
+2026-03-25 18:54:01,090  DEBUG     Lineup already exists for match=558 team=11, skipping
+2026-03-25 18:54:01,090  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250215-manchester-city-vs-newcastle-united.json
+2026-03-25 18:54:01,091  DEBUG     Match already exists: id=559 (2025-02-15)
+2026-03-25 18:54:01,092  DEBUG     Lineup already exists for match=559 team=10, skipping
+2026-03-25 18:54:01,093  DEBUG     Lineup already exists for match=559 team=19, skipping
+2026-03-25 18:54:01,093  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250215-southampton-vs-afc-bournemouth.json
+2026-03-25 18:54:01,093  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,093  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,094  DEBUG     Match already exists: id=560 (2025-02-15)
+2026-03-25 18:54:01,095  DEBUG     Lineup already exists for match=560 team=30, skipping
+2026-03-25 18:54:01,095  DEBUG     Lineup already exists for match=560 team=1066, skipping
+2026-03-25 18:54:01,095  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250215-west-ham-united-vs-brentford.json
+2026-03-25 18:54:01,097  DEBUG     Match already exists: id=561 (2025-02-15)
+2026-03-25 18:54:01,098  DEBUG     Lineup already exists for match=561 team=9, skipping
+2026-03-25 18:54:01,099  DEBUG     Lineup already exists for match=561 team=1058, skipping
+2026-03-25 18:54:01,099  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250216-liverpool-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,100  DEBUG     Match already exists: id=562 (2025-02-16)
+2026-03-25 18:54:01,101  DEBUG     Lineup already exists for match=562 team=16, skipping
+2026-03-25 18:54:01,102  DEBUG     Lineup already exists for match=562 team=7, skipping
+2026-03-25 18:54:01,102  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250216-tottenham-hotspur-vs-manchester-united.json
+2026-03-25 18:54:01,103  DEBUG     Match already exists: id=563 (2025-02-16)
+2026-03-25 18:54:01,104  DEBUG     Lineup already exists for match=563 team=6, skipping
+2026-03-25 18:54:01,104  DEBUG     Lineup already exists for match=563 team=4, skipping
+2026-03-25 18:54:01,105  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250219-aston-villa-vs-liverpool.json
+2026-03-25 18:54:01,105  DEBUG     Match already exists: id=564 (2025-02-19)
+2026-03-25 18:54:01,106  DEBUG     Lineup already exists for match=564 team=5, skipping
+2026-03-25 18:54:01,107  DEBUG     Lineup already exists for match=564 team=16, skipping
+2026-03-25 18:54:01,107  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250221-leicester-city-vs-brentford.json
+2026-03-25 18:54:01,108  DEBUG     Match already exists: id=565 (2025-02-21)
+2026-03-25 18:54:01,109  DEBUG     Lineup already exists for match=565 team=12, skipping
+2026-03-25 18:54:01,110  DEBUG     Lineup already exists for match=565 team=1058, skipping
+2026-03-25 18:54:01,110  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250222-afc-bournemouth-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,111  DEBUG     Match already exists: id=566 (2025-02-22)
+2026-03-25 18:54:01,112  DEBUG     Lineup already exists for match=566 team=1066, skipping
+2026-03-25 18:54:01,113  DEBUG     Lineup already exists for match=566 team=7, skipping
+2026-03-25 18:54:01,113  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250222-arsenal-vs-west-ham-united.json
+2026-03-25 18:54:01,114  DEBUG     Match already exists: id=567 (2025-02-22)
+2026-03-25 18:54:01,115  DEBUG     Lineup already exists for match=567 team=11, skipping
+2026-03-25 18:54:01,116  DEBUG     Lineup already exists for match=567 team=9, skipping
+2026-03-25 18:54:01,116  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250222-aston-villa-vs-chelsea.json
+2026-03-25 18:54:01,117  DEBUG     Match already exists: id=568 (2025-02-22)
+2026-03-25 18:54:01,118  DEBUG     Lineup already exists for match=568 team=5, skipping
+2026-03-25 18:54:01,119  DEBUG     Lineup already exists for match=568 team=13, skipping
+2026-03-25 18:54:01,119  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250222-everton-vs-manchester-united.json
+2026-03-25 18:54:01,120  DEBUG     Match already exists: id=569 (2025-02-22)
+2026-03-25 18:54:01,121  DEBUG     Lineup already exists for match=569 team=2, skipping
+2026-03-25 18:54:01,121  DEBUG     Lineup already exists for match=569 team=4, skipping
+2026-03-25 18:54:01,121  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250222-fulham-vs-crystal-palace.json
+2026-03-25 18:54:01,122  DEBUG     Match already exists: id=570 (2025-02-22)
+2026-03-25 18:54:01,123  DEBUG     Lineup already exists for match=570 team=1056, skipping
+2026-03-25 18:54:01,124  DEBUG     Lineup already exists for match=570 team=1, skipping
+2026-03-25 18:54:01,124  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250222-ipswich-town-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,125  DEBUG     Match already exists: id=571 (2025-02-22)
+2026-03-25 18:54:01,126  DEBUG     Lineup already exists for match=571 team=1057, skipping
+2026-03-25 18:54:01,127  DEBUG     Lineup already exists for match=571 team=6, skipping
+2026-03-25 18:54:01,127  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250222-southampton-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,128  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,128  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,128  DEBUG     Match already exists: id=572 (2025-02-22)
+2026-03-25 18:54:01,129  DEBUG     Lineup already exists for match=572 team=30, skipping
+2026-03-25 18:54:01,130  DEBUG     Lineup already exists for match=572 team=20, skipping
+2026-03-25 18:54:01,130  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250223-manchester-city-vs-liverpool.json
+2026-03-25 18:54:01,131  DEBUG     Match already exists: id=573 (2025-02-23)
+2026-03-25 18:54:01,132  DEBUG     Lineup already exists for match=573 team=10, skipping
+2026-03-25 18:54:01,133  DEBUG     Lineup already exists for match=573 team=16, skipping
+2026-03-25 18:54:01,133  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250223-newcastle-united-vs-nottingham-forest.json
+2026-03-25 18:54:01,134  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,134  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,134  DEBUG     Match already exists: id=574 (2025-02-23)
+2026-03-25 18:54:01,135  DEBUG     Lineup already exists for match=574 team=19, skipping
+2026-03-25 18:54:01,136  DEBUG     Lineup already exists for match=574 team=1060, skipping
+2026-03-25 18:54:01,136  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250225-brighton-and-hove-albion-vs-afc-bournemouth.json
+2026-03-25 18:54:01,137  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,137  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,137  DEBUG     Match already exists: id=575 (2025-02-25)
+2026-03-25 18:54:01,138  DEBUG     Lineup already exists for match=575 team=20, skipping
+2026-03-25 18:54:01,139  DEBUG     Lineup already exists for match=575 team=1066, skipping
+2026-03-25 18:54:01,139  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250225-chelsea-vs-southampton.json
+2026-03-25 18:54:01,140  DEBUG     Match already exists: id=576 (2025-02-25)
+2026-03-25 18:54:01,141  DEBUG     Lineup already exists for match=576 team=13, skipping
+2026-03-25 18:54:01,142  DEBUG     Lineup already exists for match=576 team=30, skipping
+2026-03-25 18:54:01,142  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250225-crystal-palace-vs-aston-villa.json
+2026-03-25 18:54:01,143  DEBUG     Match already exists: id=577 (2025-02-25)
+2026-03-25 18:54:01,144  DEBUG     Lineup already exists for match=577 team=1, skipping
+2026-03-25 18:54:01,145  DEBUG     Lineup already exists for match=577 team=5, skipping
+2026-03-25 18:54:01,145  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250225-wolverhampton-wanderers-vs-fulham.json
+2026-03-25 18:54:01,146  DEBUG     Match already exists: id=578 (2025-02-25)
+2026-03-25 18:54:01,147  DEBUG     Lineup already exists for match=578 team=7, skipping
+2026-03-25 18:54:01,148  DEBUG     Lineup already exists for match=578 team=1056, skipping
+2026-03-25 18:54:01,148  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250226-brentford-vs-everton.json
+2026-03-25 18:54:01,149  DEBUG     Match already exists: id=579 (2025-02-26)
+2026-03-25 18:54:01,150  DEBUG     Lineup already exists for match=579 team=1058, skipping
+2026-03-25 18:54:01,151  DEBUG     Lineup already exists for match=579 team=2, skipping
+2026-03-25 18:54:01,151  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250226-liverpool-vs-newcastle-united.json
+2026-03-25 18:54:01,152  DEBUG     Match already exists: id=580 (2025-02-26)
+2026-03-25 18:54:01,152  DEBUG     Lineup already exists for match=580 team=16, skipping
+2026-03-25 18:54:01,153  DEBUG     Lineup already exists for match=580 team=19, skipping
+2026-03-25 18:54:01,153  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250226-manchester-united-vs-ipswich-town.json
+2026-03-25 18:54:01,154  DEBUG     Match already exists: id=581 (2025-02-26)
+2026-03-25 18:54:01,155  DEBUG     Lineup already exists for match=581 team=4, skipping
+2026-03-25 18:54:01,156  DEBUG     Lineup already exists for match=581 team=1057, skipping
+2026-03-25 18:54:01,156  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250226-nottingham-forest-vs-arsenal.json
+2026-03-25 18:54:01,157  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,157  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,157  DEBUG     Match already exists: id=582 (2025-02-26)
+2026-03-25 18:54:01,158  DEBUG     Lineup already exists for match=582 team=1060, skipping
+2026-03-25 18:54:01,159  DEBUG     Lineup already exists for match=582 team=11, skipping
+2026-03-25 18:54:01,159  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250226-tottenham-hotspur-vs-manchester-city.json
+2026-03-25 18:54:01,160  DEBUG     Match already exists: id=583 (2025-02-26)
+2026-03-25 18:54:01,161  DEBUG     Lineup already exists for match=583 team=6, skipping
+2026-03-25 18:54:01,162  DEBUG     Lineup already exists for match=583 team=10, skipping
+2026-03-25 18:54:01,162  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250227-west-ham-united-vs-leicester-city.json
+2026-03-25 18:54:01,164  DEBUG     Match already exists: id=584 (2025-02-27)
+2026-03-25 18:54:01,165  DEBUG     Lineup already exists for match=584 team=9, skipping
+2026-03-25 18:54:01,166  DEBUG     Lineup already exists for match=584 team=12, skipping
+2026-03-25 18:54:01,166  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250308-brentford-vs-aston-villa.json
+2026-03-25 18:54:01,167  DEBUG     Match already exists: id=585 (2025-03-08)
+2026-03-25 18:54:01,168  DEBUG     Lineup already exists for match=585 team=1058, skipping
+2026-03-25 18:54:01,169  DEBUG     Lineup already exists for match=585 team=5, skipping
+2026-03-25 18:54:01,169  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250308-brighton-and-hove-albion-vs-fulham.json
+2026-03-25 18:54:01,169  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,170  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,170  DEBUG     Match already exists: id=586 (2025-03-08)
+2026-03-25 18:54:01,171  DEBUG     Lineup already exists for match=586 team=20, skipping
+2026-03-25 18:54:01,172  DEBUG     Lineup already exists for match=586 team=1056, skipping
+2026-03-25 18:54:01,172  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250308-crystal-palace-vs-ipswich-town.json
+2026-03-25 18:54:01,172  DEBUG     Match already exists: id=587 (2025-03-08)
+2026-03-25 18:54:01,173  DEBUG     Lineup already exists for match=587 team=1, skipping
+2026-03-25 18:54:01,174  DEBUG     Lineup already exists for match=587 team=1057, skipping
+2026-03-25 18:54:01,174  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250308-liverpool-vs-southampton.json
+2026-03-25 18:54:01,175  DEBUG     Match already exists: id=588 (2025-03-08)
+2026-03-25 18:54:01,176  DEBUG     Lineup already exists for match=588 team=16, skipping
+2026-03-25 18:54:01,177  DEBUG     Lineup already exists for match=588 team=30, skipping
+2026-03-25 18:54:01,177  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250308-nottingham-forest-vs-manchester-city.json
+2026-03-25 18:54:01,178  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,178  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,178  DEBUG     Match already exists: id=589 (2025-03-08)
+2026-03-25 18:54:01,179  DEBUG     Lineup already exists for match=589 team=1060, skipping
+2026-03-25 18:54:01,180  DEBUG     Lineup already exists for match=589 team=10, skipping
+2026-03-25 18:54:01,180  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250308-wolverhampton-wanderers-vs-everton.json
+2026-03-25 18:54:01,181  DEBUG     Match already exists: id=590 (2025-03-08)
+2026-03-25 18:54:01,182  DEBUG     Lineup already exists for match=590 team=7, skipping
+2026-03-25 18:54:01,183  DEBUG     Lineup already exists for match=590 team=2, skipping
+2026-03-25 18:54:01,183  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250309-chelsea-vs-leicester-city.json
+2026-03-25 18:54:01,184  DEBUG     Match already exists: id=591 (2025-03-09)
+2026-03-25 18:54:01,185  DEBUG     Lineup already exists for match=591 team=13, skipping
+2026-03-25 18:54:01,186  DEBUG     Lineup already exists for match=591 team=12, skipping
+2026-03-25 18:54:01,186  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250309-manchester-united-vs-arsenal.json
+2026-03-25 18:54:01,187  DEBUG     Match already exists: id=592 (2025-03-09)
+2026-03-25 18:54:01,188  DEBUG     Lineup already exists for match=592 team=4, skipping
+2026-03-25 18:54:01,189  DEBUG     Lineup already exists for match=592 team=11, skipping
+2026-03-25 18:54:01,189  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250309-tottenham-hotspur-vs-afc-bournemouth.json
+2026-03-25 18:54:01,190  DEBUG     Match already exists: id=593 (2025-03-09)
+2026-03-25 18:54:01,191  DEBUG     Lineup already exists for match=593 team=6, skipping
+2026-03-25 18:54:01,192  DEBUG     Lineup already exists for match=593 team=1066, skipping
+2026-03-25 18:54:01,192  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250310-west-ham-united-vs-newcastle-united.json
+2026-03-25 18:54:01,193  DEBUG     Match already exists: id=594 (2025-03-10)
+2026-03-25 18:54:01,194  DEBUG     Lineup already exists for match=594 team=9, skipping
+2026-03-25 18:54:01,195  DEBUG     Lineup already exists for match=594 team=19, skipping
+2026-03-25 18:54:01,195  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250315-afc-bournemouth-vs-brentford.json
+2026-03-25 18:54:01,197  DEBUG     Match already exists: id=595 (2025-03-15)
+2026-03-25 18:54:01,198  DEBUG     Lineup already exists for match=595 team=1066, skipping
+2026-03-25 18:54:01,199  DEBUG     Lineup already exists for match=595 team=1058, skipping
+2026-03-25 18:54:01,199  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250315-everton-vs-west-ham-united.json
+2026-03-25 18:54:01,200  DEBUG     Match already exists: id=596 (2025-03-15)
+2026-03-25 18:54:01,201  DEBUG     Lineup already exists for match=596 team=2, skipping
+2026-03-25 18:54:01,201  DEBUG     Lineup already exists for match=596 team=9, skipping
+2026-03-25 18:54:01,202  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250315-ipswich-town-vs-nottingham-forest.json
+2026-03-25 18:54:01,202  DEBUG     Match already exists: id=597 (2025-03-15)
+2026-03-25 18:54:01,203  DEBUG     Lineup already exists for match=597 team=1057, skipping
+2026-03-25 18:54:01,204  DEBUG     Lineup already exists for match=597 team=1060, skipping
+2026-03-25 18:54:01,204  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250315-manchester-city-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,205  DEBUG     Match already exists: id=598 (2025-03-15)
+2026-03-25 18:54:01,206  DEBUG     Lineup already exists for match=598 team=10, skipping
+2026-03-25 18:54:01,207  DEBUG     Lineup already exists for match=598 team=20, skipping
+2026-03-25 18:54:01,207  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250315-southampton-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,208  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,208  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,208  DEBUG     Match already exists: id=599 (2025-03-15)
+2026-03-25 18:54:01,209  DEBUG     Lineup already exists for match=599 team=30, skipping
+2026-03-25 18:54:01,210  DEBUG     Lineup already exists for match=599 team=7, skipping
+2026-03-25 18:54:01,210  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250316-arsenal-vs-chelsea.json
+2026-03-25 18:54:01,211  DEBUG     Match already exists: id=600 (2025-03-16)
+2026-03-25 18:54:01,212  DEBUG     Lineup already exists for match=600 team=11, skipping
+2026-03-25 18:54:01,213  DEBUG     Lineup already exists for match=600 team=13, skipping
+2026-03-25 18:54:01,213  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250316-fulham-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,214  DEBUG     Match already exists: id=601 (2025-03-16)
+2026-03-25 18:54:01,215  DEBUG     Lineup already exists for match=601 team=1056, skipping
+2026-03-25 18:54:01,216  DEBUG     Lineup already exists for match=601 team=6, skipping
+2026-03-25 18:54:01,216  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250316-leicester-city-vs-manchester-united.json
+2026-03-25 18:54:01,217  DEBUG     Match already exists: id=602 (2025-03-16)
+2026-03-25 18:54:01,218  DEBUG     Lineup already exists for match=602 team=12, skipping
+2026-03-25 18:54:01,219  DEBUG     Lineup already exists for match=602 team=4, skipping
+2026-03-25 18:54:01,219  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250401-arsenal-vs-fulham.json
+2026-03-25 18:54:01,220  DEBUG     Match already exists: id=603 (2025-04-01)
+2026-03-25 18:54:01,221  DEBUG     Lineup already exists for match=603 team=11, skipping
+2026-03-25 18:54:01,222  DEBUG     Lineup already exists for match=603 team=1056, skipping
+2026-03-25 18:54:01,222  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250401-nottingham-forest-vs-manchester-united.json
+2026-03-25 18:54:01,223  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,223  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,223  DEBUG     Match already exists: id=604 (2025-04-01)
+2026-03-25 18:54:01,224  DEBUG     Lineup already exists for match=604 team=1060, skipping
+2026-03-25 18:54:01,225  DEBUG     Lineup already exists for match=604 team=4, skipping
+2026-03-25 18:54:01,225  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250401-wolverhampton-wanderers-vs-west-ham-united.json
+2026-03-25 18:54:01,226  DEBUG     Match already exists: id=605 (2025-04-01)
+2026-03-25 18:54:01,227  DEBUG     Lineup already exists for match=605 team=7, skipping
+2026-03-25 18:54:01,228  DEBUG     Lineup already exists for match=605 team=9, skipping
+2026-03-25 18:54:01,228  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250402-afc-bournemouth-vs-ipswich-town.json
+2026-03-25 18:54:01,228  DEBUG     Match already exists: id=606 (2025-04-02)
+2026-03-25 18:54:01,229  DEBUG     Lineup already exists for match=606 team=1066, skipping
+2026-03-25 18:54:01,230  DEBUG     Lineup already exists for match=606 team=1057, skipping
+2026-03-25 18:54:01,230  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250402-brighton-and-hove-albion-vs-aston-villa.json
+2026-03-25 18:54:01,231  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,231  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,231  DEBUG     Match already exists: id=607 (2025-04-02)
+2026-03-25 18:54:01,232  DEBUG     Lineup already exists for match=607 team=20, skipping
+2026-03-25 18:54:01,233  DEBUG     Lineup already exists for match=607 team=5, skipping
+2026-03-25 18:54:01,233  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250402-liverpool-vs-everton.json
+2026-03-25 18:54:01,234  DEBUG     Match already exists: id=608 (2025-04-02)
+2026-03-25 18:54:01,235  DEBUG     Lineup already exists for match=608 team=16, skipping
+2026-03-25 18:54:01,236  DEBUG     Lineup already exists for match=608 team=2, skipping
+2026-03-25 18:54:01,236  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250402-manchester-city-vs-leicester-city.json
+2026-03-25 18:54:01,237  DEBUG     Match already exists: id=609 (2025-04-02)
+2026-03-25 18:54:01,238  DEBUG     Lineup already exists for match=609 team=10, skipping
+2026-03-25 18:54:01,239  DEBUG     Lineup already exists for match=609 team=12, skipping
+2026-03-25 18:54:01,239  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250402-newcastle-united-vs-brentford.json
+2026-03-25 18:54:01,240  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,240  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,240  DEBUG     Match already exists: id=610 (2025-04-02)
+2026-03-25 18:54:01,241  DEBUG     Lineup already exists for match=610 team=19, skipping
+2026-03-25 18:54:01,242  DEBUG     Lineup already exists for match=610 team=1058, skipping
+2026-03-25 18:54:01,242  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250402-southampton-vs-crystal-palace.json
+2026-03-25 18:54:01,243  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,243  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,243  DEBUG     Match already exists: id=611 (2025-04-02)
+2026-03-25 18:54:01,244  DEBUG     Lineup already exists for match=611 team=30, skipping
+2026-03-25 18:54:01,245  DEBUG     Lineup already exists for match=611 team=1, skipping
+2026-03-25 18:54:01,245  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250403-chelsea-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,245  DEBUG     Match already exists: id=612 (2025-04-03)
+2026-03-25 18:54:01,246  DEBUG     Lineup already exists for match=612 team=13, skipping
+2026-03-25 18:54:01,247  DEBUG     Lineup already exists for match=612 team=6, skipping
+2026-03-25 18:54:01,247  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250405-aston-villa-vs-nottingham-forest.json
+2026-03-25 18:54:01,248  DEBUG     Match already exists: id=613 (2025-04-05)
+2026-03-25 18:54:01,249  DEBUG     Lineup already exists for match=613 team=5, skipping
+2026-03-25 18:54:01,250  DEBUG     Lineup already exists for match=613 team=1060, skipping
+2026-03-25 18:54:01,250  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250405-crystal-palace-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,251  DEBUG     Match already exists: id=614 (2025-04-05)
+2026-03-25 18:54:01,252  DEBUG     Lineup already exists for match=614 team=1, skipping
+2026-03-25 18:54:01,253  DEBUG     Lineup already exists for match=614 team=20, skipping
+2026-03-25 18:54:01,253  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250405-everton-vs-arsenal.json
+2026-03-25 18:54:01,254  DEBUG     Match already exists: id=615 (2025-04-05)
+2026-03-25 18:54:01,255  DEBUG     Lineup already exists for match=615 team=2, skipping
+2026-03-25 18:54:01,255  DEBUG     Lineup already exists for match=615 team=11, skipping
+2026-03-25 18:54:01,256  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250405-ipswich-town-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,256  DEBUG     Match already exists: id=616 (2025-04-05)
+2026-03-25 18:54:01,257  DEBUG     Lineup already exists for match=616 team=1057, skipping
+2026-03-25 18:54:01,258  DEBUG     Lineup already exists for match=616 team=7, skipping
+2026-03-25 18:54:01,258  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250405-west-ham-united-vs-afc-bournemouth.json
+2026-03-25 18:54:01,259  DEBUG     Match already exists: id=617 (2025-04-05)
+2026-03-25 18:54:01,260  DEBUG     Lineup already exists for match=617 team=9, skipping
+2026-03-25 18:54:01,261  DEBUG     Lineup already exists for match=617 team=1066, skipping
+2026-03-25 18:54:01,261  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250406-brentford-vs-chelsea.json
+2026-03-25 18:54:01,262  DEBUG     Match already exists: id=618 (2025-04-06)
+2026-03-25 18:54:01,263  DEBUG     Lineup already exists for match=618 team=1058, skipping
+2026-03-25 18:54:01,264  DEBUG     Lineup already exists for match=618 team=13, skipping
+2026-03-25 18:54:01,264  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250406-fulham-vs-liverpool.json
+2026-03-25 18:54:01,264  DEBUG     Match already exists: id=619 (2025-04-06)
+2026-03-25 18:54:01,265  DEBUG     Lineup already exists for match=619 team=1056, skipping
+2026-03-25 18:54:01,266  DEBUG     Lineup already exists for match=619 team=16, skipping
+2026-03-25 18:54:01,266  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250406-manchester-united-vs-manchester-city.json
+2026-03-25 18:54:01,267  DEBUG     Match already exists: id=620 (2025-04-06)
+2026-03-25 18:54:01,268  DEBUG     Lineup already exists for match=620 team=4, skipping
+2026-03-25 18:54:01,269  DEBUG     Lineup already exists for match=620 team=10, skipping
+2026-03-25 18:54:01,269  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250406-tottenham-hotspur-vs-southampton.json
+2026-03-25 18:54:01,270  DEBUG     Match already exists: id=621 (2025-04-06)
+2026-03-25 18:54:01,271  DEBUG     Lineup already exists for match=621 team=6, skipping
+2026-03-25 18:54:01,272  DEBUG     Lineup already exists for match=621 team=30, skipping
+2026-03-25 18:54:01,272  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250407-leicester-city-vs-newcastle-united.json
+2026-03-25 18:54:01,272  DEBUG     Match already exists: id=622 (2025-04-07)
+2026-03-25 18:54:01,273  DEBUG     Lineup already exists for match=622 team=12, skipping
+2026-03-25 18:54:01,274  DEBUG     Lineup already exists for match=622 team=19, skipping
+2026-03-25 18:54:01,274  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250412-arsenal-vs-brentford.json
+2026-03-25 18:54:01,275  DEBUG     Match already exists: id=623 (2025-04-12)
+2026-03-25 18:54:01,276  DEBUG     Lineup already exists for match=623 team=11, skipping
+2026-03-25 18:54:01,277  DEBUG     Lineup already exists for match=623 team=1058, skipping
+2026-03-25 18:54:01,277  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250412-brighton-and-hove-albion-vs-leicester-city.json
+2026-03-25 18:54:01,278  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,278  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,278  DEBUG     Match already exists: id=624 (2025-04-12)
+2026-03-25 18:54:01,279  DEBUG     Lineup already exists for match=624 team=20, skipping
+2026-03-25 18:54:01,280  DEBUG     Lineup already exists for match=624 team=12, skipping
+2026-03-25 18:54:01,280  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250412-manchester-city-vs-crystal-palace.json
+2026-03-25 18:54:01,280  DEBUG     Match already exists: id=625 (2025-04-12)
+2026-03-25 18:54:01,281  DEBUG     Lineup already exists for match=625 team=10, skipping
+2026-03-25 18:54:01,282  DEBUG     Lineup already exists for match=625 team=1, skipping
+2026-03-25 18:54:01,282  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250412-nottingham-forest-vs-everton.json
+2026-03-25 18:54:01,283  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,283  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,283  DEBUG     Match already exists: id=626 (2025-04-12)
+2026-03-25 18:54:01,284  DEBUG     Lineup already exists for match=626 team=1060, skipping
+2026-03-25 18:54:01,285  DEBUG     Lineup already exists for match=626 team=2, skipping
+2026-03-25 18:54:01,285  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250412-southampton-vs-aston-villa.json
+2026-03-25 18:54:01,286  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,286  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,286  DEBUG     Match already exists: id=627 (2025-04-12)
+2026-03-25 18:54:01,287  DEBUG     Lineup already exists for match=627 team=30, skipping
+2026-03-25 18:54:01,288  DEBUG     Lineup already exists for match=627 team=5, skipping
+2026-03-25 18:54:01,288  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250413-chelsea-vs-ipswich-town.json
+2026-03-25 18:54:01,288  DEBUG     Match already exists: id=628 (2025-04-13)
+2026-03-25 18:54:01,289  DEBUG     Lineup already exists for match=628 team=13, skipping
+2026-03-25 18:54:01,290  DEBUG     Lineup already exists for match=628 team=1057, skipping
+2026-03-25 18:54:01,290  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250413-liverpool-vs-west-ham-united.json
+2026-03-25 18:54:01,291  DEBUG     Match already exists: id=629 (2025-04-13)
+2026-03-25 18:54:01,292  DEBUG     Lineup already exists for match=629 team=16, skipping
+2026-03-25 18:54:01,293  DEBUG     Lineup already exists for match=629 team=9, skipping
+2026-03-25 18:54:01,293  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250413-newcastle-united-vs-manchester-united.json
+2026-03-25 18:54:01,294  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,294  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,294  DEBUG     Match already exists: id=630 (2025-04-13)
+2026-03-25 18:54:01,295  DEBUG     Lineup already exists for match=630 team=19, skipping
+2026-03-25 18:54:01,296  DEBUG     Lineup already exists for match=630 team=4, skipping
+2026-03-25 18:54:01,296  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250413-wolverhampton-wanderers-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,296  DEBUG     Match already exists: id=631 (2025-04-13)
+2026-03-25 18:54:01,297  DEBUG     Lineup already exists for match=631 team=7, skipping
+2026-03-25 18:54:01,298  DEBUG     Lineup already exists for match=631 team=6, skipping
+2026-03-25 18:54:01,298  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250414-afc-bournemouth-vs-fulham.json
+2026-03-25 18:54:01,299  DEBUG     Match already exists: id=632 (2025-04-14)
+2026-03-25 18:54:01,300  DEBUG     Lineup already exists for match=632 team=1066, skipping
+2026-03-25 18:54:01,301  DEBUG     Lineup already exists for match=632 team=1056, skipping
+2026-03-25 18:54:01,301  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250416-newcastle-united-vs-crystal-palace.json
+2026-03-25 18:54:01,302  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,302  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,302  DEBUG     Match already exists: id=633 (2025-04-16)
+2026-03-25 18:54:01,303  DEBUG     Lineup already exists for match=633 team=19, skipping
+2026-03-25 18:54:01,304  DEBUG     Lineup already exists for match=633 team=1, skipping
+2026-03-25 18:54:01,304  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250419-aston-villa-vs-newcastle-united.json
+2026-03-25 18:54:01,305  DEBUG     Match already exists: id=634 (2025-04-19)
+2026-03-25 18:54:01,306  DEBUG     Lineup already exists for match=634 team=5, skipping
+2026-03-25 18:54:01,306  DEBUG     Lineup already exists for match=634 team=19, skipping
+2026-03-25 18:54:01,307  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250419-brentford-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,307  DEBUG     Match already exists: id=635 (2025-04-19)
+2026-03-25 18:54:01,308  DEBUG     Lineup already exists for match=635 team=1058, skipping
+2026-03-25 18:54:01,309  DEBUG     Lineup already exists for match=635 team=20, skipping
+2026-03-25 18:54:01,309  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250419-crystal-palace-vs-afc-bournemouth.json
+2026-03-25 18:54:01,310  DEBUG     Match already exists: id=636 (2025-04-19)
+2026-03-25 18:54:01,311  DEBUG     Lineup already exists for match=636 team=1, skipping
+2026-03-25 18:54:01,312  DEBUG     Lineup already exists for match=636 team=1066, skipping
+2026-03-25 18:54:01,312  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250419-everton-vs-manchester-city.json
+2026-03-25 18:54:01,313  DEBUG     Match already exists: id=637 (2025-04-19)
+2026-03-25 18:54:01,314  DEBUG     Lineup already exists for match=637 team=2, skipping
+2026-03-25 18:54:01,315  DEBUG     Lineup already exists for match=637 team=10, skipping
+2026-03-25 18:54:01,315  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250419-west-ham-united-vs-southampton.json
+2026-03-25 18:54:01,316  DEBUG     Match already exists: id=638 (2025-04-19)
+2026-03-25 18:54:01,317  DEBUG     Lineup already exists for match=638 team=9, skipping
+2026-03-25 18:54:01,318  DEBUG     Lineup already exists for match=638 team=30, skipping
+2026-03-25 18:54:01,318  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250420-fulham-vs-chelsea.json
+2026-03-25 18:54:01,319  DEBUG     Match already exists: id=639 (2025-04-20)
+2026-03-25 18:54:01,320  DEBUG     Lineup already exists for match=639 team=1056, skipping
+2026-03-25 18:54:01,320  DEBUG     Lineup already exists for match=639 team=13, skipping
+2026-03-25 18:54:01,320  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250420-ipswich-town-vs-arsenal.json
+2026-03-25 18:54:01,321  DEBUG     Match already exists: id=640 (2025-04-20)
+2026-03-25 18:54:01,322  DEBUG     Lineup already exists for match=640 team=1057, skipping
+2026-03-25 18:54:01,323  DEBUG     Lineup already exists for match=640 team=11, skipping
+2026-03-25 18:54:01,323  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250420-leicester-city-vs-liverpool.json
+2026-03-25 18:54:01,324  DEBUG     Match already exists: id=641 (2025-04-20)
+2026-03-25 18:54:01,325  DEBUG     Lineup already exists for match=641 team=12, skipping
+2026-03-25 18:54:01,326  DEBUG     Lineup already exists for match=641 team=16, skipping
+2026-03-25 18:54:01,326  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250420-manchester-united-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,327  DEBUG     Match already exists: id=642 (2025-04-20)
+2026-03-25 18:54:01,328  DEBUG     Lineup already exists for match=642 team=4, skipping
+2026-03-25 18:54:01,329  DEBUG     Lineup already exists for match=642 team=7, skipping
+2026-03-25 18:54:01,329  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250421-tottenham-hotspur-vs-nottingham-forest.json
+2026-03-25 18:54:01,330  DEBUG     Match already exists: id=643 (2025-04-21)
+2026-03-25 18:54:01,331  DEBUG     Lineup already exists for match=643 team=6, skipping
+2026-03-25 18:54:01,332  DEBUG     Lineup already exists for match=643 team=1060, skipping
+2026-03-25 18:54:01,332  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250422-manchester-city-vs-aston-villa.json
+2026-03-25 18:54:01,333  DEBUG     Match already exists: id=644 (2025-04-22)
+2026-03-25 18:54:01,334  DEBUG     Lineup already exists for match=644 team=10, skipping
+2026-03-25 18:54:01,335  DEBUG     Lineup already exists for match=644 team=5, skipping
+2026-03-25 18:54:01,335  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250423-arsenal-vs-crystal-palace.json
+2026-03-25 18:54:01,335  DEBUG     Match already exists: id=645 (2025-04-23)
+2026-03-25 18:54:01,336  DEBUG     Lineup already exists for match=645 team=11, skipping
+2026-03-25 18:54:01,337  DEBUG     Lineup already exists for match=645 team=1, skipping
+2026-03-25 18:54:01,337  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250426-brighton-and-hove-albion-vs-west-ham-united.json
+2026-03-25 18:54:01,338  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,338  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,338  DEBUG     Match already exists: id=646 (2025-04-26)
+2026-03-25 18:54:01,339  DEBUG     Lineup already exists for match=646 team=20, skipping
+2026-03-25 18:54:01,340  DEBUG     Lineup already exists for match=646 team=9, skipping
+2026-03-25 18:54:01,340  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250426-chelsea-vs-everton.json
+2026-03-25 18:54:01,341  DEBUG     Match already exists: id=647 (2025-04-26)
+2026-03-25 18:54:01,342  DEBUG     Lineup already exists for match=647 team=13, skipping
+2026-03-25 18:54:01,343  DEBUG     Lineup already exists for match=647 team=2, skipping
+2026-03-25 18:54:01,343  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250426-newcastle-united-vs-ipswich-town.json
+2026-03-25 18:54:01,344  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,344  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,344  DEBUG     Match already exists: id=648 (2025-04-26)
+2026-03-25 18:54:01,345  DEBUG     Lineup already exists for match=648 team=19, skipping
+2026-03-25 18:54:01,346  DEBUG     Lineup already exists for match=648 team=1057, skipping
+2026-03-25 18:54:01,346  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250426-southampton-vs-fulham.json
+2026-03-25 18:54:01,347  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,347  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,347  DEBUG     Match already exists: id=649 (2025-04-26)
+2026-03-25 18:54:01,348  DEBUG     Lineup already exists for match=649 team=30, skipping
+2026-03-25 18:54:01,349  DEBUG     Lineup already exists for match=649 team=1056, skipping
+2026-03-25 18:54:01,349  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250426-wolverhampton-wanderers-vs-leicester-city.json
+2026-03-25 18:54:01,350  DEBUG     Match already exists: id=650 (2025-04-26)
+2026-03-25 18:54:01,350  DEBUG     Lineup already exists for match=650 team=7, skipping
+2026-03-25 18:54:01,351  DEBUG     Lineup already exists for match=650 team=12, skipping
+2026-03-25 18:54:01,351  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250427-afc-bournemouth-vs-manchester-united.json
+2026-03-25 18:54:01,352  DEBUG     Match already exists: id=651 (2025-04-27)
+2026-03-25 18:54:01,353  DEBUG     Lineup already exists for match=651 team=1066, skipping
+2026-03-25 18:54:01,354  DEBUG     Lineup already exists for match=651 team=4, skipping
+2026-03-25 18:54:01,354  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250427-liverpool-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,355  DEBUG     Match already exists: id=652 (2025-04-27)
+2026-03-25 18:54:01,355  DEBUG     Lineup already exists for match=652 team=16, skipping
+2026-03-25 18:54:01,356  DEBUG     Lineup already exists for match=652 team=6, skipping
+2026-03-25 18:54:01,356  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250501-nottingham-forest-vs-brentford.json
+2026-03-25 18:54:01,357  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,357  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,357  DEBUG     Match already exists: id=653 (2025-05-01)
+2026-03-25 18:54:01,358  DEBUG     Lineup already exists for match=653 team=1060, skipping
+2026-03-25 18:54:01,359  DEBUG     Lineup already exists for match=653 team=1058, skipping
+2026-03-25 18:54:01,359  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250502-manchester-city-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,360  DEBUG     Match already exists: id=654 (2025-05-02)
+2026-03-25 18:54:01,361  DEBUG     Lineup already exists for match=654 team=10, skipping
+2026-03-25 18:54:01,362  DEBUG     Lineup already exists for match=654 team=7, skipping
+2026-03-25 18:54:01,362  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250503-arsenal-vs-afc-bournemouth.json
+2026-03-25 18:54:01,363  DEBUG     Match already exists: id=655 (2025-05-03)
+2026-03-25 18:54:01,364  DEBUG     Lineup already exists for match=655 team=11, skipping
+2026-03-25 18:54:01,364  DEBUG     Lineup already exists for match=655 team=1066, skipping
+2026-03-25 18:54:01,364  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250503-aston-villa-vs-fulham.json
+2026-03-25 18:54:01,365  DEBUG     Match already exists: id=656 (2025-05-03)
+2026-03-25 18:54:01,366  DEBUG     Lineup already exists for match=656 team=5, skipping
+2026-03-25 18:54:01,367  DEBUG     Lineup already exists for match=656 team=1056, skipping
+2026-03-25 18:54:01,367  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250503-everton-vs-ipswich-town.json
+2026-03-25 18:54:01,368  DEBUG     Match already exists: id=657 (2025-05-03)
+2026-03-25 18:54:01,369  DEBUG     Lineup already exists for match=657 team=2, skipping
+2026-03-25 18:54:01,370  DEBUG     Lineup already exists for match=657 team=1057, skipping
+2026-03-25 18:54:01,370  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250503-leicester-city-vs-southampton.json
+2026-03-25 18:54:01,371  DEBUG     Match already exists: id=658 (2025-05-03)
+2026-03-25 18:54:01,371  DEBUG     Lineup already exists for match=658 team=12, skipping
+2026-03-25 18:54:01,372  DEBUG     Lineup already exists for match=658 team=30, skipping
+2026-03-25 18:54:01,373  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250504-brentford-vs-manchester-united.json
+2026-03-25 18:54:01,373  DEBUG     Match already exists: id=659 (2025-05-04)
+2026-03-25 18:54:01,374  DEBUG     Lineup already exists for match=659 team=1058, skipping
+2026-03-25 18:54:01,375  DEBUG     Lineup already exists for match=659 team=4, skipping
+2026-03-25 18:54:01,375  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250504-brighton-and-hove-albion-vs-newcastle-united.json
+2026-03-25 18:54:01,376  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,376  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,376  DEBUG     Match already exists: id=660 (2025-05-04)
+2026-03-25 18:54:01,377  DEBUG     Lineup already exists for match=660 team=20, skipping
+2026-03-25 18:54:01,378  DEBUG     Lineup already exists for match=660 team=19, skipping
+2026-03-25 18:54:01,378  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250504-chelsea-vs-liverpool.json
+2026-03-25 18:54:01,379  DEBUG     Match already exists: id=661 (2025-05-04)
+2026-03-25 18:54:01,380  DEBUG     Lineup already exists for match=661 team=13, skipping
+2026-03-25 18:54:01,381  DEBUG     Lineup already exists for match=661 team=16, skipping
+2026-03-25 18:54:01,381  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250504-west-ham-united-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,381  DEBUG     Match already exists: id=662 (2025-05-04)
+2026-03-25 18:54:01,383  DEBUG     Lineup already exists for match=662 team=9, skipping
+2026-03-25 18:54:01,384  DEBUG     Lineup already exists for match=662 team=6, skipping
+2026-03-25 18:54:01,384  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250505-crystal-palace-vs-nottingham-forest.json
+2026-03-25 18:54:01,385  DEBUG     Match already exists: id=663 (2025-05-05)
+2026-03-25 18:54:01,386  DEBUG     Lineup already exists for match=663 team=1, skipping
+2026-03-25 18:54:01,387  DEBUG     Lineup already exists for match=663 team=1060, skipping
+2026-03-25 18:54:01,387  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250510-afc-bournemouth-vs-aston-villa.json
+2026-03-25 18:54:01,388  DEBUG     Match already exists: id=664 (2025-05-10)
+2026-03-25 18:54:01,389  DEBUG     Lineup already exists for match=664 team=1066, skipping
+2026-03-25 18:54:01,390  DEBUG     Lineup already exists for match=664 team=5, skipping
+2026-03-25 18:54:01,390  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250510-fulham-vs-everton.json
+2026-03-25 18:54:01,391  DEBUG     Match already exists: id=665 (2025-05-10)
+2026-03-25 18:54:01,391  DEBUG     Lineup already exists for match=665 team=1056, skipping
+2026-03-25 18:54:01,392  DEBUG     Lineup already exists for match=665 team=2, skipping
+2026-03-25 18:54:01,393  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250510-ipswich-town-vs-brentford.json
+2026-03-25 18:54:01,393  DEBUG     Match already exists: id=666 (2025-05-10)
+2026-03-25 18:54:01,394  DEBUG     Lineup already exists for match=666 team=1057, skipping
+2026-03-25 18:54:01,395  DEBUG     Lineup already exists for match=666 team=1058, skipping
+2026-03-25 18:54:01,395  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250510-southampton-vs-manchester-city.json
+2026-03-25 18:54:01,396  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,396  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,397  DEBUG     Match already exists: id=667 (2025-05-10)
+2026-03-25 18:54:01,397  DEBUG     Lineup already exists for match=667 team=30, skipping
+2026-03-25 18:54:01,398  DEBUG     Lineup already exists for match=667 team=10, skipping
+2026-03-25 18:54:01,398  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250510-wolverhampton-wanderers-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,399  DEBUG     Match already exists: id=668 (2025-05-10)
+2026-03-25 18:54:01,400  DEBUG     Lineup already exists for match=668 team=7, skipping
+2026-03-25 18:54:01,401  DEBUG     Lineup already exists for match=668 team=20, skipping
+2026-03-25 18:54:01,401  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250511-liverpool-vs-arsenal.json
+2026-03-25 18:54:01,402  DEBUG     Match already exists: id=669 (2025-05-11)
+2026-03-25 18:54:01,403  DEBUG     Lineup already exists for match=669 team=16, skipping
+2026-03-25 18:54:01,404  DEBUG     Lineup already exists for match=669 team=11, skipping
+2026-03-25 18:54:01,404  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250511-manchester-united-vs-west-ham-united.json
+2026-03-25 18:54:01,405  DEBUG     Match already exists: id=670 (2025-05-11)
+2026-03-25 18:54:01,406  DEBUG     Lineup already exists for match=670 team=4, skipping
+2026-03-25 18:54:01,407  DEBUG     Lineup already exists for match=670 team=9, skipping
+2026-03-25 18:54:01,407  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250511-newcastle-united-vs-chelsea.json
+2026-03-25 18:54:01,408  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,408  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,408  DEBUG     Match already exists: id=671 (2025-05-11)
+2026-03-25 18:54:01,409  DEBUG     Lineup already exists for match=671 team=19, skipping
+2026-03-25 18:54:01,410  DEBUG     Lineup already exists for match=671 team=13, skipping
+2026-03-25 18:54:01,410  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250511-nottingham-forest-vs-leicester-city.json
+2026-03-25 18:54:01,411  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,411  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,411  DEBUG     Match already exists: id=672 (2025-05-11)
+2026-03-25 18:54:01,412  DEBUG     Lineup already exists for match=672 team=1060, skipping
+2026-03-25 18:54:01,413  DEBUG     Lineup already exists for match=672 team=12, skipping
+2026-03-25 18:54:01,413  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250511-tottenham-hotspur-vs-crystal-palace.json
+2026-03-25 18:54:01,414  DEBUG     Match already exists: id=673 (2025-05-11)
+2026-03-25 18:54:01,414  DEBUG     Lineup already exists for match=673 team=6, skipping
+2026-03-25 18:54:01,415  DEBUG     Lineup already exists for match=673 team=1, skipping
+2026-03-25 18:54:01,415  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250516-aston-villa-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,416  DEBUG     Match already exists: id=674 (2025-05-16)
+2026-03-25 18:54:01,417  DEBUG     Lineup already exists for match=674 team=5, skipping
+2026-03-25 18:54:01,418  DEBUG     Lineup already exists for match=674 team=6, skipping
+2026-03-25 18:54:01,418  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250516-chelsea-vs-manchester-united.json
+2026-03-25 18:54:01,419  DEBUG     Match already exists: id=675 (2025-05-16)
+2026-03-25 18:54:01,420  DEBUG     Lineup already exists for match=675 team=13, skipping
+2026-03-25 18:54:01,421  DEBUG     Lineup already exists for match=675 team=4, skipping
+2026-03-25 18:54:01,421  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250518-arsenal-vs-newcastle-united.json
+2026-03-25 18:54:01,422  DEBUG     Match already exists: id=676 (2025-05-18)
+2026-03-25 18:54:01,422  DEBUG     Lineup already exists for match=676 team=11, skipping
+2026-03-25 18:54:01,423  DEBUG     Lineup already exists for match=676 team=19, skipping
+2026-03-25 18:54:01,423  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250518-brentford-vs-fulham.json
+2026-03-25 18:54:01,424  DEBUG     Match already exists: id=677 (2025-05-18)
+2026-03-25 18:54:01,425  DEBUG     Lineup already exists for match=677 team=1058, skipping
+2026-03-25 18:54:01,426  DEBUG     Lineup already exists for match=677 team=1056, skipping
+2026-03-25 18:54:01,426  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250518-everton-vs-southampton.json
+2026-03-25 18:54:01,427  DEBUG     Match already exists: id=678 (2025-05-18)
+2026-03-25 18:54:01,428  DEBUG     Lineup already exists for match=678 team=2, skipping
+2026-03-25 18:54:01,429  DEBUG     Lineup already exists for match=678 team=30, skipping
+2026-03-25 18:54:01,429  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250518-leicester-city-vs-ipswich-town.json
+2026-03-25 18:54:01,430  DEBUG     Match already exists: id=679 (2025-05-18)
+2026-03-25 18:54:01,430  DEBUG     Lineup already exists for match=679 team=12, skipping
+2026-03-25 18:54:01,431  DEBUG     Lineup already exists for match=679 team=1057, skipping
+2026-03-25 18:54:01,431  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250518-west-ham-united-vs-nottingham-forest.json
+2026-03-25 18:54:01,432  DEBUG     Match already exists: id=680 (2025-05-18)
+2026-03-25 18:54:01,433  DEBUG     Lineup already exists for match=680 team=9, skipping
+2026-03-25 18:54:01,434  DEBUG     Lineup already exists for match=680 team=1060, skipping
+2026-03-25 18:54:01,434  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250519-brighton-and-hove-albion-vs-liverpool.json
+2026-03-25 18:54:01,435  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,435  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,435  DEBUG     Match already exists: id=681 (2025-05-19)
+2026-03-25 18:54:01,436  DEBUG     Lineup already exists for match=681 team=20, skipping
+2026-03-25 18:54:01,437  DEBUG     Lineup already exists for match=681 team=16, skipping
+2026-03-25 18:54:01,437  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250520-crystal-palace-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,438  DEBUG     Match already exists: id=682 (2025-05-20)
+2026-03-25 18:54:01,439  DEBUG     Lineup already exists for match=682 team=1, skipping
+2026-03-25 18:54:01,440  DEBUG     Lineup already exists for match=682 team=7, skipping
+2026-03-25 18:54:01,440  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250520-manchester-city-vs-afc-bournemouth.json
+2026-03-25 18:54:01,441  DEBUG     Match already exists: id=683 (2025-05-20)
+2026-03-25 18:54:01,442  DEBUG     Lineup already exists for match=683 team=10, skipping
+2026-03-25 18:54:01,443  DEBUG     Lineup already exists for match=683 team=1066, skipping
+2026-03-25 18:54:01,443  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-afc-bournemouth-vs-leicester-city.json
+2026-03-25 18:54:01,444  DEBUG     Match already exists: id=684 (2025-05-25)
+2026-03-25 18:54:01,444  DEBUG     Lineup already exists for match=684 team=1066, skipping
+2026-03-25 18:54:01,446  DEBUG     Lineup already exists for match=684 team=12, skipping
+2026-03-25 18:54:01,446  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-fulham-vs-manchester-city.json
+2026-03-25 18:54:01,447  DEBUG     Match already exists: id=685 (2025-05-25)
+2026-03-25 18:54:01,447  DEBUG     Lineup already exists for match=685 team=1056, skipping
+2026-03-25 18:54:01,448  DEBUG     Lineup already exists for match=685 team=10, skipping
+2026-03-25 18:54:01,448  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-ipswich-town-vs-west-ham-united.json
+2026-03-25 18:54:01,449  DEBUG     Match already exists: id=686 (2025-05-25)
+2026-03-25 18:54:01,450  DEBUG     Lineup already exists for match=686 team=1057, skipping
+2026-03-25 18:54:01,451  DEBUG     Lineup already exists for match=686 team=9, skipping
+2026-03-25 18:54:01,451  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-liverpool-vs-crystal-palace.json
+2026-03-25 18:54:01,452  DEBUG     Match already exists: id=687 (2025-05-25)
+2026-03-25 18:54:01,453  DEBUG     Lineup already exists for match=687 team=16, skipping
+2026-03-25 18:54:01,454  DEBUG     Lineup already exists for match=687 team=1, skipping
+2026-03-25 18:54:01,454  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-manchester-united-vs-aston-villa.json
+2026-03-25 18:54:01,454  DEBUG     Match already exists: id=688 (2025-05-25)
+2026-03-25 18:54:01,455  DEBUG     Lineup already exists for match=688 team=4, skipping
+2026-03-25 18:54:01,456  DEBUG     Lineup already exists for match=688 team=5, skipping
+2026-03-25 18:54:01,456  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-newcastle-united-vs-everton.json
+2026-03-25 18:54:01,457  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,457  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,458  DEBUG     Match already exists: id=689 (2025-05-25)
+2026-03-25 18:54:01,458  DEBUG     Lineup already exists for match=689 team=19, skipping
+2026-03-25 18:54:01,459  DEBUG     Lineup already exists for match=689 team=2, skipping
+2026-03-25 18:54:01,459  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-nottingham-forest-vs-chelsea.json
+2026-03-25 18:54:01,460  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,460  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,460  DEBUG     Match already exists: id=690 (2025-05-25)
+2026-03-25 18:54:01,461  DEBUG     Lineup already exists for match=690 team=1060, skipping
+2026-03-25 18:54:01,462  DEBUG     Lineup already exists for match=690 team=13, skipping
+2026-03-25 18:54:01,462  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-southampton-vs-arsenal.json
+2026-03-25 18:54:01,463  DEBUG     Stadium not found by name: 'St. Mary's Stadium', falling back to home team stadium
+2026-03-25 18:54:01,463  DEBUG     Using home team stadium_id=183 for 'St. Mary's Stadium'
+2026-03-25 18:54:01,463  DEBUG     Match already exists: id=691 (2025-05-25)
+2026-03-25 18:54:01,464  DEBUG     Lineup already exists for match=691 team=30, skipping
+2026-03-25 18:54:01,465  DEBUG     Lineup already exists for match=691 team=11, skipping
+2026-03-25 18:54:01,465  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-tottenham-hotspur-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,466  DEBUG     Match already exists: id=692 (2025-05-25)
+2026-03-25 18:54:01,467  DEBUG     Lineup already exists for match=692 team=6, skipping
+2026-03-25 18:54:01,468  DEBUG     Lineup already exists for match=692 team=20, skipping
+2026-03-25 18:54:01,468  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250525-wolverhampton-wanderers-vs-brentford.json
+2026-03-25 18:54:01,469  DEBUG     Match already exists: id=693 (2025-05-25)
+2026-03-25 18:54:01,469  DEBUG     Lineup already exists for match=693 team=7, skipping
+2026-03-25 18:54:01,470  DEBUG     Lineup already exists for match=693 team=1058, skipping
+2026-03-25 18:54:01,470  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250815-liverpool-vs-afc-bournemouth.json
+2026-03-25 18:54:01,471  DEBUG     Match already exists: id=694 (2025-08-15)
+2026-03-25 18:54:01,472  DEBUG     Lineup already exists for match=694 team=16, skipping
+2026-03-25 18:54:01,473  DEBUG     Lineup already exists for match=694 team=1066, skipping
+2026-03-25 18:54:01,473  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250816-aston-villa-vs-newcastle-united.json
+2026-03-25 18:54:01,474  DEBUG     Match already exists: id=695 (2025-08-16)
+2026-03-25 18:54:01,475  DEBUG     Lineup already exists for match=695 team=5, skipping
+2026-03-25 18:54:01,476  DEBUG     Lineup already exists for match=695 team=19, skipping
+2026-03-25 18:54:01,476  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250816-brighton-and-hove-albion-vs-fulham.json
+2026-03-25 18:54:01,476  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,476  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,477  DEBUG     Match already exists: id=696 (2025-08-16)
+2026-03-25 18:54:01,477  DEBUG     Lineup already exists for match=696 team=20, skipping
+2026-03-25 18:54:01,478  DEBUG     Lineup already exists for match=696 team=1056, skipping
+2026-03-25 18:54:01,478  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250816-sunderland-vs-west-ham-united.json
+2026-03-25 18:54:01,479  DEBUG     Match already exists: id=697 (2025-08-16)
+2026-03-25 18:54:01,480  DEBUG     Lineup already exists for match=697 team=1055, skipping
+2026-03-25 18:54:01,481  DEBUG     Lineup already exists for match=697 team=9, skipping
+2026-03-25 18:54:01,481  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250816-tottenham-hotspur-vs-burnley.json
+2026-03-25 18:54:01,482  DEBUG     Match already exists: id=698 (2025-08-16)
+2026-03-25 18:54:01,483  DEBUG     Lineup already exists for match=698 team=6, skipping
+2026-03-25 18:54:01,483  DEBUG     Lineup already exists for match=698 team=17, skipping
+2026-03-25 18:54:01,483  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250816-wolverhampton-wanderers-vs-manchester-city.json
+2026-03-25 18:54:01,484  DEBUG     Match already exists: id=699 (2025-08-16)
+2026-03-25 18:54:01,485  DEBUG     Lineup already exists for match=699 team=7, skipping
+2026-03-25 18:54:01,486  DEBUG     Lineup already exists for match=699 team=10, skipping
+2026-03-25 18:54:01,486  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250817-chelsea-vs-crystal-palace.json
+2026-03-25 18:54:01,487  DEBUG     Match already exists: id=700 (2025-08-17)
+2026-03-25 18:54:01,488  DEBUG     Lineup already exists for match=700 team=13, skipping
+2026-03-25 18:54:01,489  DEBUG     Lineup already exists for match=700 team=1, skipping
+2026-03-25 18:54:01,489  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250817-manchester-united-vs-arsenal.json
+2026-03-25 18:54:01,490  DEBUG     Match already exists: id=701 (2025-08-17)
+2026-03-25 18:54:01,491  DEBUG     Lineup already exists for match=701 team=4, skipping
+2026-03-25 18:54:01,492  DEBUG     Lineup already exists for match=701 team=11, skipping
+2026-03-25 18:54:01,492  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250817-nottingham-forest-vs-brentford.json
+2026-03-25 18:54:01,492  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,492  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,493  DEBUG     Match already exists: id=702 (2025-08-17)
+2026-03-25 18:54:01,493  DEBUG     Lineup already exists for match=702 team=1060, skipping
+2026-03-25 18:54:01,494  DEBUG     Lineup already exists for match=702 team=1058, skipping
+2026-03-25 18:54:01,494  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250818-leeds-united-vs-everton.json
+2026-03-25 18:54:01,495  DEBUG     Match already exists: id=703 (2025-08-18)
+2026-03-25 18:54:01,496  DEBUG     Lineup already exists for match=703 team=1067, skipping
+2026-03-25 18:54:01,497  DEBUG     Lineup already exists for match=703 team=2, skipping
+2026-03-25 18:54:01,497  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250822-west-ham-united-vs-chelsea.json
+2026-03-25 18:54:01,498  DEBUG     Match already exists: id=704 (2025-08-22)
+2026-03-25 18:54:01,499  DEBUG     Lineup already exists for match=704 team=9, skipping
+2026-03-25 18:54:01,499  DEBUG     Lineup already exists for match=704 team=13, skipping
+2026-03-25 18:54:01,499  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250823-afc-bournemouth-vs-wolverhampton-wanderers.json
+2026-03-25 18:54:01,500  DEBUG     Match already exists: id=705 (2025-08-23)
+2026-03-25 18:54:01,501  DEBUG     Lineup already exists for match=705 team=1066, skipping
+2026-03-25 18:54:01,502  DEBUG     Lineup already exists for match=705 team=7, skipping
+2026-03-25 18:54:01,502  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250823-arsenal-vs-leeds-united.json
+2026-03-25 18:54:01,503  DEBUG     Match already exists: id=706 (2025-08-23)
+2026-03-25 18:54:01,504  DEBUG     Lineup already exists for match=706 team=11, skipping
+2026-03-25 18:54:01,505  DEBUG     Lineup already exists for match=706 team=1067, skipping
+2026-03-25 18:54:01,505  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250823-brentford-vs-aston-villa.json
+2026-03-25 18:54:01,506  DEBUG     Match already exists: id=707 (2025-08-23)
+2026-03-25 18:54:01,507  DEBUG     Lineup already exists for match=707 team=1058, skipping
+2026-03-25 18:54:01,507  DEBUG     Lineup already exists for match=707 team=5, skipping
+2026-03-25 18:54:01,508  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250823-burnley-vs-sunderland.json
+2026-03-25 18:54:01,508  DEBUG     Match already exists: id=708 (2025-08-23)
+2026-03-25 18:54:01,509  DEBUG     Lineup already exists for match=708 team=17, skipping
+2026-03-25 18:54:01,510  DEBUG     Lineup already exists for match=708 team=1055, skipping
+2026-03-25 18:54:01,510  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250823-manchester-city-vs-tottenham-hotspur.json
+2026-03-25 18:54:01,511  DEBUG     Match already exists: id=709 (2025-08-23)
+2026-03-25 18:54:01,512  DEBUG     Lineup already exists for match=709 team=10, skipping
+2026-03-25 18:54:01,513  DEBUG     Lineup already exists for match=709 team=6, skipping
+2026-03-25 18:54:01,513  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250824-crystal-palace-vs-nottingham-forest.json
+2026-03-25 18:54:01,514  DEBUG     Match already exists: id=710 (2025-08-24)
+2026-03-25 18:54:01,515  DEBUG     Lineup already exists for match=710 team=1, skipping
+2026-03-25 18:54:01,516  DEBUG     Lineup already exists for match=710 team=1060, skipping
+2026-03-25 18:54:01,516  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250824-everton-vs-brighton-and-hove-albion.json
+2026-03-25 18:54:01,517  DEBUG     Stadium not found by name: 'Hill Dickinson Stadium', falling back to home team stadium
+2026-03-25 18:54:01,517  DEBUG     Using home team stadium_id=165 for 'Hill Dickinson Stadium'
+2026-03-25 18:54:01,517  DEBUG     Match already exists: id=711 (2025-08-24)
+2026-03-25 18:54:01,518  DEBUG     Lineup already exists for match=711 team=2, skipping
+2026-03-25 18:54:01,519  DEBUG     Lineup already exists for match=711 team=20, skipping
+2026-03-25 18:54:01,519  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250824-fulham-vs-manchester-united.json
+2026-03-25 18:54:01,520  DEBUG     Match already exists: id=712 (2025-08-24)
+2026-03-25 18:54:01,521  DEBUG     Lineup already exists for match=712 team=1056, skipping
+2026-03-25 18:54:01,521  DEBUG     Lineup already exists for match=712 team=4, skipping
+2026-03-25 18:54:01,521  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250825-newcastle-united-vs-liverpool.json
+2026-03-25 18:54:01,522  DEBUG     Stadium not found by name: 'St. James' Park', falling back to home team stadium
+2026-03-25 18:54:01,522  DEBUG     Using home team stadium_id=180 for 'St. James' Park'
+2026-03-25 18:54:01,522  DEBUG     Match already exists: id=713 (2025-08-25)
+2026-03-25 18:54:01,523  DEBUG     Lineup already exists for match=713 team=19, skipping
+2026-03-25 18:54:01,524  DEBUG     Lineup already exists for match=713 team=16, skipping
+2026-03-25 18:54:01,524  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250830-chelsea-vs-fulham.json
+2026-03-25 18:54:01,525  DEBUG     Match already exists: id=714 (2025-08-30)
+2026-03-25 18:54:01,526  DEBUG     Lineup already exists for match=714 team=13, skipping
+2026-03-25 18:54:01,527  DEBUG     Lineup already exists for match=714 team=1056, skipping
+2026-03-25 18:54:01,527  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250830-leeds-united-vs-newcastle-united.json
+2026-03-25 18:54:01,528  DEBUG     Match already exists: id=715 (2025-08-30)
+2026-03-25 18:54:01,529  DEBUG     Lineup already exists for match=715 team=1067, skipping
+2026-03-25 18:54:01,530  DEBUG     Lineup already exists for match=715 team=19, skipping
+2026-03-25 18:54:01,530  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250830-manchester-united-vs-burnley.json
+2026-03-25 18:54:01,530  DEBUG     Match already exists: id=716 (2025-08-30)
+2026-03-25 18:54:01,531  DEBUG     Lineup already exists for match=716 team=4, skipping
+2026-03-25 18:54:01,532  DEBUG     Lineup already exists for match=716 team=17, skipping
+2026-03-25 18:54:01,532  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250830-sunderland-vs-brentford.json
+2026-03-25 18:54:01,533  DEBUG     Match already exists: id=717 (2025-08-30)
+2026-03-25 18:54:01,534  DEBUG     Lineup already exists for match=717 team=1055, skipping
+2026-03-25 18:54:01,535  DEBUG     Lineup already exists for match=717 team=1058, skipping
+2026-03-25 18:54:01,535  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250830-tottenham-hotspur-vs-afc-bournemouth.json
+2026-03-25 18:54:01,536  DEBUG     Match already exists: id=718 (2025-08-30)
+2026-03-25 18:54:01,537  DEBUG     Lineup already exists for match=718 team=6, skipping
+2026-03-25 18:54:01,538  DEBUG     Lineup already exists for match=718 team=1066, skipping
+2026-03-25 18:54:01,538  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250830-wolverhampton-wanderers-vs-everton.json
+2026-03-25 18:54:01,539  DEBUG     Match already exists: id=719 (2025-08-30)
+2026-03-25 18:54:01,540  DEBUG     Lineup already exists for match=719 team=7, skipping
+2026-03-25 18:54:01,541  DEBUG     Lineup already exists for match=719 team=2, skipping
+2026-03-25 18:54:01,541  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250831-aston-villa-vs-crystal-palace.json
+2026-03-25 18:54:01,542  DEBUG     Match already exists: id=720 (2025-08-31)
+2026-03-25 18:54:01,543  DEBUG     Lineup already exists for match=720 team=5, skipping
+2026-03-25 18:54:01,544  DEBUG     Lineup already exists for match=720 team=1, skipping
+2026-03-25 18:54:01,544  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250831-brighton-and-hove-albion-vs-manchester-city.json
+2026-03-25 18:54:01,544  DEBUG     Stadium not found by name: 'American Express Stadium', falling back to home team stadium
+2026-03-25 18:54:01,545  DEBUG     Using home team stadium_id=181 for 'American Express Stadium'
+2026-03-25 18:54:01,545  DEBUG     Match already exists: id=721 (2025-08-31)
+2026-03-25 18:54:01,546  DEBUG     Lineup already exists for match=721 team=20, skipping
+2026-03-25 18:54:01,547  DEBUG     Lineup already exists for match=721 team=10, skipping
+2026-03-25 18:54:01,547  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250831-liverpool-vs-arsenal.json
+2026-03-25 18:54:01,548  DEBUG     Match already exists: id=722 (2025-08-31)
+2026-03-25 18:54:01,549  DEBUG     Lineup already exists for match=722 team=16, skipping
+2026-03-25 18:54:01,549  DEBUG     Lineup already exists for match=722 team=11, skipping
+2026-03-25 18:54:01,549  DEBUG     Processing: C:\repos\football-vault\lineups\2024-2025\20250831-nottingham-forest-vs-west-ham-united.json
+2026-03-25 18:54:01,550  DEBUG     Stadium not found by name: 'The City Ground', falling back to home team stadium
+2026-03-25 18:54:01,550  DEBUG     Using home team stadium_id=493 for 'The City Ground'
+2026-03-25 18:54:01,551  DEBUG     Match already exists: id=723 (2025-08-31)
+2026-03-25 18:54:01,551  DEBUG     Lineup already exists for match=723 team=1060, skipping
+2026-03-25 18:54:01,552  DEBUG     Lineup already exists for match=723 team=9, skipping
+2026-03-25 18:54:01,555  INFO      ============================================================
+2026-03-25 18:54:01,557  INFO      Import complete
+2026-03-25 18:54:01,558  INFO        Files processed:       383
+2026-03-25 18:54:01,561  INFO        Files skipped:         0
+2026-03-25 18:54:01,562  INFO        Matches created:       161
+2026-03-25 18:54:01,564  INFO        Matches already exist: 222
+2026-03-25 18:54:01,565  INFO        Lineup players added:  3542
+2026-03-25 18:54:01,565  INFO        Teams created:         0
+2026-03-25 18:54:01,566  INFO      ============================================================
