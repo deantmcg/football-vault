@@ -26,7 +26,7 @@ LINEUPS_DIR = ROOT_DIR / "lineups"
 
 LOG_DIR = ROOT_DIR / "logs"
 LOG_DIR.mkdir(exist_ok=True)
-LOG_FILE = LOG_DIR / f"import-lineups-{datetime.now().strftime('%d%m%Y%H%M%S')}.log"
+LOG_FILE = LOG_DIR / f"import-lineups-{datetime.now().strftime('%Y%m%d%H%M%S')}.log"
 
 # ── Logging ─────────────────────────────────────────────────────────────────
 logger = logging.getLogger("import-lineups")
