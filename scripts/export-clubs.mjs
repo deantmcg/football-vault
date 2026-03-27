@@ -45,11 +45,11 @@ const rows = db.prepare(`
         t.name                AS team_name,
         t.normalized_name     AS team_normalized_name,
         t.year_founded,
+        sd.code               AS shirt_design_code,
         t.colour1,
         t.colour2,
         t.colour3,
         tc.name               AS team_country,
-
         s.id                  AS stadium_id,
         s.name                AS stadium_name,
         s.city                AS stadium_city,
@@ -61,6 +61,7 @@ const rows = db.prepare(`
     LEFT JOIN Countries tc ON t.country_id   = tc.id
     LEFT JOIN Stadiums  s  ON t.stadium_id   = s.id
     LEFT JOIN Countries sc ON s.country_id   = sc.id
+    LEFT JOIN ShirtDesigns sd ON t.shirt_design_id = sd.id
     ORDER BY t.id
 `).all();
 
@@ -80,6 +81,7 @@ const clubs = rows.map((row) => {
         ...(row.stadium_id != null && { stadiumId: String(row.stadium_id) }),
         ...(clubCoordinates && { coordinates: clubCoordinates }),
         ...(row.year_founded != null && { founded: row.year_founded }),
+        ...(row.shirt_design_code && { shirtDesignCode: row.shirt_design_code }),
         colors,
     };
 });
