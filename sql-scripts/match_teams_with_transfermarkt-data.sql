@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS match_candidates (
 INSERT OR IGNORE INTO match_candidates
 SELECT t.id, c.club_id, c.club_code, c.domestic_competition_id, c.stadium_name, c.stadium_seats, 0, 'exact-code'
 FROM teams t
-JOIN TransfermarktTeams c ON t.transfermarkt_code = c.club_code
+JOIN TeamsTransfermarktDetails c ON t.transfermarkt_code = c.club_code
 WHERE t.transfermarkt_code IS NOT NULL;
 
 -- TIER 1a: normalized t.name = normalized c.name
@@ -56,6 +56,6 @@ select
     5,
     'bbc-code'
 from Teams t
-join TransfermarktTeams tt on t.bbc_code = tt.club_code
+join TeamsTransfermarktDetails tt on t.bbc_code = tt.club_code
 where t.id not in (select team_id from match_candidates)
   and t.transfermarkt_id is null;
