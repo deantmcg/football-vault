@@ -131,6 +131,13 @@ function inlineEdit(span) {
       if (String(id) === String(raw)) opt.selected = true;
       input.appendChild(opt);
     });
+  } else if (["colour1","colour2","colour3"].includes(col)) {
+    input = document.createElement('input');
+    input.type = 'color';
+    input.className = 'form-control form-control-color';
+    // If raw is a valid hex, use it, else default to #000000
+    let hex = (raw && /^#([0-9a-fA-F]{6})$/.test(raw)) ? raw : '#000000';
+    input.value = hex;
   } else {
     input = document.createElement('input');
     input.type = 'text';
