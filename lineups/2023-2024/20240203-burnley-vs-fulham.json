@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-03",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c990lwkgpvrt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Turf Moor",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Trafford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Assignon",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "O'Shea",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 18,
+        "name": "Ekdal",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Vitinho",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Brownhill",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 16,
+        "name": "Berge",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 21,
+        "name": "Ramsey",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 47,
+        "name": "Odobert",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 25,
+        "name": "Amdouni",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 17,
+        "name": "Foster",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 17,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Adarabioyo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 13,
+        "name": "Ream",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 26,
+        "name": "João Palhinha",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 6,
+        "name": "Reed",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 14,
+        "name": "De Cordova-Reid",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Andreas Pereira",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 20,
+        "name": "Willian",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Rodrigo Muniz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

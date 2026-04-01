@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-08-11",
+  "competition": "Premier League",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Burnley",
+    "code": "burnley"
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city"
+  }
+}

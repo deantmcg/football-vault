@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-01-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c25qnrek25kt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Kenilworth Road",
+  "score": "4 - 0",
+  "homeTeam": {
+    "name": "Luton Town",
+    "code": "luton-town",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Kaminski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 16,
+        "name": "Burke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 2,
+        "name": "Osho",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 29,
+        "name": "Bell",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 7,
+        "name": "Ogbene",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 28,
+        "name": "Sambi Lokonga",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Barkley",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 45,
+        "name": "Doughty",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 18,
+        "name": "Clark",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 11,
+        "name": "Adebayo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Morris",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Steele",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 3,
+        "name": "Igor Julio",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 6,
+        "name": "Milner",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 11,
+        "name": "Gilmour",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 40,
+        "name": "Buonanotte",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 9,
+        "name": "João Pedro",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

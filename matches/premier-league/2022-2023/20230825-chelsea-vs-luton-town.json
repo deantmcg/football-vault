@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-08-25",
+  "competition": "Premier League",
+  "score": "3 - 0",
+  "homeTeam": {
+    "name": "Chelsea",
+    "code": "chelsea"
+  },
+  "awayTeam": {
+    "name": "Luton Town",
+    "code": "luton-town"
+  }
+}

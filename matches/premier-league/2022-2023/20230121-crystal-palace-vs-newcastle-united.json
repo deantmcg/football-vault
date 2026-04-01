@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-21",
+  "competition": "Premier League",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  },
+  "awayTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united"
+  }
+}

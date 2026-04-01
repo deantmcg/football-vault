@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-14",
+  "competition": "Premier League",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford"
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united"
+  }
+}

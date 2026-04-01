@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-23",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c96nwyp14ypt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Etihad Stadium",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 25,
+        "name": "Akanji",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 27,
+        "name": "Matheus Nunes",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 16,
+        "name": "Rodri",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 19,
+        "name": "Alvarez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Doku",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Turner",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 43,
+        "name": "Aina",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 24,
+        "name": "Aurier",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 30,
+        "name": "Boly",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 19,
+        "name": "Niakhaté",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Nuno Tavares",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 6,
+        "name": "Sangaré",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 5,
+        "name": "Mangala",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 16,
+        "name": "Domínguez",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Awoniyi",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

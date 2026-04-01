@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-13",
+  "competition": "Premier League",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united"
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers"
+  }
+}

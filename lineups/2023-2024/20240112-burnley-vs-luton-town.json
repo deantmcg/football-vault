@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-01-12",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ckk5r2x6d0zt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Turf Moor",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Trafford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 22,
+        "name": "Vitinho",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "O'Shea",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 18,
+        "name": "Ekdal",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 28,
+        "name": "Al Dakhil",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "Gudmundsson",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 24,
+        "name": "Cullen",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Brownhill",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 47,
+        "name": "Odobert",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 17,
+        "name": "Foster",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 25,
+        "name": "Amdouni",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Luton Town",
+    "code": "luton-town",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Kaminski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Mengi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 2,
+        "name": "Osho",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 29,
+        "name": "Bell",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 7,
+        "name": "Ogbene",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 28,
+        "name": "Sambi Lokonga",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Barkley",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 45,
+        "name": "Doughty",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 30,
+        "name": "Townsend",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Clark",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Adebayo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

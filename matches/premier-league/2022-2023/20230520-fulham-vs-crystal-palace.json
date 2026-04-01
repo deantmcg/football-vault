@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-20",
+  "competition": "Premier League",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Fulham",
+    "code": "fulham"
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-03-04",
+  "competition": "Premier League",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa"
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  }
+}

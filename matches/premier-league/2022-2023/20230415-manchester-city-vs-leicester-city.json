@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-15",
+  "competition": "Premier League",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city"
+  },
+  "awayTeam": {
+    "name": "Leicester City",
+    "code": "leicester-city"
+  }
+}

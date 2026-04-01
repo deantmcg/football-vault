@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-15",
+  "competition": "Premier League",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Chelsea",
+    "code": "chelsea"
+  },
+  "awayTeam": {
+    "name": "Brighton & Hove Albion",
+    "code": "brighton-and-hove-albion"
+  }
+}

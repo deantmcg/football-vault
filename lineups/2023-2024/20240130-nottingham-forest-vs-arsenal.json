@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-01-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/crgv5xq7xext#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Turner",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Montiel",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 32,
+        "name": "Omobamidele",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 40,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 15,
+        "name": "Toffolo",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 28,
+        "name": "Danilo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 5,
+        "name": "Mangala",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Domínguez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Arsenal",
+    "code": "arsenal",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 22,
+        "name": "Raya",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "White",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Saliba",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Gabriel Magalhães",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 35,
+        "name": "Zinchenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Ødegaard",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 41,
+        "name": "Rice",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 10,
+        "name": "Smith Rowe",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "Saka",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Gabriel Jesus",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 11,
+        "name": "Gabriel Martinelli",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

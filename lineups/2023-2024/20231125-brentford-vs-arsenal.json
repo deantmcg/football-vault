@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-11-25",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c5170x0dn0jt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "0 - 1",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "5-3-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 14,
+        "name": "Ghoddos",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 20,
+        "name": "Ajer",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Pinnock",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 16,
+        "name": "Mee",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 15,
+        "name": "Onyeka",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Nørgaard",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 33,
+        "name": "Yarmoliuk",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Wissa",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Arsenal",
+    "code": "arsenal",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Ramsdale",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 18,
+        "name": "Tomiyasu",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Saliba",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Gabriel Magalhães",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 35,
+        "name": "Zinchenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Ødegaard",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 41,
+        "name": "Rice",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 19,
+        "name": "Trossard",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "Saka",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Gabriel Jesus",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 11,
+        "name": "Gabriel Martinelli",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

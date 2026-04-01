@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-03-11",
+  "competition": "Premier League",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton"
+  },
+  "awayTeam": {
+    "name": "Brentford",
+    "code": "brentford"
+  }
+}

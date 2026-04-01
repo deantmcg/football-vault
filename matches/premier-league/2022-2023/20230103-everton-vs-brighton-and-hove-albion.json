@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-03",
+  "competition": "Premier League",
+  "score": "1 - 4",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton"
+  },
+  "awayTeam": {
+    "name": "Brighton & Hove Albion",
+    "code": "brighton-and-hove-albion"
+  }
+}

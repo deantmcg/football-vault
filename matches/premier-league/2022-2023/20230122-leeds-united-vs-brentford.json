@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-22",
+  "competition": "Premier League",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united"
+  },
+  "awayTeam": {
+    "name": "Brentford",
+    "code": "brentford"
+  }
+}

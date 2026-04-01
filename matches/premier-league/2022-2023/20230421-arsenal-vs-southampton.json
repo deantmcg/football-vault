@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-21",
+  "competition": "Premier League",
+  "score": "3 - 3",
+  "homeTeam": {
+    "name": "Arsenal",
+    "code": "arsenal"
+  },
+  "awayTeam": {
+    "name": "Southampton",
+    "code": "southampton"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-03-15",
+  "competition": "Premier League",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Brighton & Hove Albion",
+    "code": "brighton-and-hove-albion"
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-26",
+  "competition": "Premier League",
+  "score": "4 - 1",
+  "homeTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city"
+  },
+  "awayTeam": {
+    "name": "Arsenal",
+    "code": "arsenal"
+  }
+}

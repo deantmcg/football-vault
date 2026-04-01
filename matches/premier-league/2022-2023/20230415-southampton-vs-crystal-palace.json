@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-15",
+  "competition": "Premier League",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Southampton",
+    "code": "southampton"
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  }
+}

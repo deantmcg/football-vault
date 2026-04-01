@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-06",
+  "competition": "Premier League",
+  "score": "1 - 3",
+  "homeTeam": {
+    "name": "AFC Bournemouth",
+    "code": "afc-bournemouth"
+  },
+  "awayTeam": {
+    "name": "Chelsea",
+    "code": "chelsea"
+  }
+}

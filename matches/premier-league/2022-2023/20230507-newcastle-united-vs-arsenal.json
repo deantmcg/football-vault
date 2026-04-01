@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-07",
+  "competition": "Premier League",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united"
+  },
+  "awayTeam": {
+    "name": "Arsenal",
+    "code": "arsenal"
+  }
+}

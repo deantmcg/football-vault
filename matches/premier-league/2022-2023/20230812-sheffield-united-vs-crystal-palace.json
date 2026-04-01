@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-08-12",
+  "competition": "Premier League",
+  "score": "0 - 1",
+  "homeTeam": {
+    "name": "Sheffield United",
+    "code": "sheffield-united"
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-13",
+  "competition": "Premier League",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa"
+  },
+  "awayTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united"
+  }
+}

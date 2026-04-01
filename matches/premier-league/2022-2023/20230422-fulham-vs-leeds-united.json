@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-22",
+  "competition": "Premier League",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Fulham",
+    "code": "fulham"
+  },
+  "awayTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united"
+  }
+}

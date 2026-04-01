@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-05-05",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cp0g28p82pnt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Anfield",
+  "score": "4 - 2",
+  "homeTeam": {
+    "name": "Liverpool",
+    "code": "liverpool",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Alisson Becker",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 66,
+        "name": "Alexander-Arnold",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 78,
+        "name": "Quansah",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "van Dijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 26,
+        "name": "Robertson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 19,
+        "name": "Elliott",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 3,
+        "name": "Endo",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 10,
+        "name": "Mac Allister",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Mohamed Salah",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 18,
+        "name": "Gakpo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 7,
+        "name": "Díaz",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Emerson Royal",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Bissouma",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

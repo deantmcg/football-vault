@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-08-26",
+  "competition": "Premier League",
+  "score": "3 - 2",
+  "homeTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united"
+  },
+  "awayTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-04",
+  "competition": "Premier League",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "AFC Bournemouth",
+    "code": "afc-bournemouth"
+  },
+  "awayTeam": {
+    "name": "Brighton & Hove Albion",
+    "code": "brighton-and-hove-albion"
+  }
+}

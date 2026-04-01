@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-20",
+  "competition": "Premier League",
+  "score": "1 - 3",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur"
+  },
+  "awayTeam": {
+    "name": "Brentford",
+    "code": "brentford"
+  }
+}

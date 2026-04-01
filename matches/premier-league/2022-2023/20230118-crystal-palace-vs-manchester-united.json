@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-18",
+  "competition": "Premier League",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united"
+  }
+}

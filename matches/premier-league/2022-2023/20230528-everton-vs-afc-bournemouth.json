@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-28",
+  "competition": "Premier League",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton"
+  },
+  "awayTeam": {
+    "name": "AFC Bournemouth",
+    "code": "afc-bournemouth"
+  }
+}

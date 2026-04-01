@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-14",
+  "competition": "Premier League",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest"
+  },
+  "awayTeam": {
+    "name": "Leicester City",
+    "code": "leicester-city"
+  }
+}

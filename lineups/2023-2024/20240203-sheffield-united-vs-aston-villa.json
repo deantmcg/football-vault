@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-03",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cglmr78119vt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Bramall Lane",
+  "score": "0 - 5",
+  "homeTeam": {
+    "name": "Sheffield United",
+    "code": "sheffield-united",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 18,
+        "name": "Foderingham",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Bogle",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 30,
+        "name": "Holgate",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Ahmedhodzic",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Trusty",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Norrington-Davies",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 28,
+        "name": "McAtee",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 21,
+        "name": "Vinicius Souza",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 35,
+        "name": "Brooks",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Brereton",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 32,
+        "name": "Osula",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Diego Carlos",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 17,
+        "name": "Lenglet",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 15,
+        "name": "Moreno",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 44,
+        "name": "Kamara",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 6,
+        "name": "Douglas Luiz",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 31,
+        "name": "Bailey",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Tielemans",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

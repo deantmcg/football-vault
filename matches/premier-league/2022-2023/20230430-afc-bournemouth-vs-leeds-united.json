@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-30",
+  "competition": "Premier League",
+  "score": "4 - 1",
+  "homeTeam": {
+    "name": "AFC Bournemouth",
+    "code": "afc-bournemouth"
+  },
+  "awayTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united"
+  }
+}

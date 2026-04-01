@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-05-19",
+  "matchUrl": "https://www.bbc.com/sport/football/live/crgygk217e4t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Bramall Lane",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Sheffield United",
+    "code": "sheffield-united",
+    "formation": "5-3-2",
+    "players": [
+      {
+        "number": 18,
+        "name": "Foderingham",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Bogle",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 15,
+        "name": "Ahmedhodzic",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Trusty",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 19,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Max Lowe",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Hamer",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 24,
+        "name": "Arblaster",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 23,
+        "name": "Osborn",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 10,
+        "name": "Archer",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Brereton",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Dragusin",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Maddison",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

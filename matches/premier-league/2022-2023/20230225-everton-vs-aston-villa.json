@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-02-25",
+  "competition": "Premier League",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton"
+  },
+  "awayTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa"
+  }
+}
