@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-05-14",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cv2x7lzdd1zt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Tottenham Hotspur Stadium",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-3-1-2",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Dragusin",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 5,
+        "name": "Højbjerg",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 10,
+        "name": "Maddison",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 25,
+        "name": "Akanji",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Rodri",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Kovacic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 17,
+        "name": "De Bruyne",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

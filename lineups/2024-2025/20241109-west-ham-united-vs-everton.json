@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-11-09",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cwy9k9y83e1t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "London Stadium",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Fabianski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 25,
+        "name": "Todibo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 26,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Emerson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 24,
+        "name": "Rodríguez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 28,
+        "name": "Soucek",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 10,
+        "name": "Lucas Paquetá",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "Summerville",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Antonio",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Everton",
+    "code": "everton",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pickford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 18,
+        "name": "Young",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tarkowski",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 32,
+        "name": "Branthwaite",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 19,
+        "name": "Mykolenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 27,
+        "name": "Gueye",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Mangala",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 29,
+        "name": "Lindstrøm",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 16,
+        "name": "Doucouré",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Ndiaye",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

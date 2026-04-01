@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-23",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c06y8ngk4v8t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "2 - 3",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Turner",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 40,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 30,
+        "name": "Boly",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 15,
+        "name": "Toffolo",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 5,
+        "name": "Mangala",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 27,
+        "name": "Origi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 21,
+        "name": "Elanga",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Neto",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Smith",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 27,
+        "name": "Zabarnyi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 25,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 11,
+        "name": "Ouattara",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 4,
+        "name": "Cook",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Christie",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 24,
+        "name": "Semenyo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 29,
+        "name": "Billing",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

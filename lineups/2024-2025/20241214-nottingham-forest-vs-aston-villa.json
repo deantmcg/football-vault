@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-14",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cj30n86gllnt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Aina",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Milenkovic",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Anderson",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 16,
+        "name": "Domínguez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Hudson-Odoi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Diego Carlos",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 14,
+        "name": "Torres",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Digne",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 44,
+        "name": "Kamara",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Tielemans",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 2,
+        "name": "Cash",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 27,
+        "name": "Rogers",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Durán",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

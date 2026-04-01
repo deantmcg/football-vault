@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-30",
+  "competition": "Premier League",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united"
+  },
+  "awayTeam": {
+    "name": "Southampton",
+    "code": "southampton"
+  }
+}

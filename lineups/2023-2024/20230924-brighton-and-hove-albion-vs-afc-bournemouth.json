@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-24",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cy0310pq716t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "American Express Stadium",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Veltman",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Webster",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Mahmoud Dahoud",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 11,
+        "name": "Gilmour",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 40,
+        "name": "Buonanotte",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 24,
+        "name": "Adingra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 28,
+        "name": "Ferguson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Neto",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 37,
+        "name": "Aarons",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 27,
+        "name": "Zabarnyi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Kelly",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Kerkez",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 4,
+        "name": "Cook",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 29,
+        "name": "Billing",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Christie",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Kluivert",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

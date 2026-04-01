@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-01",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cvp5j5ndx5nt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Kenilworth Road",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Luton Town",
+    "code": "luton-town",
+    "formation": "5-3-2",
+    "players": [
+      {
+        "number": 24,
+        "name": "Kaminski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 45,
+        "name": "Doughty",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 16,
+        "name": "Burke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 29,
+        "name": "Bell",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 26,
+        "name": "Giles",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 14,
+        "name": "Chong",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 13,
+        "name": "Nakamba",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 6,
+        "name": "Barkley",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Adebayo",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 9,
+        "name": "Morris",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 5,
+        "name": "Coufal",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Zouma",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 27,
+        "name": "Aguerd",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Emerson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "Ward-Prowse",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 19,
+        "name": "Álvarez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Lucas Paquetá",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Benrahma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Antonio",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

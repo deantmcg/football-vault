@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-05",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c99x0100k7dt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Craven Cottage",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Diop",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 17,
+        "name": "Iwobi",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 16,
+        "name": "Berge",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 8,
+        "name": "Wilson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 32,
+        "name": "Smith Rowe",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Nelson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Rodrigo Muniz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 3,
+        "name": "Igor Julio",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 11,
+        "name": "Adingra",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 20,
+        "name": "Baleba",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Wieffer",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 33,
+        "name": "O'Riley",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 22,
+        "name": "Mitoma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "João Pedro",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

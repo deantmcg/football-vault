@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-10-07",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cx8r7pg9z09t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Goodison Park",
+  "score": "3 - 0",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton",
+    "formation": "4-4-1-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pickford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 18,
+        "name": "Young",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tarkowski",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 32,
+        "name": "Branthwaite",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 19,
+        "name": "Mykolenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 11,
+        "name": "Harrison",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 37,
+        "name": "Garner",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Onana",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "McNeil",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 16,
+        "name": "Doucouré",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Neto",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Smith",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 27,
+        "name": "Zabarnyi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 25,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Kerkez",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 10,
+        "name": "Christie",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 4,
+        "name": "Cook",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 29,
+        "name": "Billing",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Ouattara",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

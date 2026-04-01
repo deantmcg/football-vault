@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-04-13",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c72p6elm0lrt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 30,
+        "name": "Roerslev",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 13,
+        "name": "Zanka",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Reguilón",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 24,
+        "name": "Damsgaard",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 8,
+        "name": "Jensen",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 7,
+        "name": "Maupay",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 11,
+        "name": "Wissa",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Sheffield United",
+    "code": "sheffield-united",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 13,
+        "name": "Grbic",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 30,
+        "name": "Holgate",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Ahmedhodzic",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Trusty",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 20,
+        "name": "Bogle",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "Hamer",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 24,
+        "name": "Arblaster",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 23,
+        "name": "Osborn",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 27,
+        "name": "Larouci",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 11,
+        "name": "Brereton",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 9,
+        "name": "McBurnie",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-10",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c51vp9324l0t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Craven Cottage",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 17,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Diop",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 13,
+        "name": "Ream",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 26,
+        "name": "João Palhinha",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Cairney",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 14,
+        "name": "De Cordova-Reid",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Andreas Pereira",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 20,
+        "name": "Willian",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Rodrigo Muniz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Neto",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Smith",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 27,
+        "name": "Zabarnyi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 25,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 5,
+        "name": "Kelly",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 10,
+        "name": "Christie",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 4,
+        "name": "Cook",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 14,
+        "name": "Scott",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 17,
+        "name": "Sinisterra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

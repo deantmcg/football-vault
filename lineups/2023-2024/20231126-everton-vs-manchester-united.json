@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-11-26",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c1v2x911x2lt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Goodison Park",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton",
+    "formation": "4-4-1-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pickford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 18,
+        "name": "Young",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tarkowski",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 32,
+        "name": "Branthwaite",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 19,
+        "name": "Mykolenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 11,
+        "name": "Harrison",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 37,
+        "name": "Garner",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Gueye",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "McNeil",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 16,
+        "name": "Doucouré",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Maguire",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 2,
+        "name": "Lindelöf",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Shaw",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 39,
+        "name": "McTominay",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 37,
+        "name": "Mainoo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 10,
+        "name": "Rashford",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 17,
+        "name": "Garnacho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Martial",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

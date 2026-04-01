@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-11-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c3dej1jkd0dt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Molineux Stadium",
+  "score": "2 - 4",
+  "homeTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Lemina",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 24,
+        "name": "Toti Gomes",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Aït-Nouri",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "André",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 27,
+        "name": "Bellegarde",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Matheus Cunha",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Rodrigo Gomes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Strand Larsen",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Arrizabalaga",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Smith",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 27,
+        "name": "Zabarnyi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Kerkez",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 12,
+        "name": "Adams",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Christie",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Brooks",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 19,
+        "name": "Kluivert",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Evanilson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-29",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ce8xrpjyje1t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Selhurst Park",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Henderson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Chalobah",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Lacroix",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 26,
+        "name": "Richards",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Muñoz",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 19,
+        "name": "Hughes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Lerma",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Mitchell",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Sarr",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Eze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 14,
+        "name": "Mateta",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Southampton",
+    "code": "southampton",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 30,
+        "name": "Ramsdale",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Harwood-Bellis",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 35,
+        "name": "Bednarek",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 15,
+        "name": "Wood",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 14,
+        "name": "Bree",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 18,
+        "name": "Mateus Fernandes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 7,
+        "name": "Aribo",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 2,
+        "name": "Walker-Peters",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 33,
+        "name": "Dibling",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 9,
+        "name": "Armstrong",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 32,
+        "name": "Onuachu",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-26",
+  "matchUrl": "https://www.bbc.com/sport/football/live/crl32l5l0r5t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Stamford Bridge",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Chelsea",
+    "code": "chelsea",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Sánchez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Gusto",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Adarabioyo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Colwill",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Cucurella",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Fernández",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 25,
+        "name": "Caicedo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Pedro Neto",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "Palmer",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Sancho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 15,
+        "name": "Jackson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-5-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Diop",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 11,
+        "name": "Traoré",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 18,
+        "name": "Andreas Pereira",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 20,
+        "name": "Lukic",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 17,
+        "name": "Iwobi",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Jiménez",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

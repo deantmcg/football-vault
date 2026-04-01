@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-08-24",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cj62y51klz0t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Etihad Stadium",
+  "score": "4 - 1",
+  "homeTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "3-2-4-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 25,
+        "name": "Akanji",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 82,
+        "name": "Lewis",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Kovacic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 26,
+        "name": "Savinho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RCAM"
+      },
+      {
+        "number": 17,
+        "name": "De Bruyne",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LCAM"
+      },
+      {
+        "number": 11,
+        "name": "Doku",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Ipswich Town",
+    "code": "ipswich-town",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Muric",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 18,
+        "name": "Johnson",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 40,
+        "name": "Tuanzebe",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Woolfenden",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Greaves",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Davis",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Hutchinson",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 5,
+        "name": "Sam Morsy",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 25,
+        "name": "Luongo",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Szmodics",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 19,
+        "name": "Delap",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

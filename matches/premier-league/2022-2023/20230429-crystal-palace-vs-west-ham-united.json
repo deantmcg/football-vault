@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-29",
+  "competition": "Premier League",
+  "score": "4 - 3",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united"
+  }
+}

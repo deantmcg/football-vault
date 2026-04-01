@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-10-19",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cwy9l790200t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Portman Road",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Ipswich Town",
+    "code": "ipswich-town",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Muric",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 26,
+        "name": "O'Shea",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Woolfenden",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Burgess",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Davis",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 5,
+        "name": "Sam Morsy",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Phillips",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Burns",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "Hutchinson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 47,
+        "name": "Jack Clarke",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Delap",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Everton",
+    "code": "everton",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pickford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 18,
+        "name": "Young",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tarkowski",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Keane",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 19,
+        "name": "Mykolenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Doucouré",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 27,
+        "name": "Gueye",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Harrison",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 7,
+        "name": "McNeil",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Ndiaye",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

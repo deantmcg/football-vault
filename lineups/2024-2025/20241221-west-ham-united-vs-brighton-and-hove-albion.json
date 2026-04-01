@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-21",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cy4pd3nl70jt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "London Stadium",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Fabianski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 15,
+        "name": "Mavropanos",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 26,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Emerson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 19,
+        "name": "Álvarez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 10,
+        "name": "Lucas Paquetá",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 28,
+        "name": "Soucek",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 14,
+        "name": "Kudus",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 11,
+        "name": "Füllkrug",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Veltman",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Baleba",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 27,
+        "name": "Wieffer",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 8,
+        "name": "Gruda",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 9,
+        "name": "João Pedro",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Mitoma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 14,
+        "name": "Rutter",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

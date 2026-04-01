@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c3e3zwyep2lt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "King Power Stadium",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Leicester City",
+    "code": "leicester-city",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Ward",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Justin",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Coady",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 23,
+        "name": "Vestergaard",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 16,
+        "name": "Kristiansen",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Skipp",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 24,
+        "name": "Soumaré",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 18,
+        "name": "Ayew",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 11,
+        "name": "El Khannouss",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Mavididi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Vardy",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Doherty",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Santiago Bueno",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Toti Gomes",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 7,
+        "name": "André",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 19,
+        "name": "Rodrigo Gomes",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 29,
+        "name": "Gonçalo Guedes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Matheus Cunha",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Strand Larsen",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

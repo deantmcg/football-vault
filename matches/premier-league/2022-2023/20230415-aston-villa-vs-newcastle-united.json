@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-15",
+  "competition": "Premier League",
+  "score": "3 - 0",
+  "homeTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa"
+  },
+  "awayTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united"
+  }
+}

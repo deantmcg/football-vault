@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-03-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c72l1kg40wzt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 13,
+        "name": "Zanka",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 20,
+        "name": "Ajer",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Roerslev",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 8,
+        "name": "Jensen",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 33,
+        "name": "Yarmoliuk",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Lewis-Potter",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 17,
+        "name": "Toney",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Wissa",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Lindelöf",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 19,
+        "name": "Varane",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 39,
+        "name": "McTominay",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 37,
+        "name": "Mainoo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 17,
+        "name": "Garnacho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Rashford",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Højlund",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

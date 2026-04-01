@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-16",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c18ggmjjv43t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Molineux Stadium",
+  "score": "1 - 3",
+  "homeTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 15,
+        "name": "Dawson",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 23,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Aït-Nouri",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 5,
+        "name": "Lemina",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Hwang Hee-Chan",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 27,
+        "name": "Bellegarde",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Pedro Neto",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 12,
+        "name": "Matheus Cunha",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Liverpool",
+    "code": "liverpool",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Alisson Becker",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Gomez",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 32,
+        "name": "Matip",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 78,
+        "name": "Quansah",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 26,
+        "name": "Robertson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Szoboszlai",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 10,
+        "name": "Mac Allister",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 17,
+        "name": "Jones",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Mohamed Salah",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 18,
+        "name": "Gakpo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Jota",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

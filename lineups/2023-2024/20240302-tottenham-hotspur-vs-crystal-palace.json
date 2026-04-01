@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-03-02",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cydlrqdey6yt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Tottenham Hotspur Stadium",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 12,
+        "name": "Emerson Royal",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Bissouma",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Maddison",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Werner",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Johnstone",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Ward",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 16,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 26,
+        "name": "Richards",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Muñoz",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 20,
+        "name": "Wharton",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Lerma",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Mitchell",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Ayew",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Eze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 14,
+        "name": "Mateta",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

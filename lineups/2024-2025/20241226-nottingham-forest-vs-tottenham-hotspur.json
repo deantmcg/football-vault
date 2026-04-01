@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-26",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cx2yn2x2v54t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Aina",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Milenkovic",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Anderson",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Elanga",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Hudson-Odoi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 20,
+        "name": "Forster",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 24,
+        "name": "Spence",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Dragusin",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 14,
+        "name": "Gray",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 13,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

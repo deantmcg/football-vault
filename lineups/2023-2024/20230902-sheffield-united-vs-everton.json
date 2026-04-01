@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-02",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cynjkj1r44nt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Bramall Lane",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Sheffield United",
+    "code": "sheffield-united",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 18,
+        "name": "Foderingham",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Ahmedhodzic",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 12,
+        "name": "Egan",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 19,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Baldock",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 21,
+        "name": "Vinicius Souza",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 16,
+        "name": "Norwood",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 8,
+        "name": "Hamer",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 27,
+        "name": "Larouci",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "McBurnie",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 10,
+        "name": "Archer",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Everton",
+    "code": "everton",
+    "formation": "4-4-1-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pickford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Patterson",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tarkowski",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 32,
+        "name": "Branthwaite",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 18,
+        "name": "Young",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 37,
+        "name": "Garner",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 27,
+        "name": "Gueye",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Onana",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 10,
+        "name": "Danjuma",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 16,
+        "name": "Doucouré",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Beto",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

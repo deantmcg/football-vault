@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-03",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c729xyy5y50t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Etihad Stadium",
+  "score": "3 - 3",
+  "homeTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "3-2-4-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 16,
+        "name": "Rodri",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 25,
+        "name": "Akanji",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RCAM"
+      },
+      {
+        "number": 19,
+        "name": "Alvarez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LCAM"
+      },
+      {
+        "number": 11,
+        "name": "Doku",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 12,
+        "name": "Emerson Royal",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 33,
+        "name": "Davies",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Bissouma",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 18,
+        "name": "Lo Celso",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Gil",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

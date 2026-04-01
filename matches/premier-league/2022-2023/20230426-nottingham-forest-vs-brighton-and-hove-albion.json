@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-26",
+  "competition": "Premier League",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest"
+  },
+  "awayTeam": {
+    "name": "Brighton & Hove Albion",
+    "code": "brighton-and-hove-albion"
+  }
+}

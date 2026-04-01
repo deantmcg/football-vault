@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-09-28",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cy4d8wm8nvwt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "van den Berg",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Pinnock",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 20,
+        "name": "Ajer",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "Schade",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 24,
+        "name": "Damsgaard",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Lewis-Potter",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 14,
+        "name": "Fábio Carvalho",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 25,
+        "name": "Todibo",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 26,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Emerson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 24,
+        "name": "Rodríguez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 28,
+        "name": "Soucek",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 10,
+        "name": "Lucas Paquetá",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 14,
+        "name": "Kudus",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Antonio",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

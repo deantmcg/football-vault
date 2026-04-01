@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-05-11",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cz4x5p9r0lgt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Craven Cottage",
+  "score": "0 - 4",
+  "homeTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 17,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Diop",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Iwobi",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 26,
+        "name": "João Palhinha",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 14,
+        "name": "De Cordova-Reid",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Andreas Pereira",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 20,
+        "name": "Willian",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Rodrigo Muniz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 25,
+        "name": "Akanji",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Aké",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Rodri",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Kovacic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 17,
+        "name": "De Bruyne",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

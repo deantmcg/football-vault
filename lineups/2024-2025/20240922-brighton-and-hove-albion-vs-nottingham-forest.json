@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-09-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ced089z4d91t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "American Express Stadium",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Veltman",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 41,
+        "name": "Hinshelwood",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 20,
+        "name": "Baleba",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Adingra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 14,
+        "name": "Rutter",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Mitoma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Aina",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Milenkovic",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 19,
+        "name": "Moreno",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 18,
+        "name": "Ward-Prowse",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Anderson",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 14,
+        "name": "Hudson-Odoi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 21,
+        "name": "Elanga",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

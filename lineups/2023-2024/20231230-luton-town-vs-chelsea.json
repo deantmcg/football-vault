@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c4ny290z2yxt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Kenilworth Road",
+  "score": "2 - 3",
+  "homeTeam": {
+    "name": "Luton Town",
+    "code": "luton-town",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Kaminski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Mengi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 2,
+        "name": "Osho",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 29,
+        "name": "Bell",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Kaboré",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 28,
+        "name": "Sambi Lokonga",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Barkley",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 45,
+        "name": "Doughty",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 30,
+        "name": "Townsend",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 19,
+        "name": "Brown",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Adebayo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Chelsea",
+    "code": "chelsea",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 28,
+        "name": "Petrovic",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Gusto",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Disasi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Thiago Silva",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 26,
+        "name": "Colwill",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 23,
+        "name": "Gallagher",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 25,
+        "name": "Caicedo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Madueke",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "Palmer",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 15,
+        "name": "Jackson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Broja",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

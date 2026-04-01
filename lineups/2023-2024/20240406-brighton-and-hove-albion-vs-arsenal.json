@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-04-06",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c6pe1x191lkt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "American Express Stadium",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Lamptey",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Baleba",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 24,
+        "name": "Adingra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 15,
+        "name": "Moder",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Enciso",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Arsenal",
+    "code": "arsenal",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 22,
+        "name": "Raya",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "White",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Saliba",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Gabriel Magalhães",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 35,
+        "name": "Zinchenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Ødegaard",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 20,
+        "name": "Jorginho",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 41,
+        "name": "Rice",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "Saka",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 29,
+        "name": "Havertz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 9,
+        "name": "Gabriel Jesus",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

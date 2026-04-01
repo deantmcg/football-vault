@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-10-29",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cqejp9e31j7t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Old Trafford",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Maguire",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 35,
+        "name": "Evans",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Lindelöf",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 14,
+        "name": "Eriksen",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 4,
+        "name": "Amrabat",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 39,
+        "name": "McTominay",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Rashford",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Højlund",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Stones",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Rodri",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 19,
+        "name": "Alvarez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Grealish",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

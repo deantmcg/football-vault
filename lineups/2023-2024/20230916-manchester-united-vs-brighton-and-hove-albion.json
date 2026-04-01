@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-16",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c96nnvq4mj3t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Old Trafford",
+  "score": "1 - 3",
+  "homeTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-1-2-1-2",
+    "players": [
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Lindelöf",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Martínez",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 15,
+        "name": "Reguilón",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 18,
+        "name": "Casemiro",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 39,
+        "name": "McTominay",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 14,
+        "name": "Eriksen",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Højlund",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 10,
+        "name": "Rashford",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Steele",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Veltman",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Lamptey",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Mahmoud Dahoud",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 24,
+        "name": "Adingra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 14,
+        "name": "Lallana",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Mitoma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

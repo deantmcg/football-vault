@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-11-26",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cg3p2ekkjldt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Tottenham Hotspur Stadium",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 12,
+        "name": "Emerson Royal",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 33,
+        "name": "Davies",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 18,
+        "name": "Lo Celso",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Gil",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Diego Carlos",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 14,
+        "name": "Torres",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Digne",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 2,
+        "name": "Cash",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 44,
+        "name": "Kamara",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Douglas Luiz",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 19,
+        "name": "Diaby",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

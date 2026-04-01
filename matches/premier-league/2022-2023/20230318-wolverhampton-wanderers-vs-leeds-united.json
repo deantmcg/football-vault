@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-03-18",
+  "competition": "Premier League",
+  "score": "2 - 4",
+  "homeTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers"
+  },
+  "awayTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united"
+  }
+}

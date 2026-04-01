@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-10",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cek7xjz18m8t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Kenilworth Road",
+  "score": "1 - 3",
+  "homeTeam": {
+    "name": "Luton Town",
+    "code": "luton-town",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Kaminski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 16,
+        "name": "Burke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 2,
+        "name": "Osho",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 29,
+        "name": "Bell",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 7,
+        "name": "Ogbene",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 28,
+        "name": "Sambi Lokonga",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Barkley",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 45,
+        "name": "Doughty",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 18,
+        "name": "Clark",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 9,
+        "name": "Morris",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Adebayo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Sheffield United",
+    "code": "sheffield-united",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 18,
+        "name": "Foderingham",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Bogle",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 30,
+        "name": "Holgate",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Ahmedhodzic",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 19,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Norrington-Davies",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 28,
+        "name": "McAtee",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 21,
+        "name": "Vinicius Souza",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Hamer",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Osborn",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 10,
+        "name": "Archer",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

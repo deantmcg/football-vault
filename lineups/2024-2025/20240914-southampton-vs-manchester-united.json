@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-09-14",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cn0ldr4n9n2t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "St. Mary's Stadium",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Southampton",
+    "code": "southampton",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 30,
+        "name": "Ramsdale",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 16,
+        "name": "Sugawara",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Stephens",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 35,
+        "name": "Bednarek",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Walker-Peters",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 4,
+        "name": "Downes",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 26,
+        "name": "Ugochukwu",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 33,
+        "name": "Dibling",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Mateus Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 17,
+        "name": "Brereton",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Archer",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Mazraoui",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "de Ligt",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Martínez",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 14,
+        "name": "Eriksen",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 37,
+        "name": "Mainoo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 16,
+        "name": "Diallo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Rashford",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Zirkzee",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

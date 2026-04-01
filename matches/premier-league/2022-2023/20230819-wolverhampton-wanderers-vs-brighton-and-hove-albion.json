@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-08-19",
+  "competition": "Premier League",
+  "score": "1 - 4",
+  "homeTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers"
+  },
+  "awayTeam": {
+    "name": "Brighton & Hove Albion",
+    "code": "brighton-and-hove-albion"
+  }
+}

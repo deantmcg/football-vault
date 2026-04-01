@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-22",
+  "competition": "Premier League",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Leicester City",
+    "code": "leicester-city"
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers"
+  }
+}

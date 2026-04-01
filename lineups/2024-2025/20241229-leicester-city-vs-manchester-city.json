@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-12-29",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cgq1epj0pgwt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "King Power Stadium",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Leicester City",
+    "code": "leicester-city",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 41,
+        "name": "Stolarczyk",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Justin",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Coady",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 23,
+        "name": "Vestergaard",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 16,
+        "name": "Kristiansen",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Winks",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 24,
+        "name": "Soumaré",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 40,
+        "name": "Buonanotte",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 11,
+        "name": "El Khannouss",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Mavididi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Vardy",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 18,
+        "name": "Ortega",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 82,
+        "name": "Lewis",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 25,
+        "name": "Akanji",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Aké",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Kovacic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 17,
+        "name": "De Bruyne",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 26,
+        "name": "Savinho",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

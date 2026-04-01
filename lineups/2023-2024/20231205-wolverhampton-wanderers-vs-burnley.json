@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-05",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c6pr7p70v21t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Molineux Stadium",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-4-3",
+    "players": [
+      {
+        "number": 25,
+        "name": "Bentley",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Dawson",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Toti Gomes",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 5,
+        "name": "Lemina",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 17,
+        "name": "Hugo Bueno",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 11,
+        "name": "Hwang Hee-Chan",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 12,
+        "name": "Matheus Cunha",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 21,
+        "name": "Sarabia",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Trafford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 22,
+        "name": "Vitinho",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "O'Shea",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 18,
+        "name": "Ekdal",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Taylor",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 34,
+        "name": "Bruun Larsen",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 16,
+        "name": "Berge",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Brownhill",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 30,
+        "name": "Koleosho",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Rodriguez",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 25,
+        "name": "Amdouni",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

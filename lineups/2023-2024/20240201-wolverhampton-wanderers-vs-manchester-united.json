@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-01",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c25dnd3dg0zt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Molineux Stadium",
+  "score": "3 - 4",
+  "homeTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Dawson",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Toti Gomes",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 5,
+        "name": "Lemina",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 20,
+        "name": "Doyle",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 2,
+        "name": "Doherty",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Pedro Neto",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 12,
+        "name": "Matheus Cunha",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 27,
+        "name": "Bellegarde",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 19,
+        "name": "Varane",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Martínez",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Shaw",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 37,
+        "name": "Mainoo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 18,
+        "name": "Casemiro",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 17,
+        "name": "Garnacho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Rashford",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Højlund",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

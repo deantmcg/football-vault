@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-01",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cx0vdvqzx4lt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "London Stadium",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-3-2-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Johnson",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 15,
+        "name": "Mavropanos",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Zouma",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Emerson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 11,
+        "name": "Phillips",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 28,
+        "name": "Soucek",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 19,
+        "name": "Álvarez",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 14,
+        "name": "Kudus",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 7,
+        "name": "Ward-Prowse",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Afc Bournemouth",
+    "code": "afc-bournemouth",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Neto",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Smith",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 27,
+        "name": "Zabarnyi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 25,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 5,
+        "name": "Kelly",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 4,
+        "name": "Cook",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 10,
+        "name": "Christie",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 24,
+        "name": "Semenyo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 14,
+        "name": "Scott",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Tavernier",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Solanke",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

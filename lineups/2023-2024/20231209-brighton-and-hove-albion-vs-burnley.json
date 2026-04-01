@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-09",
+  "matchUrl": "https://www.bbc.com/sport/football/live/czr28n4p89dt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "American Express Stadium",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 6,
+        "name": "Milner",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Baleba",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Mahmoud Dahoud",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 24,
+        "name": "Adingra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 14,
+        "name": "Lallana",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 9,
+        "name": "João Pedro",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 28,
+        "name": "Ferguson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Trafford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 22,
+        "name": "Vitinho",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "O'Shea",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Beyer",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Taylor",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "Gudmundsson",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 16,
+        "name": "Berge",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Brownhill",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 47,
+        "name": "Odobert",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Rodriguez",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 25,
+        "name": "Amdouni",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-23",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c96nwyp1qzjt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Selhurst Park",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Johnstone",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Ward",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 16,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Guéhi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Mitchell",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 28,
+        "name": "Doucouré",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 19,
+        "name": "Hughes",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 9,
+        "name": "Ayew",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 15,
+        "name": "Schlupp",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Eze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 22,
+        "name": "Édouard",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 17,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Diop",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 13,
+        "name": "Ream",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 6,
+        "name": "Reed",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 26,
+        "name": "João Palhinha",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 18,
+        "name": "Andreas Pereira",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 14,
+        "name": "De Cordova-Reid",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 7,
+        "name": "Jiménez",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 20,
+        "name": "Willian",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

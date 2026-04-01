@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-10",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cw4qe93vngvt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Tottenham Hotspur Stadium",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 30,
+        "name": "Bentancur",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Maddison",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Werner",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Richarlison",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Steele",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Lamptey",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 11,
+        "name": "Gilmour",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 40,
+        "name": "Buonanotte",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 14,
+        "name": "Lallana",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Mitoma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

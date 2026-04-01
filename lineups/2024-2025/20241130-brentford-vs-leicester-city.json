@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-11-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c2e79z9wem3t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "4 - 1",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "van den Berg",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Pinnock",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Lewis-Potter",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 6,
+        "name": "Nørgaard",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Jensen",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 24,
+        "name": "Damsgaard",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Schade",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wissa",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Leicester City",
+    "code": "leicester-city",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 30,
+        "name": "Hermansen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Faes",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Coady",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Okoli",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Justin",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 24,
+        "name": "Soumaré",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Ndidi",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 33,
+        "name": "Thomas",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 40,
+        "name": "Buonanotte",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Ayew",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Vardy",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

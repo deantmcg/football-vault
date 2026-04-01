@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-01-20",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c2jy558xjgxt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "3 - 2",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Pinnock",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 16,
+        "name": "Mee",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Roerslev",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 24,
+        "name": "Damsgaard",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 8,
+        "name": "Jensen",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 23,
+        "name": "Lewis-Potter",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Maupay",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 17,
+        "name": "Toney",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Turner",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Montiel",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 32,
+        "name": "Omobamidele",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 40,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Nuno Tavares",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 5,
+        "name": "Mangala",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 28,
+        "name": "Danilo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 16,
+        "name": "Domínguez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Hudson-Odoi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-05",
+  "competition": "Premier League",
+  "score": "1 - 5",
+  "homeTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united"
+  },
+  "awayTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-05-13",
+  "competition": "Premier League",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  },
+  "awayTeam": {
+    "name": "AFC Bournemouth",
+    "code": "afc-bournemouth"
+  }
+}

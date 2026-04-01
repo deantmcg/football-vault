@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-17",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c0vjdneyp98t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 18,
+        "name": "Felipe",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 40,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Nuno Tavares",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Domínguez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 28,
+        "name": "Danilo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Elanga",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Hudson-Odoi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Awoniyi",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 5,
+        "name": "Coufal",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Zouma",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 27,
+        "name": "Aguerd",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Emerson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 11,
+        "name": "Phillips",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 19,
+        "name": "Álvarez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 7,
+        "name": "Ward-Prowse",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Kudus",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Antonio",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

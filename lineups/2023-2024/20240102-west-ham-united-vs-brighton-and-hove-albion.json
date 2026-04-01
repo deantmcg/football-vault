@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-01-02",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c2ly1vp13plt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "London Stadium",
+  "score": "0 - 0",
+  "homeTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Areola",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Johnson",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 15,
+        "name": "Mavropanos",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 21,
+        "name": "Ogbonna",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Emerson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 19,
+        "name": "Álvarez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 28,
+        "name": "Soucek",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 8,
+        "name": "Fornals",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 7,
+        "name": "Ward-Prowse",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Benrahma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 20,
+        "name": "Bowen",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-3-1-2",
+    "players": [
+      {
+        "number": 23,
+        "name": "Steele",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 41,
+        "name": "Hinshelwood",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Webster",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 11,
+        "name": "Gilmour",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 6,
+        "name": "Milner",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 40,
+        "name": "Buonanotte",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 9,
+        "name": "João Pedro",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

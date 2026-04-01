@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-08-26",
+  "competition": "Premier League",
+  "score": "1 - 3",
+  "homeTeam": {
+    "name": "Brighton & Hove Albion",
+    "code": "brighton-and-hove-albion"
+  },
+  "awayTeam": {
+    "name": "West Ham United",
+    "code": "west-ham-united"
+  }
+}

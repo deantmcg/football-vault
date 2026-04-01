@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-02-11",
+  "competition": "Premier League",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Southampton",
+    "code": "southampton"
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers"
+  }
+}

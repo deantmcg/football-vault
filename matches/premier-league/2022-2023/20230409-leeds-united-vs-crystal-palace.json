@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-09",
+  "competition": "Premier League",
+  "score": "1 - 5",
+  "homeTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united"
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace"
+  }
+}

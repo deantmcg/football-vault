@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-04-07",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cl5qlv7455lt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Tottenham Hotspur Stadium",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Bissouma",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Maddison",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 16,
+        "name": "Werner",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 32,
+        "name": "Omobamidele",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 40,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 43,
+        "name": "Aina",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 28,
+        "name": "Danilo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Elanga",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Hudson-Odoi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

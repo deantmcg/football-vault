@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-03-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cjj51zx05qgt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 18,
+        "name": "Felipe",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 40,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 43,
+        "name": "Aina",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 6,
+        "name": "Sangaré",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 27,
+        "name": "Origi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 14,
+        "name": "Hudson-Odoi",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Wood",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 30,
+        "name": "Henderson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Ward",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 16,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 26,
+        "name": "Richards",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Muñoz",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 20,
+        "name": "Wharton",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "Lerma",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Mitchell",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Ayew",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Eze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 14,
+        "name": "Mateta",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

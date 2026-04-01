@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-11-04",
+  "matchUrl": "https://www.bbc.com/sport/football/live/clw7ee9gp71t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Craven Cottage",
+  "score": "0 - 1",
+  "homeTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 17,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 13,
+        "name": "Ream",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 22,
+        "name": "Iwobi",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 26,
+        "name": "João Palhinha",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 8,
+        "name": "Wilson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 18,
+        "name": "Andreas Pereira",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 20,
+        "name": "Willian",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Rodrigo Muniz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 24,
+        "name": "Onana",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 29,
+        "name": "Wan-Bissaka",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Maguire",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 35,
+        "name": "Evans",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 20,
+        "name": "Diogo Dalot",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 39,
+        "name": "McTominay",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 14,
+        "name": "Eriksen",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Antony",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 17,
+        "name": "Garnacho",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Højlund",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

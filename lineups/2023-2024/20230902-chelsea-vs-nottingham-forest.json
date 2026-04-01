@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-02",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cpev9vk5l2wt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Stamford Bridge",
+  "score": "0 - 1",
+  "homeTeam": {
+    "name": "Chelsea",
+    "code": "chelsea",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Sánchez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Disasi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Thiago Silva",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 26,
+        "name": "Colwill",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 27,
+        "name": "Gusto",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 23,
+        "name": "Gallagher",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 25,
+        "name": "Caicedo",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 21,
+        "name": "Chilwell",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 7,
+        "name": "Sterling",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Fernández",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 15,
+        "name": "Jackson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Turner",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 30,
+        "name": "Boly",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Worrall",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 26,
+        "name": "McKenna",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Aurier",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 5,
+        "name": "Mangala",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 43,
+        "name": "Aina",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 28,
+        "name": "Danilo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Awoniyi",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

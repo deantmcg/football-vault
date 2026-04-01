@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-09",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c0d2y9rx1zet#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Selhurst Park",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Johnstone",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Ward",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 16,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Guéhi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 17,
+        "name": "Clyne",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 19,
+        "name": "Hughes",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 26,
+        "name": "Richards",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 8,
+        "name": "Lerma",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 9,
+        "name": "Ayew",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 22,
+        "name": "Édouard",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 15,
+        "name": "Schlupp",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Liverpool",
+    "code": "liverpool",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Alisson Becker",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 66,
+        "name": "Alexander-Arnold",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 78,
+        "name": "Quansah",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "van Dijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 21,
+        "name": "Tsimikas",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Szoboszlai",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 3,
+        "name": "Endo",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 38,
+        "name": "Gravenberch",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Mohamed Salah",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Núñez",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 7,
+        "name": "Díaz",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

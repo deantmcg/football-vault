@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c4ny9kkp42xt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Villa Park",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-4-1-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Cash",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 17,
+        "name": "Lenglet",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 12,
+        "name": "Digne",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 31,
+        "name": "Bailey",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Douglas Luiz",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 41,
+        "name": "Ramsey",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 19,
+        "name": "Diaby",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Sheffield United",
+    "code": "sheffield-united",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 18,
+        "name": "Foderingham",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Baldock",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 19,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Trusty",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 20,
+        "name": "Bogle",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 21,
+        "name": "Vinicius Souza",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 16,
+        "name": "Norwood",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 27,
+        "name": "Larouci",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 25,
+        "name": "Ben Slimane",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 35,
+        "name": "Brooks",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 10,
+        "name": "Archer",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

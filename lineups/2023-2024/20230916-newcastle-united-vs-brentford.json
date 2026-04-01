@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-09-16",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cq7nn08g9pet#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "St. James' Park",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Newcastle United",
+    "code": "newcastle-united",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 22,
+        "name": "Pope",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Trippier",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Schär",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Botman",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Burn",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 36,
+        "name": "Longstaff",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 39,
+        "name": "Bruno Guimarães",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 32,
+        "name": "Anderson",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 10,
+        "name": "Gordon",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Wilson",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 15,
+        "name": "Barnes",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "5-3-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Hickey",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Pinnock",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 16,
+        "name": "Mee",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Henry",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Jensen",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Nørgaard",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 11,
+        "name": "Wissa",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  }
+}

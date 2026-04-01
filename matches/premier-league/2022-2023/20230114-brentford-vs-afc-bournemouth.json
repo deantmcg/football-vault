@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-14",
+  "competition": "Premier League",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford"
+  },
+  "awayTeam": {
+    "name": "AFC Bournemouth",
+    "code": "afc-bournemouth"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-08-31",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c93p14l9qp1t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Portman Road",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Ipswich Town",
+    "code": "ipswich-town",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Muric",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 40,
+        "name": "Tuanzebe",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Woolfenden",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 24,
+        "name": "Greaves",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Davis",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 5,
+        "name": "Sam Morsy",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Phillips",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Ogbene",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 20,
+        "name": "Hutchinson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 23,
+        "name": "Szmodics",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Delap",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 1,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Tete",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 31,
+        "name": "Diop",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 18,
+        "name": "Andreas Pereira",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 20,
+        "name": "Lukic",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 32,
+        "name": "Smith Rowe",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Traoré",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 9,
+        "name": "Rodrigo Muniz",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 17,
+        "name": "Iwobi",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  }
+}

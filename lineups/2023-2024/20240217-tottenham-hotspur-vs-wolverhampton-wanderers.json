@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-02-17",
+  "matchUrl": "https://www.bbc.com/sport/football/live/clmj52yez2zt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Tottenham Hotspur Stadium",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 12,
+        "name": "Emerson Royal",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 37,
+        "name": "van de Ven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Davies",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Bissouma",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Maddison",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Richarlison",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "José Sá",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Kilman",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Dawson",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 24,
+        "name": "Toti Gomes",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 5,
+        "name": "Lemina",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Aït-Nouri",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 21,
+        "name": "Sarabia",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 7,
+        "name": "Pedro Neto",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Hwang Hee-Chan",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

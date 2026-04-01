@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-03-06",
+  "competition": "Premier League",
+  "score": "3 - 2",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford"
+  },
+  "awayTeam": {
+    "name": "Fulham",
+    "code": "fulham"
+  }
+}

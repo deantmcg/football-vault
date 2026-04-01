@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-15",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c4n91yjg0e2t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Turner",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 30,
+        "name": "Boly",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 40,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 19,
+        "name": "Niakhaté",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 7,
+        "name": "Williams",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 22,
+        "name": "Yates",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 5,
+        "name": "Mangala",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 8,
+        "name": "Kouyaté",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 15,
+        "name": "Toffolo",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 21,
+        "name": "Elanga",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Vicario",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Porro",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 17,
+        "name": "Romero",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 33,
+        "name": "Davies",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 38,
+        "name": "Udogie",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 29,
+        "name": "Sarr",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Bissouma",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 22,
+        "name": "Johnson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 21,
+        "name": "Kulusevski",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Son Heung-Min",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Richarlison",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

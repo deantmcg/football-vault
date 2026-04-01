@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-08-26",
+  "competition": "Premier League",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "AFC Bournemouth",
+    "code": "afc-bournemouth"
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur"
+  }
+}

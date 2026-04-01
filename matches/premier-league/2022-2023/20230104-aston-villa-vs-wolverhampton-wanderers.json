@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-01-04",
+  "competition": "Premier League",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa"
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers"
+  }
+}

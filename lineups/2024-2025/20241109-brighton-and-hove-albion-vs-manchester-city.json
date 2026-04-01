@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-11-09",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c207r704658t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "American Express Stadium",
+  "score": "2 - 1",
+  "homeTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-4-2",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 34,
+        "name": "Veltman",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Igor Julio",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 30,
+        "name": "Estupiñán",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 11,
+        "name": "Adingra",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 41,
+        "name": "Hinshelwood",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 26,
+        "name": "Ayari",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 22,
+        "name": "Mitoma",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 14,
+        "name": "Rutter",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 66,
+        "name": "Simpson-Pusey",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 82,
+        "name": "Lewis",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Kovacic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 26,
+        "name": "Savinho",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 19,
+        "name": "Gündogan",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 27,
+        "name": "Matheus Nunes",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Haaland",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

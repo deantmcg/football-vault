@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-21",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c51zjgl4dgqt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Selhurst Park",
+  "score": "1 - 1",
+  "homeTeam": {
+    "name": "Crystal Palace",
+    "code": "crystal-palace",
+    "formation": "4-3-3",
+    "players": [
+      {
+        "number": 30,
+        "name": "Henderson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 17,
+        "name": "Clyne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 16,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Guéhi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Mitchell",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 8,
+        "name": "Lerma",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 26,
+        "name": "Richards",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 19,
+        "name": "Hughes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 7,
+        "name": "Olise",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 14,
+        "name": "Mateta",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 9,
+        "name": "Ayew",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 41,
+        "name": "Hinshelwood",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 29,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Igor Julio",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Baleba",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 11,
+        "name": "Gilmour",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 24,
+        "name": "Adingra",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 22,
+        "name": "Mitoma",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "João Pedro",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2023-12-10",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c0w2y6yzx4lt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Kenilworth Road",
+  "score": "1 - 2",
+  "homeTeam": {
+    "name": "Luton Town",
+    "code": "luton-town",
+    "formation": "3-4-3",
+    "players": [
+      {
+        "number": 24,
+        "name": "Kaminski",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "Mengi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 4,
+        "name": "Lockyer",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 29,
+        "name": "Bell",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 45,
+        "name": "Doughty",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 13,
+        "name": "Nakamba",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Barkley",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 26,
+        "name": "Giles",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 30,
+        "name": "Townsend",
+        "originalPosition": "Striker",
+        "position": "RW"
+      },
+      {
+        "number": 11,
+        "name": "Adebayo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      },
+      {
+        "number": 19,
+        "name": "Brown",
+        "originalPosition": "Striker",
+        "position": "LW"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester City",
+    "code": "manchester-city",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Ederson",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 3,
+        "name": "Rúben Dias",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Aké",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Gvardiol",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Rodri",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Kovacic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 20,
+        "name": "Bernardo Silva",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 47,
+        "name": "Foden",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Grealish",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Alvarez",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

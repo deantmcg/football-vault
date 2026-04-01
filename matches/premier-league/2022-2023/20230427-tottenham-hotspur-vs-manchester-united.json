@@ -1,0 +1,13 @@
+{
+  "matchDate": "2023-04-27",
+  "competition": "Premier League",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur"
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "matchDate": "2024-10-05",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cwye92d7xlqt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "5 - 3",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Flekken",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "van den Berg",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Pinnock",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 20,
+        "name": "Ajer",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 6,
+        "name": "Nørgaard",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 24,
+        "name": "Damsgaard",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 23,
+        "name": "Lewis-Potter",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "Schade",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Wolverhampton Wanderers",
+    "code": "wolverhampton-wanderers",
+    "formation": "4-1-4-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Johnstone",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 22,
+        "name": "Nélson Semedo",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 15,
+        "name": "Dawson",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 24,
+        "name": "Toti Gomes",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Aït-Nouri",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "André",
+        "originalPosition": "Defensive Midfielder",
+        "position": "CDM"
+      },
+      {
+        "number": 26,
+        "name": "Carlos Forbs",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 5,
+        "name": "Lemina",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 8,
+        "name": "João Gomes",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 10,
+        "name": "Matheus Cunha",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Strand Larsen",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}
