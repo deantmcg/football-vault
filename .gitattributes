@@ -1,1 +1,2 @@
+football.db filter=lfs diff=lfs merge=lfs -text
 football-vault.db filter=lfs diff=lfs merge=lfs -text
