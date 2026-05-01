@@ -12,5 +12,5 @@ const ids = readdirSync(crestsDir)
   .sort((a, b) => a - b);
 
 mkdirSync('C:/export/football-vault', { recursive: true });
-writeFileSync(outPath, ids.join('\n'), 'utf8');
+writeFileSync(outPath, ids.join(', '), 'utf8');
 console.log(`Written ${ids.length} IDs to ${outPath}`);
