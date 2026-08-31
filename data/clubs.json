@@ -11,10 +11,11 @@
       "longitude": -0.0855
     },
     "founded": 1905,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#27409b",
-      "#c4122e",
-      "#ffffff"
+      "#27409B",
+      "#C4122E",
+      "#FFFFFF"
     ]
   },
   {
@@ -29,9 +30,10 @@
       "longitude": -2.9662
     },
     "founded": 1878,
+    "shirtDesignCode": "solid",
     "colors": [
       "#274488",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -46,9 +48,10 @@
       "longitude": -1.4708
     },
     "founded": 1889,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ec2227",
-      "#ffffff",
+      "#EC2227",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -64,10 +67,11 @@
       "longitude": -2.2914
     },
     "founded": 1878,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#da030e",
+      "#DA030E",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -82,9 +86,10 @@
       "longitude": -1.8851
     },
     "founded": 1874,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#7b003a",
-      "#a3c5e9"
+      "#7B003A",
+      "#A3C5E9"
     ]
   },
   {
@@ -99,8 +104,9 @@
       "longitude": -0.0664
     },
     "founded": 1882,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#132257"
     ]
   },
@@ -116,10 +122,11 @@
       "longitude": -2.1306
     },
     "founded": 1877,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fdb913",
+      "#FDB913",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -134,9 +141,10 @@
       "longitude": 1.3091
     },
     "founded": 1902,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffee00",
-      "#00a650"
+      "#FFEE00",
+      "#00A650"
     ]
   },
   {
@@ -151,10 +159,11 @@
       "longitude": -0.0166
     },
     "founded": 1895,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#7f0000",
-      "#7acbe5",
-      "#ffffff"
+      "#7F0000",
+      "#7ACBE5",
+      "#FFFFFF"
     ]
   },
   {
@@ -169,9 +178,10 @@
       "longitude": -2.2002
     },
     "founded": 1880,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6caddf",
-      "#ffffff"
+      "#6CADDF",
+      "#FFFFFF"
     ]
   },
   {
@@ -186,9 +196,10 @@
       "longitude": -0.1084
     },
     "founded": 1886,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#ff0000",
-      "#ffffff",
+      "#FF0000",
+      "#FFFFFF",
       "#023474"
     ]
   },
@@ -204,10 +215,11 @@
       "longitude": -1.1422
     },
     "founded": 1884,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0053a0",
-      "#ffffff",
-      "#fdbe11"
+      "#0053A0",
+      "#FFFFFF",
+      "#FDBE11"
     ]
   },
   {
@@ -222,9 +234,10 @@
       "longitude": -0.191
     },
     "founded": 1905,
+    "shirtDesignCode": "solid",
     "colors": [
       "#034694",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -239,9 +252,10 @@
       "longitude": -2.961
     },
     "founded": 1892,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#dd0000",
-      "#ffffff"
+      "#DD0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -256,10 +270,11 @@
       "longitude": -2.2302
     },
     "founded": 1882,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
       "#800000",
-      "#80bfff",
-      "#ffffff"
+      "#80BFFF",
+      "#FFFFFF"
     ]
   },
   {
@@ -274,10 +289,11 @@
       "longitude": -1.8384
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#8b0304",
+      "#8B0304",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -292,10 +308,11 @@
       "longitude": -1.6218
     },
     "founded": 1892,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#231f20",
-      "#ffffff",
-      "#00b6f1"
+      "#231F20",
+      "#FFFFFF",
+      "#00B6F1"
     ]
   },
   {
@@ -310,9 +327,10 @@
       "longitude": -0.0801
     },
     "founded": 1901,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#005daa",
-      "#ffffff"
+      "#005DAA",
+      "#FFFFFF"
     ]
   },
   {
@@ -327,9 +345,10 @@
       "longitude": -0.4016
     },
     "founded": 1881,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#fbee23",
-      "#ed2127",
+      "#FBEE23",
+      "#ED2127",
       "#000000"
     ]
   },
@@ -345,9 +364,10 @@
       "longitude": -1.3911
     },
     "founded": 1885,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1a3b",
-      "#ffffff",
+      "#ED1A3B",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -363,10 +383,11 @@
       "longitude": -0.3583
     },
     "founded": 1919,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#ffdf1c",
-      "#ee3524"
+      "#FFFFFF",
+      "#FFDF1C",
+      "#EE3524"
     ]
   },
   {
@@ -381,10 +402,11 @@
       "longitude": 3.1304
     },
     "founded": 1944,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#00326e",
-      "#d20a11",
-      "#ffffff"
+      "#00326E",
+      "#D20A11",
+      "#FFFFFF"
     ]
   },
   {
@@ -399,10 +421,11 @@
       "longitude": 11.625
     },
     "founded": 1900,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#dc052d",
-      "#0066b2",
-      "#ffffff"
+      "#DC052D",
+      "#0066B2",
+      "#FFFFFF"
     ]
   },
   {
@@ -417,10 +440,11 @@
       "longitude": 14.193
     },
     "founded": 1926,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#12a0d7",
-      "#003c82",
-      "#ffffff"
+      "#12A0D7",
+      "#003C82",
+      "#FFFFFF"
     ]
   },
   {
@@ -435,10 +459,11 @@
       "longitude": -3.5994
     },
     "founded": 1903,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ce3524",
-      "#ce3524",
-      "#ffffff"
+      "#CE3524",
+      "#CE3524",
+      "#FFFFFF"
     ]
   },
   {
@@ -453,10 +478,11 @@
       "longitude": 9.6808
     },
     "founded": 1907,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0071bc",
-      "#231f20",
-      "#ffffff"
+      "#0071BC",
+      "#231F20",
+      "#FFFFFF"
     ]
   },
   {
@@ -471,10 +497,11 @@
       "longitude": 12.9983
     },
     "founded": 2009,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#dd0741",
-      "#001f47"
+      "#FFFFFF",
+      "#DD0741",
+      "#001F47"
     ]
   },
   {
@@ -489,9 +516,10 @@
       "longitude": -3.7683
     },
     "founded": 1928,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0055a4",
-      "#ffffff"
+      "#0055A4",
+      "#FFFFFF"
     ]
   },
   {
@@ -506,10 +534,11 @@
       "longitude": -0.1035
     },
     "founded": 1923,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffe667",
+      "#FFE667",
       "#005187",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -524,9 +553,10 @@
       "longitude": -4.7614
     },
     "founded": 1928,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#9765c1",
-      "#ffffff",
+      "#9765C1",
+      "#FFFFFF",
       "#178555"
     ]
   },
@@ -542,10 +572,11 @@
       "longitude": 2.1228
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#db0030",
-      "#004d98",
-      "#ffed02"
+      "#DB0030",
+      "#004D98",
+      "#FFED02"
     ]
   },
   {
@@ -560,10 +591,11 @@
       "longitude": 2.63
     },
     "founded": 1916,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e41b11",
+      "#E41B11",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -578,9 +610,10 @@
       "longitude": -5.9706
     },
     "founded": 1890,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#d40c1d",
-      "#ffffff"
+      "#D40C1D",
+      "#FFFFFF"
     ]
   },
   {
@@ -595,9 +628,10 @@
       "longitude": 2.075
     },
     "founded": 1900,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0079bc",
-      "#ffffff"
+      "#0079BC",
+      "#FFFFFF"
     ]
   },
   {
@@ -612,8 +646,9 @@
       "longitude": -2.4714
     },
     "founded": 1940,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#8c0334",
+      "#8C0334",
       "#004787"
     ]
   },
@@ -629,9 +664,10 @@
       "longitude": -2.9493
     },
     "founded": 1898,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ee2523",
-      "#ffffff",
+      "#EE2523",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -647,10 +683,11 @@
       "longitude": -3.6883
     },
     "founded": 1902,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#00529f",
-      "#f9a12e"
+      "#FFFFFF",
+      "#00529F",
+      "#F9A12E"
     ]
   },
   {
@@ -665,10 +702,11 @@
       "longitude": 2.253
     },
     "founded": 1970,
+    "shirtDesignCode": "center-stripe",
     "colors": [
       "#004170",
-      "#da291c",
-      "#ffffff"
+      "#DA291C",
+      "#FFFFFF"
     ]
   },
   {
@@ -683,10 +721,11 @@
       "longitude": 8.6452
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e1000f",
+      "#E1000F",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -701,9 +740,10 @@
       "longitude": 8.8376
     },
     "founded": 1899,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#1d903d",
-      "#ffffff"
+      "#1D903D",
+      "#FFFFFF"
     ]
   },
   {
@@ -718,9 +758,10 @@
       "longitude": 7.0676
     },
     "founded": 1904,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#004d9e",
-      "#ffffff"
+      "#004D9E",
+      "#FFFFFF"
     ]
   },
   {
@@ -735,8 +776,9 @@
       "longitude": 6.9868
     },
     "founded": 1904,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#e32221",
+      "#E32221",
       "#000000"
     ]
   },
@@ -752,9 +794,10 @@
       "longitude": 10.8037
     },
     "founded": 1945,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#65b32e",
-      "#ffffff"
+      "#65B32E",
+      "#FFFFFF"
     ]
   },
   {
@@ -769,9 +812,10 @@
       "longitude": 7.8933
     },
     "founded": 1904,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e1000f",
-      "#ffffff",
+      "#E1000F",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -787,9 +831,10 @@
       "longitude": 13.2395
     },
     "founded": 1892,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#004d9e",
-      "#ffffff"
+      "#004D9E",
+      "#FFFFFF"
     ]
   },
   {
@@ -804,9 +849,10 @@
       "longitude": 6.8753
     },
     "founded": 1948,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -821,10 +867,11 @@
       "longitude": 8.711
     },
     "founded": 1907,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#004e95",
+      "#004E95",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -839,9 +886,10 @@
       "longitude": 8.8867
     },
     "founded": 1899,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#1961ab",
-      "#ffffff"
+      "#1961AB",
+      "#FFFFFF"
     ]
   },
   {
@@ -856,9 +904,10 @@
       "longitude": 6.7326
     },
     "founded": 1895,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e41b12",
-      "#ffffff"
+      "#E41B12",
+      "#FFFFFF"
     ]
   },
   {
@@ -873,8 +922,9 @@
       "longitude": 7.4519
     },
     "founded": 1909,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fbff00",
+      "#FBFF00",
       "#000000",
       "#000000"
     ]
@@ -883,7 +933,7 @@
     "id": "137",
     "name": "Augsburg",
     "normalizedName": "AUGSBURG",
-    "country": "Italy",
+    "country": "Germany",
     "city": "Augsburg",
     "stadiumId": "220",
     "coordinates": {
@@ -891,10 +941,11 @@
       "longitude": 10.8828
     },
     "founded": 1907,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ba3733",
-      "#008e5a",
-      "#ffffff"
+      "#BA3733",
+      "#008E5A",
+      "#FFFFFF"
     ]
   },
   {
@@ -909,9 +960,10 @@
       "longitude": 7.6414
     },
     "founded": 1906,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#8b161c",
-      "#ffffff"
+      "#8B161C",
+      "#FFFFFF"
     ]
   },
   {
@@ -926,9 +978,10 @@
       "longitude": -2.6867
     },
     "founded": 1921,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#005999",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -943,9 +996,10 @@
       "longitude": -0.3592
     },
     "founded": 1909,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#004ea2",
-      "#e30613"
+      "#004EA2",
+      "#E30613"
     ]
   },
   {
@@ -960,9 +1014,10 @@
       "longitude": -1.9731
     },
     "founded": 1909,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0067b1",
-      "#ffffff"
+      "#0067B1",
+      "#FFFFFF"
     ]
   },
   {
@@ -977,9 +1032,10 @@
       "longitude": -1.6372
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c4122e",
-      "#00264e"
+      "#C4122E",
+      "#00264E"
     ]
   },
   {
@@ -994,9 +1050,10 @@
       "longitude": -3.605
     },
     "founded": 1931,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#c4122e",
-      "#ffffff"
+      "#C4122E",
+      "#FFFFFF"
     ]
   },
   {
@@ -1011,9 +1068,10 @@
       "longitude": -3.7147
     },
     "founded": 1983,
+    "shirtDesignCode": "solid",
     "colors": [
       "#005999",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -1028,9 +1086,10 @@
       "longitude": -5.9817
     },
     "founded": 1907,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#00914d",
-      "#ffffff"
+      "#00914D",
+      "#FFFFFF"
     ]
   },
   {
@@ -1045,10 +1104,11 @@
       "longitude": 4.9819
     },
     "founded": 1950,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#004ea2",
-      "#e30613",
-      "#ffffff"
+      "#004EA2",
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -1063,9 +1123,10 @@
       "longitude": 11.2825
     },
     "founded": 1926,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#4c2382",
-      "#ffffff"
+      "#4C2382",
+      "#FFFFFF"
     ]
   },
   {
@@ -1080,9 +1141,10 @@
       "longitude": 11.5986
     },
     "founded": 1907,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#7bc3f2",
-      "#ffffff"
+      "#7BC3F2",
+      "#FFFFFF"
     ]
   },
   {
@@ -1097,9 +1159,10 @@
       "longitude": 8.9524
     },
     "founded": 1893,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#a71e31",
-      "#00254c"
+      "#A71E31",
+      "#00254C"
     ]
   },
   {
@@ -1114,10 +1177,11 @@
       "longitude": 9.124
     },
     "founded": 1908,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0060a8",
+      "#0060A8",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -1132,8 +1196,9 @@
       "longitude": 7.6413
     },
     "founded": 1897,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -1149,8 +1214,9 @@
       "longitude": 9.124
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#fb090b",
+      "#FB090B",
       "#000000"
     ]
   },
@@ -1166,8 +1232,9 @@
       "longitude": 13.2028
     },
     "founded": 1896,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -1183,9 +1250,10 @@
       "longitude": 10.2178
     },
     "founded": 1911,
+    "shirtDesignCode": "chevron",
     "colors": [
-      "#0054a6",
-      "#ffffff"
+      "#0054A6",
+      "#FFFFFF"
     ]
   },
   {
@@ -1200,9 +1268,10 @@
       "longitude": 12.4547
     },
     "founded": 1900,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#87d8f7",
-      "#ffffff",
+      "#87D8F7",
+      "#FFFFFF",
       "#004494"
     ]
   },
@@ -1218,8 +1287,9 @@
       "longitude": 10.7361
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#00a752",
+      "#00A752",
       "#000000"
     ]
   },
@@ -1235,10 +1305,11 @@
       "longitude": 10.3386
     },
     "founded": 1913,
+    "shirtDesignCode": "cross",
     "colors": [
-      "#fff200",
-      "#003e93",
-      "#ffffff"
+      "#FFF200",
+      "#003E93",
+      "#FFFFFF"
     ]
   },
   {
@@ -1253,8 +1324,9 @@
       "longitude": 9.1378
     },
     "founded": 1920,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#b31a1e",
+      "#B31A1E",
       "#002350"
     ]
   },
@@ -1270,9 +1342,10 @@
       "longitude": 10.9686
     },
     "founded": 1903,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#003e93",
-      "#fff200"
+      "#003E93",
+      "#FFF200"
     ]
   },
   {
@@ -1287,9 +1360,10 @@
       "longitude": 18.1422
     },
     "founded": 1908,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
-      "#e30613"
+      "#FFED00",
+      "#E30613"
     ]
   },
   {
@@ -1304,9 +1378,10 @@
       "longitude": 12.4547
     },
     "founded": 1927,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#8e1f2f",
-      "#f2a632"
+      "#8E1F2F",
+      "#F2A632"
     ]
   },
   {
@@ -1321,9 +1396,10 @@
       "longitude": 11.31
     },
     "founded": 1909,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#1a2f48",
-      "#a71e31"
+      "#1A2F48",
+      "#A71E31"
     ]
   },
   {
@@ -1338,9 +1414,10 @@
       "longitude": 8.2241
     },
     "founded": 1905,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c4122e",
-      "#ffffff"
+      "#C4122E",
+      "#FFFFFF"
     ]
   },
   {
@@ -1355,10 +1432,11 @@
       "longitude": 8.9524
     },
     "founded": 1946,
+    "shirtDesignCode": "horizontal-bar",
     "colors": [
-      "#0055a4",
-      "#ffffff",
-      "#e30613"
+      "#0055A4",
+      "#FFFFFF",
+      "#E30613"
     ]
   },
   {
@@ -1373,9 +1451,10 @@
       "longitude": -8.7397
     },
     "founded": 1923,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#b7d0e3",
-      "#ffffff"
+      "#B7D0E3",
+      "#FFFFFF"
     ]
   },
   {
@@ -1390,10 +1469,11 @@
       "longitude": 6.3856
     },
     "founded": 1900,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000",
-      "#21a03c"
+      "#21A03C"
     ]
   },
   {
@@ -1408,10 +1488,11 @@
       "longitude": 13.5681
     },
     "founded": 1966,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff",
-      "#ffed00"
+      "#E30613",
+      "#FFFFFF",
+      "#FFED00"
     ]
   },
   {
@@ -1426,10 +1507,11 @@
       "longitude": 7.4156
     },
     "founded": 1924,
+    "shirtDesignCode": "diagonal",
     "colors": [
-      "#ed1c24",
-      "#ffffff",
-      "#ffcc00"
+      "#ED1C24",
+      "#FFFFFF",
+      "#FFCC00"
     ]
   },
   {
@@ -1444,10 +1526,11 @@
       "longitude": 5.3959
     },
     "founded": 1899,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#00a7e1",
-      "#ffffff",
-      "#e3a82b"
+      "#00A7E1",
+      "#FFFFFF",
+      "#E3A82B"
     ]
   },
   {
@@ -1462,9 +1545,10 @@
       "longitude": 4.0247
     },
     "founded": 1931,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#f0161e",
-      "#ffffff"
+      "#F0161E",
+      "#FFFFFF"
     ]
   },
   {
@@ -1479,10 +1563,11 @@
       "longitude": 7.1928
     },
     "founded": 1904,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#da251d",
+      "#DA251D",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -1497,9 +1582,10 @@
       "longitude": 4.3903
     },
     "founded": 1919,
+    "shirtDesignCode": "solid",
     "colors": [
       "#009640",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -1514,8 +1600,9 @@
       "longitude": 5.0689
     },
     "founded": 1998,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
+      "#E30613",
       "#000000"
     ]
   },
@@ -1531,9 +1618,10 @@
       "longitude": -0.5611
     },
     "founded": 1881,
+    "shirtDesignCode": "chevron",
     "colors": [
       "#000033",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -1548,9 +1636,10 @@
       "longitude": 1.4342
     },
     "founded": 1970,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#4c2382",
-      "#ffffff"
+      "#4C2382",
+      "#FFFFFF"
     ]
   },
   {
@@ -1565,8 +1654,9 @@
       "longitude": 2.2636
     },
     "founded": 1901,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -1582,9 +1672,10 @@
       "longitude": 7.755
     },
     "founded": 1906,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005ea2",
-      "#ffffff"
+      "#005EA2",
+      "#FFFFFF"
     ]
   },
   {
@@ -1599,9 +1690,10 @@
       "longitude": 6.1597
     },
     "founded": 1932,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#8b1d41",
-      "#ffffff"
+      "#8B1D41",
+      "#FFFFFF"
     ]
   },
   {
@@ -1616,8 +1708,9 @@
       "longitude": -1.7128
     },
     "founded": 1901,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
+      "#E30613",
       "#000000"
     ]
   },
@@ -1633,8 +1726,9 @@
       "longitude": -1.5247
     },
     "founded": 1943,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fff200",
+      "#FFF200",
       "#009640"
     ]
   },
@@ -1650,9 +1744,10 @@
       "longitude": 3.8122
     },
     "founded": 1974,
+    "shirtDesignCode": "solid",
     "colors": [
       "#003366",
-      "#ff6600"
+      "#FF6600"
     ]
   },
   {
@@ -1667,9 +1762,10 @@
       "longitude": -4.4619
     },
     "founded": 1950,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -1684,8 +1780,9 @@
       "longitude": -0.5311
     },
     "founded": 1919,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -1701,9 +1798,10 @@
       "longitude": 4.3544
     },
     "founded": 1937,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -1718,10 +1816,11 @@
       "longitude": -5.9553
     },
     "founded": 1886,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005ea2",
-      "#ffffff",
-      "#e30613"
+      "#005EA2",
+      "#FFFFFF",
+      "#E30613"
     ]
   },
   {
@@ -1736,9 +1835,10 @@
       "longitude": -5.8912
     },
     "founded": 1882,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#009640",
-      "#e30613",
+      "#E30613",
       "#000000"
     ]
   },
@@ -1754,9 +1854,10 @@
       "longitude": -5.8269
     },
     "founded": 1889,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -1771,9 +1872,10 @@
       "longitude": -5.9472
     },
     "founded": 1879,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -1788,8 +1890,9 @@
       "longitude": -5.9219
     },
     "founded": 1898,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
+      "#E30613",
       "#000000"
     ]
   },
@@ -1805,9 +1908,10 @@
       "longitude": -6.66
     },
     "founded": 1927,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#005ea2",
-      "#ffffff"
+      "#005EA2",
+      "#FFFFFF"
     ]
   },
   {
@@ -1822,9 +1926,10 @@
       "longitude": -6.2651
     },
     "founded": 1928,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#87d8f7",
-      "#ffffff"
+      "#87D8F7",
+      "#FFFFFF"
     ]
   },
   {
@@ -1839,9 +1944,10 @@
       "longitude": -6.4578
     },
     "founded": 1887,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -1856,9 +1962,10 @@
       "longitude": -5.8782
     },
     "founded": 1895,
+    "shirtDesignCode": "solid",
     "colors": [
       "#009640",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -1873,9 +1980,10 @@
       "longitude": -5.6783
     },
     "founded": 1918,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fff200",
-      "#005ea2"
+      "#FFF200",
+      "#005EA2"
     ]
   },
   {
@@ -1890,8 +1998,9 @@
       "longitude": 14.3919
     },
     "founded": 1916,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -1907,9 +2016,10 @@
       "longitude": 7.1478
     },
     "founded": 1911,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005ea2",
-      "#ffffff"
+      "#005EA2",
+      "#FFFFFF"
     ]
   },
   {
@@ -1924,10 +2034,11 @@
       "longitude": 10.4047
     },
     "founded": 1917,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000",
-      "#ffed00"
+      "#FFED00"
     ]
   },
   {
@@ -1942,9 +2053,10 @@
       "longitude": 5.7297
     },
     "founded": 1899,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000033",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -1959,9 +2071,10 @@
       "longitude": 5.3575
     },
     "founded": 1908,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -1976,9 +2089,10 @@
       "longitude": 24.9258
     },
     "founded": 1907,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#005ea2",
-      "#ffffff"
+      "#005EA2",
+      "#FFFFFF"
     ]
   },
   {
@@ -1993,8 +2107,9 @@
       "longitude": 27.6908
     },
     "founded": 1923,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fff200",
+      "#FFF200",
       "#000000"
     ]
   },
@@ -2010,9 +2125,10 @@
       "longitude": -21.8592
     },
     "founded": 1908,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#e30613"
+      "#E30613"
     ]
   },
   {
@@ -2027,9 +2143,10 @@
       "longitude": -21.9283
     },
     "founded": 1911,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -2044,9 +2161,10 @@
       "longitude": -21.9619
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2061,10 +2179,11 @@
       "longitude": 30.2214
     },
     "founded": 1925,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#00bfff",
-      "#ffffff",
-      "#00008b"
+      "#00BFFF",
+      "#FFFFFF",
+      "#00008B"
     ]
   },
   {
@@ -2079,9 +2198,10 @@
       "longitude": 37.4403
     },
     "founded": 1922,
+    "shirtDesignCode": "horizontal-bar",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -2096,8 +2216,9 @@
       "longitude": 37.8103
     },
     "founded": 1936,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ff6600",
+      "#FF6600",
       "#000000"
     ]
   },
@@ -2113,9 +2234,10 @@
       "longitude": 30.5167
     },
     "founded": 1927,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#0000ff"
+      "#FFFFFF",
+      "#0000FF"
     ]
   },
   {
@@ -2130,9 +2252,10 @@
       "longitude": 26.1525
     },
     "founded": 1947,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e30613",
-      "#005ea2"
+      "#E30613",
+      "#005EA2"
     ]
   },
   {
@@ -2147,9 +2270,10 @@
       "longitude": 23.5778
     },
     "founded": 1907,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#8b1d41",
-      "#ffffff"
+      "#8B1D41",
+      "#FFFFFF"
     ]
   },
   {
@@ -2164,9 +2288,10 @@
       "longitude": 26.5247
     },
     "founded": 1945,
+    "shirtDesignCode": "solid",
     "colors": [
       "#009640",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2181,9 +2306,10 @@
       "longitude": 23.3403
     },
     "founded": 1948,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -2198,9 +2324,10 @@
       "longitude": 19.0986
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#009640",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2215,9 +2342,10 @@
       "longitude": 18.4239
     },
     "founded": 1941,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#005ea2"
+      "#E30613",
+      "#005EA2"
     ]
   },
   {
@@ -2232,9 +2360,10 @@
       "longitude": 23.6644
     },
     "founded": 1925,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -2249,9 +2378,10 @@
       "longitude": 23.7547
     },
     "founded": 1908,
+    "shirtDesignCode": "solid",
     "colors": [
       "#009640",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2266,8 +2396,9 @@
       "longitude": 23.7431
     },
     "founded": 1924,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fff200",
+      "#FFF200",
       "#000000"
     ]
   },
@@ -2283,26 +2414,10 @@
       "longitude": 22.9722
     },
     "founded": 1926,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffffff"
-    ]
-  },
-  {
-    "id": "656",
-    "name": "RB Salzburg",
-    "normalizedName": "RB SALZBURG",
-    "country": "Austria",
-    "city": "Salzburg",
-    "stadiumId": "35",
-    "coordinates": {
-      "latitude": 47.8153,
-      "longitude": 12.9983
-    },
-    "founded": 1933,
-    "colors": [
-      "#e30613",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2317,9 +2432,10 @@
       "longitude": 15.4542
     },
     "founded": 1909,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2334,9 +2450,10 @@
       "longitude": 16.2992
     },
     "founded": 1899,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#1c844c",
-      "#ffffff"
+      "#1C844C",
+      "#FFFFFF"
     ]
   },
   {
@@ -2351,8 +2468,9 @@
       "longitude": 7.4647
     },
     "founded": 1898,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -2368,9 +2486,10 @@
       "longitude": 7.6203
     },
     "founded": 1893,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#ed1c24",
-      "#004fa3"
+      "#ED1C24",
+      "#004FA3"
     ]
   },
   {
@@ -2385,9 +2504,10 @@
       "longitude": 8.5039
     },
     "founded": 1896,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009fe3",
-      "#ffffff"
+      "#009FE3",
+      "#FFFFFF"
     ]
   },
   {
@@ -2402,9 +2522,10 @@
       "longitude": 16.0181
     },
     "founded": 1945,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005baa",
-      "#ffffff"
+      "#005BAA",
+      "#FFFFFF"
     ]
   },
   {
@@ -2419,9 +2540,10 @@
       "longitude": 16.4319
     },
     "founded": 1911,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#0000ff"
+      "#FFFFFF",
+      "#0000FF"
     ]
   },
   {
@@ -2436,9 +2558,10 @@
       "longitude": 14.4153
     },
     "founded": 1893,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#8b0d1e",
-      "#ffffff"
+      "#8B0D1E",
+      "#FFFFFF"
     ]
   },
   {
@@ -2453,9 +2576,10 @@
       "longitude": 14.4717
     },
     "founded": 1892,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -2470,9 +2594,10 @@
       "longitude": 13.3853
     },
     "founded": 1911,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#005baa"
+      "#ED1C24",
+      "#005BAA"
     ]
   },
   {
@@ -2487,9 +2612,10 @@
       "longitude": 20.4647
     },
     "founded": 1945,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -2504,9 +2630,10 @@
       "longitude": 20.4611
     },
     "founded": 1945,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2521,8 +2648,9 @@
       "longitude": 22.9692
     },
     "founded": 1914,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#fff200",
+      "#FFF200",
       "#000000"
     ]
   },
@@ -2538,9 +2666,10 @@
       "longitude": 31.2622
     },
     "founded": 1907,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -2555,9 +2684,10 @@
       "longitude": 31.2622
     },
     "founded": 1911,
+    "shirtDesignCode": "horizontal-bar",
     "colors": [
-      "#ffffff",
-      "#e30613"
+      "#FFFFFF",
+      "#E30613"
     ]
   },
   {
@@ -2572,9 +2702,10 @@
       "longitude": -7.6475
     },
     "founded": 1937,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -2589,9 +2720,10 @@
       "longitude": -7.6475
     },
     "founded": 1949,
+    "shirtDesignCode": "solid",
     "colors": [
       "#009640",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2606,9 +2738,10 @@
       "longitude": 10.2708
     },
     "founded": 1919,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e30613",
-      "#fff200"
+      "#E30613",
+      "#FFF200"
     ]
   },
   {
@@ -2623,8 +2756,9 @@
       "longitude": 27.4697
     },
     "founded": 1939,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -2640,10 +2774,11 @@
       "longitude": 28.2228
     },
     "founded": 1970,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fff200",
+      "#FFF200",
       "#009640",
-      "#005ea2"
+      "#005EA2"
     ]
   },
   {
@@ -2658,8 +2793,9 @@
       "longitude": 4.0533
     },
     "founded": 1946,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#fff200",
+      "#FFF200",
       "#009640"
     ]
   },
@@ -2675,10 +2811,11 @@
       "longitude": -0.1919
     },
     "founded": 1911,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e30613",
-      "#fff200",
-      "#005ea2"
+      "#E30613",
+      "#FFF200",
+      "#005EA2"
     ]
   },
   {
@@ -2693,9 +2830,10 @@
       "longitude": 7.3592
     },
     "founded": 1976,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005ea2",
-      "#ffffff"
+      "#005EA2",
+      "#FFFFFF"
     ]
   },
   {
@@ -2710,8 +2848,9 @@
       "longitude": 3.05
     },
     "founded": 1937,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ff0000",
+      "#FF0000",
       "#000000"
     ]
   },
@@ -2727,9 +2866,10 @@
       "longitude": 2.9967
     },
     "founded": 1921,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#008000",
-      "#ff0000"
+      "#FF0000"
     ]
   },
   {
@@ -2744,9 +2884,10 @@
       "longitude": 1.3333
     },
     "founded": 1947,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -2761,10 +2902,11 @@
       "longitude": 13.2842
     },
     "founded": 1980,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffff00",
-      "#0000ff",
-      "#ff0000"
+      "#FFFF00",
+      "#0000FF",
+      "#FF0000"
     ]
   },
   {
@@ -2779,8 +2921,9 @@
       "longitude": 13.2842
     },
     "founded": 1977,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ff0000",
+      "#FF0000",
       "#000000"
     ]
   },
@@ -2796,8 +2939,9 @@
       "longitude": -4.0189
     },
     "founded": 1948,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffff00",
+      "#FFFF00",
       "#000000"
     ]
   },
@@ -2813,9 +2957,10 @@
       "longitude": 31.4278
     },
     "founded": 2008,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#00008b",
-      "#ffffff"
+      "#00008B",
+      "#FFFFFF"
     ]
   },
   {
@@ -2830,9 +2975,10 @@
       "longitude": 32.4803
     },
     "founded": 1930,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0000ff",
-      "#ffffff"
+      "#0000FF",
+      "#FFFFFF"
     ]
   },
   {
@@ -2847,9 +2993,10 @@
       "longitude": 32.4792
     },
     "founded": 1908,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffff00"
+      "#FF0000",
+      "#FFFF00"
     ]
   },
   {
@@ -2864,8 +3011,9 @@
       "longitude": 39.2939
     },
     "founded": 1935,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffff00",
+      "#FFFF00",
       "#008000"
     ]
   },
@@ -2881,9 +3029,10 @@
       "longitude": 39.2939
     },
     "founded": 1936,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -2898,9 +3047,10 @@
       "longitude": -1.6056
     },
     "founded": 1935,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -2915,9 +3065,10 @@
       "longitude": 36.8927
     },
     "founded": 1968,
+    "shirtDesignCode": "solid",
     "colors": [
       "#008000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -2932,8 +3083,9 @@
       "longitude": -17.0425
     },
     "founded": 1999,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffa500",
+      "#FFA500",
       "#000000"
     ]
   },
@@ -2949,8 +3101,9 @@
       "longitude": 28.6047
     },
     "founded": 1974,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#00ff00",
+      "#00FF00",
       "#FFA500"
     ]
   },
@@ -2966,9 +3119,10 @@
       "longitude": 3.065
     },
     "founded": 1962,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -2983,9 +3137,10 @@
       "longitude": 31.0422
     },
     "founded": 1963,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0000ff",
-      "#ffffff"
+      "#0000FF",
+      "#FFFFFF"
     ]
   },
   {
@@ -3000,8 +3155,9 @@
       "longitude": 7.15
     },
     "founded": 1943,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -3017,8 +3173,9 @@
       "longitude": -2.2167
     },
     "founded": 2008,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffff00",
+      "#FFFF00",
       "#008000"
     ]
   },
@@ -3034,9 +3191,10 @@
       "longitude": 5.4
     },
     "founded": 1958,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3051,9 +3209,10 @@
       "longitude": 2.9967
     },
     "founded": 1994,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffff00",
-      "#0000ff"
+      "#FFFF00",
+      "#0000FF"
     ]
   },
   {
@@ -3068,6 +3227,7 @@
       "longitude": 6.6167
     },
     "founded": 1898,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#008000",
       "#000000"
@@ -3085,9 +3245,10 @@
       "longitude": -1.9167
     },
     "founded": 1946,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#008000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3102,14 +3263,15 @@
       "longitude": -2.3167
     },
     "founded": 1938,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffa500",
+      "#FFA500",
       "#000000"
     ]
   },
   {
     "id": "705",
-    "name": "Fath Union Sport",
+    "name": "FUS Rabat",
     "normalizedName": "FATH UNION SPORT",
     "country": "Morocco",
     "city": "Rabat",
@@ -3119,9 +3281,10 @@
       "longitude": -6.8333
     },
     "founded": 1946,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#ff0000"
+      "#FFFFFF",
+      "#FF0000"
     ]
   },
   {
@@ -3136,9 +3299,10 @@
       "longitude": -6.8333
     },
     "founded": 1958,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ff0000",
+      "#FF0000",
       "#008000"
     ]
   },
@@ -3154,10 +3318,11 @@
       "longitude": -5.3667
     },
     "founded": 1922,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ff0000",
-      "#ffffff",
-      "#0000ff"
+      "#FF0000",
+      "#FFFFFF",
+      "#0000FF"
     ]
   },
   {
@@ -3172,9 +3337,10 @@
       "longitude": -8.5
     },
     "founded": 1956,
+    "shirtDesignCode": "solid",
     "colors": [
       "#008000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3189,9 +3355,10 @@
       "longitude": 10.8333
     },
     "founded": 1923,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0000ff",
-      "#ffffff"
+      "#0000FF",
+      "#FFFFFF"
     ]
   },
   {
@@ -3206,9 +3373,10 @@
       "longitude": 10.7667
     },
     "founded": 1928,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3223,9 +3391,10 @@
       "longitude": 10.2708
     },
     "founded": 1920,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3240,9 +3409,10 @@
       "longitude": 32.3
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
       "#008000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3257,9 +3427,10 @@
       "longitude": 29.9167
     },
     "founded": 1914,
+    "shirtDesignCode": "solid",
     "colors": [
       "#008000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3274,9 +3445,10 @@
       "longitude": 32.2667
     },
     "founded": 1924,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffff00",
-      "#0000ff"
+      "#FFFF00",
+      "#0000FF"
     ]
   },
   {
@@ -3290,9 +3462,10 @@
       "latitude": 5.5244,
       "longitude": 7.4951
     },
-    "founded": 1920,
+    "founded": 2003,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffcc00",
+      "#FFCC00",
       "#000000"
     ]
   },
@@ -3307,10 +3480,11 @@
       "latitude": 5.0333,
       "longitude": 7.9167
     },
-    "founded": 1920,
+    "founded": 1996,
+    "shirtDesignCode": "solid",
     "colors": [
       "#006600",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3324,10 +3498,11 @@
       "latitude": 5.2667,
       "longitude": 6.2667
     },
-    "founded": 1920,
+    "founded": 2000,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3341,10 +3516,11 @@
       "latitude": 6.3333,
       "longitude": 5.6333
     },
-    "founded": 1920,
+    "founded": 1972,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3358,9 +3534,10 @@
       "latitude": 11.85,
       "longitude": 13.1667
     },
-    "founded": 1920,
+    "founded": 1986,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffcc00",
+      "#FFCC00",
       "#000000"
     ]
   },
@@ -3375,27 +3552,11 @@
       "latitude": 9.0394,
       "longitude": 7.4578
     },
-    "founded": 1920,
+    "founded": 1970,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
-    ]
-  },
-  {
-    "id": "721",
-    "name": "Enyimba",
-    "normalizedName": "ENYIMBA",
-    "country": "Nigeria",
-    "city": "Aba",
-    "stadiumId": "94",
-    "coordinates": {
-      "latitude": 5.1067,
-      "longitude": 7.3667
-    },
-    "founded": 1920,
-    "colors": [
-      "#006600",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3409,10 +3570,11 @@
       "latitude": 5.4833,
       "longitude": 7.0167
     },
-    "founded": 1920,
+    "founded": 1976,
+    "shirtDesignCode": "solid",
     "colors": [
       "#006600",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3426,9 +3588,10 @@
       "latitude": 6.6,
       "longitude": 3.5
     },
-    "founded": 1920,
+    "founded": 2022,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffcc00",
+      "#FFCC00",
       "#000000"
     ]
   },
@@ -3443,10 +3606,11 @@
       "latitude": 11.9833,
       "longitude": 8.5167
     },
-    "founded": 1920,
+    "founded": 1990,
+    "shirtDesignCode": "solid",
     "colors": [
       "#006600",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3460,10 +3624,11 @@
       "latitude": 13.1333,
       "longitude": 7.6333
     },
-    "founded": 1920,
+    "founded": 1994,
+    "shirtDesignCode": "solid",
     "colors": [
       "#006600",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3477,9 +3642,10 @@
       "latitude": 8.4833,
       "longitude": 4.5667
     },
-    "founded": 1920,
+    "founded": 1997,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffcc00",
+      "#FFCC00",
       "#000000"
     ]
   },
@@ -3494,10 +3660,11 @@
       "latitude": 7.7397,
       "longitude": 8.7405
     },
-    "founded": 1920,
+    "founded": 1981,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3511,10 +3678,11 @@
       "latitude": 8.5,
       "longitude": 8.5167
     },
-    "founded": 1920,
+    "founded": 2003,
+    "shirtDesignCode": "solid",
     "colors": [
       "#006600",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -3528,10 +3696,11 @@
       "latitude": 9.6,
       "longitude": 6.5333
     },
-    "founded": 1920,
+    "founded": 1977,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3545,10 +3714,11 @@
       "latitude": 9.9167,
       "longitude": 8.8833
     },
-    "founded": 1920,
+    "founded": 1975,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3562,9 +3732,10 @@
       "latitude": 6.8333,
       "longitude": 3.7
     },
-    "founded": 1920,
+    "founded": 2010,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffcc00",
+      "#FFCC00",
       "#000000"
     ]
   },
@@ -3579,9 +3750,10 @@
       "latitude": 4.7667,
       "longitude": 7.0167
     },
-    "founded": 1920,
+    "founded": 2016,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffcc00",
+      "#FFCC00",
       "#000000"
     ]
   },
@@ -3596,9 +3768,10 @@
       "latitude": 7.3775,
       "longitude": 3.947
     },
-    "founded": 1920,
+    "founded": 1950,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffcc00",
+      "#FFCC00",
       "#000000"
     ]
   },
@@ -3613,10 +3786,11 @@
       "latitude": 7.2522,
       "longitude": 5.1945
     },
-    "founded": 1920,
+    "founded": 1995,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3630,10 +3804,11 @@
       "latitude": 5.5528,
       "longitude": -0.2075
     },
-    "founded": 1920,
+    "founded": 2015,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3647,9 +3822,10 @@
       "latitude": 6.7311,
       "longitude": -2.2658
     },
-    "founded": 1920,
+    "founded": 1985,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3664,9 +3840,10 @@
       "latitude": 5.5,
       "longitude": -0.5
     },
-    "founded": 1920,
+    "founded": 1998,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3681,10 +3858,11 @@
       "latitude": 6.4167,
       "longitude": -2.6667
     },
-    "founded": 1920,
+    "founded": 1966,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3698,9 +3876,10 @@
       "latitude": 6.4333,
       "longitude": -2.6
     },
-    "founded": 1920,
+    "founded": 2000,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3715,10 +3894,11 @@
       "latitude": 6.5,
       "longitude": -0.2
     },
-    "founded": 1920,
+    "founded": 2009,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3732,9 +3912,10 @@
       "latitude": 6.95,
       "longitude": 0.1833
     },
-    "founded": 1920,
+    "founded": 2002,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3749,10 +3930,11 @@
       "latitude": 5.5528,
       "longitude": -0.2075
     },
-    "founded": 1920,
+    "founded": 1911,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3766,9 +3948,10 @@
       "latitude": 0,
       "longitude": 0
     },
-    "founded": 1920,
+    "founded": 2013,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3783,10 +3966,11 @@
       "latitude": 5.5528,
       "longitude": -0.2075
     },
-    "founded": 1920,
+    "founded": 2006,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3800,10 +3984,11 @@
       "latitude": 5.2833,
       "longitude": -1.9833
     },
-    "founded": 1920,
+    "founded": 2002,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3817,10 +4002,11 @@
       "latitude": 6.6667,
       "longitude": -1.6167
     },
-    "founded": 1920,
+    "founded": 2019,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3834,10 +4020,11 @@
       "latitude": 6.65,
       "longitude": -0.8667
     },
-    "founded": 1920,
+    "founded": 1978,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3851,9 +4038,10 @@
       "latitude": 5.9333,
       "longitude": -2.15
     },
-    "founded": 1920,
+    "founded": 1996,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3868,9 +4056,10 @@
       "latitude": 5.6667,
       "longitude": -0.0167
     },
-    "founded": 1920,
+    "founded": 2003,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3885,9 +4074,10 @@
       "latitude": 7.1167,
       "longitude": -1.9167
     },
-    "founded": 1920,
+    "founded": 2012,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffd700",
+      "#FFD700",
       "#000000"
     ]
   },
@@ -3902,10 +4092,11 @@
       "latitude": -29.8581,
       "longitude": 31.0292
     },
-    "founded": 1920,
+    "founded": 1932,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3919,10 +4110,11 @@
       "latitude": -33.0156,
       "longitude": 27.9116
     },
-    "founded": 1920,
+    "founded": 2010,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -3936,10 +4128,11 @@
       "latitude": -29.8581,
       "longitude": 31.0292
     },
-    "founded": 1920,
+    "founded": 2024,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -3953,10 +4146,11 @@
       "latitude": -30,
       "longitude": 30.85
     },
-    "founded": 1920,
+    "founded": 1943,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -3970,10 +4164,11 @@
       "latitude": -24.37,
       "longitude": 28.63
     },
-    "founded": 1920,
+    "founded": 2011,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -3987,10 +4182,11 @@
       "latitude": -29.1167,
       "longitude": 25.5167
     },
-    "founded": 1920,
+    "founded": 2021,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4004,10 +4200,11 @@
       "latitude": -23.9,
       "longitude": 29.4167
     },
-    "founded": 1920,
+    "founded": 2012,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4021,10 +4218,11 @@
       "latitude": -28.7833,
       "longitude": 32.0833
     },
-    "founded": 1920,
+    "founded": 2017,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4038,10 +4236,11 @@
       "latitude": -25.6667,
       "longitude": 27.2
     },
-    "founded": 1920,
+    "founded": 2009,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4055,10 +4254,11 @@
       "latitude": -23.9,
       "longitude": 29.4167
     },
-    "founded": 1920,
+    "founded": 2019,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4072,10 +4272,11 @@
       "latitude": -29.1167,
       "longitude": 25.5167
     },
-    "founded": 1920,
+    "founded": 1969,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4089,10 +4290,11 @@
       "latitude": -33.9358,
       "longitude": 18.8606
     },
-    "founded": 1920,
+    "founded": 2016,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4106,10 +4308,11 @@
       "latitude": -25.4833,
       "longitude": 30.9667
     },
-    "founded": 1920,
+    "founded": 2015,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4124,9 +4327,10 @@
       "longitude": 39.2833
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4141,9 +4345,10 @@
       "longitude": 39.2
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4158,9 +4363,10 @@
       "longitude": 35.7395
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4175,9 +4381,10 @@
       "longitude": 39.2833
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4192,9 +4399,10 @@
       "longitude": 31.8333
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4209,9 +4417,10 @@
       "longitude": 32.0167
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4226,9 +4435,10 @@
       "longitude": 39.2167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4243,9 +4453,10 @@
       "longitude": 29.6267
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4260,9 +4471,10 @@
       "longitude": 39.7333
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4277,9 +4489,10 @@
       "longitude": 32.9167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4294,9 +4507,10 @@
       "longitude": 33.45
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4311,9 +4525,10 @@
       "longitude": 34.7167
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4328,9 +4543,10 @@
       "longitude": 34.7167
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4345,9 +4561,10 @@
       "longitude": 32.7833
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4362,9 +4579,10 @@
       "longitude": 36.8167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4379,9 +4597,10 @@
       "longitude": 35.3667
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4396,9 +4615,10 @@
       "longitude": 39.6682
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4413,9 +4633,10 @@
       "longitude": 37.0833
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4430,9 +4651,10 @@
       "longitude": 34.75
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4447,9 +4669,10 @@
       "longitude": 37.2667
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4464,9 +4687,10 @@
       "longitude": 36.8167
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4481,9 +4705,10 @@
       "longitude": 36.8167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4498,9 +4723,10 @@
       "longitude": 34.4333
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4515,9 +4741,10 @@
       "longitude": 36.8167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4532,9 +4759,10 @@
       "longitude": 37.15
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4549,9 +4777,10 @@
       "longitude": 36.8167
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4566,9 +4795,10 @@
       "longitude": 35.2667
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4583,9 +4813,10 @@
       "longitude": 34.7833
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4600,9 +4831,10 @@
       "longitude": 36.8167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4617,9 +4849,10 @@
       "longitude": 36.8167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4634,9 +4867,10 @@
       "longitude": 36.0667
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4651,9 +4885,10 @@
       "longitude": 10.4
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#006600",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4668,9 +4903,10 @@
       "longitude": 10.2667
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -4685,9 +4921,10 @@
       "longitude": 11.5167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -4702,9 +4939,10 @@
       "longitude": 11.5167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -4719,9 +4957,10 @@
       "longitude": 13.4
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4736,9 +4975,10 @@
       "longitude": 9.7679
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -4753,9 +4993,10 @@
       "longitude": 11.5167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4770,9 +5011,10 @@
       "longitude": 11.5167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4787,9 +5029,10 @@
       "longitude": 13.4
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4804,9 +5047,10 @@
       "longitude": 9.7679
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#006600",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4821,9 +5065,10 @@
       "longitude": 10.1667
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#006600",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4838,9 +5083,10 @@
       "longitude": 10.1597
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4855,9 +5101,10 @@
       "longitude": 10.0167
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -4872,9 +5119,10 @@
       "longitude": 9.7679
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#006600",
-      "#ffff00"
+      "#FFFF00"
     ]
   },
   {
@@ -4889,9 +5137,10 @@
       "longitude": 9.25
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -4906,9 +5155,10 @@
       "longitude": 10.1597
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff0000",
-      "#ffffff"
+      "#FF0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -4923,9 +5173,10 @@
       "longitude": 9.232
     },
     "founded": 1893,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#e32221",
-      "#ffffff"
+      "#E32221",
+      "#FFFFFF"
     ]
   },
   {
@@ -4940,9 +5191,10 @@
       "longitude": -9.1847
     },
     "founded": 1904,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -4957,9 +5209,10 @@
       "longitude": -8.5833
     },
     "founded": 1893,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -4974,9 +5227,10 @@
       "longitude": -9.1608
     },
     "founded": 1906,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#00b140",
-      "#ffffff"
+      "#00B140",
+      "#FFFFFF"
     ]
   },
   {
@@ -4991,9 +5245,10 @@
       "longitude": -8.4308
     },
     "founded": 1921,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -5008,9 +5263,10 @@
       "longitude": -8.3014
     },
     "founded": 1922,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -5025,9 +5281,10 @@
       "longitude": 4.9419
     },
     "founded": 1900,
+    "shirtDesignCode": "center-stripe",
     "colors": [
-      "#d2122e",
-      "#ffffff"
+      "#D2122E",
+      "#FFFFFF"
     ]
   },
   {
@@ -5042,9 +5299,10 @@
       "longitude": 5.4675
     },
     "founded": 1913,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1b2e",
-      "#ffffff"
+      "#ED1B2E",
+      "#FFFFFF"
     ]
   },
   {
@@ -5059,9 +5317,10 @@
       "longitude": 4.5236
     },
     "founded": 1908,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#e30613",
-      "#ffffff"
+      "#E30613",
+      "#FFFFFF"
     ]
   },
   {
@@ -5076,9 +5335,10 @@
       "longitude": 4.7394
     },
     "founded": 1967,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#da020e",
-      "#ffffff"
+      "#DA020E",
+      "#FFFFFF"
     ]
   },
   {
@@ -5093,9 +5353,10 @@
       "longitude": 5.1458
     },
     "founded": 1970,
+    "shirtDesignCode": "diagonal",
     "colors": [
-      "#ffffff",
-      "#ff0000"
+      "#FFFFFF",
+      "#FF0000"
     ]
   },
   {
@@ -5110,8 +5371,9 @@
       "longitude": 3.1789
     },
     "founded": 1891,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#005baa",
+      "#005BAA",
       "#000000"
     ]
   },
@@ -5127,9 +5389,10 @@
       "longitude": 4.2975
     },
     "founded": 1908,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6c2782",
-      "#ffffff"
+      "#6C2782",
+      "#FFFFFF"
     ]
   },
   {
@@ -5144,9 +5407,10 @@
       "longitude": 5.5392
     },
     "founded": 1898,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -5161,9 +5425,10 @@
       "longitude": 5.5147
     },
     "founded": 1988,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005baa",
-      "#ffffff"
+      "#005BAA",
+      "#FFFFFF"
     ]
   },
   {
@@ -5178,9 +5443,10 @@
       "longitude": 3.7349
     },
     "founded": 1900,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#004f9e",
-      "#ffffff"
+      "#004F9E",
+      "#FFFFFF"
     ]
   },
   {
@@ -5195,9 +5461,10 @@
       "longitude": 4.4719
     },
     "founded": 1880,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -5212,10 +5479,11 @@
       "longitude": -118.2611
     },
     "founded": 1995,
+    "shirtDesignCode": "horizontal-bar",
     "colors": [
-      "#00245d",
-      "#ffd200",
-      "#ffffff"
+      "#00245D",
+      "#FFD200",
+      "#FFFFFF"
     ]
   },
   {
@@ -5230,10 +5498,11 @@
       "longitude": -122.3316
     },
     "founded": 2007,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#5d9741",
+      "#5D9741",
       "#005595",
-      "#002f65"
+      "#002F65"
     ]
   },
   {
@@ -5248,8 +5517,9 @@
       "longitude": -80.1628
     },
     "founded": 2018,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#f7b5cd",
+      "#F7B5CD",
       "#000000"
     ]
   },
@@ -5265,9 +5535,10 @@
       "longitude": 28.9903
     },
     "founded": 1905,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#fbb800",
-      "#b71c1c"
+      "#FBB800",
+      "#B71C1C"
     ]
   },
   {
@@ -5282,8 +5553,9 @@
       "longitude": 29.0361
     },
     "founded": 1907,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#001489"
     ]
   },
@@ -5299,8 +5571,9 @@
       "longitude": 29.0031
     },
     "founded": 1903,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -5316,9 +5589,10 @@
       "longitude": 39.6389
     },
     "founded": 1967,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#b71c1c",
-      "#0091ea"
+      "#B71C1C",
+      "#0091EA"
     ]
   },
   {
@@ -5333,9 +5607,10 @@
       "longitude": -58.3647
     },
     "founded": 1905,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#005ca9",
-      "#fbff09"
+      "#005CA9",
+      "#FBFF09"
     ]
   },
   {
@@ -5350,9 +5625,10 @@
       "longitude": -58.4497
     },
     "founded": 1901,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#ffffff",
-      "#ed1c24"
+      "#FFFFFF",
+      "#ED1C24"
     ]
   },
   {
@@ -5367,9 +5643,10 @@
       "longitude": -58.3697
     },
     "founded": 1903,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#6bb4e7",
-      "#ffffff"
+      "#6BB4E7",
+      "#FFFFFF"
     ]
   },
   {
@@ -5384,8 +5661,9 @@
       "longitude": -43.2302
     },
     "founded": 1895,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#e31f26",
+      "#E31F26",
       "#000000"
     ]
   },
@@ -5401,10 +5679,11 @@
       "longitude": -43.2302
     },
     "founded": 1902,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#6f263d",
+      "#6F263D",
       "#006341",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -5419,9 +5698,10 @@
       "longitude": -46.6794
     },
     "founded": 1914,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#006f3c",
-      "#ffffff"
+      "#006F3C",
+      "#FFFFFF"
     ]
   },
   {
@@ -5436,10 +5716,11 @@
       "longitude": -46.7208
     },
     "founded": 1930,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -5454,9 +5735,10 @@
       "longitude": -99.1506
     },
     "founded": 1916,
+    "shirtDesignCode": "horizontal-bar",
     "colors": [
-      "#ffed00",
-      "#002d62"
+      "#FFED00",
+      "#002D62"
     ]
   },
   {
@@ -5471,10 +5753,11 @@
       "longitude": -103.4644
     },
     "founded": 1906,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#ffffff",
-      "#001f5c"
+      "#ED1C24",
+      "#FFFFFF",
+      "#001F5C"
     ]
   },
   {
@@ -5489,9 +5772,10 @@
       "longitude": -99.1808
     },
     "founded": 1927,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066b3",
-      "#ffffff"
+      "#0066B3",
+      "#FFFFFF"
     ]
   },
   {
@@ -5506,8 +5790,9 @@
       "longitude": 139.6953
     },
     "founded": 1950,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#e30613",
+      "#E30613",
       "#000000"
     ]
   },
@@ -5523,9 +5808,10 @@
       "longitude": 139.605
     },
     "founded": 1972,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#004a9d",
-      "#ffffff"
+      "#004A9D",
+      "#FFFFFF"
     ]
   },
   {
@@ -5540,8 +5826,9 @@
       "longitude": 139.6544
     },
     "founded": 1955,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#28b8e7",
+      "#28B8E7",
       "#000000"
     ]
   },
@@ -5557,9 +5844,10 @@
       "longitude": -4.2056
     },
     "founded": 1887,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -5574,10 +5862,11 @@
       "longitude": -4.3096
     },
     "founded": 1872,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0d4fa5",
-      "#ed1c24",
-      "#ffffff"
+      "#0D4FA5",
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -5592,9 +5881,10 @@
       "longitude": -2.0887
     },
     "founded": 1903,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -5609,9 +5899,10 @@
       "longitude": 46.6833
     },
     "founded": 1957,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -5626,9 +5917,10 @@
       "longitude": 46.7089
     },
     "founded": 1955,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
-      "#0066cc"
+      "#FFED00",
+      "#0066CC"
     ]
   },
   {
@@ -5643,9 +5935,10 @@
       "longitude": 39.1147
     },
     "founded": 1927,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffed00"
+      "#FFED00"
     ]
   },
   {
@@ -5660,9 +5953,10 @@
       "longitude": 12.5722
     },
     "founded": 1992,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#001f5c",
-      "#ffffff"
+      "#001F5C",
+      "#FFFFFF"
     ]
   },
   {
@@ -5677,9 +5971,10 @@
       "longitude": 12.4253
     },
     "founded": 1964,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#003d7a",
-      "#ffed00"
+      "#003D7A",
+      "#FFED00"
     ]
   },
   {
@@ -5694,9 +5989,10 @@
       "longitude": 12.9958
     },
     "founded": 1910,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6bb4e7",
-      "#ffffff"
+      "#6BB4E7",
+      "#FFFFFF"
     ]
   },
   {
@@ -5711,9 +6007,10 @@
       "longitude": 17.9297
     },
     "founded": 1891,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#000000",
-      "#ffed00"
+      "#FFED00"
     ]
   },
   {
@@ -5728,9 +6025,10 @@
       "longitude": 12.9983
     },
     "founded": 1933,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1b2e",
-      "#ffffff"
+      "#ED1B2E",
+      "#FFFFFF"
     ]
   },
   {
@@ -5745,9 +6043,10 @@
       "longitude": 7.6203
     },
     "founded": 1893,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#ed1c24",
-      "#0066cc"
+      "#ED1C24",
+      "#0066CC"
     ]
   },
   {
@@ -5762,9 +6061,10 @@
       "longitude": 20.9944
     },
     "founded": 1916,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -5779,9 +6079,10 @@
       "longitude": 16.8847
     },
     "founded": 1922,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -5796,8 +6097,9 @@
       "longitude": -58.4497
     },
     "founded": 1925,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -5813,8 +6115,9 @@
       "longitude": -78.4633
     },
     "founded": 1918,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -5830,9 +6133,10 @@
       "longitude": 33.3444
     },
     "founded": 1926,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffed00"
+      "#0066CC",
+      "#FFED00"
     ]
   },
   {
@@ -5847,9 +6151,10 @@
       "longitude": 33.3444
     },
     "founded": 1948,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -5864,9 +6169,10 @@
       "longitude": -74.0772
     },
     "founded": 1946,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -5881,9 +6187,10 @@
       "longitude": -75.5903
     },
     "founded": 1947,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -5898,8 +6205,9 @@
       "longitude": 10.0511
     },
     "founded": 1903,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#808080"
     ]
   },
@@ -5915,8 +6223,9 @@
       "longitude": 13.3386
     },
     "founded": 1900,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffb6c1",
+      "#FFB6C1",
       "#000000"
     ]
   },
@@ -5932,8 +6241,9 @@
       "longitude": -56.1564
     },
     "founded": 1891,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -5949,10 +6259,11 @@
       "longitude": -56.1689
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ed1c24",
-      "#ffffff"
+      "#0066CC",
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -5967,9 +6278,10 @@
       "longitude": 34.7731
     },
     "founded": 1906,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
-      "#0066cc"
+      "#FFED00",
+      "#0066CC"
     ]
   },
   {
@@ -5984,9 +6296,10 @@
       "longitude": 34.9889
     },
     "founded": 1913,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -6001,8 +6314,9 @@
       "longitude": -58.4497
     },
     "founded": 1925,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -6018,9 +6332,10 @@
       "longitude": -70.6111
     },
     "founded": 1927,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ed1c24"
+      "#0066CC",
+      "#ED1C24"
     ]
   },
   {
@@ -6035,9 +6350,10 @@
       "longitude": -84.0903
     },
     "founded": 1935,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6f263d",
-      "#ffffff"
+      "#6F263D",
+      "#FFFFFF"
     ]
   },
   {
@@ -6052,8 +6368,9 @@
       "longitude": -84.2167
     },
     "founded": 1919,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000"
     ]
   },
@@ -6069,9 +6386,10 @@
       "longitude": 17.1244
     },
     "founded": 1919,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6bb4e7",
-      "#ffffff"
+      "#6BB4E7",
+      "#FFFFFF"
     ]
   },
   {
@@ -6086,9 +6404,10 @@
       "longitude": 17.5886
     },
     "founded": 1923,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -6103,9 +6422,10 @@
       "longitude": 15.6472
     },
     "founded": 1960,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6f263d",
-      "#ffffff"
+      "#6F263D",
+      "#FFFFFF"
     ]
   },
   {
@@ -6120,9 +6440,10 @@
       "longitude": 14.5106
     },
     "founded": 2005,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -6137,9 +6458,10 @@
       "longitude": 51.2797
     },
     "founded": 1963,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -6154,9 +6476,10 @@
       "longitude": 51.2797
     },
     "founded": 1945,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -6171,9 +6494,10 @@
       "longitude": -68.0869
     },
     "founded": 1925,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6bb4e7",
-      "#ffffff"
+      "#6BB4E7",
+      "#FFFFFF"
     ]
   },
   {
@@ -6188,8 +6512,9 @@
       "longitude": -68.0611
     },
     "founded": 1908,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -6205,9 +6530,10 @@
       "longitude": 55.7339
     },
     "founded": 1968,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6f263d",
-      "#ffffff"
+      "#6F263D",
+      "#FFFFFF"
     ]
   },
   {
@@ -6222,9 +6548,10 @@
       "longitude": 54.3697
     },
     "founded": 1974,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -6239,8 +6566,9 @@
       "longitude": 27.9822
     },
     "founded": 1970,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -6256,10 +6584,11 @@
       "longitude": 27.9822
     },
     "founded": 1937,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000",
-      "#ed1c24"
+      "#ED1C24"
     ]
   },
   {
@@ -6274,9 +6603,10 @@
       "longitude": 7.6413
     },
     "founded": 2004,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6bb4e7",
-      "#ffffff"
+      "#6BB4E7",
+      "#FFFFFF"
     ]
   },
   {
@@ -6291,14 +6621,15 @@
       "longitude": 144.9839
     },
     "founded": 2004,
+    "shirtDesignCode": "chevron",
     "colors": [
-      "#001f5c",
-      "#ffffff"
+      "#001F5C",
+      "#FFFFFF"
     ]
   },
   {
     "id": "892",
-    "name": "Universitario",
+    "name": "Club Universitario de Deportes",
     "normalizedName": "UNIVERSITARIO",
     "country": "Peru",
     "city": "Buenos Aires",
@@ -6308,9 +6639,10 @@
       "longitude": -58.4497
     },
     "founded": 1924,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c8aa7a",
-      "#ed1c24"
+      "#C8AA7A",
+      "#ED1C24"
     ]
   },
   {
@@ -6325,26 +6657,10 @@
       "longitude": -77.0333
     },
     "founded": 1901,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
-    ]
-  },
-  {
-    "id": "894",
-    "name": "Vitória Guimarães",
-    "normalizedName": "VITORIA GUIMARAES",
-    "country": "Portugal",
-    "city": "Guimarães",
-    "stadiumId": "263",
-    "coordinates": {
-      "latitude": 41.4489,
-      "longitude": -8.3014
-    },
-    "founded": 1922,
-    "colors": [
-      "#ffffff",
-      "#000000"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -6359,9 +6675,10 @@
       "longitude": -8.7414
     },
     "founded": 1939,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -6376,8 +6693,9 @@
       "longitude": 20.4608
     },
     "founded": 1945,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -6393,9 +6711,10 @@
       "longitude": 18.3928
     },
     "founded": 1946,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#9c1919",
-      "#ffffff"
+      "#9C1919",
+      "#FFFFFF"
     ]
   },
   {
@@ -6410,9 +6729,10 @@
       "longitude": 17.8106
     },
     "founded": 1905,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -6427,9 +6747,10 @@
       "longitude": -8.8975
     },
     "founded": 1910,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -6444,8 +6765,9 @@
       "longitude": -8.6433
     },
     "founded": 1903,
+    "shirtDesignCode": "quarters",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -6461,9 +6783,10 @@
       "longitude": -8.3383
     },
     "founded": 1938,
+    "shirtDesignCode": "quarters",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -6478,9 +6801,10 @@
       "longitude": -8.3731
     },
     "founded": 1950,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
-      "#009a44"
+      "#FFED00",
+      "#009A44"
     ]
   },
   {
@@ -6495,9 +6819,10 @@
       "longitude": -9.2047
     },
     "founded": 1919,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -6512,9 +6837,10 @@
       "longitude": -16.9197
     },
     "founded": 1910,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#009a44",
-      "#ed1c24"
+      "#009A44",
+      "#ED1C24"
     ]
   },
   {
@@ -6529,9 +6855,10 @@
       "longitude": -25.6664
     },
     "founded": 1921,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#009a44"
+      "#ED1C24",
+      "#009A44"
     ]
   },
   {
@@ -6546,8 +6873,9 @@
       "longitude": -8.2456
     },
     "founded": 1952,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -6563,9 +6891,10 @@
       "longitude": 6.8314
     },
     "founded": 1965,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -6580,8 +6909,9 @@
       "longitude": 5.8939
     },
     "founded": 1892,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -6597,9 +6927,10 @@
       "longitude": 5.9414
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -6614,9 +6945,10 @@
       "longitude": 6.5919
     },
     "founded": 1971,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -6631,9 +6963,10 @@
       "longitude": 4.4369
     },
     "founded": 1888,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -6648,9 +6981,10 @@
       "longitude": 6.1669
     },
     "founded": 1902,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#ffed00"
+      "#ED1C24",
+      "#FFED00"
     ]
   },
   {
@@ -6665,9 +6999,10 @@
       "longitude": 6.1194
     },
     "founded": 1910,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -6682,9 +7017,10 @@
       "longitude": 5.5281
     },
     "founded": 1988,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -6699,8 +7035,9 @@
       "longitude": 3.1789
     },
     "founded": 1899,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#009a44",
+      "#009A44",
       "#000000"
     ]
   },
@@ -6716,9 +7053,10 @@
       "longitude": 4.3369
     },
     "founded": 1897,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
-      "#0066cc"
+      "#FFED00",
+      "#0066CC"
     ]
   },
   {
@@ -6733,9 +7071,10 @@
       "longitude": 4.4875
     },
     "founded": 1904,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
-      "#ed1c24"
+      "#FFED00",
+      "#ED1C24"
     ]
   },
   {
@@ -6750,9 +7089,10 @@
       "longitude": 3.2739
     },
     "founded": 1901,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -6767,8 +7107,9 @@
       "longitude": 4.7206
     },
     "founded": 2002,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -6784,10 +7125,11 @@
       "longitude": -84.4008
     },
     "founded": 2014,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000",
-      "#ffc629"
+      "#FFC629"
     ]
   },
   {
@@ -6802,9 +7144,10 @@
       "longitude": -118.2857
     },
     "founded": 2014,
+    "shirtDesignCode": "solid",
     "colors": [
       "#000000",
-      "#c39e6d"
+      "#C39E6D"
     ]
   },
   {
@@ -6819,9 +7162,10 @@
       "longitude": -122.6917
     },
     "founded": 1975,
+    "shirtDesignCode": "stripes",
     "colors": [
       "#004812",
-      "#ebe72e"
+      "#EBE72E"
     ]
   },
   {
@@ -6836,9 +7180,10 @@
       "longitude": -94.8231
     },
     "founded": 1995,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#93b1d7",
-      "#002b5c"
+      "#93B1D7",
+      "#002B5C"
     ]
   },
   {
@@ -6853,10 +7198,11 @@
       "longitude": 12.9983
     },
     "founded": 1995,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffcd00",
-      "#001e60"
+      "#ED1C24",
+      "#FFCD00",
+      "#001E60"
     ]
   },
   {
@@ -6871,9 +7217,10 @@
       "longitude": -79.4186
     },
     "founded": 2005,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#b4202e"
+      "#ED1C24",
+      "#B4202E"
     ]
   },
   {
@@ -6888,8 +7235,9 @@
       "longitude": -73.5528
     },
     "founded": 2010,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0033a1",
+      "#0033A1",
       "#000000"
     ]
   },
@@ -6905,9 +7253,10 @@
       "longitude": -123.1119
     },
     "founded": 1974,
+    "shirtDesignCode": "horizontal-bar",
     "colors": [
-      "#00245d",
-      "#9dc2ea"
+      "#00245D",
+      "#9DC2EA"
     ]
   },
   {
@@ -6922,8 +7271,9 @@
       "longitude": -97.7197
     },
     "founded": 2018,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#00b140",
+      "#00B140",
       "#000000"
     ]
   },
@@ -6939,8 +7289,9 @@
       "longitude": -84.5203
     },
     "founded": 2015,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#fe5000",
+      "#FE5000",
       "#003087"
     ]
   },
@@ -6956,8 +7307,9 @@
       "longitude": -82.9921
     },
     "founded": 1994,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -6973,9 +7325,10 @@
       "longitude": -86.7675
     },
     "founded": 2016,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ece716",
-      "#001e62"
+      "#ECE716",
+      "#001E62"
     ]
   },
   {
@@ -6990,8 +7343,9 @@
       "longitude": -80.8531
     },
     "founded": 2019,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#7cc0ee",
+      "#7CC0EE",
       "#000000"
     ]
   },
@@ -7007,9 +7361,10 @@
       "longitude": 28.8094
     },
     "founded": 1990,
+    "shirtDesignCode": "center-stripe",
     "colors": [
-      "#ff6600",
-      "#001e62"
+      "#FF6600",
+      "#001E62"
     ]
   },
   {
@@ -7024,9 +7379,10 @@
       "longitude": 37.0261
     },
     "founded": 1967,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -7041,9 +7397,10 @@
       "longitude": 30.6664
     },
     "founded": 1966,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -7058,9 +7415,10 @@
       "longitude": 32.5047
     },
     "founded": 1922,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -7075,9 +7433,10 @@
       "longitude": 31.9931
     },
     "founded": 1948,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff6600",
-      "#009a44"
+      "#FF6600",
+      "#009A44"
     ]
   },
   {
@@ -7092,9 +7451,10 @@
       "longitude": 28.9761
     },
     "founded": 1921,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#001e62",
-      "#ffffff"
+      "#001E62",
+      "#FFFFFF"
     ]
   },
   {
@@ -7109,8 +7469,9 @@
       "longitude": 37.3167
     },
     "founded": 1988,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000"
     ]
   },
@@ -7126,9 +7487,10 @@
       "longitude": -58.3714
     },
     "founded": 1905,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -7143,9 +7505,10 @@
       "longitude": -58.4386
     },
     "founded": 1908,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ed1c24"
+      "#0066CC",
+      "#ED1C24"
     ]
   },
   {
@@ -7160,9 +7523,10 @@
       "longitude": -58.5197
     },
     "founded": 1910,
+    "shirtDesignCode": "chevron",
     "colors": [
-      "#ffffff",
-      "#0066cc"
+      "#FFFFFF",
+      "#0066CC"
     ]
   },
   {
@@ -7177,8 +7541,9 @@
       "longitude": -60.6642
     },
     "founded": 1903,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000"
     ]
   },
@@ -7194,9 +7559,10 @@
       "longitude": -60.6628
     },
     "founded": 1889,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffed00",
-      "#0066cc"
+      "#FFED00",
+      "#0066CC"
     ]
   },
   {
@@ -7211,9 +7577,10 @@
       "longitude": -57.9322
     },
     "founded": 1905,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -7228,9 +7595,10 @@
       "longitude": -57.9417
     },
     "founded": 1887,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
-      "#0066cc"
+      "#FFFFFF",
+      "#0066CC"
     ]
   },
   {
@@ -7245,9 +7613,10 @@
       "longitude": -58.3964
     },
     "founded": 1915,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#9c1919",
-      "#ffffff"
+      "#9C1919",
+      "#FFFFFF"
     ]
   },
   {
@@ -7262,8 +7631,9 @@
       "longitude": -46.4733
     },
     "founded": 1910,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -7279,8 +7649,9 @@
       "longitude": -46.3356
     },
     "founded": 1912,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -7296,10 +7667,11 @@
       "longitude": -51.1958
     },
     "founded": 1903,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
+      "#0066CC",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -7314,9 +7686,10 @@
       "longitude": -51.2353
     },
     "founded": 1909,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -7331,8 +7704,9 @@
       "longitude": -43.9708
     },
     "founded": 1908,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -7348,9 +7722,10 @@
       "longitude": -43.9708
     },
     "founded": 1921,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -7365,8 +7740,9 @@
       "longitude": -43.2933
     },
     "founded": 1894,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -7382,8 +7758,9 @@
       "longitude": -43.23
     },
     "founded": 1898,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -7399,8 +7776,9 @@
       "longitude": -49.2764
     },
     "founded": 1924,
+    "shirtDesignCode": "alternate-body-sleeve",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000"
     ]
   },
@@ -7416,10 +7794,11 @@
       "longitude": -38.5042
     },
     "founded": 1931,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ed1c24",
-      "#ffffff"
+      "#0066CC",
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -7434,10 +7813,11 @@
       "longitude": -38.5217
     },
     "founded": 1918,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#0066cc",
-      "#ffffff"
+      "#ED1C24",
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -7452,9 +7832,10 @@
       "longitude": -100.3111
     },
     "founded": 1960,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
-      "#001e62"
+      "#FFED00",
+      "#001E62"
     ]
   },
   {
@@ -7469,9 +7850,10 @@
       "longitude": -100.2431
     },
     "founded": 1945,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#001e62",
-      "#ffffff"
+      "#001E62",
+      "#FFFFFF"
     ]
   },
   {
@@ -7486,9 +7868,10 @@
       "longitude": -101.6628
     },
     "founded": 1944,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -7503,9 +7886,10 @@
       "longitude": -99.1919
     },
     "founded": 1954,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#001e62",
-      "#ffed00"
+      "#001E62",
+      "#FFED00"
     ]
   },
   {
@@ -7520,9 +7904,10 @@
       "longitude": -103.4161
     },
     "founded": 1983,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -7537,9 +7922,10 @@
       "longitude": -98.7586
     },
     "founded": 1901,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
-      "#0066cc"
+      "#FFFFFF",
+      "#0066CC"
     ]
   },
   {
@@ -7554,9 +7940,10 @@
       "longitude": -99.6683
     },
     "founded": 1917,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -7571,9 +7958,10 @@
       "longitude": -103.3325
     },
     "founded": 1916,
+    "shirtDesignCode": "halves",
     "colors": [
       "#000000",
-      "#ed1c24"
+      "#ED1C24"
     ]
   },
   {
@@ -7588,9 +7976,10 @@
       "longitude": 135.5161
     },
     "founded": 1957,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffb6c1",
-      "#ffffff"
+      "#FFB6C1",
+      "#FFFFFF"
     ]
   },
   {
@@ -7605,8 +7994,9 @@
       "longitude": 135.5219
     },
     "founded": 1980,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
+      "#0066CC",
       "#000000"
     ]
   },
@@ -7622,9 +8012,10 @@
       "longitude": 140.6311
     },
     "founded": 1947,
+    "shirtDesignCode": "solid",
     "colors": [
       "#660033",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -7639,9 +8030,10 @@
       "longitude": 139.5272
     },
     "founded": 1935,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#0066cc"
+      "#ED1C24",
+      "#0066CC"
     ]
   },
   {
@@ -7656,9 +8048,10 @@
       "longitude": 137.0194
     },
     "founded": 1939,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff6600",
-      "#ffffff"
+      "#FF6600",
+      "#FFFFFF"
     ]
   },
   {
@@ -7673,8 +8066,9 @@
       "longitude": 135.1703
     },
     "founded": 1966,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#9c1919",
+      "#9C1919",
       "#000000"
     ]
   },
@@ -7690,9 +8084,10 @@
       "longitude": 132.4631
     },
     "founded": 1938,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6f263d",
-      "#ffffff"
+      "#6F263D",
+      "#FFFFFF"
     ]
   },
   {
@@ -7707,8 +8102,9 @@
       "longitude": 141.4097
     },
     "founded": 1935,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000"
     ]
   },
@@ -7724,9 +8120,10 @@
       "longitude": -3.2325
     },
     "founded": 1874,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#9c1919",
-      "#ffffff"
+      "#9C1919",
+      "#FFFFFF"
     ]
   },
   {
@@ -7741,9 +8138,10 @@
       "longitude": -3.1652
     },
     "founded": 1875,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -7758,9 +8156,10 @@
       "longitude": -3.9803
     },
     "founded": 1886,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#ffb800",
-      "#9c1919"
+      "#FFB800",
+      "#9C1919"
     ]
   },
   {
@@ -7775,8 +8174,9 @@
       "longitude": -2.969
     },
     "founded": 1909,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff6600",
+      "#FF6600",
       "#000000"
     ]
   },
@@ -7792,9 +8192,10 @@
       "longitude": -4.5085
     },
     "founded": 1869,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -7809,8 +8210,9 @@
       "longitude": -4.4443
     },
     "founded": 1877,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -7826,9 +8228,10 @@
       "longitude": -3.4768
     },
     "founded": 1884,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -7843,9 +8246,10 @@
       "longitude": -4.419
     },
     "founded": 1929,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#001e62",
-      "#ed1c24"
+      "#001E62",
+      "#ED1C24"
     ]
   },
   {
@@ -7860,9 +8264,10 @@
       "longitude": 39.1147
     },
     "founded": 1937,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -7877,8 +8282,9 @@
       "longitude": 50.1383
     },
     "founded": 1945,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -7894,9 +8300,10 @@
       "longitude": 45.3667
     },
     "founded": 1954,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff6600",
-      "#ffffff"
+      "#FF6600",
+      "#FFFFFF"
     ]
   },
   {
@@ -7911,8 +8318,9 @@
       "longitude": 46.7333
     },
     "founded": 1947,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -7928,8 +8336,9 @@
       "longitude": 49.5833
     },
     "founded": 1958,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -7945,6 +8354,7 @@
       "longitude": 43.9667
     },
     "founded": 1956,
+    "shirtDesignCode": "solid",
     "colors": [
       "#808080",
       "#000000"
@@ -7962,9 +8372,10 @@
       "longitude": 42.5053
     },
     "founded": 1950,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffed00"
+      "#009A44",
+      "#FFED00"
     ]
   },
   {
@@ -7979,9 +8390,10 @@
       "longitude": 42.5053
     },
     "founded": 1972,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffed00"
+      "#0066CC",
+      "#FFED00"
     ]
   },
   {
@@ -7996,9 +8408,10 @@
       "longitude": 14.3994
     },
     "founded": 1946,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#0066cc"
+      "#FFFFFF",
+      "#0066CC"
     ]
   },
   {
@@ -8013,9 +8426,10 @@
       "longitude": 18.6925
     },
     "founded": 1947,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8030,9 +8444,10 @@
       "longitude": 15.9497
     },
     "founded": 1914,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8047,9 +8462,10 @@
       "longitude": 13.8478
     },
     "founded": 1961,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffed00"
+      "#009A44",
+      "#FFED00"
     ]
   },
   {
@@ -8064,9 +8480,10 @@
       "longitude": 16.0667
     },
     "founded": 2009,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8081,9 +8498,10 @@
       "longitude": 16.3472
     },
     "founded": 2012,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#0066cc"
+      "#FFFFFF",
+      "#0066CC"
     ]
   },
   {
@@ -8098,9 +8516,10 @@
       "longitude": 19.9278
     },
     "founded": 1906,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -8115,9 +8534,10 @@
       "longitude": 19.1167
     },
     "founded": 1921,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#0066cc"
+      "#ED1C24",
+      "#0066CC"
     ]
   },
   {
@@ -8132,9 +8552,10 @@
       "longitude": 19.9447
     },
     "founded": 1906,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -8149,9 +8570,10 @@
       "longitude": 14.5561
     },
     "founded": 1948,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#6f263d",
-      "#0066cc"
+      "#6F263D",
+      "#0066CC"
     ]
   },
   {
@@ -8166,9 +8588,10 @@
       "longitude": 23.1608
     },
     "founded": 1920,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#ffed00"
+      "#ED1C24",
+      "#FFED00"
     ]
   },
   {
@@ -8183,9 +8606,10 @@
       "longitude": 18.7539
     },
     "founded": 1948,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8200,9 +8624,10 @@
       "longitude": 16.9431
     },
     "founded": 1947,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -8217,9 +8642,10 @@
       "longitude": 16.2003
     },
     "founded": 1945,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ff6600",
-      "#009a44"
+      "#FF6600",
+      "#009A44"
     ]
   },
   {
@@ -8234,10 +8660,11 @@
       "longitude": 9.0061
     },
     "founded": 1999,
+    "shirtDesignCode": "center-stripe",
     "colors": [
       "#000000",
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -8252,9 +8679,10 @@
       "longitude": 10.2008
     },
     "founded": 1880,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
-      "#0066cc"
+      "#FFFFFF",
+      "#0066CC"
     ]
   },
   {
@@ -8269,9 +8697,10 @@
       "longitude": 12.3611
     },
     "founded": 1991,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffed00"
+      "#ED1C24",
+      "#FFED00"
     ]
   },
   {
@@ -8286,9 +8715,10 @@
       "longitude": 9.5364
     },
     "founded": 1917,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -8303,9 +8733,10 @@
       "longitude": 10.0361
     },
     "founded": 2003,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8320,9 +8751,10 @@
       "longitude": 9.3833
     },
     "founded": 1896,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -8337,9 +8769,10 @@
       "longitude": 9.92
     },
     "founded": 1885,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -8354,9 +8787,10 @@
       "longitude": 10.3656
     },
     "founded": 1887,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8371,9 +8805,10 @@
       "longitude": 11.9881
     },
     "founded": 1904,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8388,9 +8823,10 @@
       "longitude": 18.0808
     },
     "founded": 1891,
+    "shirtDesignCode": "pinstripes",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8405,8 +8841,9 @@
       "longitude": 12.9394
     },
     "founded": 1904,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -8422,9 +8859,10 @@
       "longitude": 18.0808
     },
     "founded": 1889,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -8439,8 +8877,9 @@
       "longitude": 12.0594
     },
     "founded": 1940,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#ffed00",
+      "#FFED00",
       "#000000"
     ]
   },
@@ -8456,9 +8895,10 @@
       "longitude": 16.1906
     },
     "founded": 1897,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8473,8 +8913,9 @@
       "longitude": 17.6389
     },
     "founded": 1907,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#0066cc",
+      "#0066CC",
       "#000000"
     ]
   },
@@ -8490,9 +8931,10 @@
       "longitude": 16.3383
     },
     "founded": 1910,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -8507,9 +8949,10 @@
       "longitude": 16.3814
     },
     "founded": 1911,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6f263d",
-      "#ffffff"
+      "#6F263D",
+      "#FFFFFF"
     ]
   },
   {
@@ -8524,8 +8967,9 @@
       "longitude": 14.2931
     },
     "founded": 1908,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -8541,8 +8985,9 @@
       "longitude": 14.8428
     },
     "founded": 1931,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -8558,9 +9003,10 @@
       "longitude": 15.9833
     },
     "founded": 1946,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8575,8 +9021,9 @@
       "longitude": 11.5922
     },
     "founded": 1930,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
+      "#009A44",
       "#000000"
     ]
   },
@@ -8592,8 +9039,9 @@
       "longitude": 9.6494
     },
     "founded": 1929,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -8609,9 +9057,10 @@
       "longitude": 14.26
     },
     "founded": 2007,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#6f263d",
-      "#ffffff"
+      "#6F263D",
+      "#FFFFFF"
     ]
   },
   {
@@ -8626,9 +9075,10 @@
       "longitude": 8.5039
     },
     "founded": 1886,
+    "shirtDesignCode": "halves",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8643,9 +9093,10 @@
       "longitude": 6.1258
     },
     "founded": 1890,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#9c1919",
-      "#ffffff"
+      "#9C1919",
+      "#FFFFFF"
     ]
   },
   {
@@ -8660,8 +9111,9 @@
       "longitude": 8.9439
     },
     "founded": 1908,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -8677,9 +9129,10 @@
       "longitude": 9.3117
     },
     "founded": 1879,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#009a44",
-      "#ffffff"
+      "#009A44",
+      "#FFFFFF"
     ]
   },
   {
@@ -8694,9 +9147,10 @@
       "longitude": 7.3633
     },
     "founded": 1909,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
-      "#ffffff"
+      "#ED1C24",
+      "#FFFFFF"
     ]
   },
   {
@@ -8711,8 +9165,9 @@
       "longitude": 8.7333
     },
     "founded": 1896,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ed1c24",
+      "#ED1C24",
       "#000000"
     ]
   },
@@ -8728,9 +9183,10 @@
       "longitude": 6.6411
     },
     "founded": 1897,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ed1c24"
+      "#0066CC",
+      "#ED1C24"
     ]
   },
   {
@@ -8745,10 +9201,11 @@
       "longitude": -6.2667
     },
     "founded": 1890,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#d00000",
+      "#D00000",
       "#000000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -8763,9 +9220,10 @@
       "longitude": -7.25
     },
     "founded": 1928,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c00000",
-      "#ffffff"
+      "#C00000",
+      "#FFFFFF"
     ]
   },
   {
@@ -8780,9 +9238,10 @@
       "longitude": -6.35
     },
     "founded": 1919,
+    "shirtDesignCode": "hoops",
     "colors": [
       "#800000",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -8797,8 +9256,9 @@
       "longitude": -6.4075
     },
     "founded": 1903,
+    "shirtDesignCode": "center-stripe",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -8814,9 +9274,10 @@
       "longitude": -9.05
     },
     "founded": 1937,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c41e3a",
-      "#ffffff"
+      "#C41E3A",
+      "#FFFFFF"
     ]
   },
   {
@@ -8831,10 +9292,11 @@
       "longitude": -6.3333
     },
     "founded": 1929,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#ffd700",
-      "#1e3a8a",
-      "#c00000"
+      "#FFD700",
+      "#1E3A8A",
+      "#C00000"
     ]
   },
   {
@@ -8849,9 +9311,10 @@
       "longitude": -6.3788
     },
     "founded": 1899,
+    "shirtDesignCode": "hoops",
     "colors": [
       "#228B22",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -8866,9 +9329,10 @@
       "longitude": -6.25
     },
     "founded": 1895,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c41e3a",
-      "#ffffff"
+      "#C41E3A",
+      "#FFFFFF"
     ]
   },
   {
@@ -8883,9 +9347,10 @@
       "longitude": -6.66
     },
     "founded": 1928,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c41e3a",
-      "#ffffff"
+      "#C41E3A",
+      "#FFFFFF"
     ]
   },
   {
@@ -8900,9 +9365,10 @@
       "longitude": -7.5667
     },
     "founded": 1909,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -8917,9 +9383,10 @@
       "longitude": -7.9419
     },
     "founded": 1937,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c41e3a",
-      "#ffffff"
+      "#C41E3A",
+      "#FFFFFF"
     ]
   },
   {
@@ -8934,9 +9401,10 @@
       "longitude": -6.1089
     },
     "founded": 1887,
+    "shirtDesignCode": "center-stripe",
     "colors": [
-      "#0066cc",
-      "#c41e3a"
+      "#0066CC",
+      "#C41E3A"
     ]
   },
   {
@@ -8951,9 +9419,10 @@
       "longitude": -8.2964
     },
     "founded": 1947,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c41e3a",
-      "#ffffff"
+      "#C41E3A",
+      "#FFFFFF"
     ]
   },
   {
@@ -8968,9 +9437,10 @@
       "longitude": -8.4789
     },
     "founded": 1984,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#c41e3a",
-      "#ffffff"
+      "#C41E3A",
+      "#FFFFFF"
     ]
   },
   {
@@ -8985,9 +9455,10 @@
       "longitude": -8.2667
     },
     "founded": 1954,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -9002,9 +9473,10 @@
       "longitude": -9.7
     },
     "founded": 2021,
+    "shirtDesignCode": "solid",
     "colors": [
       "#228B22",
-      "#ffffff"
+      "#FFFFFF"
     ]
   },
   {
@@ -9019,9 +9491,10 @@
       "longitude": -7.7944
     },
     "founded": 1982,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#1e3a8a",
-      "#ffffff"
+      "#1E3A8A",
+      "#FFFFFF"
     ]
   },
   {
@@ -9036,9 +9509,10 @@
       "longitude": -8.6263
     },
     "founded": 2021,
+    "shirtDesignCode": "center-stripe",
     "colors": [
-      "#0066cc",
-      "#c41e3a"
+      "#0066CC",
+      "#C41E3A"
     ]
   },
   {
@@ -9053,9 +9527,10 @@
       "longitude": -6.2247
     },
     "founded": 1992,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -9070,9 +9545,10 @@
       "longitude": -6.55
     },
     "founded": 1945,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#7851a9",
-      "#ffd700"
+      "#7851A9",
+      "#FFD700"
     ]
   },
   {
@@ -9087,9 +9563,10 @@
       "longitude": -1.3884
     },
     "founded": 1879,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#eb3e32",
-      "#ffffff",
+      "#EB3E32",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -9105,8 +9582,9 @@
       "longitude": -0.2216
     },
     "founded": 1879,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#ffffff",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -9122,9 +9600,10 @@
       "longitude": 1.1455
     },
     "founded": 1878,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#0066cc",
-      "#ffffff"
+      "#0066CC",
+      "#FFFFFF"
     ]
   },
   {
@@ -9139,9 +9618,10 @@
       "longitude": -0.291
     },
     "founded": 1889,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#e41e2a",
-      "#ffffff",
+      "#E41E2A",
+      "#FFFFFF",
       "#000000"
     ]
   },
@@ -9157,9 +9637,10 @@
       "longitude": -0.9828
     },
     "founded": 1871,
+    "shirtDesignCode": "hoops",
     "colors": [
-      "#004da6",
-      "#ffffff"
+      "#004DA6",
+      "#FFFFFF"
     ]
   },
   {
@@ -9174,9 +9655,10 @@
       "longitude": -1.1328
     },
     "founded": 1865,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#dd0000",
-      "#ffffff"
+      "#DD0000",
+      "#FFFFFF"
     ]
   },
   {
@@ -9191,9 +9673,10 @@
       "longitude": 7.2361
     },
     "founded": 1848,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005ca9",
-      "#ffffff"
+      "#005CA9",
+      "#FFFFFF"
     ]
   },
   {
@@ -9208,10 +9691,11 @@
       "longitude": 9.9678
     },
     "founded": 1910,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#634a36",
-      "#ffffff",
-      "#ff0000"
+      "#634A36",
+      "#FFFFFF",
+      "#FF0000"
     ]
   },
   {
@@ -9226,10 +9710,11 @@
       "longitude": 10.1239
     },
     "founded": 1900,
+    "shirtDesignCode": "stripes",
     "colors": [
-      "#005baa",
-      "#ffffff",
-      "#ed1c24"
+      "#005BAA",
+      "#FFFFFF",
+      "#ED1C24"
     ]
   },
   {
@@ -9244,9 +9729,10 @@
       "longitude": 10.9419
     },
     "founded": 1920,
+    "shirtDesignCode": "solid",
     "colors": [
-      "#005baa",
-      "#ffffff"
+      "#005BAA",
+      "#FFFFFF"
     ]
   },
   {
@@ -9261,10 +9747,11 @@
       "longitude": 12.3558
     },
     "founded": 1907,
+    "shirtDesignCode": "halves",
     "colors": [
       "#000000",
       "#006633",
-      "#ff6600"
+      "#FF6600"
     ]
   },
   {
@@ -9278,7 +9765,12 @@
       "latitude": 50.7352,
       "longitude": -1.8384
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#E30613",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1067",
@@ -9291,7 +9783,12 @@
       "latitude": 53.7775,
       "longitude": -1.5721
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#F0FE2A",
+      "#000000"
+    ]
   },
   {
     "id": "1068",
@@ -9304,7 +9801,12 @@
       "latitude": 52.448056,
       "longitude": -1.495556
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#7AB2DD",
+      "#FFFFFF",
+      "#003366"
+    ]
   },
   {
     "id": "1069",
@@ -9317,7 +9819,12 @@
       "latitude": 54.5781,
       "longitude": -1.2178
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D01917",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1070",
@@ -9330,7 +9837,12 @@
       "latitude": 51.485833,
       "longitude": -0.050833
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#00263D",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1071",
@@ -9343,7 +9855,12 @@
       "latitude": 53.7465,
       "longitude": -0.368
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FF9200",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1072",
@@ -9356,7 +9873,12 @@
       "latitude": 53.0519,
       "longitude": -3.0039
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#CF102D",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1073",
@@ -9369,7 +9891,12 @@
       "latitude": 52.915,
       "longitude": -1.447222
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1074",
@@ -9382,7 +9909,12 @@
       "latitude": 51.44,
       "longitude": -2.620278
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#EF3340",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1075",
@@ -9395,7 +9927,12 @@
       "latitude": 52.4756,
       "longitude": -1.8682
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1076",
@@ -9408,7 +9945,12 @@
       "latitude": 53.772,
       "longitude": -2.6883
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#002D56",
+      "#002D56"
+    ]
   },
   {
     "id": "1077",
@@ -9421,7 +9963,12 @@
       "latitude": 51.44,
       "longitude": -2.6203
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1078",
@@ -9434,7 +9981,12 @@
       "latitude": 52.9884,
       "longitude": -2.1754
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#E03A3E",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1079",
@@ -9447,7 +9999,12 @@
       "latitude": 51.5093,
       "longitude": -0.2322
     },
-    "colors": []
+    "shirtDesignCode": "hoops",
+    "colors": [
+      "#0054A6",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1080",
@@ -9460,7 +10017,12 @@
       "latitude": 51.4865,
       "longitude": 0.0368
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1081",
@@ -9473,7 +10035,12 @@
       "latitude": 50.7964,
       "longitude": -1.0639
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#001489",
+      "#FFFFFF",
+      "#E30613"
+    ]
   },
   {
     "id": "1082",
@@ -9486,7 +10053,12 @@
       "latitude": 53.7286,
       "longitude": -2.4894
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#005CA5",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1083",
@@ -9499,7 +10071,12 @@
       "latitude": 52.509,
       "longitude": -1.9642
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#122F67",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1084",
@@ -9512,7 +10089,12 @@
       "latitude": 51.7164,
       "longitude": -1.2078
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFF00",
+      "#002147",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1085",
@@ -9526,7 +10108,12 @@
       "longitude": -1.5008
     },
     "founded": 1867,
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#0054A6",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1086",
@@ -9539,7 +10126,12 @@
       "latitude": 53.21,
       "longitude": -0.54
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1087",
@@ -9552,7 +10144,12 @@
       "latitude": 51.4729,
       "longitude": -3.2041
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#0070B5",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1088",
@@ -9565,7 +10162,12 @@
       "latitude": 53.5805,
       "longitude": -2.5357
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#002D56",
+      "#002D56"
+    ]
   },
   {
     "id": "1089",
@@ -9578,7 +10180,12 @@
       "latitude": 53.8042,
       "longitude": -1.759
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#800000",
+      "#FFB81C",
+      "#000000"
+    ]
   },
   {
     "id": "1090",
@@ -9591,7 +10198,12 @@
       "latitude": 53.3998,
       "longitude": -2.1664
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#004793",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1091",
@@ -9604,7 +10216,12 @@
       "latitude": 53.6542,
       "longitude": -1.7683
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#0072CE",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1092",
@@ -9617,7 +10234,12 @@
       "latitude": 51.8898,
       "longitude": -0.1937
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1093",
@@ -9630,7 +10252,12 @@
       "latitude": 51.6306,
       "longitude": -0.8003
     },
-    "colors": []
+    "shirtDesignCode": "quarters",
+    "colors": [
+      "#90BDD4",
+      "#002D55",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1094",
@@ -9643,7 +10270,12 @@
       "latitude": 50.3882,
       "longitude": -4.1508
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#00563F",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1095",
@@ -9656,7 +10288,12 @@
       "latitude": 51.8842,
       "longitude": -0.4316
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#F78F1E",
+      "#002D56",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1096",
@@ -9669,7 +10306,12 @@
       "latitude": 53.5524,
       "longitude": -1.4676
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1097",
@@ -9682,7 +10324,12 @@
       "latitude": 52.5648,
       "longitude": -0.2404
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#0053A0",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1098",
@@ -9695,7 +10342,12 @@
       "latitude": 51.4314,
       "longitude": -0.1867
     },
-    "colors": []
+    "shirtDesignCode": "center-stripe",
+    "colors": [
+      "#FFCC00",
+      "#0000EE",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1099",
@@ -9708,7 +10360,12 @@
       "latitude": 50.7307,
       "longitude": -3.5211
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1100",
@@ -9721,7 +10378,12 @@
       "latitude": 53.1378,
       "longitude": -1.2013
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#FFB81C",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1101",
@@ -9734,7 +10396,12 @@
       "latitude": 52.8219,
       "longitude": -1.6271
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFE600",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1102",
@@ -9747,7 +10414,12 @@
       "latitude": 53.5099,
       "longitude": -1.1138
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1103",
@@ -9760,7 +10432,12 @@
       "latitude": 53.5478,
       "longitude": -2.6539
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003087",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1104",
@@ -9773,7 +10450,12 @@
       "latitude": 53.8046,
       "longitude": -3.0483
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#F68712",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1105",
@@ -9786,7 +10468,12 @@
       "latitude": 51.5601,
       "longitude": -0.0126
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1106",
@@ -9799,7 +10486,12 @@
       "latitude": 53.4281,
       "longitude": -1.3617
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1107",
@@ -9812,7 +10504,12 @@
       "latitude": 52.2352,
       "longitude": -0.9335
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#6C1D45",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1108",
@@ -9825,7 +10522,12 @@
       "latitude": 53.05,
       "longitude": -2.1926
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#FFB81C"
+    ]
   },
   {
     "id": "1109",
@@ -9838,7 +10540,12 @@
       "latitude": 51.3886,
       "longitude": 0.0211
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#D00027"
+    ]
   },
   {
     "id": "1110",
@@ -9851,7 +10558,12 @@
       "latitude": 52.0096,
       "longitude": -0.7335
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#B3A172",
+      "#000000"
+    ]
   },
   {
     "id": "1111",
@@ -9864,7 +10576,12 @@
       "latitude": 52.2128,
       "longitude": 0.1543
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#FFB81C",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1112",
@@ -9877,7 +10594,12 @@
       "latitude": 52.9425,
       "longitude": -1.137
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1113",
@@ -9890,7 +10612,12 @@
       "latitude": 51.5645,
       "longitude": -1.7711
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1114",
@@ -9903,7 +10630,12 @@
       "latitude": 53.5175,
       "longitude": -2.2769
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1115",
@@ -9916,7 +10648,12 @@
       "latitude": 53.5703,
       "longitude": -0.0219
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#D00027"
+    ]
   },
   {
     "id": "1116",
@@ -9929,7 +10666,12 @@
       "latitude": 53.2536,
       "longitude": -1.4272
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#0047AB",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1117",
@@ -9942,7 +10684,12 @@
       "latitude": 53.0875,
       "longitude": -2.4357
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1118",
@@ -9955,7 +10702,12 @@
       "latitude": 51.6028,
       "longitude": -0.2917
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFB81C",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1119",
@@ -9968,7 +10720,12 @@
       "latitude": 52.5655,
       "longitude": -1.9905
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1120",
@@ -9981,7 +10738,12 @@
       "latitude": 51.9234,
       "longitude": 0.8979
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1121",
@@ -9994,7 +10756,12 @@
       "latitude": 53.5551,
       "longitude": -2.1285
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#0054A6",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1122",
@@ -10007,7 +10774,12 @@
       "latitude": 53.9165,
       "longitude": -3.0248
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1123",
@@ -10020,7 +10792,12 @@
       "latitude": 53.7654,
       "longitude": -2.3711
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1124",
@@ -10033,7 +10810,12 @@
       "latitude": 51.3844,
       "longitude": 0.5604
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#0047AB",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1125",
@@ -10046,7 +10828,12 @@
       "latitude": 52.6886,
       "longitude": -2.7493
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#003399",
+      "#FFB81C",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1126",
@@ -10059,7 +10846,12 @@
       "latitude": 51.9062,
       "longitude": -2.0602
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1127",
@@ -10072,7 +10864,12 @@
       "latitude": 53.3738,
       "longitude": -3.0327
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#003399",
+      "#003399"
+    ]
   },
   {
     "id": "1128",
@@ -10085,7 +10882,12 @@
       "latitude": 51.4862,
       "longitude": -2.5832
     },
-    "colors": []
+    "shirtDesignCode": "quarters",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1129",
@@ -10098,7 +10900,12 @@
       "latitude": 51.1,
       "longitude": -0.1946
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1130",
@@ -10111,7 +10918,12 @@
       "latitude": 54.1211,
       "longitude": -3.2372
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1131",
@@ -10124,7 +10936,12 @@
       "latitude": 51.5889,
       "longitude": -2.989
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFB81C",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1132",
@@ -10137,7 +10954,12 @@
       "latitude": 53.9919,
       "longitude": -1.5153
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFF00",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1133",
@@ -10150,7 +10972,12 @@
       "latitude": 53.6209,
       "longitude": -2.18
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1134",
@@ -10163,7 +10990,12 @@
       "latitude": 54.8955,
       "longitude": -2.9137
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1135",
@@ -10176,7 +11008,12 @@
       "latitude": 51.6622,
       "longitude": -0.2719
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#003399"
+    ]
   },
   {
     "id": "1136",
@@ -10189,7 +11026,12 @@
       "latitude": 51.6967,
       "longitude": -2.23
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#00FF00",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1137",
@@ -10202,7 +11044,12 @@
       "latitude": 53.5867,
       "longitude": -0.6952
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#6C1D45",
+      "#7AB2DD",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1138",
@@ -10215,7 +11062,12 @@
       "latitude": 53.7125,
       "longitude": -1.8589
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1139",
@@ -10228,7 +11080,12 @@
       "latitude": 51.5491,
       "longitude": 0.7016
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1140",
@@ -10241,7 +11098,12 @@
       "latitude": 54.6891,
       "longitude": -1.2127
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1141",
@@ -10254,7 +11116,12 @@
       "latitude": 52.6272,
       "longitude": -1.6878
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1142",
@@ -10267,7 +11134,12 @@
       "latitude": 52.9564,
       "longitude": -0.0106
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFB81C",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1143",
@@ -10280,7 +11152,12 @@
       "latitude": 52.4394,
       "longitude": -1.7647
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFF00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1144",
@@ -10293,7 +11170,12 @@
       "latitude": 53.3894,
       "longitude": -2.3486
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1145",
@@ -10306,7 +11188,12 @@
       "latitude": 51.3092,
       "longitude": -0.5594
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#9B111E",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1146",
@@ -10319,7 +11206,12 @@
       "latitude": 51.2484,
       "longitude": -0.7549
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1147",
@@ -10332,7 +11224,12 @@
       "latitude": 51.5744,
       "longitude": -0.4311
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFF00"
+    ]
   },
   {
     "id": "1148",
@@ -10345,7 +11242,12 @@
       "latitude": 50.9503,
       "longitude": -2.6738
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#008000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1149",
@@ -10358,7 +11260,12 @@
       "latitude": 51.3725,
       "longitude": -0.1986
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFB81C",
+      "#3D2B1F",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1150",
@@ -10371,7 +11278,12 @@
       "latitude": 50.9542,
       "longitude": -1.3694
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1151",
@@ -10384,7 +11296,12 @@
       "latitude": 52.0253,
       "longitude": -1.1481
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1152",
@@ -10397,7 +11314,12 @@
       "latitude": 54.0675,
       "longitude": -2.8471
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1153",
@@ -10410,7 +11332,12 @@
       "latitude": 51.8789,
       "longitude": 0.5672
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#F78F1E",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1154",
@@ -10423,7 +11350,12 @@
       "latitude": 54.955,
       "longitude": -1.5989
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1155",
@@ -10436,7 +11368,12 @@
       "latitude": 50.2586,
       "longitude": -5.0594
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFFFF",
+      "#D00027",
+      "#000000"
+    ]
   },
   {
     "id": "1156",
@@ -10449,7 +11386,12 @@
       "latitude": 56.005,
       "longitude": -3.7542
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#002D56",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1157",
@@ -10462,7 +11404,12 @@
       "latitude": 56.4753,
       "longitude": -2.9731
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1158",
@@ -10475,7 +11422,12 @@
       "latitude": 55.8864,
       "longitude": -3.5221
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFB81C",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1159",
@@ -10488,7 +11440,12 @@
       "latitude": 40.3919,
       "longitude": -3.6592
     },
-    "colors": []
+    "shirtDesignCode": "sash",
+    "colors": [
+      "#FFFFFF",
+      "#E30613",
+      "#E30613"
+    ]
   },
   {
     "id": "1160",
@@ -10501,7 +11458,12 @@
       "latitude": 41.9614,
       "longitude": 2.8286
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#003399"
+    ]
   },
   {
     "id": "1161",
@@ -10514,7 +11476,12 @@
       "latitude": 38.267,
       "longitude": -0.6628
     },
-    "colors": []
+    "shirtDesignCode": "diagonal",
+    "colors": [
+      "#FFFFFF",
+      "#008000",
+      "#000000"
+    ]
   },
   {
     "id": "1162",
@@ -10527,7 +11494,12 @@
       "latitude": 43.3606,
       "longitude": -5.8711
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#0067B1",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1163",
@@ -10540,7 +11512,12 @@
       "latitude": 51.4926,
       "longitude": 7.4519
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FDE100",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1164",
@@ -10553,12 +11530,17 @@
       "latitude": 53.5872,
       "longitude": 9.8986
     },
-    "colors": []
+    "shirtDesignCode": "alternate-body-sleeve",
+    "colors": [
+      "#FFFFFF",
+      "#D00027",
+      "#003399"
+    ]
   },
   {
     "id": "1165",
-    "name": "Borussia M'gladbach",
-    "normalizedName": "BORUSSIA M'GLADBACH",
+    "name": "Borussia Mönchengladbach",
+    "normalizedName": "BORUSSIA MONCHENGLADBACH",
     "country": "Germany",
     "city": "Mönchengladbach",
     "stadiumId": "244",
@@ -10566,7 +11548,12 @@
       "latitude": 51.1744,
       "longitude": 6.3856
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFFFF",
+      "#008000",
+      "#000000"
+    ]
   },
   {
     "id": "1166",
@@ -10579,7 +11566,12 @@
       "latitude": 48.6783,
       "longitude": 10.1386
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1167",
@@ -10592,7 +11584,12 @@
       "latitude": 50.4328,
       "longitude": 2.8147
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#E30613",
+      "#FFB81C",
+      "#000000"
+    ]
   },
   {
     "id": "1168",
@@ -10605,7 +11602,12 @@
       "latitude": 45.7653,
       "longitude": 4.9819
     },
-    "colors": []
+    "shirtDesignCode": "alternate-body-sleeve",
+    "colors": [
+      "#FFFFFF",
+      "#D00027",
+      "#003399"
+    ]
   },
   {
     "id": "1169",
@@ -10618,7 +11620,12 @@
       "latitude": 47.7489,
       "longitude": -3.3694
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#F68712",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1170",
@@ -10631,7 +11638,12 @@
       "latitude": 47.4603,
       "longitude": -0.5306
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1171",
@@ -10644,7 +11656,12 @@
       "latitude": 48.8431,
       "longitude": 2.2528
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#002D56",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1172",
@@ -10657,7 +11674,12 @@
       "latitude": 49.4989,
       "longitude": 0.1711
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#ADD8E6",
+      "#002D56",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1173",
@@ -10670,7 +11692,12 @@
       "latitude": 47.7869,
       "longitude": 3.5881
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#003399",
+      "#003399"
+    ]
   },
   {
     "id": "1174",
@@ -10683,7 +11710,12 @@
       "latitude": 44.1008,
       "longitude": 9.8092
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#0068A8",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1175",
@@ -10696,7 +11728,12 @@
       "latitude": 44.1008,
       "longitude": 9.8092
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FB090B",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1176",
@@ -10709,7 +11746,12 @@
       "latitude": 45.8119,
       "longitude": 9.0744
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1177",
@@ -10722,7 +11764,12 @@
       "latitude": 43.7253,
       "longitude": 10.3961
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#000000",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1178",
@@ -10735,7 +11782,12 @@
       "latitude": 51.4417,
       "longitude": 5.4675
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#EE2436",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1179",
@@ -10748,7 +11800,12 @@
       "latitude": 51.8225,
       "longitude": 5.8369
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#008000",
+      "#000000"
+    ]
   },
   {
     "id": "1180",
@@ -10761,7 +11818,12 @@
       "latitude": 52.2394,
       "longitude": 6.8314
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1182",
@@ -10774,7 +11836,12 @@
       "latitude": 52.9597,
       "longitude": 5.9414
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#D00027"
+    ]
   },
   {
     "id": "1183",
@@ -10787,7 +11854,12 @@
       "latitude": 52.0783,
       "longitude": 5.1458
     },
-    "colors": []
+    "shirtDesignCode": "diagonal",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1184",
@@ -10800,7 +11872,12 @@
       "latitude": 53.2081,
       "longitude": 6.5919
     },
-    "colors": []
+    "shirtDesignCode": "diagonal",
+    "colors": [
+      "#008000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1185",
@@ -10813,7 +11890,12 @@
       "latitude": 50.9919,
       "longitude": 5.8589
     },
-    "colors": []
+    "shirtDesignCode": "diagonal",
+    "colors": [
+      "#FFFF00",
+      "#008000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1186",
@@ -10826,7 +11908,12 @@
       "latitude": 52.4928,
       "longitude": 5.0672
     },
-    "colors": []
+    "shirtDesignCode": "diagonal",
+    "colors": [
+      "#FF8C00",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1187",
@@ -10839,7 +11926,12 @@
       "latitude": 51.9178,
       "longitude": 4.5153
     },
-    "colors": []
+    "shirtDesignCode": "center-stripe",
+    "colors": [
+      "#E30613",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1188",
@@ -10852,7 +11944,12 @@
       "latitude": 52.4561,
       "longitude": 4.6431
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#003399",
+      "#003399"
+    ]
   },
   {
     "id": "1189",
@@ -10865,7 +11962,12 @@
       "latitude": 51.595,
       "longitude": 4.7503
     },
-    "colors": []
+    "shirtDesignCode": "alternate-body-sleeve",
+    "colors": [
+      "#FFFF00",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1190",
@@ -10878,20 +11980,12 @@
       "latitude": 52.3494,
       "longitude": 6.6411
     },
-    "colors": []
-  },
-  {
-    "id": "1191",
-    "name": "Sporting Braga",
-    "normalizedName": "SPORTING BRAGA",
-    "country": "Portugal",
-    "city": "Braga",
-    "stadiumId": "262",
-    "coordinates": {
-      "latitude": 41.5622,
-      "longitude": -8.4308
-    },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1192",
@@ -10904,7 +11998,12 @@
       "latitude": 41.5503,
       "longitude": -8.6322
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1193",
@@ -10917,7 +12016,12 @@
       "latitude": 41.4086,
       "longitude": -8.5233
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1194",
@@ -10930,7 +12034,12 @@
       "latitude": 38.7061,
       "longitude": -9.3939
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFF00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1195",
@@ -10943,7 +12052,12 @@
       "latitude": 38.905,
       "longitude": -9.0314
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1196",
@@ -10956,7 +12070,12 @@
       "latitude": 38.752,
       "longitude": -9.228
     },
-    "colors": []
+    "shirtDesignCode": "hoops",
+    "colors": [
+      "#FFFFFF",
+      "#003399",
+      "#D00027"
+    ]
   },
   {
     "id": "1197",
@@ -10969,7 +12088,12 @@
       "latitude": 39.3336,
       "longitude": -8.9367
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1198",
@@ -10982,7 +12106,12 @@
       "latitude": 40.5153,
       "longitude": -8.08
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#008000",
+      "#FFFF00",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1199",
@@ -10995,7 +12124,12 @@
       "latitude": 41.3656,
       "longitude": -8.4086
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1200",
@@ -11008,7 +12142,12 @@
       "latitude": 41.1292,
       "longitude": 28.8089
     },
-    "colors": []
+    "shirtDesignCode": "center-stripe",
+    "colors": [
+      "#FF8C00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1201",
@@ -11021,7 +12160,12 @@
       "latitude": 38.3942,
       "longitude": 27.0869
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#E30A17",
+      "#FFD700",
+      "#000000"
+    ]
   },
   {
     "id": "1202",
@@ -11034,7 +12178,12 @@
       "latitude": 40.7647,
       "longitude": 29.9517
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#008000",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1203",
@@ -11047,7 +12196,12 @@
       "latitude": 41.2464,
       "longitude": 36.4633
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#E30613",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1204",
@@ -11060,7 +12214,12 @@
       "latitude": 41.0217,
       "longitude": 40.5378
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#008000",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1205",
@@ -11073,7 +12232,12 @@
       "latitude": 39.9758,
       "longitude": 32.6408
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1206",
@@ -11086,7 +12250,12 @@
       "latitude": 41.0528,
       "longitude": 28.9314
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D8BFD8",
+      "#FFFF00",
+      "#000000"
+    ]
   },
   {
     "id": "1207",
@@ -11099,7 +12268,12 @@
       "latitude": 38.7372,
       "longitude": 35.4231
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFF00",
+      "#D00027",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1208",
@@ -11112,7 +12286,12 @@
       "latitude": 41.0744,
       "longitude": 28.7658
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1209",
@@ -11125,7 +12304,12 @@
       "latitude": 38.4397,
       "longitude": 22.8928
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#008000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1210",
@@ -11138,7 +12322,12 @@
       "latitude": 40.5997,
       "longitude": 22.9692
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFD700",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1211",
@@ -11151,7 +12340,12 @@
       "latitude": 35.3458,
       "longitude": 25.1064
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1212",
@@ -11164,7 +12358,12 @@
       "latitude": 38.005,
       "longitude": 23.6953
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1213",
@@ -11177,7 +12376,12 @@
       "latitude": 39.3917,
       "longitude": 22.9314
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#D00027",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1214",
@@ -11190,7 +12394,12 @@
       "latitude": 38.6361,
       "longitude": 21.4064
     },
-    "colors": []
+    "shirtDesignCode": "diagonal",
+    "colors": [
+      "#FFFF00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1215",
@@ -11203,7 +12412,12 @@
       "latitude": 37.98,
       "longitude": 23.6481
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#003399",
+      "#003399"
+    ]
   },
   {
     "id": "1216",
@@ -11216,7 +12430,12 @@
       "latitude": 39.6175,
       "longitude": 22.4086
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#800000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1217",
@@ -11229,7 +12448,12 @@
       "latitude": 37.5181,
       "longitude": 22.3861
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFF00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1218",
@@ -11242,7 +12466,12 @@
       "latitude": 41.0919,
       "longitude": 23.5511
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1219",
@@ -11255,7 +12484,12 @@
       "latitude": 54.4895,
       "longitude": -6.7458
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1220",
@@ -11268,7 +12502,12 @@
       "latitude": 54.7197,
       "longitude": -5.8003
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFB81C",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1221",
@@ -11281,7 +12520,12 @@
       "latitude": 54.4542,
       "longitude": -6.3367
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1222",
@@ -11294,7 +12538,12 @@
       "latitude": 53.984722,
       "longitude": -1.052778
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1223",
@@ -11307,7 +12556,12 @@
       "latitude": 46.1675,
       "longitude": 16.8358
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1224",
@@ -11320,7 +12574,12 @@
       "latitude": 45.7164,
       "longitude": 16.0667
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1225",
@@ -11333,7 +12592,12 @@
       "latitude": 45.2942,
       "longitude": 18.8142
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#ADD8E6",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1226",
@@ -11343,10 +12607,15 @@
     "city": "",
     "stadiumId": "676",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 57.5036,
+      "longitude": -1.8024
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1227",
@@ -11356,10 +12625,15 @@
     "city": "",
     "stadiumId": "677",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.6516,
+      "longitude": -5.6845
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1228",
@@ -11369,10 +12643,15 @@
     "city": "",
     "stadiumId": "678",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1779,
+      "longitude": -2.9947
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFF00",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1229",
@@ -11382,10 +12661,15 @@
     "city": "",
     "stadiumId": "679",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 57.6492,
+      "longitude": -3.3252
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1230",
@@ -11395,10 +12679,15 @@
     "city": "",
     "stadiumId": "680",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.9906,
+      "longitude": -7.3361
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#87CEEB",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1231",
@@ -11408,10 +12697,15 @@
     "city": "",
     "stadiumId": "681",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.5669,
+      "longitude": -5.8535
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFF00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1232",
@@ -11421,10 +12715,15 @@
     "city": "",
     "stadiumId": "682",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.9622,
+      "longitude": -3.9739
     },
-    "colors": []
+    "shirtDesignCode": "alternate-body-sleeve",
+    "colors": [
+      "#FFFFFF",
+      "#D00027",
+      "#000000"
+    ]
   },
   {
     "id": "1233",
@@ -11434,10 +12733,15 @@
     "city": "",
     "stadiumId": "683",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.9511,
+      "longitude": -4.7305
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1234",
@@ -11447,10 +12751,15 @@
     "city": "",
     "stadiumId": "684",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1096,
+      "longitude": -3.3444
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1235",
@@ -11460,10 +12769,15 @@
     "city": "",
     "stadiumId": "685",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8618,
+      "longitude": -4.0296
     },
-    "colors": []
+    "shirtDesignCode": "halves",
+    "colors": [
+      "#D00027",
+      "#FFFF00",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1236",
@@ -11473,10 +12787,15 @@
     "city": "",
     "stadiumId": "686",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.703,
+      "longitude": -7.5982
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1237",
@@ -11486,10 +12805,15 @@
     "city": "",
     "stadiumId": "687",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.7507,
+      "longitude": -6.0019
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1238",
@@ -11499,10 +12823,15 @@
     "city": "",
     "stadiumId": "688",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.946,
+      "longitude": -4.5701
     },
-    "colors": []
+    "shirtDesignCode": "chevron",
+    "colors": [
+      "#FFFF00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1239",
@@ -11512,10 +12841,15 @@
     "city": "",
     "stadiumId": "689",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.0734,
+      "longitude": -3.4514
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1240",
@@ -11525,10 +12859,15 @@
     "city": "",
     "stadiumId": "690",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 52.0576,
+      "longitude": -2.7133
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#D00027"
+    ]
   },
   {
     "id": "1241",
@@ -11538,10 +12877,15 @@
     "city": "",
     "stadiumId": "691",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.4144,
+      "longitude": -7.5998
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#008000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1242",
@@ -11551,10 +12895,15 @@
     "city": "",
     "stadiumId": "692",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 53.1441,
+      "longitude": -1.1879
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFB81C",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1243",
@@ -11564,10 +12913,15 @@
     "city": "",
     "stadiumId": "693",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8815,
+      "longitude": -4.2678
     },
-    "colors": []
+    "shirtDesignCode": "alternate-body-sleeve",
+    "colors": [
+      "#D00027",
+      "#FFFF00",
+      "#000000"
+    ]
   },
   {
     "id": "1244",
@@ -11577,10 +12931,15 @@
     "city": "",
     "stadiumId": "694",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1121,
+      "longitude": -3.9298
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1245",
@@ -11590,10 +12949,15 @@
     "city": "",
     "stadiumId": "695",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.9896,
+      "longitude": -3.2582
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFF00",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1246",
@@ -11603,10 +12967,15 @@
     "city": "",
     "stadiumId": "696",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.5604,
+      "longitude": -2.5851
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#800000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1247",
@@ -11616,10 +12985,15 @@
     "city": "",
     "stadiumId": "697",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 53.5883,
+      "longitude": -2.2989
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFFFF",
+      "#003399",
+      "#003399"
+    ]
   },
   {
     "id": "1248",
@@ -11629,10 +13003,15 @@
     "city": "",
     "stadiumId": "698",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.7271,
+      "longitude": -2.6591
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1249",
@@ -11642,10 +13021,15 @@
     "city": "",
     "stadiumId": "699",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8279,
+      "longitude": -4.2517
     },
-    "colors": []
+    "shirtDesignCode": "center-stripe",
+    "colors": [
+      "#000000",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1250",
@@ -11655,10 +13039,15 @@
     "city": "",
     "stadiumId": "700",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.3997,
+      "longitude": -6.5376
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1251",
@@ -11668,10 +13057,15 @@
     "city": "",
     "stadiumId": "701",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.7079,
+      "longitude": -2.4637
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1252",
@@ -11681,23 +13075,15 @@
     "city": "",
     "stadiumId": "702",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.1179,
+      "longitude": -6.2634
     },
-    "colors": []
-  },
-  {
-    "id": "1253",
-    "name": "Wolverhampton Wanderers",
-    "normalizedName": "WOLVERHAMPTON WANDERERS",
-    "country": "England",
-    "city": "",
-    "stadiumId": "703",
-    "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
-    },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1254",
@@ -11707,10 +13093,15 @@
     "city": "",
     "stadiumId": "704",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 53.2543,
+      "longitude": -2.1231
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1255",
@@ -11720,10 +13111,15 @@
     "city": "",
     "stadiumId": "705",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8636,
+      "longitude": -3.9858
     },
-    "colors": []
+    "shirtDesignCode": "alternate-body-sleeve",
+    "colors": [
+      "#FFFFFF",
+      "#D00027",
+      "#000000"
+    ]
   },
   {
     "id": "1256",
@@ -11733,10 +13129,15 @@
     "city": "",
     "stadiumId": "706",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.7708,
+      "longitude": -4.0494
     },
-    "colors": []
+    "shirtDesignCode": "hoops",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1257",
@@ -11746,10 +13147,14 @@
     "city": "",
     "stadiumId": "707",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.1504,
+      "longitude": -6.3206
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#231FF9",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1258",
@@ -11759,10 +13164,15 @@
     "city": "",
     "stadiumId": "708",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.0311,
+      "longitude": -3.825
     },
-    "colors": []
+    "shirtDesignCode": "chevron",
+    "colors": [
+      "#800000",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1259",
@@ -11772,10 +13182,15 @@
     "city": "",
     "stadiumId": "709",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.063,
+      "longitude": -3.6027
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1260",
@@ -11785,10 +13200,15 @@
     "city": "",
     "stadiumId": "710",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 50.473,
+      "longitude": -3.5196
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFF00",
+      "#003399",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1261",
@@ -11798,10 +13218,15 @@
     "city": "",
     "stadiumId": "711",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.4214,
+      "longitude": -0.1894
     },
-    "colors": []
+    "shirtDesignCode": "center-stripe",
+    "colors": [
+      "#FFCC00",
+      "#0000EE",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1262",
@@ -11811,10 +13236,15 @@
     "city": "",
     "stadiumId": "712",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1118,
+      "longitude": -3.7896
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#F68712",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1263",
@@ -11824,10 +13254,15 @@
     "city": "",
     "stadiumId": "713",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.7662,
+      "longitude": -2.0046
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#000000",
+      "#FFD700",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1264",
@@ -11837,10 +13272,15 @@
     "city": "",
     "stadiumId": "714",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.4659,
+      "longitude": -4.6393
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1265",
@@ -11850,10 +13290,15 @@
     "city": "",
     "stadiumId": "715",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.9105,
+      "longitude": -5.0258
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#003399",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1266",
@@ -11863,10 +13308,15 @@
     "city": "",
     "stadiumId": "716",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1107,
+      "longitude": -3.1515
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#002D56",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1267",
@@ -11876,10 +13326,15 @@
     "city": "",
     "stadiumId": "717",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.6483,
+      "longitude": -2.893
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#002D56",
+      "#7AB2DD",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1268",
@@ -11889,10 +13344,15 @@
     "city": "",
     "stadiumId": "718",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.4096,
+      "longitude": -6.4383
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#000000"
+    ]
   },
   {
     "id": "1269",
@@ -11902,10 +13362,15 @@
     "city": "",
     "stadiumId": "719",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 57.4794,
+      "longitude": -4.2315
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#003399",
+      "#D00027",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1270",
@@ -11915,10 +13380,15 @@
     "city": "",
     "stadiumId": "720",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.564,
+      "longitude": -1.7719
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1271",
@@ -11928,10 +13398,15 @@
     "city": "",
     "stadiumId": "721",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.572,
+      "longitude": -5.9367
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#FFFFFF",
+      "#000000",
+      "#000000"
+    ]
   },
   {
     "id": "1272",
@@ -11941,10 +13416,15 @@
     "city": "",
     "stadiumId": "722",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.8867,
+      "longitude": -0.2085
     },
-    "colors": []
+    "shirtDesignCode": "solid",
+    "colors": [
+      "#D00027",
+      "#FFFFFF",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1273",
@@ -11954,10 +13434,15 @@
     "city": "",
     "stadiumId": "723",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.6056,
+      "longitude": -5.8632
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#FFFF00",
+      "#000000",
+      "#FFFFFF"
+    ]
   },
   {
     "id": "1274",
@@ -11967,9 +13452,14 @@
     "city": "",
     "stadiumId": "724",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.5481,
+      "longitude": 0.1527
     },
-    "colors": []
+    "shirtDesignCode": "stripes",
+    "colors": [
+      "#D00027",
+      "#003399",
+      "#FFFFFF"
+    ]
   }
 ]

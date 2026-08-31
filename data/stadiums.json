@@ -376,7 +376,6 @@
     "capacity": 30188,
     "clubs": [
       "79",
-      "656",
       "858",
       "924"
     ]
@@ -2615,20 +2614,6 @@
     ]
   },
   {
-    "id": "94",
-    "name": "Aba Stadium",
-    "city": "Aba",
-    "country": "Nigeria",
-    "coordinates": {
-      "latitude": 5.1067,
-      "longitude": 7.3667
-    },
-    "capacity": 16000,
-    "clubs": [
-      "721"
-    ]
-  },
-  {
     "id": "95",
     "name": "Owerri Stadium",
     "city": "Owerri",
@@ -3681,8 +3666,7 @@
     },
     "capacity": 30286,
     "clubs": [
-      "815",
-      "1191"
+      "815"
     ]
   },
   {
@@ -3696,8 +3680,7 @@
     },
     "capacity": 30029,
     "clubs": [
-      "816",
-      "894"
+      "816"
     ]
   },
   {
@@ -8923,8 +8906,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 57.5036,
+      "longitude": -1.8024
     },
     "capacity": "4,000",
     "clubs": [
@@ -8937,8 +8920,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.6516,
+      "longitude": -5.6845
     },
     "capacity": "2,000",
     "clubs": [
@@ -8951,8 +8934,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1779,
+      "longitude": -2.9947
     },
     "capacity": "2,000",
     "clubs": [
@@ -8965,8 +8948,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 57.6492,
+      "longitude": -3.3252
     },
     "capacity": "4,927",
     "clubs": [
@@ -8979,8 +8962,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.9906,
+      "longitude": -7.3361
     },
     "capacity": "3,700",
     "clubs": [
@@ -8993,8 +8976,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.5669,
+      "longitude": -5.8535
     },
     "capacity": "1,000",
     "clubs": [
@@ -9007,8 +8990,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.9622,
+      "longitude": -3.9739
     },
     "capacity": "8,029",
     "clubs": [
@@ -9021,8 +9004,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.9511,
+      "longitude": -4.7305
     },
     "capacity": "19,612",
     "clubs": [
@@ -9035,8 +9018,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1096,
+      "longitude": -3.3444
     },
     "capacity": "4,370",
     "clubs": [
@@ -9049,8 +9032,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8618,
+      "longitude": -4.0296
     },
     "capacity": "2,496",
     "clubs": [
@@ -9063,8 +9046,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.703,
+      "longitude": -7.5982
     },
     "capacity": "2,000",
     "clubs": [
@@ -9077,8 +9060,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.7507,
+      "longitude": -6.0019
     },
     "capacity": "2,398",
     "clubs": [
@@ -9091,8 +9074,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.946,
+      "longitude": -4.5701
     },
     "capacity": "2,025",
     "clubs": [
@@ -9105,8 +9088,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.0734,
+      "longitude": -3.4514
     },
     "capacity": "11,380",
     "clubs": [
@@ -9119,8 +9102,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 52.0576,
+      "longitude": -2.7133
     },
     "capacity": "5,300",
     "clubs": [
@@ -9133,8 +9116,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.4144,
+      "longitude": -7.5998
     },
     "capacity": "2,000",
     "clubs": [
@@ -9147,8 +9130,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 53.1441,
+      "longitude": -1.1879
     },
     "capacity": "9,186",
     "clubs": [
@@ -9161,8 +9144,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8815,
+      "longitude": -4.2678
     },
     "capacity": "13,079",
     "clubs": [
@@ -9175,8 +9158,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1121,
+      "longitude": -3.9298
     },
     "capacity": "3,808",
     "clubs": [
@@ -9189,8 +9172,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.9896,
+      "longitude": -3.2582
     },
     "capacity": "2,007",
     "clubs": [
@@ -9203,8 +9186,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.5604,
+      "longitude": -2.5851
     },
     "capacity": "5,940",
     "clubs": [
@@ -9217,8 +9200,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 53.5883,
+      "longitude": -2.2989
     },
     "capacity": "11,840",
     "clubs": [
@@ -9231,8 +9214,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.7271,
+      "longitude": -2.6591
     },
     "capacity": "3,960",
     "clubs": [
@@ -9245,8 +9228,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8279,
+      "longitude": -4.2517
     },
     "capacity": "52,500",
     "clubs": [
@@ -9259,8 +9242,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.3997,
+      "longitude": -6.5376
     },
     "capacity": "3,000",
     "clubs": [
@@ -9273,8 +9256,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.7079,
+      "longitude": -2.4637
     },
     "capacity": "3,292",
     "clubs": [
@@ -9287,26 +9270,12 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.1179,
+      "longitude": -6.2634
     },
     "capacity": "2,000",
     "clubs": [
       "1252"
-    ]
-  },
-  {
-    "id": "703",
-    "name": "Molineux",
-    "city": "",
-    "country": "England",
-    "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
-    },
-    "capacity": "27,828",
-    "clubs": [
-      "1253"
     ]
   },
   {
@@ -9315,8 +9284,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 53.2543,
+      "longitude": -2.1231
     },
     "capacity": "6,355",
     "clubs": [
@@ -9329,8 +9298,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.8636,
+      "longitude": -3.9858
     },
     "capacity": "10,172",
     "clubs": [
@@ -9343,8 +9312,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.7708,
+      "longitude": -4.0494
     },
     "capacity": "6,078",
     "clubs": [
@@ -9357,8 +9326,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.1504,
+      "longitude": -6.3206
     },
     "capacity": "2,809",
     "clubs": [
@@ -9371,8 +9340,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.0311,
+      "longitude": -3.825
     },
     "capacity": "3,776",
     "clubs": [
@@ -9385,8 +9354,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.063,
+      "longitude": -3.6027
     },
     "capacity": "6,412",
     "clubs": [
@@ -9399,8 +9368,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 50.473,
+      "longitude": -3.5196
     },
     "capacity": "6,104",
     "clubs": [
@@ -9413,8 +9382,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.4214,
+      "longitude": -0.1894
     },
     "capacity": "9,215",
     "clubs": [
@@ -9427,8 +9396,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1118,
+      "longitude": -3.7896
     },
     "capacity": "3,412",
     "clubs": [
@@ -9441,8 +9410,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.7662,
+      "longitude": -2.0046
     },
     "capacity": "4,131",
     "clubs": [
@@ -9455,8 +9424,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 55.4659,
+      "longitude": -4.6393
     },
     "capacity": "10,243",
     "clubs": [
@@ -9469,8 +9438,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.9105,
+      "longitude": -5.0258
     },
     "capacity": "5,600",
     "clubs": [
@@ -9483,8 +9452,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.1107,
+      "longitude": -3.1515
     },
     "capacity": "10,104",
     "clubs": [
@@ -9497,8 +9466,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 56.6483,
+      "longitude": -2.893
     },
     "capacity": "5,177",
     "clubs": [
@@ -9511,8 +9480,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.4096,
+      "longitude": -6.4383
     },
     "capacity": "1,250",
     "clubs": [
@@ -9525,8 +9494,8 @@
     "city": "",
     "country": "Scotland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 57.4794,
+      "longitude": -4.2315
     },
     "capacity": "7,918",
     "clubs": [
@@ -9539,8 +9508,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.564,
+      "longitude": -1.7719
     },
     "capacity": "15,728",
     "clubs": [
@@ -9553,8 +9522,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.572,
+      "longitude": -5.9367
     },
     "capacity": "1,500",
     "clubs": [
@@ -9567,8 +9536,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.8867,
+      "longitude": -0.2085
     },
     "capacity": "6,722",
     "clubs": [
@@ -9581,8 +9550,8 @@
     "city": "",
     "country": "Northern Ireland",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 54.6056,
+      "longitude": -5.8632
     },
     "capacity": "2,000",
     "clubs": [
@@ -9595,8 +9564,8 @@
     "city": "",
     "country": "England",
     "coordinates": {
-      "latitude": 57.5112,
-      "longitude": -1.79599
+      "latitude": 51.5481,
+      "longitude": 0.1527
     },
     "capacity": "6,078",
     "clubs": [
