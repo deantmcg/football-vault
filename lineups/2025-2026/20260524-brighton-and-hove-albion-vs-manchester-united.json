@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-05-24",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c4g0egrkyk2t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "American Express Stadium",
+  "score": "0 - 3",
+  "homeTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Wieffer",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Kadioglu",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 30,
+        "name": "Groß",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 20,
+        "name": "Milner",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 25,
+        "name": "Gómez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 13,
+        "name": "Hinshelwood",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 29,
+        "name": "De Cuyper",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Lammens",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Mazraoui",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Maguire",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Martínez",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Shaw",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 7,
+        "name": "Mount",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 37,
+        "name": "Mainoo",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 16,
+        "name": "Diallo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 13,
+        "name": "Dorgu",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

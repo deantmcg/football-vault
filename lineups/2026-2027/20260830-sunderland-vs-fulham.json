@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-08-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cq8e3lw3rk3pt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Stadium of Light",
+  "score": "1 - 0",
+  "homeTeam": {
+    "name": "Sunderland",
+    "code": "sunderland",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 22,
+        "name": "Roefs",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 12,
+        "name": "Meunier",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 20,
+        "name": "Mukiele",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Ballard",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 17,
+        "name": "Reinildo Mandava",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 34,
+        "name": "Xhaka",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 27,
+        "name": "Sadiki",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 32,
+        "name": "Hume",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Le Fée",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Angulo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Brobbey",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Fulham",
+    "code": "fulham",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Leno",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 21,
+        "name": "Castagne",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Andersen",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 3,
+        "name": "Bassey",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Robinson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Berge",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 17,
+        "name": "Iwobi",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 14,
+        "name": "Bobb",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 24,
+        "name": "King",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 8,
+        "name": "Palacios",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 7,
+        "name": "García",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

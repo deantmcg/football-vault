@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-08-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cm4gkdpw5qq7t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "The City Ground",
+  "score": "0 - 1",
+  "homeTeam": {
+    "name": "Nottingham Forest",
+    "code": "nottingham-forest",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Sels",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 23,
+        "name": "Jair Cunha",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 31,
+        "name": "Milenkovic",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Murillo",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 34,
+        "name": "Aina",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 24,
+        "name": "McAtee",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 6,
+        "name": "Sangaré",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 3,
+        "name": "Williams",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 14,
+        "name": "Ndoye",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Gibbs-White",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Igor Jesus",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Trafford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Rodon",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Bijol",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Muharemovic",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Bogle",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 18,
+        "name": "Stach",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 4,
+        "name": "Ampadu",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 24,
+        "name": "Justin",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 10,
+        "name": "Wilson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 11,
+        "name": "Aaronson",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

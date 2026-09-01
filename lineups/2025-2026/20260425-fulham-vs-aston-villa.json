@@ -1,9 +1,9 @@
 {
-  "matchDate": "2026-03-04",
-  "matchUrl": "https://www.bbc.com/sport/football/live/c5yj4xy8kl8t#Line-ups",
+  "matchDate": "2026-04-25",
+  "matchUrl": "https://www.bbc.com/sport/football/live/clyd52nj0det#Line-ups",
   "competition": "Premier League",
   "stadiumName": "Craven Cottage",
-  "score": "0 - 1",
+  "score": "1 - 0",
   "homeTeam": {
     "name": "Fulham",
     "code": "fulham",
@@ -16,14 +16,14 @@
         "position": "GK"
       },
       {
-        "number": 2,
-        "name": "Tete",
+        "number": 21,
+        "name": "Castagne",
         "originalPosition": "Defender",
         "position": "RB"
       },
       {
-        "number": 31,
-        "name": "Diop",
+        "number": 5,
+        "name": "Andersen",
         "originalPosition": "Defender",
         "position": "RCB"
       },
@@ -34,38 +34,38 @@
         "position": "LCB"
       },
       {
-        "number": 33,
-        "name": "Robinson",
+        "number": 30,
+        "name": "Sessegnon",
         "originalPosition": "Defender",
         "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Lukic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
       },
       {
         "number": 16,
         "name": "Berge",
         "originalPosition": "Defensive Midfielder",
-        "position": "RDM"
-      },
-      {
-        "number": 10,
-        "name": "Cairney",
-        "originalPosition": "Defensive Midfielder",
         "position": "LDM"
       },
       {
-        "number": 19,
-        "name": "Chukwueze",
+        "number": 8,
+        "name": "Wilson",
         "originalPosition": "Attacking Midfielder",
         "position": "RAM"
       },
       {
-        "number": 24,
-        "name": "King",
+        "number": 32,
+        "name": "Smith Rowe",
         "originalPosition": "Attacking Midfielder",
         "position": "CAM"
       },
       {
-        "number": 17,
-        "name": "Iwobi",
+        "number": 19,
+        "name": "Chukwueze",
         "originalPosition": "Attacking Midfielder",
         "position": "LAM"
       },
@@ -78,75 +78,75 @@
     ]
   },
   "awayTeam": {
-    "name": "West Ham United",
-    "code": "west-ham-united",
-    "formation": "4-4-2",
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-2-3-1",
     "players": [
       {
-        "number": 1,
-        "name": "Hermansen",
+        "number": 23,
+        "name": "Martínez",
         "originalPosition": "Goalkeeper",
         "position": "GK"
       },
       {
-        "number": 29,
-        "name": "Wan-Bissaka",
+        "number": 2,
+        "name": "Cash",
         "originalPosition": "Defender",
         "position": "RB"
       },
       {
-        "number": 25,
-        "name": "Todibo",
+        "number": 4,
+        "name": "Konsa",
         "originalPosition": "Defender",
         "position": "RCB"
       },
       {
-        "number": 4,
-        "name": "Disasi",
+        "number": 14,
+        "name": "Torres",
         "originalPosition": "Defender",
         "position": "LCB"
       },
       {
         "number": 12,
-        "name": "El Hadji Malick Diouf",
+        "name": "Digne",
         "originalPosition": "Defender",
         "position": "LB"
       },
       {
-        "number": 20,
-        "name": "Bowen",
-        "originalPosition": "Midfielder",
-        "position": "RM"
+        "number": 26,
+        "name": "Bogarde",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
       },
       {
-        "number": 28,
-        "name": "Soucek",
-        "originalPosition": "Midfielder",
-        "position": "RCM"
-      },
-      {
-        "number": 18,
-        "name": "Mateus Fernandes",
-        "originalPosition": "Midfielder",
-        "position": "LCM"
+        "number": 8,
+        "name": "Tielemans",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
       },
       {
         "number": 7,
-        "name": "Summerville",
-        "originalPosition": "Midfielder",
-        "position": "LM"
+        "name": "McGinn",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 27,
+        "name": "Rogers",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Buendía",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
       },
       {
         "number": 11,
-        "name": "Castellanos",
+        "name": "Watkins",
         "originalPosition": "Striker",
-        "position": "RST"
-      },
-      {
-        "number": 9,
-        "name": "Wilson",
-        "originalPosition": "Striker",
-        "position": "LST"
+        "position": "ST"
       }
     ]
   }

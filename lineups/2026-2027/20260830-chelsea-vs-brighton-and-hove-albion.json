@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-08-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ck86x9wxl3x8t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Stamford Bridge",
+  "score": "4 - 3",
+  "homeTeam": {
+    "name": "Chelsea",
+    "code": "chelsea",
+    "formation": "3-4-2-1",
+    "players": [
+      {
+        "number": 26,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Fofana",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Lacroix",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 6,
+        "name": "Colwill",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 7,
+        "name": "Pedro Neto",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 27,
+        "name": "Gusto",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 45,
+        "name": "Lavia",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 21,
+        "name": "Hato",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 10,
+        "name": "Palmer",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 17,
+        "name": "Rogers",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "João Pedro",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Wieffer",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 44,
+        "name": "Vuskovic",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Dunk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Kadioglu",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 13,
+        "name": "Groß",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 21,
+        "name": "Boscagli",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 25,
+        "name": "Gómez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 35,
+        "name": "Yalcouyé",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 29,
+        "name": "De Cuyper",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Kostoulas",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

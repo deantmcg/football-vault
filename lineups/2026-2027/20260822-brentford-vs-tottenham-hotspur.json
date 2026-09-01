@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-08-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cj75g01qn51dt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Gtech Community Stadium",
+  "score": "3 - 0",
+  "homeTeam": {
+    "name": "Brentford",
+    "code": "brentford",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Kelleher",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 33,
+        "name": "Kayode",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 20,
+        "name": "Ajer",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 22,
+        "name": "Collins",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Lewis-Potter",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 27,
+        "name": "Janelt",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 18,
+        "name": "Sangaré",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 11,
+        "name": "Ouattara",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Jensen",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 7,
+        "name": "Schade",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Igor Thiago",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Tottenham Hotspur",
+    "code": "tottenham-hotspur",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 31,
+        "name": "Kinsky",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 14,
+        "name": "Gray",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Senesi",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Robertson",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Tonali",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 15,
+        "name": "Bergvall",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 47,
+        "name": "Moore",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Gallagher",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Tel",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Richarlison",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

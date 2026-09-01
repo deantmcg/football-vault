@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-05-01",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ckgxg993k1et#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Elland Road",
+  "score": "3 - 1",
+  "homeTeam": {
+    "name": "Leeds United",
+    "code": "leeds-united",
+    "formation": "3-5-2",
+    "players": [
+      {
+        "number": 26,
+        "name": "Darlow",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Rodon",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Bijol",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 5,
+        "name": "Struijk",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 2,
+        "name": "Bogle",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 18,
+        "name": "Stach",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 4,
+        "name": "Ampadu",
+        "originalPosition": "Midfielder",
+        "position": "CM"
+      },
+      {
+        "number": 22,
+        "name": "Tanaka",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 24,
+        "name": "Justin",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "Calvert-Lewin",
+        "originalPosition": "Striker",
+        "position": "RST"
+      },
+      {
+        "number": 19,
+        "name": "Okafor",
+        "originalPosition": "Striker",
+        "position": "LST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Dúbravka",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 18,
+        "name": "Ekdal",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 12,
+        "name": "Humphreys",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hartman",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 17,
+        "name": "Tchaouna",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 29,
+        "name": "Laurent",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 20,
+        "name": "Ward-Prowse",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 11,
+        "name": "Anthony",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 19,
+        "name": "Flemming",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

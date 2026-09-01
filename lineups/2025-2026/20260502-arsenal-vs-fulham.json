@@ -1,10 +1,83 @@
 {
-  "matchDate": "2026-03-04",
-  "matchUrl": "https://www.bbc.com/sport/football/live/c5yj4xy8kl8t#Line-ups",
+  "matchDate": "2026-05-02",
+  "matchUrl": "https://www.bbc.com/sport/football/live/c362np6j0ndt#Line-ups",
   "competition": "Premier League",
-  "stadiumName": "Craven Cottage",
-  "score": "0 - 1",
+  "stadiumName": "Emirates Stadium",
+  "score": "3 - 0",
   "homeTeam": {
+    "name": "Arsenal",
+    "code": "arsenal",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Raya",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 4,
+        "name": "White",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 2,
+        "name": "Saliba",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 6,
+        "name": "Gabriel Magalhães",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 33,
+        "name": "Calafiori",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 41,
+        "name": "Rice",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 49,
+        "name": "Lewis-Skelly",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "Saka",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Eze",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 19,
+        "name": "Trossard",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 14,
+        "name": "Gyökeres",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
     "name": "Fulham",
     "code": "fulham",
     "formation": "4-2-3-1",
@@ -16,14 +89,14 @@
         "position": "GK"
       },
       {
-        "number": 2,
-        "name": "Tete",
+        "number": 21,
+        "name": "Castagne",
         "originalPosition": "Defender",
         "position": "RB"
       },
       {
-        "number": 31,
-        "name": "Diop",
+        "number": 5,
+        "name": "Andersen",
         "originalPosition": "Defender",
         "position": "RCB"
       },
@@ -40,32 +113,32 @@
         "position": "LB"
       },
       {
-        "number": 16,
-        "name": "Berge",
+        "number": 6,
+        "name": "Reed",
         "originalPosition": "Defensive Midfielder",
         "position": "RDM"
       },
       {
-        "number": 10,
-        "name": "Cairney",
+        "number": 20,
+        "name": "Lukic",
         "originalPosition": "Defensive Midfielder",
         "position": "LDM"
       },
       {
-        "number": 19,
-        "name": "Chukwueze",
+        "number": 8,
+        "name": "Wilson",
         "originalPosition": "Attacking Midfielder",
         "position": "RAM"
       },
       {
-        "number": 24,
-        "name": "King",
+        "number": 32,
+        "name": "Smith Rowe",
         "originalPosition": "Attacking Midfielder",
         "position": "CAM"
       },
       {
-        "number": 17,
-        "name": "Iwobi",
+        "number": 19,
+        "name": "Chukwueze",
         "originalPosition": "Attacking Midfielder",
         "position": "LAM"
       },
@@ -74,79 +147,6 @@
         "name": "Jiménez",
         "originalPosition": "Striker",
         "position": "ST"
-      }
-    ]
-  },
-  "awayTeam": {
-    "name": "West Ham United",
-    "code": "west-ham-united",
-    "formation": "4-4-2",
-    "players": [
-      {
-        "number": 1,
-        "name": "Hermansen",
-        "originalPosition": "Goalkeeper",
-        "position": "GK"
-      },
-      {
-        "number": 29,
-        "name": "Wan-Bissaka",
-        "originalPosition": "Defender",
-        "position": "RB"
-      },
-      {
-        "number": 25,
-        "name": "Todibo",
-        "originalPosition": "Defender",
-        "position": "RCB"
-      },
-      {
-        "number": 4,
-        "name": "Disasi",
-        "originalPosition": "Defender",
-        "position": "LCB"
-      },
-      {
-        "number": 12,
-        "name": "El Hadji Malick Diouf",
-        "originalPosition": "Defender",
-        "position": "LB"
-      },
-      {
-        "number": 20,
-        "name": "Bowen",
-        "originalPosition": "Midfielder",
-        "position": "RM"
-      },
-      {
-        "number": 28,
-        "name": "Soucek",
-        "originalPosition": "Midfielder",
-        "position": "RCM"
-      },
-      {
-        "number": 18,
-        "name": "Mateus Fernandes",
-        "originalPosition": "Midfielder",
-        "position": "LCM"
-      },
-      {
-        "number": 7,
-        "name": "Summerville",
-        "originalPosition": "Midfielder",
-        "position": "LM"
-      },
-      {
-        "number": 11,
-        "name": "Castellanos",
-        "originalPosition": "Striker",
-        "position": "RST"
-      },
-      {
-        "number": 9,
-        "name": "Wilson",
-        "originalPosition": "Striker",
-        "position": "LST"
       }
     ]
   }

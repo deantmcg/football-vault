@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-05-10",
+  "matchUrl": "https://www.bbc.com/sport/football/live/ckgp74jjywkt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Turf Moor",
+  "score": "2 - 2",
+  "homeTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 13,
+        "name": "Weiss",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tuanzebe",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Lucas Pires",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 16,
+        "name": "Florentino",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Ugochukwu",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 17,
+        "name": "Tchaouna",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Mejbri",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Anthony",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Flemming",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Aston Villa",
+    "code": "aston-villa",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 23,
+        "name": "Martínez",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Cash",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 4,
+        "name": "Konsa",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Mings",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 22,
+        "name": "Maatsen",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 3,
+        "name": "Lindelöf",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 8,
+        "name": "Tielemans",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 7,
+        "name": "McGinn",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 6,
+        "name": "Barkley",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 27,
+        "name": "Rogers",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 11,
+        "name": "Watkins",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

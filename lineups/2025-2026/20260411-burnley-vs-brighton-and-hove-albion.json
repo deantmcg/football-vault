@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-04-11",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cly0d3lp0l3t#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Turf Moor",
+  "score": "0 - 2",
+  "homeTeam": {
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Dúbravka",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 12,
+        "name": "Humphreys",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 18,
+        "name": "Ekdal",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Estève",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Hartman",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 20,
+        "name": "Ward-Prowse",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 16,
+        "name": "Florentino",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 10,
+        "name": "Edwards",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Ugochukwu",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Anthony",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 19,
+        "name": "Flemming",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Brighton And Hove Albion",
+    "code": "brighton-and-hove-albion",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Verbruggen",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 27,
+        "name": "Wieffer",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "van Hecke",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 21,
+        "name": "Boscagli",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 24,
+        "name": "Kadioglu",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 26,
+        "name": "Ayari",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 30,
+        "name": "Groß",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 25,
+        "name": "Gómez",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 13,
+        "name": "Hinshelwood",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Minteh",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 18,
+        "name": "Welbeck",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

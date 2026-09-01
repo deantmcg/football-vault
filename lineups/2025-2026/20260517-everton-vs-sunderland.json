@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-05-17",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cwy2q9vrw6wt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "Hill Dickinson Stadium",
+  "score": "1 - 3",
+  "homeTeam": {
+    "name": "Everton",
+    "code": "everton",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Pickford",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 15,
+        "name": "O'Brien",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Tarkowski",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 5,
+        "name": "Keane",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 16,
+        "name": "Mykolenko",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 37,
+        "name": "Garner",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 42,
+        "name": "Iroegbunam",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 34,
+        "name": "Röhl",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 22,
+        "name": "Dewsbury-Hall",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Ndiaye",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Beto",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Sunderland",
+    "code": "sunderland",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 22,
+        "name": "Roefs",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 6,
+        "name": "Geertruida",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 20,
+        "name": "Mukiele",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Alderete",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 17,
+        "name": "Reinildo Mandava",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 34,
+        "name": "Xhaka",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 27,
+        "name": "Sadiki",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 32,
+        "name": "Hume",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 28,
+        "name": "Le Fée",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 10,
+        "name": "Angulo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 9,
+        "name": "Brobbey",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

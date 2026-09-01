@@ -1,0 +1,153 @@
+{
+  "matchDate": "2026-08-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cv629k5zr2jxt#Line-ups",
+  "competition": "Premier League",
+  "stadiumName": "MKM Stadium",
+  "score": "2 - 0",
+  "homeTeam": {
+    "name": "Hull City",
+    "code": "hull-city",
+    "formation": "5-4-1",
+    "players": [
+      {
+        "number": 19,
+        "name": "Tzolakis",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 2,
+        "name": "Coyle",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 6,
+        "name": "Ajayi",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 15,
+        "name": "Egan",
+        "originalPosition": "Defender",
+        "position": "CB"
+      },
+      {
+        "number": 32,
+        "name": "Mendy",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 3,
+        "name": "Giles",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 10,
+        "name": "Belloumi",
+        "originalPosition": "Midfielder",
+        "position": "RM"
+      },
+      {
+        "number": 25,
+        "name": "Crooks",
+        "originalPosition": "Midfielder",
+        "position": "RCM"
+      },
+      {
+        "number": 27,
+        "name": "Slater",
+        "originalPosition": "Midfielder",
+        "position": "LCM"
+      },
+      {
+        "number": 21,
+        "name": "Stroud",
+        "originalPosition": "Midfielder",
+        "position": "LM"
+      },
+      {
+        "number": 9,
+        "name": "McBurnie",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  },
+  "awayTeam": {
+    "name": "Manchester United",
+    "code": "manchester-united",
+    "formation": "4-2-3-1",
+    "players": [
+      {
+        "number": 1,
+        "name": "Lammens",
+        "originalPosition": "Goalkeeper",
+        "position": "GK"
+      },
+      {
+        "number": 3,
+        "name": "Mazraoui",
+        "originalPosition": "Defender",
+        "position": "RB"
+      },
+      {
+        "number": 5,
+        "name": "Maguire",
+        "originalPosition": "Defender",
+        "position": "RCB"
+      },
+      {
+        "number": 26,
+        "name": "Heaven",
+        "originalPosition": "Defender",
+        "position": "LCB"
+      },
+      {
+        "number": 23,
+        "name": "Shaw",
+        "originalPosition": "Defender",
+        "position": "LB"
+      },
+      {
+        "number": 18,
+        "name": "Tielemans",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
+      },
+      {
+        "number": 17,
+        "name": "Andrey Santos",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 19,
+        "name": "Mbeumo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 8,
+        "name": "Bruno Fernandes",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 13,
+        "name": "Dorgu",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
+      },
+      {
+        "number": 10,
+        "name": "Matheus Cunha",
+        "originalPosition": "Striker",
+        "position": "ST"
+      }
+    ]
+  }
+}

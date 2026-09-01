@@ -1,152 +1,152 @@
 {
-  "matchDate": "2026-03-22",
-  "matchUrl": "https://www.bbc.com/sport/football/live/cd6z64wedg1t#Line-ups",
+  "matchDate": "2026-08-30",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cmkg8vx8wxept#Line-ups",
   "competition": "Premier League",
-  "stadiumName": "Villa Park",
-  "score": "2 - 0",
+  "stadiumName": "Old Trafford",
+  "score": "5 - 2",
   "homeTeam": {
-    "name": "Aston Villa",
-    "code": "aston-villa",
+    "name": "Manchester United",
+    "code": "manchester-united",
     "formation": "4-2-3-1",
     "players": [
       {
-        "number": 23,
-        "name": "Martínez",
+        "number": 1,
+        "name": "Lammens",
         "originalPosition": "Goalkeeper",
         "position": "GK"
       },
       {
         "number": 2,
-        "name": "Cash",
+        "name": "Diogo Dalot",
         "originalPosition": "Defender",
         "position": "RB"
       },
       {
-        "number": 4,
-        "name": "Konsa",
+        "number": 5,
+        "name": "Maguire",
         "originalPosition": "Defender",
         "position": "RCB"
       },
       {
-        "number": 14,
-        "name": "Torres",
+        "number": 6,
+        "name": "Martínez",
         "originalPosition": "Defender",
         "position": "LCB"
       },
       {
-        "number": 12,
-        "name": "Digne",
+        "number": 23,
+        "name": "Shaw",
         "originalPosition": "Defender",
         "position": "LB"
       },
       {
-        "number": 24,
-        "name": "Onana",
+        "number": 18,
+        "name": "Tielemans",
         "originalPosition": "Defensive Midfielder",
         "position": "RDM"
       },
       {
-        "number": 6,
-        "name": "Barkley",
+        "number": 37,
+        "name": "Mainoo",
         "originalPosition": "Defensive Midfielder",
         "position": "LDM"
       },
       {
         "number": 19,
-        "name": "Sancho",
+        "name": "Mbeumo",
         "originalPosition": "Attacking Midfielder",
         "position": "RAM"
       },
       {
-        "number": 7,
-        "name": "McGinn",
+        "number": 8,
+        "name": "Bruno Fernandes",
         "originalPosition": "Attacking Midfielder",
         "position": "CAM"
       },
       {
-        "number": 27,
-        "name": "Rogers",
+        "number": 9,
+        "name": "Rashford",
         "originalPosition": "Attacking Midfielder",
         "position": "LAM"
       },
       {
-        "number": 11,
-        "name": "Watkins",
+        "number": 10,
+        "name": "Matheus Cunha",
         "originalPosition": "Striker",
         "position": "ST"
       }
     ]
   },
   "awayTeam": {
-    "name": "West Ham United",
-    "code": "west-ham-united",
-    "formation": "4-3-3",
+    "name": "Ipswich Town",
+    "code": "ipswich-town",
+    "formation": "4-2-3-1",
     "players": [
       {
-        "number": 1,
-        "name": "Hermansen",
+        "number": 37,
+        "name": "Scherpen",
         "originalPosition": "Goalkeeper",
         "position": "GK"
       },
       {
-        "number": 29,
-        "name": "Wan-Bissaka",
+        "number": 26,
+        "name": "O'Shea",
         "originalPosition": "Defender",
         "position": "RB"
       },
       {
-        "number": 15,
-        "name": "Mavropanos",
+        "number": 6,
+        "name": "Diop",
         "originalPosition": "Defender",
         "position": "RCB"
       },
       {
-        "number": 4,
-        "name": "Disasi",
+        "number": 24,
+        "name": "Greaves",
         "originalPosition": "Defender",
         "position": "LCB"
       },
       {
-        "number": 12,
-        "name": "El Hadji Malick Diouf",
+        "number": 3,
+        "name": "Davis",
         "originalPosition": "Defender",
         "position": "LB"
       },
       {
-        "number": 28,
-        "name": "Soucek",
-        "originalPosition": "Midfielder",
-        "position": "RCM"
+        "number": 23,
+        "name": "Lukic",
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
       },
       {
         "number": 32,
-        "name": "Potts",
-        "originalPosition": "Midfielder",
-        "position": "CM"
+        "name": "Núñez",
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
       },
       {
-        "number": 18,
-        "name": "Mateus Fernandes",
-        "originalPosition": "Midfielder",
-        "position": "LCM"
+        "number": 7,
+        "name": "Abdul Fatawu",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
       },
       {
-        "number": 20,
-        "name": "Bowen",
-        "originalPosition": "Striker",
-        "position": "RW"
+        "number": 10,
+        "name": "Enciso",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
       },
       {
-        "number": 11,
-        "name": "Castellanos",
-        "originalPosition": "Striker",
-        "position": "ST"
+        "number": 38,
+        "name": "Maeda",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
       },
       {
         "number": 19,
-        "name": "Pablo",
+        "name": "Emersonn",
         "originalPosition": "Striker",
-        "position": "LW"
+        "position": "ST"
       }
     ]
   }

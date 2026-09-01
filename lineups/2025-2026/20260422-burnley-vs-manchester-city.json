@@ -1,77 +1,77 @@
 {
-  "matchDate": "2026-03-14",
-  "matchUrl": "https://www.bbc.com/sport/football/live/cpqw34l8xrnt#Line-ups",
+  "matchDate": "2026-04-22",
+  "matchUrl": "https://www.bbc.com/sport/football/live/cnv895p099jt#Line-ups",
   "competition": "Premier League",
-  "stadiumName": "London Stadium",
-  "score": "1 - 1",
+  "stadiumName": "Turf Moor",
+  "score": "0 - 1",
   "homeTeam": {
-    "name": "West Ham United",
-    "code": "west-ham-united",
-    "formation": "3-4-2-1",
+    "name": "Burnley",
+    "code": "burnley",
+    "formation": "5-4-1",
     "players": [
       {
         "number": 1,
-        "name": "Hermansen",
+        "name": "Dúbravka",
         "originalPosition": "Goalkeeper",
         "position": "GK"
       },
       {
-        "number": 25,
-        "name": "Todibo",
+        "number": 2,
+        "name": "Walker",
+        "originalPosition": "Wing Back",
+        "position": "RB"
+      },
+      {
+        "number": 12,
+        "name": "Humphreys",
         "originalPosition": "Defender",
         "position": "RCB"
       },
       {
-        "number": 15,
-        "name": "Mavropanos",
+        "number": 18,
+        "name": "Ekdal",
         "originalPosition": "Defender",
         "position": "CB"
       },
       {
-        "number": 4,
-        "name": "Disasi",
+        "number": 5,
+        "name": "Estève",
         "originalPosition": "Defender",
         "position": "LCB"
       },
       {
-        "number": 29,
-        "name": "Wan-Bissaka",
+        "number": 3,
+        "name": "Hartman",
+        "originalPosition": "Wing Back",
+        "position": "LB"
+      },
+      {
+        "number": 17,
+        "name": "Tchaouna",
         "originalPosition": "Midfielder",
         "position": "RM"
       },
       {
-        "number": 28,
-        "name": "Soucek",
+        "number": 20,
+        "name": "Ward-Prowse",
         "originalPosition": "Midfielder",
         "position": "RCM"
       },
       {
-        "number": 18,
-        "name": "Mateus Fernandes",
+        "number": 29,
+        "name": "Laurent",
         "originalPosition": "Midfielder",
         "position": "LCM"
       },
       {
-        "number": 12,
-        "name": "El Hadji Malick Diouf",
+        "number": 11,
+        "name": "Anthony",
         "originalPosition": "Midfielder",
         "position": "LM"
       },
       {
-        "number": 20,
-        "name": "Bowen",
-        "originalPosition": "Attacking Midfielder",
-        "position": "RAM"
-      },
-      {
         "number": 19,
-        "name": "Pablo",
-        "originalPosition": "Attacking Midfielder",
-        "position": "LAM"
-      },
-      {
-        "number": 11,
-        "name": "Castellanos",
+        "name": "Flemming",
         "originalPosition": "Striker",
         "position": "ST"
       }
@@ -80,7 +80,7 @@
   "awayTeam": {
     "name": "Manchester City",
     "code": "manchester-city",
-    "formation": "4-1-3-2",
+    "formation": "4-2-3-1",
     "players": [
       {
         "number": 25,
@@ -113,40 +113,40 @@
         "position": "LB"
       },
       {
-        "number": 16,
-        "name": "Rodri",
-        "originalPosition": "Defensive Midfielder",
-        "position": "CDM"
-      },
-      {
-        "number": 42,
-        "name": "Semenyo",
-        "originalPosition": "Midfielder",
-        "position": "RCM"
-      },
-      {
         "number": 20,
         "name": "Bernardo Silva",
-        "originalPosition": "Midfielder",
-        "position": "CM"
+        "originalPosition": "Defensive Midfielder",
+        "position": "RDM"
       },
       {
         "number": 33,
         "name": "O'Reilly",
-        "originalPosition": "Midfielder",
-        "position": "LCM"
+        "originalPosition": "Defensive Midfielder",
+        "position": "LDM"
+      },
+      {
+        "number": 42,
+        "name": "Semenyo",
+        "originalPosition": "Attacking Midfielder",
+        "position": "RAM"
+      },
+      {
+        "number": 10,
+        "name": "Cherki",
+        "originalPosition": "Attacking Midfielder",
+        "position": "CAM"
+      },
+      {
+        "number": 11,
+        "name": "Doku",
+        "originalPosition": "Attacking Midfielder",
+        "position": "LAM"
       },
       {
         "number": 9,
         "name": "Haaland",
         "originalPosition": "Striker",
-        "position": "RST"
-      },
-      {
-        "number": 7,
-        "name": "Omar Marmoush",
-        "originalPosition": "Striker",
-        "position": "LST"
+        "position": "ST"
       }
     ]
   }
